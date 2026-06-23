@@ -1,0 +1,1325 @@
+{
+  "usfm": "ZEP",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEP",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "ZEP.1.1",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The word of the Lord which came to Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The word of the Lord which came to Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Great Day of the Lord(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.2",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 2,
+          "text": "“I will utterly consume everything",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will utterly consume everything",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. make a complete end of,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Great Day of the Lord",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.3",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 3,
+          "text": "“I will consume man and beast;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will consume man and beast;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.4",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 4,
+          "text": "“I will stretch out My hand against Judah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will stretch out My hand against Judah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.5",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Those who worship the host of heaven on the housetops;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those who worship the host of heaven on the housetops;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.6",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Those who have turned back from following the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those who have turned back from ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "following",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.7",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 7,
+          "text": "Be silent in the presence of the Lord God;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be silent in the presence of the Lord God;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.8",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 8,
+          "text": "“And it shall be,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And it shall be,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.9",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 9,
+          "text": "In the same day I will punish",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the same day I will punish",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.10",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 10,
+          "text": "“And there shall be on that day,” says the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And there shall be on that day,” says the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.11",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Wail, you inhabitants of Maktesh!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wail, you inhabitants of Maktesh!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "A market district of Jerusalem, lit. Mortar"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.12",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 12,
+          "text": "“And it shall come to pass at that time",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And it shall come to pass at that time",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.13",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Therefore their goods shall become booty,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore their goods shall become booty,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.14",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 14,
+          "text": "The great day of the Lord is near;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The great day of the Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " near;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.15",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 15,
+          "text": "That day is a day of wrath,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That day ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a day of wrath,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.16",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 16,
+          "text": "A day of trumpet and alarm",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A day of trumpet and alarm",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.17",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 17,
+          "text": "“I will bring distress upon men,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will bring distress upon men,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.1.18",
+          "book": "ZEP",
+          "chapter": 1,
+          "verse": 18,
+          "text": "Neither their silver nor their gold",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Neither their silver nor their gold",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Great Day of the Lord(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Great Day of the Lord",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:18.140Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEP",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "ZEP.2.1",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Gather yourselves together, yes, gather together,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Gather yourselves together, yes, gather together,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Call to Repentance",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.2",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 2,
+          "text": "Before the decree is issued,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Before the decree is issued,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.3",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Seek the Lord, all you meek of the earth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Seek the Lord, all you meek of the earth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.4",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 4,
+          "text": "For Gaza shall be forsaken,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For Gaza shall be forsaken,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment on Nations",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.5",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Woe to the inhabitants of the seacoast,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to the inhabitants of the seacoast,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.6",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 6,
+          "text": "The seacoast shall be pastures,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The seacoast shall be pastures,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.7",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 7,
+          "text": "The coast shall be for the remnant of the house of Judah;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The coast shall be for the remnant of the house of Judah;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.8",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 8,
+          "text": "“I have heard the reproach of Moab,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I have heard the reproach of Moab,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.9",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Therefore, as I live,”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, as I live,”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.10",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 10,
+          "text": "This they shall have for their pride,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This they shall have for their pride,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.11",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 11,
+          "text": "The Lord will be awesome to them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " awesome to them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.12",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 12,
+          "text": "“You Ethiopians also,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“You Ethiopians also,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.13",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 13,
+          "text": "And He will stretch out His hand against the north,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He will stretch out His hand against the north,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.14",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 14,
+          "text": "The herds shall lie down in her midst,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The herds shall lie down in her midst,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.2.15",
+          "book": "ZEP",
+          "chapter": 2,
+          "verse": 15,
+          "text": "This is the rejoicing city",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is the rejoicing city",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Call to Repentance",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Judgment on Nations",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:19.635Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEP",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "ZEP.3.1",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Woe to her who is rebellious and polluted,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to her who is rebellious and polluted,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Wickedness of Jerusalem",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.2",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 2,
+          "text": "She has not obeyed His voice,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She has not obeyed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "His",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " voice,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.3",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Her princes in her midst are roaring lions;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her princes in her midst ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " roaring lions;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.4",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Her prophets are insolent, treacherous people;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her prophets are insolent, treacherous people;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.5",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 5,
+          "text": "The Lord is righteous in her midst,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " righteous in her midst,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.6",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 6,
+          "text": "“I have cut off nations,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I have cut off nations,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.7",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 7,
+          "text": "I said, ‘Surely you will fear Me,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I said, ‘Surely you will fear Me,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.8",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 8,
+          "text": "“Therefore wait for Me,” says the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore wait for Me,” says the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Faithful Remnant(H)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.9",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 9,
+          "text": "“For then I will restore to the peoples a pure language,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For then I will restore to the peoples a pure language,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. lip"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.10",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 10,
+          "text": "From beyond the rivers of Ethiopia",
+          "structured": {
+            "tokens": [
+              {
+                "text": "From beyond the rivers of Ethiopia",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.11",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 11,
+          "text": "In that day you shall not be shamed for any of your deeds",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day you shall not be shamed for any of your deeds",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.12",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 12,
+          "text": "I will leave in your midst",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will leave in your midst",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.13",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 13,
+          "text": "The remnant of Israel shall do no unrighteousness",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The remnant of Israel shall do no unrighteousness",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.14",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 14,
+          "text": "Sing, O daughter of Zion!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Sing, O daughter of Zion!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Joy in God’s Faithfulness",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.15",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 15,
+          "text": "The Lord has taken away your judgments,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has taken away your judgments,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.16",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 16,
+          "text": "In that day it shall be said to Jerusalem:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day it shall be said to Jerusalem:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.17",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 17,
+          "text": "The Lord your God in your midst,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord your God in your midst,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.18",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 18,
+          "text": "“I will gather those who sorrow over the appointed assembly,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will gather those who sorrow over the appointed assembly,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.19",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 19,
+          "text": "Behold, at that time",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, at that time",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEP.3.20",
+          "book": "ZEP",
+          "chapter": 3,
+          "verse": 20,
+          "text": "At that time I will bring you back,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "At that time I will bring you back,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Wickedness of Jerusalem",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A Faithful Remnant(H)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Joy in God’s Faithfulness",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:21.142Z"
+    }
+  }
+}

@@ -1,0 +1,1093 @@
+{
+  "usfm": "NAM",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "NAM",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "NAM.1.1",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 1,
+          "text": "وَحْيٌ عَلَى نِينَوَى. سِفْرُ رُؤْيَا نَاحُومَ الأَلْقُوشِيِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَحْيٌ عَلَى نِينَوَى. سِفْرُ رُؤْيَا نَاحُومَ الأَلْقُوشِيِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "مقدمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.2",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 2,
+          "text": "اَلرَّبُّ إِلَهٌ غَيُورٌ وَمُنْتَقِمٌ. الرَّبُّ مُنْتَقِمٌ وَذُو سَخَطٍ. الرَّبُّ مُنْتَقِمٌ مِنْ مُبْغِضِيهِ وَحَافِظٌ غَضَبَهُ عَلَى أَعْدَائِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلرَّبُّ إِلَهٌ غَيُورٌ وَمُنْتَقِمٌ. الرَّبُّ مُنْتَقِمٌ وَذُو سَخَطٍ. الرَّبُّ مُنْتَقِمٌ مِنْ مُبْغِضِيهِ وَحَافِظٌ غَضَبَهُ عَلَى أَعْدَائِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "غضب الرب على نينوى",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.3",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 3,
+          "text": "الرَّبُّ بَطِيءُ الْغَضَبِ وَعَظِيمُ الْقُدْرَةِ، وَلكِنَّهُ لَا يُبَرِّئُ الْبَتَّةَ. الرَّبُّ فِي الزَّوْبَعَةِ، وَفِي الْعَاصِفِ طَرِيقُهُ، وَالسَّحَابُ غُبَارُ رِجْلَيْهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الرَّبُّ بَطِيءُ الْغَضَبِ وَعَظِيمُ الْقُدْرَةِ، وَلكِنَّهُ لَا يُبَرِّئُ الْبَتَّةَ. الرَّبُّ فِي الزَّوْبَعَةِ، وَفِي الْعَاصِفِ طَرِيقُهُ، وَالسَّحَابُ غُبَارُ رِجْلَيْهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.4",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 4,
+          "text": "يَنْتَهِرُ الْبَحْرَ فَيُنَشِّفُهُ وَيُجَفِّفُ جَمِيعَ الأَنْهَارِ. يَذْبُلُ بَاشَانُ وَالْكَرْمَلُ، وَزَهْرُ لُبْنَانَ يَذْبُلُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يَنْتَهِرُ الْبَحْرَ فَيُنَشِّفُهُ وَيُجَفِّفُ جَمِيعَ الأَنْهَارِ. يَذْبُلُ بَاشَانُ وَالْكَرْمَلُ، وَزَهْرُ لُبْنَانَ يَذْبُلُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.5",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 5,
+          "text": "اَلْجِبَالُ تَرْجُفُ مِنْهُ، وَالتِّلاَلُ تَذُوبُ، وَالأَرْضُ تُرْفَعُ مِنْ وَجْهِهِ، وَالْعَالَمُ وَكُلُّ السَّاكِنِينَ فِيهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْجِبَالُ تَرْجُفُ مِنْهُ، وَالتِّلاَلُ تَذُوبُ، وَالأَرْضُ تُرْفَعُ مِنْ وَجْهِهِ، وَالْعَالَمُ وَكُلُّ السَّاكِنِينَ فِيهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.6",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 6,
+          "text": "مَنْ يَقِفُ أَمَامَ سَخَطِهِ؟ وَمَنْ يَقُومُ فِي حُمُوِّ غَضَبِهِ؟ غَيْظُهُ يَنْسَكِبُ كَالنَّارِ، وَالصُّخُورُ تَنْهَدِمُ مِنْهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ يَقِفُ أَمَامَ سَخَطِهِ؟ وَمَنْ يَقُومُ فِي حُمُوِّ غَضَبِهِ؟ غَيْظُهُ يَنْسَكِبُ كَالنَّارِ، وَالصُّخُورُ تَنْهَدِمُ مِنْهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.7",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 7,
+          "text": "صَالِحٌ هُوَ الرَّبُّ. حِصْنٌ فِي يَوْمِ الضَّيقِ، وَهُوَ يَعْرِفُ الْمُتَوَكِّلِينَ عَلَيْهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "صَالِحٌ هُوَ الرَّبُّ. حِصْنٌ فِي يَوْمِ الضَّيقِ، وَهُوَ يَعْرِفُ الْمُتَوَكِّلِينَ عَلَيْهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.8",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 8,
+          "text": "وَلكِنْ بِطُوفَانٍ عَابِرٍ يَصْنَعُ هَلاَكًا تَامًّا لِمَوْضِعِهَا، وَأَعْدَاؤُهُ يَتْبَعُهُمْ ظَلاَمٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ بِطُوفَانٍ عَابِرٍ يَصْنَعُ هَلاَكًا تَامًّا لِمَوْضِعِهَا، وَأَعْدَاؤُهُ يَتْبَعُهُمْ ظَلاَمٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.9",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 9,
+          "text": "مَاذَا تَفْتَكِرُونَ عَلَى الرَّبِّ؟ هُوَ صَانِعٌ هَلاَكًا تَامًّا. لَا يَقُومُ الضِّيقُ مَرَّتَيْنِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَاذَا تَفْتَكِرُونَ عَلَى الرَّبِّ؟ هُوَ صَانِعٌ هَلاَكًا تَامًّا. لَا يَقُومُ الضِّيقُ مَرَّتَيْنِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.10",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 10,
+          "text": "فَإِنَّهُمْ وَهُمْ مُشْتَبِكُونَ مِثْلَ الشَّوْكِ، وَسَكْرَانُونَ كَمِنْ خَمْرِهِمْ، يُؤْكَلُونَ كَالْقَشِّ الْيَابِسِ بِالْكَمَالِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّهُمْ وَهُمْ مُشْتَبِكُونَ مِثْلَ الشَّوْكِ، وَسَكْرَانُونَ كَمِنْ خَمْرِهِمْ، يُؤْكَلُونَ كَالْقَشِّ الْيَابِسِ بِالْكَمَالِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.11",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 11,
+          "text": "مِنْكِ خَرَجَ الْمُفْتَكِرُ عَلَى الرَّبِّ شَرًّا، الْمُشِيرُ بِالْهَلاَكِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْكِ خَرَجَ الْمُفْتَكِرُ عَلَى الرَّبِّ شَرًّا، الْمُشِيرُ بِالْهَلاَكِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.12",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 12,
+          "text": "هَكَذَا قَالَ الرَّبُّ: «إِنْ كَانُوا سَالِمِينَ وَكَثِيرِينَ هَكَذَا، فَهَكَذَا يُجَزُّونَ فَيَعْبُرُ. أَذْلَلْتُكِ. لَا أُذِلُّكِ ثَانِيَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَكَذَا قَالَ الرَّبُّ: «إِنْ كَانُوا سَالِمِينَ وَكَثِيرِينَ هَكَذَا، فَهَكَذَا يُجَزُّونَ فَيَعْبُرُ. أَذْلَلْتُكِ. لَا أُذِلُّكِ ثَانِيَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.13",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 13,
+          "text": "وَالآنَ أَكْسِرُ نِيرَهُ عَنْكِ وَأَقْطَعُ رُبُطَكِ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَالآنَ أَكْسِرُ نِيرَهُ عَنْكِ وَأَقْطَعُ رُبُطَكِ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.14",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 14,
+          "text": "وَلكِنْ قَدْ أَوْصَى عَنْكَ الرَّبُّ: «لاَ يُزْرَعُ مِنِ اسْمِكَ فِي مَا بَعْدُ. إِنِّي أَقْطَعُ مِنْ بَيْتِ إِلَهِكَ التَّمَاثِيلَ الْمَنْحُوتَةَ وَالْمَسْبُوكَةَ. أَجْعَلُهُ قَبْرَكَ، لأَنَّكَ صِرْتَ حَقِيرًا».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ قَدْ أَوْصَى عَنْكَ الرَّبُّ: «لاَ يُزْرَعُ مِنِ اسْمِكَ فِي مَا بَعْدُ. إِنِّي أَقْطَعُ مِنْ بَيْتِ إِلَهِكَ التَّمَاثِيلَ الْمَنْحُوتَةَ وَالْمَسْبُوكَةَ. أَجْعَلُهُ قَبْرَكَ، لأَنَّكَ صِرْتَ حَقِيرًا».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.15",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 15,
+          "text": "هُوَذَا عَلَى الْجِبَالِ قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ! عَيِّدِي يَا يَهُوذَا أَعْيَادَكِ. أَوْفِي نُذُورَكِ، فَإِنَّهُ لَا يَعُودُ يَعْبُرُ فِيكِ أَيْضًا الْمُهْلِكُ. قَدِ انْقَرَضَ كُلُّهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُوَذَا عَلَى الْجِبَالِ قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ! عَيِّدِي يَا يَهُوذَا أَعْيَادَكِ. أَوْفِي نُذُورَكِ، فَإِنَّهُ لَا يَعُودُ يَعْبُرُ فِيكِ أَيْضًا الْمُهْلِكُ. قَدِ انْقَرَضَ كُلُّهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "مقدمة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "غضب الرب على نينوى",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:47:30.186Z"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "NAM",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "NAM.2.1",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 1,
+          "text": "قَدِ ارْتَفَعَتِ الْمِقْمَعَةُ عَلَى وَجْهِكِ. احْرُسِ الْحِصْنَ. رَاقِبِ الطَّرِيقَ. شَدِّدِ الْحَقْوَيْنِ. مَكِّنِ الْقُوَّةَ جِدًّا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَدِ ارْتَفَعَتِ الْمِقْمَعَةُ عَلَى وَجْهِكِ. احْرُسِ الْحِصْنَ. رَاقِبِ الطَّرِيقَ. شَدِّدِ الْحَقْوَيْنِ. مَكِّنِ الْقُوَّةَ جِدًّا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "سقوط نينوى",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.2",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 2,
+          "text": "فَإِنَّ الرَّبَّ يَرُدُّ عَظَمَةَ يَعْقُوبَ كَعَظَمَةِ إِسْرَائِيلَ، لأَنَّ السَّالِبِينَ قَدْ سَلَبُوهُمْ وَأَتْلَفُوا قُضْبَانَ كُرُومِهِمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّ الرَّبَّ يَرُدُّ عَظَمَةَ يَعْقُوبَ كَعَظَمَةِ إِسْرَائِيلَ، لأَنَّ السَّالِبِينَ قَدْ سَلَبُوهُمْ وَأَتْلَفُوا قُضْبَانَ كُرُومِهِمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.3",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 3,
+          "text": "تُرْسُ أَبْطَالِهِ مُحَمَّرٌ. رِجَالُ الْجَيْشِ قِرْمِزِيُّونَ. الْمَرْكَبَاتُ بِنَارِ الْفُولاَذِ فِي يَوْمِ إِعْدَادِهِ. وَالسَّرْوُ يَهْتَزُّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "تُرْسُ أَبْطَالِهِ مُحَمَّرٌ. رِجَالُ الْجَيْشِ قِرْمِزِيُّونَ. الْمَرْكَبَاتُ بِنَارِ الْفُولاَذِ فِي يَوْمِ إِعْدَادِهِ. وَالسَّرْوُ يَهْتَزُّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.4",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 4,
+          "text": "تَهِيجُ الْمَرْكَبَاتُ فِي الأَزِقَّةِ. تَتَرَاكَضُ فِي السَّاحَاتِ. مَنْظَرُهَا كَمَصَابِيحَ. تَجْرِي كَالْبُرُوقِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "تَهِيجُ الْمَرْكَبَاتُ فِي الأَزِقَّةِ. تَتَرَاكَضُ فِي السَّاحَاتِ. مَنْظَرُهَا كَمَصَابِيحَ. تَجْرِي كَالْبُرُوقِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.5",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 5,
+          "text": "يَذْكُرُ عُظَمَاءَهُ. يَتَعَثَّرُونَ فِي مَشْيِهِمْ. يُسْرِعُونَ إِلَى سُورِهَا، وَقَدْ أُقِيمَتِ الْمِتْرَسَةُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يَذْكُرُ عُظَمَاءَهُ. يَتَعَثَّرُونَ فِي مَشْيِهِمْ. يُسْرِعُونَ إِلَى سُورِهَا، وَقَدْ أُقِيمَتِ الْمِتْرَسَةُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.6",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 6,
+          "text": "أَبْوَابُ الأَنْهَارِ انْفَتَحَتْ، وَالْقَصْرُ قَدْ ذَابَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَبْوَابُ الأَنْهَارِ انْفَتَحَتْ، وَالْقَصْرُ قَدْ ذَابَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.7",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 7,
+          "text": "وَهُصَّبُ قَدِ انْكَشَفَتْ. أُطْلِعَتْ. وَجَوَارِيهَا تَئِنُّ كَصَوْتِ الْحَمَامِ ضَارِبَاتٍ عَلَى صُدُورِهِنَّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَهُصَّبُ قَدِ انْكَشَفَتْ. أُطْلِعَتْ. وَجَوَارِيهَا تَئِنُّ كَصَوْتِ الْحَمَامِ ضَارِبَاتٍ عَلَى صُدُورِهِنَّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.8",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 8,
+          "text": "وَنِينَوَى كَبِرْكَةِ مَاءٍ مُنْذُ كَانَتْ، وَلكِنَّهُمُ الآنَ هَارِبُونَ. «قِفُوا، قِفُوا!» وَلَا مُلْتَفِتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَنِينَوَى كَبِرْكَةِ مَاءٍ مُنْذُ كَانَتْ، وَلكِنَّهُمُ الآنَ هَارِبُونَ. «قِفُوا، قِفُوا!» وَلَا مُلْتَفِتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.9",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 9,
+          "text": "اِنْهَبُوا فِضَّةً. اِنْهَبُوا ذَهَبًا، فَلَا نِهَايَةَ لِلتُّحَفِ لِلْكَثْرَةِ مِنْ كُلِّ مَتَاعٍ شَهِيٍّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِنْهَبُوا فِضَّةً. اِنْهَبُوا ذَهَبًا، فَلَا نِهَايَةَ لِلتُّحَفِ لِلْكَثْرَةِ مِنْ كُلِّ مَتَاعٍ شَهِيٍّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.10",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 10,
+          "text": "فَرَاغٌ وَخَلاَءٌ وَخَرَابٌ، وَقَلْبٌ ذَائِبٌ وَارْتِخَاءُ رُكَبٍ وَوَجَعٌ فِي كُلِّ حَقْوٍ. وَأَوْجُهُ جَمِيعِهِمْ تَجْمَعُ حُمْرَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَرَاغٌ وَخَلاَءٌ وَخَرَابٌ، وَقَلْبٌ ذَائِبٌ وَارْتِخَاءُ رُكَبٍ وَوَجَعٌ فِي كُلِّ حَقْوٍ. وَأَوْجُهُ جَمِيعِهِمْ تَجْمَعُ حُمْرَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.11",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 11,
+          "text": "أَيْنَ مَأْوَى الأُسُودِ وَمَرْعَى أَشْبَالِ الأُسُودِ؟ حَيْثُ يَمْشِي الأَسَدُ وَاللَّبُوَةُ وَشِبْلُ الأَسَدِ، وَلَيْسَ مَنْ يُخَوِّفُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيْنَ مَأْوَى الأُسُودِ وَمَرْعَى أَشْبَالِ الأُسُودِ؟ حَيْثُ يَمْشِي الأَسَدُ وَاللَّبُوَةُ وَشِبْلُ الأَسَدِ، وَلَيْسَ مَنْ يُخَوِّفُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.12",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 12,
+          "text": "الأَسَدُ الْمُفْتَرِسُ لِحَاجَةِ جِرَائِهِ، وَالْخَانِقُ لأَجْلِ لَبُوَاتِهِ حَتَّى مَلأَ مَغَارَاتِهِ فَرَائِسَ وَمَآوِيَهُ مُفْتَرَسَاتٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الأَسَدُ الْمُفْتَرِسُ لِحَاجَةِ جِرَائِهِ، وَالْخَانِقُ لأَجْلِ لَبُوَاتِهِ حَتَّى مَلأَ مَغَارَاتِهِ فَرَائِسَ وَمَآوِيَهُ مُفْتَرَسَاتٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.13",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 13,
+          "text": "«هَا أَنَا عَلَيْكِ، يَقُولُ رَبُّ الْجُنُودِ. فَأُحْرِقُ مَرْكَبَاتِكِ دُخَانًا، وَأَشْبَالُكِ يَأْكُلُهَا السَّيْفُ، وَأَقْطَعُ مِنَ الأَرْضِ فَرَائِسَكِ، وَلَا يُسْمَعُ أَيْضًا صَوْتُ رُسُلُكِ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "«هَا أَنَا عَلَيْكِ، يَقُولُ رَبُّ الْجُنُودِ. فَأُحْرِقُ مَرْكَبَاتِكِ دُخَانًا، وَأَشْبَالُكِ يَأْكُلُهَا السَّيْفُ، وَأَقْطَعُ مِنَ الأَرْضِ فَرَائِسَكِ، وَلَا يُسْمَعُ أَيْضًا صَوْتُ رُسُلُكِ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "سقوط نينوى",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:47:31.031Z"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "NAM",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "NAM.3.1",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 1,
+          "text": "وَيْلٌ لِمَدِينَةِ الدِّمَاءِ. كُلُّهَا مَلآنَةٌ كَذِبًا وَخَطْفًا. لَا يَزُولُ الافْتِرَاسُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَيْلٌ لِمَدِينَةِ الدِّمَاءِ. كُلُّهَا مَلآنَةٌ كَذِبًا وَخَطْفًا. لَا يَزُولُ الافْتِرَاسُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "ويل لنينوى",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.2",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 2,
+          "text": "صَوْتُ السَّوطِ وَصَوْتُ رَعْشَةِ الْبَكَرِ، وَخَيْلٌ تَخُبُّ وَمَرْكَبَاتٌ تَقْفِزُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "صَوْتُ السَّوطِ وَصَوْتُ رَعْشَةِ الْبَكَرِ، وَخَيْلٌ تَخُبُّ وَمَرْكَبَاتٌ تَقْفِزُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.3",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 3,
+          "text": "وَفُرْسَانٌ تَنْهَضُ، وَلَهِيبُ السَّيْفِ وَبَرِيقُ الرُّمْحِ، وَكَثْرَةُ جَرْحَى، وَوَفْرَةُ قَتْلَى، وَلَا نِهَايَةَ لِلْجُثَثِ. يَعْثُرُونَ بِجُثَثِهِمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَفُرْسَانٌ تَنْهَضُ، وَلَهِيبُ السَّيْفِ وَبَرِيقُ الرُّمْحِ، وَكَثْرَةُ جَرْحَى، وَوَفْرَةُ قَتْلَى، وَلَا نِهَايَةَ لِلْجُثَثِ. يَعْثُرُونَ بِجُثَثِهِمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.4",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 4,
+          "text": "مِنْ أَجْلِ زِنَى الزَّانِيَةِ الْحَسَنَةِ الْجَمَالِ صَاحِبَةِ السِّحْرِ الْبَائِعَةِ أُمَمًا بِزِنَاهَا، وَقَبَائِلَ بِسِحْرِهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْ أَجْلِ زِنَى الزَّانِيَةِ الْحَسَنَةِ الْجَمَالِ صَاحِبَةِ السِّحْرِ الْبَائِعَةِ أُمَمًا بِزِنَاهَا، وَقَبَائِلَ بِسِحْرِهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.5",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 5,
+          "text": "«هَأَنَذَا عَلَيْكِ، يَقُولُ رَبُّ الْجُنُودِ، فَأَكْشِفُ أَذْيَالَكِ إِلَى فَوْقِ وَجْهِكِ، وَأُرِي الأُمَمَ عَوْرَتَكِ وَالْمَمَالِكَ خِزْيَكِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "«هَأَنَذَا عَلَيْكِ، يَقُولُ رَبُّ الْجُنُودِ، فَأَكْشِفُ أَذْيَالَكِ إِلَى فَوْقِ وَجْهِكِ، وَأُرِي الأُمَمَ عَوْرَتَكِ وَالْمَمَالِكَ خِزْيَكِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.6",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 6,
+          "text": "وَأَطْرَحُ عَلَيْكِ أَوْسَاخًا، وَأُهِينُكِ وَأَجْعَلُكِ عِبْرَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَطْرَحُ عَلَيْكِ أَوْسَاخًا، وَأُهِينُكِ وَأَجْعَلُكِ عِبْرَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.7",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 7,
+          "text": "وَيَكُونُ كُلُّ مَنْ يَرَاكِ يَهْرُبُ مِنْكِ وَيَقُولُ: خَرِبَتْ نِينَوَى، مَنْ يَرْثِي لَهَا؟ مِنْ أَيْنَ أَطْلُبُ لَكِ مُعَزِّينَ؟»",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَيَكُونُ كُلُّ مَنْ يَرَاكِ يَهْرُبُ مِنْكِ وَيَقُولُ: خَرِبَتْ نِينَوَى، مَنْ يَرْثِي لَهَا؟ مِنْ أَيْنَ أَطْلُبُ لَكِ مُعَزِّينَ؟»",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.8",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 8,
+          "text": "هَلْ أَنْتِ أَفْضَلُ مِنْ نُوَ أَمُونَ الْجَالِسَةِ بَيْنَ الأَنْهَارِ، حَوْلَهَا الْمِيَاهُ الَّتِي هِيَ حِصْنُ الْبَحْرِ، وَمِنَ الْبَحْرِ سُورُهَا؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَلْ أَنْتِ أَفْضَلُ مِنْ نُوَ أَمُونَ الْجَالِسَةِ بَيْنَ الأَنْهَارِ، حَوْلَهَا الْمِيَاهُ الَّتِي هِيَ حِصْنُ الْبَحْرِ، وَمِنَ الْبَحْرِ سُورُهَا؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.9",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 9,
+          "text": "كُوشٌ قُوَّتُهَا مَعَ مِصْرَ وَلَيْسَتْ نِهَايَةٌ. فُوطٌ وَلُوبِيمُ كَانُوا مَعُونَتَكِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُوشٌ قُوَّتُهَا مَعَ مِصْرَ وَلَيْسَتْ نِهَايَةٌ. فُوطٌ وَلُوبِيمُ كَانُوا مَعُونَتَكِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.10",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 10,
+          "text": "هِيَ أَيْضًا قَدْ مَضَتْ إِلَى الْمَنْفَى بِالسَّبْيِ، وَأَطْفَالُهَا حُطِّمَتْ فِي رَأْسِ جَمِيعِ الأَزِقَّةِ، وَعَلَى أَشْرَافِهَا أَلْقَوْا قُرْعَةً، وَجَمِيعُ عُظَمَائِهَا تَقَيَّدُوا بِالْقُيُودِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هِيَ أَيْضًا قَدْ مَضَتْ إِلَى الْمَنْفَى بِالسَّبْيِ، وَأَطْفَالُهَا حُطِّمَتْ فِي رَأْسِ جَمِيعِ الأَزِقَّةِ، وَعَلَى أَشْرَافِهَا أَلْقَوْا قُرْعَةً، وَجَمِيعُ عُظَمَائِهَا تَقَيَّدُوا بِالْقُيُودِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.11",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 11,
+          "text": "أَنْتِ أَيْضًا تَسْكَرِينَ. تَكُونِينَ خَافِيَةً. أَنْتِ أَيْضًا تَطْلُبِينَ حِصْنًا بِسَبَبِ الْعَدُوِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنْتِ أَيْضًا تَسْكَرِينَ. تَكُونِينَ خَافِيَةً. أَنْتِ أَيْضًا تَطْلُبِينَ حِصْنًا بِسَبَبِ الْعَدُوِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.12",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 12,
+          "text": "جَمِيعُ قِلاَعِكِ أَشْجَارُ تِينٍ بِالْبَوَاكِيرِ، إِذَا انْهَزَّتْ تَسْقُطُ فِي فَمِ الآكِلِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "جَمِيعُ قِلاَعِكِ أَشْجَارُ تِينٍ بِالْبَوَاكِيرِ، إِذَا انْهَزَّتْ تَسْقُطُ فِي فَمِ الآكِلِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.13",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 13,
+          "text": "هُوَذَا شَعْبُكِ نِسَاءٌ فِي وَسَطِكِ! تَنْفَتِحُ لأَعْدَائِكِ أَبْوَابُ أَرْضِكِ. تَأْكُلُ النَّارُ مَغَالِيقَكِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُوَذَا شَعْبُكِ نِسَاءٌ فِي وَسَطِكِ! تَنْفَتِحُ لأَعْدَائِكِ أَبْوَابُ أَرْضِكِ. تَأْكُلُ النَّارُ مَغَالِيقَكِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.14",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 14,
+          "text": "اِسْتَقِي لِنَفْسِكِ مَاءً لِلْحِصَارِ. أَصْلِحِي قِلاَعَكِ. ادْخُلِي فِي الطِّينِ وَدُوسِي فِي الْمِلاَطِ. أَصْلِحِي الْمِلْبَنَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِسْتَقِي لِنَفْسِكِ مَاءً لِلْحِصَارِ. أَصْلِحِي قِلاَعَكِ. ادْخُلِي فِي الطِّينِ وَدُوسِي فِي الْمِلاَطِ. أَصْلِحِي الْمِلْبَنَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.15",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 15,
+          "text": "هُنَاكَ تَأْكُلُكِ نَارٌ، يَقْطَعُكِ سَيْفٌ، يَأْكُلُكِ كَالْغَوْغَاءِ، تَكَاثَرِي كَالْغَوْغَاءِ. تَعَاظَمِي كَالْجَرَادِ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُنَاكَ تَأْكُلُكِ نَارٌ، يَقْطَعُكِ سَيْفٌ، يَأْكُلُكِ كَالْغَوْغَاءِ، تَكَاثَرِي كَالْغَوْغَاءِ. تَعَاظَمِي كَالْجَرَادِ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.16",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 16,
+          "text": "أَكْثَرْتِ تُجَّارَكِ أَكْثَرَ مِنْ نُجُومِ السَّمَاءِ. الْغَوْغَاءُ جَنَّحَتْ وَطَارَتْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَكْثَرْتِ تُجَّارَكِ أَكْثَرَ مِنْ نُجُومِ السَّمَاءِ. الْغَوْغَاءُ جَنَّحَتْ وَطَارَتْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.17",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 17,
+          "text": "رُؤَسَاؤُكِ كَالْجَرَادِ، وَوُلاَتُكِ كَحَرْجَلَةِ الْجَرَادِ الْحَالَّةِ عَلَى الْجُدْرَانِ فِي يَوْمِ الْبَرْدِ. تُشْرِقُ الشَّمْسُ فَتَطِيرُ وَلَا يُعْرَفُ مَكَانُهَا أَيْنَ هُوَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "رُؤَسَاؤُكِ كَالْجَرَادِ، وَوُلاَتُكِ كَحَرْجَلَةِ الْجَرَادِ الْحَالَّةِ عَلَى الْجُدْرَانِ فِي يَوْمِ الْبَرْدِ. تُشْرِقُ الشَّمْسُ فَتَطِيرُ وَلَا يُعْرَفُ مَكَانُهَا أَيْنَ هُوَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.18",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 18,
+          "text": "نَعِسَتْ رُعَاتُكَ يَا مَلِكَ أَشُّورَ. اضْطَجَعَتْ عُظَمَاؤُكَ. تَشَتَّتَ شَعْبُكَ عَلَى الْجِبَالِ وَلَا مَنْ يَجْمَعُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نَعِسَتْ رُعَاتُكَ يَا مَلِكَ أَشُّورَ. اضْطَجَعَتْ عُظَمَاؤُكَ. تَشَتَّتَ شَعْبُكَ عَلَى الْجِبَالِ وَلَا مَنْ يَجْمَعُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.19",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 19,
+          "text": "لَيْسَ جَبْرٌ لانْكِسَارِكَ. جُرْحُكَ عَدِيمُ الشِّفَاءِ. كُلُّ الَّذِينَ يَسْمَعُونَ خَبَرَكَ يُصَفِّقُونَ بِأَيْدِيهِمْ عَلَيْكَ، لأَنَّهُ عَلَى مَنْ لَمْ يَمُرَّ شَرُّكَ عَلَى الدَّوَامِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَ جَبْرٌ لانْكِسَارِكَ. جُرْحُكَ عَدِيمُ الشِّفَاءِ. كُلُّ الَّذِينَ يَسْمَعُونَ خَبَرَكَ يُصَفِّقُونَ بِأَيْدِيهِمْ عَلَيْكَ، لأَنَّهُ عَلَى مَنْ لَمْ يَمُرَّ شَرُّكَ عَلَى الدَّوَامِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "ويل لنينوى",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:47:31.921Z"
+    }
+  }
+}

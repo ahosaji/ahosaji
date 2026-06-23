@@ -1,0 +1,2497 @@
+{
+  "usfm": "JAS",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "JAS",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "JAS.1.1",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 1,
+          "text": "يَعْقُوبُ، عَبْدُ اللهِ وَالرَّبِّ يَسُوعَ الْمَسِيحِ، يُهْدِي السَّلاَمَ إِلَى الاثْنَيْ عَشَرَ سِبْطًا الَّذِينَ فِي الشَّتَاتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يَعْقُوبُ، عَبْدُ اللهِ وَالرَّبِّ يَسُوعَ الْمَسِيحِ، يُهْدِي السَّلاَمَ إِلَى الاثْنَيْ عَشَرَ سِبْطًا الَّذِينَ فِي الشَّتَاتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "مقدمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.2",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 2,
+          "text": "اِحْسِبُوهُ كُلَّ فَرَحٍ يَا إِخْوَتِي حِينَمَا تَقَعُونَ فِي تَجَارِبَ مُتَنَوِّعَةٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِحْسِبُوهُ كُلَّ فَرَحٍ يَا إِخْوَتِي حِينَمَا تَقَعُونَ فِي تَجَارِبَ مُتَنَوِّعَةٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تجارب ومحن",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.3",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 3,
+          "text": "عَالِمِينَ أَنَّ امْتِحَانَ إِيمَانِكُمْ يُنْشِئُ صَبْرًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عَالِمِينَ أَنَّ امْتِحَانَ إِيمَانِكُمْ يُنْشِئُ صَبْرًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.4",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 4,
+          "text": "وَأَمَّا الصَّبْرُ فَلْيَكُنْ لَهُ عَمَلٌ تَامٌّ، لِكَيْ تَكُونُوا تَامِّينَ وَكَامِلِينَ غَيْرَ نَاقِصِينَ فِي شَيْءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الصَّبْرُ فَلْيَكُنْ لَهُ عَمَلٌ تَامٌّ، لِكَيْ تَكُونُوا تَامِّينَ وَكَامِلِينَ غَيْرَ نَاقِصِينَ فِي شَيْءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.5",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 5,
+          "text": "وَإِنَّمَا إِنْ كَانَ أَحَدُكُمْ تُعْوِزُهُ حِكْمَةٌ، فَلْيَطْلُبْ مِنَ اللهِ الَّذِي يُعْطِي الْجَمِيعَ بِسَخَاءٍ وَلَا يُعَيِّرُ، فَسَيُعْطَى لَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِنَّمَا إِنْ كَانَ أَحَدُكُمْ تُعْوِزُهُ حِكْمَةٌ، فَلْيَطْلُبْ مِنَ اللهِ الَّذِي يُعْطِي الْجَمِيعَ بِسَخَاءٍ وَلَا يُعَيِّرُ، فَسَيُعْطَى لَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.6",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 6,
+          "text": "وَلكِنْ لِيَطْلُبْ بِإِيمَانٍ غَيْرَ مُرْتَابٍ الْبَتَّةَ، لأَنَّ الْمُرْتَابَ يُشْبِهُ مَوْجًا مِنَ الْبَحْرِ تَخْبِطُهُ الرِّيحُ وَتَدْفَعُهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ لِيَطْلُبْ بِإِيمَانٍ غَيْرَ مُرْتَابٍ الْبَتَّةَ، لأَنَّ الْمُرْتَابَ يُشْبِهُ مَوْجًا مِنَ الْبَحْرِ تَخْبِطُهُ الرِّيحُ وَتَدْفَعُهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.7",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 7,
+          "text": "فَلَا يَظُنَّ ذَلِكَ الإِنْسَانُ أَنَّهُ يَنَالُ شَيْئًا مِنْ عِنْدِ الرَّبِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَلَا يَظُنَّ ذَلِكَ الإِنْسَانُ أَنَّهُ يَنَالُ شَيْئًا مِنْ عِنْدِ الرَّبِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.8",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 8,
+          "text": "رَجُلٌ ذُو رَأْيَيْنِ هُوَ مُتَقَلْقِلٌ فِي جَمِيعِ طُرُقِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "رَجُلٌ ذُو رَأْيَيْنِ هُوَ مُتَقَلْقِلٌ فِي جَمِيعِ طُرُقِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.9",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 9,
+          "text": "وَلْيَفْتَخِرِ الأَخُ الْمُتَّضِعُ بِارْتِفَاعِهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلْيَفْتَخِرِ الأَخُ الْمُتَّضِعُ بِارْتِفَاعِهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.10",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 10,
+          "text": "وَأَمَّا الْغَنِيُّ فَبِاتِّضَاعِهِ، لأَنَّهُ كَزَهْرِ الْعُشْبِ يَزُولُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الْغَنِيُّ فَبِاتِّضَاعِهِ، لأَنَّهُ كَزَهْرِ الْعُشْبِ يَزُولُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.11",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 11,
+          "text": "لأَنَّ الشَّمْسَ أَشْرَقَتْ بِالْحَرِّ، فَيَبَّسَتِ الْعُشْبَ، فَسَقَطَ زَهْرُهُ وَفَنِيَ جَمَالُ مَنْظَرِهِ. هَكَذَا يَذْبُلُ الْغَنِيُّ أَيْضًا فِي طُرُقِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الشَّمْسَ أَشْرَقَتْ بِالْحَرِّ، فَيَبَّسَتِ الْعُشْبَ، فَسَقَطَ زَهْرُهُ وَفَنِيَ جَمَالُ مَنْظَرِهِ. هَكَذَا يَذْبُلُ الْغَنِيُّ أَيْضًا فِي طُرُقِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.12",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 12,
+          "text": "طُوبَى لِلرَّجُلِ الَّذِي يَحْتَمِلُ التَّجْرِبَةَ، لأَنَّهُ إِذَا تَزَكَّى يَنَالُ «إِكْلِيلَ الْحَيَاةِ» الَّذِي وَعَدَ بِهِ الرَّبُّ لِلَّذِينَ يُحِبُّونَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "طُوبَى لِلرَّجُلِ الَّذِي يَحْتَمِلُ التَّجْرِبَةَ، لأَنَّهُ إِذَا تَزَكَّى يَنَالُ «إِكْلِيلَ الْحَيَاةِ» الَّذِي وَعَدَ بِهِ الرَّبُّ لِلَّذِينَ يُحِبُّونَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.13",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 13,
+          "text": "لَا يَقُلْ أَحَدٌ إِذَا جُرِّبَ: «إِنِّي أُجَرَّبُ مِنْ قِبَلِ اللهِ»، لأَنَّ اللهَ غَيْرُ مُجَرَّبٍ بِالشُّرُورِ، وَهُوَ لَا يُجَرِّبُ أَحَدًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا يَقُلْ أَحَدٌ إِذَا جُرِّبَ: «إِنِّي أُجَرَّبُ مِنْ قِبَلِ اللهِ»، لأَنَّ اللهَ غَيْرُ مُجَرَّبٍ بِالشُّرُورِ، وَهُوَ لَا يُجَرِّبُ أَحَدًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.14",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 14,
+          "text": "وَلكِنَّ كُلَّ وَاحِدٍ يُجَرَّبُ إِذَا انْجَذَبَ وَانْخَدَعَ مِنْ شَهْوَتِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنَّ كُلَّ وَاحِدٍ يُجَرَّبُ إِذَا انْجَذَبَ وَانْخَدَعَ مِنْ شَهْوَتِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.15",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 15,
+          "text": "ثُمَّ الشَّهْوَةُ إِذَا حَبِلَتْ تَلِدُ خَطِيَّةً، وَالْخَطِيَّةُ إِذَا كَمَلَتْ تُنْتِجُ مَوْتًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ الشَّهْوَةُ إِذَا حَبِلَتْ تَلِدُ خَطِيَّةً، وَالْخَطِيَّةُ إِذَا كَمَلَتْ تُنْتِجُ مَوْتًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.16",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 16,
+          "text": "لَا تَضِلُّوا يَا إِخْوَتِي الأَحِبَّاءَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَضِلُّوا يَا إِخْوَتِي الأَحِبَّاءَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.17",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 17,
+          "text": "كُلُّ عَطِيَّةٍ صَالِحَةٍ وَكُلُّ مَوْهِبَةٍ تَامَّةٍ هِيَ مِنْ فَوْقُ، نَازِلَةٌ مِنْ عِنْدِ أَبِي الأَنْوَارِ، الَّذِي لَيْسَ عِنْدَهُ تَغْيِيرٌ وَلَا ظِلُّ دَوَرَانٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُلُّ عَطِيَّةٍ صَالِحَةٍ وَكُلُّ مَوْهِبَةٍ تَامَّةٍ هِيَ مِنْ فَوْقُ، نَازِلَةٌ مِنْ عِنْدِ أَبِي الأَنْوَارِ، الَّذِي لَيْسَ عِنْدَهُ تَغْيِيرٌ وَلَا ظِلُّ دَوَرَانٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.18",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 18,
+          "text": "شَاءَ فَوَلَدَنَا بِكَلِمَةِ الْحَقِّ لِكَيْ نَكُونَ بَاكُورَةً مِنْ خَلاَئِقِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "شَاءَ فَوَلَدَنَا بِكَلِمَةِ الْحَقِّ لِكَيْ نَكُونَ بَاكُورَةً مِنْ خَلاَئِقِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.19",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 19,
+          "text": "إِذًا يَا إِخْوَتِي الأَحِبَّاءَ، لِيَكُنْ كُلُّ إِنْسَانٍ مُسْرِعًا فِي الاسْتِمَاعِ، مُبْطِئًا فِي التَّكَلُّمِ، مُبْطِئًا فِي الْغَضَبِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذًا يَا إِخْوَتِي الأَحِبَّاءَ، لِيَكُنْ كُلُّ إِنْسَانٍ مُسْرِعًا فِي الاسْتِمَاعِ، مُبْطِئًا فِي التَّكَلُّمِ، مُبْطِئًا فِي الْغَضَبِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الاستماع والعمل",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.20",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 20,
+          "text": "لأَنَّ غَضَبَ الإِنْسَانِ لَا يَصْنَعُ بِرَّ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ غَضَبَ الإِنْسَانِ لَا يَصْنَعُ بِرَّ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.21",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 21,
+          "text": "لِذَلِكَ اطْرَحُوا كُلَّ نَجَاسَةٍ وَكَثْرَةَ شَرٍّ، فَاقْبَلُوا بِوَدَاعَةٍ الْكَلِمَةَ الْمَغْرُوسَةَ الْقَادِرَةَ أَنْ تُخَلِّصَ نُفُوسَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِذَلِكَ اطْرَحُوا كُلَّ نَجَاسَةٍ وَكَثْرَةَ شَرٍّ، فَاقْبَلُوا بِوَدَاعَةٍ الْكَلِمَةَ الْمَغْرُوسَةَ الْقَادِرَةَ أَنْ تُخَلِّصَ نُفُوسَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.22",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 22,
+          "text": "وَلكِنْ كُونُوا عَامِلِينَ بِالْكَلِمَةِ، لَا سَامِعِينَ فَقَطْ خَادِعِينَ نُفُوسَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ كُونُوا عَامِلِينَ بِالْكَلِمَةِ، لَا سَامِعِينَ فَقَطْ خَادِعِينَ نُفُوسَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.23",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 23,
+          "text": "لأَنَّهُ إِنْ كَانَ أَحَدٌ سَامِعًا لِلْكَلِمَةِ وَلَيْسَ عَامِلًا، فَذَاكَ يُشْبِهُ رَجُلًا نَاظِرًا وَجْهَ خِلْقَتِهِ فِي مِرْآةٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ إِنْ كَانَ أَحَدٌ سَامِعًا لِلْكَلِمَةِ وَلَيْسَ عَامِلًا، فَذَاكَ يُشْبِهُ رَجُلًا نَاظِرًا وَجْهَ خِلْقَتِهِ فِي مِرْآةٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.24",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 24,
+          "text": "فَإِنَّهُ نَظَرَ ذَاتَهُ وَمَضَى، وَلِلْوَقْتِ نَسِيَ مَا هُوَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّهُ نَظَرَ ذَاتَهُ وَمَضَى، وَلِلْوَقْتِ نَسِيَ مَا هُوَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.25",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 25,
+          "text": "وَلكِنْ مَنِ اطَّلَعَ عَلَى النَّامُوسِ الْكَامِلِ -­ نَامُوسِ الْحُرِّيَّةِ -­ وَثَبَتَ، وَصَارَ لَيْسَ سَامِعًا نَاسِيًا بَلْ عَامِلًا بِالْكَلِمَةِ، فَهَذَا يَكُونُ مَغْبُوطًا فِي عَمَلِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ مَنِ اطَّلَعَ عَلَى النَّامُوسِ الْكَامِلِ -­ نَامُوسِ الْحُرِّيَّةِ -­ وَثَبَتَ، وَصَارَ لَيْسَ سَامِعًا نَاسِيًا بَلْ عَامِلًا بِالْكَلِمَةِ، فَهَذَا يَكُونُ مَغْبُوطًا فِي عَمَلِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.26",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 26,
+          "text": "إِنْ كَانَ أَحَدٌ فِيكُمْ يَظُنُّ أَنَّهُ دَيِّنٌ، وَهُوَ لَيْسَ يُلْجِمُ لِسَانَهُ، بَلْ يَخْدَعُ قَلْبَهُ، فَدِيَانَةُ هَذَا بَاطِلَةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ كَانَ أَحَدٌ فِيكُمْ يَظُنُّ أَنَّهُ دَيِّنٌ، وَهُوَ لَيْسَ يُلْجِمُ لِسَانَهُ، بَلْ يَخْدَعُ قَلْبَهُ، فَدِيَانَةُ هَذَا بَاطِلَةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.27",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 27,
+          "text": "اَلدِّيَانَةُ الطَّاهِرَةُ النَّقِيَّةُ عِنْدَ اللهِ الآبِ هِيَ هَذِهِ: افْتِقَادُ الْيَتَامَى وَالأَرَامِلِ فِي ضِيقَتِهِمْ، وَحِفْظُ الإِنْسَانِ نَفْسَهُ بِلاَ دَنَسٍ مِنَ الْعَالَمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلدِّيَانَةُ الطَّاهِرَةُ النَّقِيَّةُ عِنْدَ اللهِ الآبِ هِيَ هَذِهِ: افْتِقَادُ الْيَتَامَى وَالأَرَامِلِ فِي ضِيقَتِهِمْ، وَحِفْظُ الإِنْسَانِ نَفْسَهُ بِلاَ دَنَسٍ مِنَ الْعَالَمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "مقدمة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "تجارب ومحن",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "الاستماع والعمل",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:31.834Z"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "JAS",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "JAS.2.1",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 1,
+          "text": "يَا إِخْوَتِي، لَا يَكُنْ لَكُمْ إِيمَانُ رَبِّنَا يَسُوعَ الْمَسِيحِ، رَبِّ الْمَجْدِ، فِي الْمُحَابَاةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يَا إِخْوَتِي، لَا يَكُنْ لَكُمْ إِيمَانُ رَبِّنَا يَسُوعَ الْمَسِيحِ، رَبِّ الْمَجْدِ، فِي الْمُحَابَاةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تحذير من المحاباة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.2",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 2,
+          "text": "فَإِنَّهُ إِنْ دَخَلَ إِلَى مَجْمَعِكُمْ رَجُلٌ بِخَوَاتِمِ ذَهَبٍ فِي لِبَاسٍ بَهِيٍّ، وَدَخَلَ أَيْضًا فَقِيرٌ بِلِبَاسٍ وَسِخٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّهُ إِنْ دَخَلَ إِلَى مَجْمَعِكُمْ رَجُلٌ بِخَوَاتِمِ ذَهَبٍ فِي لِبَاسٍ بَهِيٍّ، وَدَخَلَ أَيْضًا فَقِيرٌ بِلِبَاسٍ وَسِخٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.3",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 3,
+          "text": "فَنَظَرْتُمْ إِلَى اللاَّبِسِ اللِّبَاسَ الْبَهِيَّ وَقُلْتُمْ لَهُ: «اجْلِسْ أَنْتَ هُنَا حَسَنًا». وَقُلْتُمْ لِلْفَقِيرِ: «قِفْ أَنْتَ هُنَاكَ» أَوِ: «اجْلِسْ هُنَا تَحْتَ مَوْطِئِ قَدَمَيَّ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَنَظَرْتُمْ إِلَى اللاَّبِسِ اللِّبَاسَ الْبَهِيَّ وَقُلْتُمْ لَهُ: «اجْلِسْ أَنْتَ هُنَا حَسَنًا». وَقُلْتُمْ لِلْفَقِيرِ: «قِفْ أَنْتَ هُنَاكَ» أَوِ: «اجْلِسْ هُنَا تَحْتَ مَوْطِئِ قَدَمَيَّ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.4",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 4,
+          "text": "فَهَلْ لَا تَرْتَابُونَ فِي أَنْفُسِكُمْ، وَتَصِيرُونَ قُضَاةَ أَفْكَارٍ شِرِّيرَةٍ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَهَلْ لَا تَرْتَابُونَ فِي أَنْفُسِكُمْ، وَتَصِيرُونَ قُضَاةَ أَفْكَارٍ شِرِّيرَةٍ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.5",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 5,
+          "text": "اسْمَعُوا يَا إِخْوَتِي الأَحِبَّاءَ: أَمَا اخْتَارَ اللهُ فُقَرَاءَ هَذَا الْعَالَمِ أَغْنِيَاءَ فِي الإِيمَانِ، وَوَرَثَةَ الْمَلَكُوتِ الَّذِي وَعَدَ بِهِ الَّذِينَ يُحِبُّونَهُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اسْمَعُوا يَا إِخْوَتِي الأَحِبَّاءَ: أَمَا اخْتَارَ اللهُ فُقَرَاءَ هَذَا الْعَالَمِ أَغْنِيَاءَ فِي الإِيمَانِ، وَوَرَثَةَ الْمَلَكُوتِ الَّذِي وَعَدَ بِهِ الَّذِينَ يُحِبُّونَهُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.6",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 6,
+          "text": "وَأَمَّا أَنْتُمْ فَأَهَنْتُمُ الْفَقِيرَ. أَلَيْسَ الأَغْنِيَاءُ يَتَسَلَّطُونَ عَلَيْكُمْ وَهُمْ يَجُرُّونَكُمْ إِلَى الْمَحَاكِمِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا أَنْتُمْ فَأَهَنْتُمُ الْفَقِيرَ. أَلَيْسَ الأَغْنِيَاءُ يَتَسَلَّطُونَ عَلَيْكُمْ وَهُمْ يَجُرُّونَكُمْ إِلَى الْمَحَاكِمِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.7",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 7,
+          "text": "أَمَا هُمْ يُجَدِّفُونَ عَلَى الاسْمِ الْحَسَنِ الَّذِي دُعِيَ بِهِ عَلَيْكُمْ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَمَا هُمْ يُجَدِّفُونَ عَلَى الاسْمِ الْحَسَنِ الَّذِي دُعِيَ بِهِ عَلَيْكُمْ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.8",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 8,
+          "text": "فَإِنْ كُنْتُمْ تُكَمِّلُونَ النَّامُوسَ الْمُلُوكِيَّ حَسَبَ الْكِتَابِ: «تُحِبُّ قَرِيبَكَ كَنَفْسِكَ». فَحَسَنًا تَفْعَلُونَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنْ كُنْتُمْ تُكَمِّلُونَ النَّامُوسَ الْمُلُوكِيَّ حَسَبَ الْكِتَابِ: «تُحِبُّ قَرِيبَكَ كَنَفْسِكَ». فَحَسَنًا تَفْعَلُونَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.9",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 9,
+          "text": "وَلكِنْ إِنْ كُنْتُمْ تُحَابُونَ، تَفْعَلُونَ خَطِيَّةً، مُوَبَّخِينَ مِنَ النَّامُوسِ كَمُتَعَدِّينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ إِنْ كُنْتُمْ تُحَابُونَ، تَفْعَلُونَ خَطِيَّةً، مُوَبَّخِينَ مِنَ النَّامُوسِ كَمُتَعَدِّينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.10",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 10,
+          "text": "لأَنَّ مَنْ حَفِظَ كُلَّ النَّامُوسِ، وَإِنَّمَا عَثَرَ فِي وَاحِدَةٍ، فَقَدْ صَارَ مُجْرِمًا فِي الْكُلِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ مَنْ حَفِظَ كُلَّ النَّامُوسِ، وَإِنَّمَا عَثَرَ فِي وَاحِدَةٍ، فَقَدْ صَارَ مُجْرِمًا فِي الْكُلِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.11",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 11,
+          "text": "لأَنَّ الَّذِي قَالَ: «لاَ تَزْنِ»، قَالَ أَيْضًا: «لاَ تَقْتُلْ». فَإِنْ لَمْ تَزْنِ وَلكِنْ قَتَلْتَ، فَقَدْ صِرْتَ مُتَعَدِّيًا النَّامُوسَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الَّذِي قَالَ: «لاَ تَزْنِ»، قَالَ أَيْضًا: «لاَ تَقْتُلْ». فَإِنْ لَمْ تَزْنِ وَلكِنْ قَتَلْتَ، فَقَدْ صِرْتَ مُتَعَدِّيًا النَّامُوسَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.12",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 12,
+          "text": "هَكَذَا تَكَلَّمُوا وَهَكَذَا افْعَلُوا كَعَتِيدِينَ أَنْ تُحَاكَمُوا بِنَامُوسِ الْحُرِّيَّةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَكَذَا تَكَلَّمُوا وَهَكَذَا افْعَلُوا كَعَتِيدِينَ أَنْ تُحَاكَمُوا بِنَامُوسِ الْحُرِّيَّةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.13",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 13,
+          "text": "لأَنَّ الْحُكْمَ هُوَ بِلاَ رَحْمَةٍ لِمَنْ لَمْ يَعْمَلْ رَحْمَةً، وَالرَّحْمَةُ تَفْتَخِرُ عَلَى الْحُكْمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الْحُكْمَ هُوَ بِلاَ رَحْمَةٍ لِمَنْ لَمْ يَعْمَلْ رَحْمَةً، وَالرَّحْمَةُ تَفْتَخِرُ عَلَى الْحُكْمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.14",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 14,
+          "text": "مَا الْمَنْفَعَةُ يَا إِخْوَتِي إِنْ قَالَ أَحَدٌ إِنَّ لَهُ إِيمَانًا وَلكِنْ لَيْسَ لَهُ أَعْمَالٌ، هَلْ يَقْدِرُ الإِيمَانُ أَنْ يُخَلِّصَهُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَا الْمَنْفَعَةُ يَا إِخْوَتِي إِنْ قَالَ أَحَدٌ إِنَّ لَهُ إِيمَانًا وَلكِنْ لَيْسَ لَهُ أَعْمَالٌ، هَلْ يَقْدِرُ الإِيمَانُ أَنْ يُخَلِّصَهُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الإيمان والأعمال",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.15",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 15,
+          "text": "إِنْ كَانَ أَخٌ وَأُخْتٌ عُرْيَانَيْنِ وَمُعْتَازَيْنِ لِلْقُوتِ الْيَوْمِيِّ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ كَانَ أَخٌ وَأُخْتٌ عُرْيَانَيْنِ وَمُعْتَازَيْنِ لِلْقُوتِ الْيَوْمِيِّ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.16",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 16,
+          "text": "فَقَالَ لَهُمَا أَحَدُكُمُ: «امْضِيَا بِسَلاَمٍ، اسْتَدْفِئَا وَاشْبَعَا» وَلكِنْ لَمْ تُعْطُوهُمَا حَاجَاتِ الْجَسَدِ، فَمَا الْمَنْفَعَةُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَقَالَ لَهُمَا أَحَدُكُمُ: «امْضِيَا بِسَلاَمٍ، اسْتَدْفِئَا وَاشْبَعَا» وَلكِنْ لَمْ تُعْطُوهُمَا حَاجَاتِ الْجَسَدِ، فَمَا الْمَنْفَعَةُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.17",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 17,
+          "text": "هَكَذَا الإِيمَانُ أَيْضًا، إِنْ لَمْ يَكُنْ لَهُ أَعْمَالٌ، مَيِّتٌ فِي ذَاتِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَكَذَا الإِيمَانُ أَيْضًا، إِنْ لَمْ يَكُنْ لَهُ أَعْمَالٌ، مَيِّتٌ فِي ذَاتِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.18",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 18,
+          "text": "لكِنْ يَقُولُ قَائِلٌ: «أَنْتَ لَكَ إِيمَانٌ، وَأَنَا لِي أَعْمَالٌ» أَرِنِي إِيمَانَكَ بِدُونِ أَعْمَالِكَ، وَأَنَا أُرِيكَ بِأَعْمَالِي إِيمَانِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لكِنْ يَقُولُ قَائِلٌ: «أَنْتَ لَكَ إِيمَانٌ، وَأَنَا لِي أَعْمَالٌ» أَرِنِي إِيمَانَكَ بِدُونِ أَعْمَالِكَ، وَأَنَا أُرِيكَ بِأَعْمَالِي إِيمَانِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.19",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 19,
+          "text": "أَنْتَ تُؤْمِنُ أَنَّ اللهَ وَاحِدٌ. حَسَنًا تَفْعَلُ. وَالشَّيَاطِينُ يُؤْمِنُونَ وَيَقْشَعِرُّونَ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنْتَ تُؤْمِنُ أَنَّ اللهَ وَاحِدٌ. حَسَنًا تَفْعَلُ. وَالشَّيَاطِينُ يُؤْمِنُونَ وَيَقْشَعِرُّونَ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.20",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 20,
+          "text": "وَلكِنْ هَلْ تُرِيدُ أَنْ تَعْلَمَ أَيُّهَا الإِنْسَانُ الْبَاطِلُ أَنَّ الإِيمَانَ بِدُونِ أَعْمَالٍ مَيِّتٌ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ هَلْ تُرِيدُ أَنْ تَعْلَمَ أَيُّهَا الإِنْسَانُ الْبَاطِلُ أَنَّ الإِيمَانَ بِدُونِ أَعْمَالٍ مَيِّتٌ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.21",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 21,
+          "text": "أَلَمْ يَتَبَرَّرْ إِبْرَاهِيمُ أَبُونَا بِالأَعْمَالِ، إِذْ قَدَّمَ إِسْحَاقَ ابْنَهُ عَلَى الْمَذْبَحِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَلَمْ يَتَبَرَّرْ إِبْرَاهِيمُ أَبُونَا بِالأَعْمَالِ، إِذْ قَدَّمَ إِسْحَاقَ ابْنَهُ عَلَى الْمَذْبَحِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.22",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 22,
+          "text": "فَتَرَى أَنَّ الإِيمَانَ عَمِلَ مَعَ أَعْمَالِهِ، وَبِالأَعْمَالِ أُكْمِلَ الإِيمَانُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَتَرَى أَنَّ الإِيمَانَ عَمِلَ مَعَ أَعْمَالِهِ، وَبِالأَعْمَالِ أُكْمِلَ الإِيمَانُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.23",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 23,
+          "text": "وَتَمَّ الْكِتَابُ الْقَائِلُ: «فَآمَنَ إِبْرَاهِيمُ بِاللهِ فَحُسِبَ لَهُ بِرًّا» وَدُعِيَ خَلِيلَ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَتَمَّ الْكِتَابُ الْقَائِلُ: «فَآمَنَ إِبْرَاهِيمُ بِاللهِ فَحُسِبَ لَهُ بِرًّا» وَدُعِيَ خَلِيلَ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.24",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 24,
+          "text": "تَرَوْنَ إِذًا أَنَّهُ بِالأَعْمَالِ يَتَبَرَّرُ الإِنْسَانُ، لَا بِالإِيمَانِ وَحْدَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "تَرَوْنَ إِذًا أَنَّهُ بِالأَعْمَالِ يَتَبَرَّرُ الإِنْسَانُ، لَا بِالإِيمَانِ وَحْدَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.25",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 25,
+          "text": "كَذَلِكَ رَاحَابُ الزَّانِيَةُ أَيْضًا، أَمَا تَبَرَّرَتْ بِالأَعْمَالِ، إِذْ قَبِلَتِ الرُّسُلَ وَأَخْرَجَتْهُمْ فِي طَرِيقٍ آخَرَ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَذَلِكَ رَاحَابُ الزَّانِيَةُ أَيْضًا، أَمَا تَبَرَّرَتْ بِالأَعْمَالِ، إِذْ قَبِلَتِ الرُّسُلَ وَأَخْرَجَتْهُمْ فِي طَرِيقٍ آخَرَ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.26",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 26,
+          "text": "لأَنَّهُ كَمَا أَنَّ الْجَسَدَ بِدُونَ رُوحٍ مَيِّتٌ، هَكَذَا الإِيمَانُ أَيْضًا بِدُونِ أَعْمَالٍ مَيِّتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ كَمَا أَنَّ الْجَسَدَ بِدُونَ رُوحٍ مَيِّتٌ، هَكَذَا الإِيمَانُ أَيْضًا بِدُونِ أَعْمَالٍ مَيِّتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تحذير من المحاباة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "الإيمان والأعمال",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:32.686Z"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "JAS",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "JAS.3.1",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 1,
+          "text": "لَا تَكُونُوا مُعَلِّمِينَ كَثِيرِينَ يَا إِخْوَتِي، عَالِمِينَ أَنَّنَا نَأْخُذُ دَيْنُونَةً أَعْظَمَ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَكُونُوا مُعَلِّمِينَ كَثِيرِينَ يَا إِخْوَتِي، عَالِمِينَ أَنَّنَا نَأْخُذُ دَيْنُونَةً أَعْظَمَ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "ضبط اللسان",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.2",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 2,
+          "text": "لأَنَّنَا فِي أَشْيَاءَ كَثِيرَةٍ نَعْثُرُ جَمِيعُنَا. إِنْ كَانَ أَحَدٌ لَا يَعْثُرُ فِي الْكَلَامِ فَذَاكَ رَجُلٌ كَامِلٌ، قَادِرٌ أَنْ يُلْجِمَ كُلَّ الْجَسَدِ أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّنَا فِي أَشْيَاءَ كَثِيرَةٍ نَعْثُرُ جَمِيعُنَا. إِنْ كَانَ أَحَدٌ لَا يَعْثُرُ فِي الْكَلَامِ فَذَاكَ رَجُلٌ كَامِلٌ، قَادِرٌ أَنْ يُلْجِمَ كُلَّ الْجَسَدِ أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.3",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 3,
+          "text": "هُوَذَا الْخَيْلُ، نَضَعُ اللُّجُمَ فِي أَفْوَاهِهَا لِكَيْ تُطَاوِعَنَا، فَنُدِيرَ جِسْمَهَا كُلَّهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُوَذَا الْخَيْلُ، نَضَعُ اللُّجُمَ فِي أَفْوَاهِهَا لِكَيْ تُطَاوِعَنَا، فَنُدِيرَ جِسْمَهَا كُلَّهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.4",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 4,
+          "text": "هُوَذَا السُّفُنُ أَيْضًا، وَهِيَ عَظِيمَةٌ بِهَذَا الْمِقْدَارِ، وَتَسُوقُهَا رِيَاحٌ عَاصِفَةٌ، تُدِيرُهَا دَفَّةٌ صَغِيرَةٌ جِدًّا إِلَى حَيْثُمَا شَاءَ قَصْدُ الْمُدِيرِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُوَذَا السُّفُنُ أَيْضًا، وَهِيَ عَظِيمَةٌ بِهَذَا الْمِقْدَارِ، وَتَسُوقُهَا رِيَاحٌ عَاصِفَةٌ، تُدِيرُهَا دَفَّةٌ صَغِيرَةٌ جِدًّا إِلَى حَيْثُمَا شَاءَ قَصْدُ الْمُدِيرِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.5",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 5,
+          "text": "هَكَذَا اللِّسَانُ أَيْضًا، هُوَ عُضْوٌ صَغِيرٌ وَيَفْتَخِرُ مُتَعَظِّمًا. هُوَذَا نَارٌ قَلِيلَةٌ، أَيَّ وُقُودٍ تُحْرِقُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَكَذَا اللِّسَانُ أَيْضًا، هُوَ عُضْوٌ صَغِيرٌ وَيَفْتَخِرُ مُتَعَظِّمًا. هُوَذَا نَارٌ قَلِيلَةٌ، أَيَّ وُقُودٍ تُحْرِقُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.6",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 6,
+          "text": "فَاللِّسَانُ نَارٌ! عَالَمُ الإِثْمِ. هَكَذَا جُعِلَ فِي أَعْضَائِنَا اللِّسَانُ، الَّذِي يُدَنِّسُ الْجِسْمَ كُلَّهُ، وَيُضْرِمُ دَائِرَةَ الْكَوْنِ، وَيُضْرَمُ مِنْ جَهَنَّمَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَاللِّسَانُ نَارٌ! عَالَمُ الإِثْمِ. هَكَذَا جُعِلَ فِي أَعْضَائِنَا اللِّسَانُ، الَّذِي يُدَنِّسُ الْجِسْمَ كُلَّهُ، وَيُضْرِمُ دَائِرَةَ الْكَوْنِ، وَيُضْرَمُ مِنْ جَهَنَّمَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.7",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 7,
+          "text": "لأَنَّ كُلَّ طَبْعٍ لِلْوُحُوشِ وَالطُّيُورِ وَالزَّحَّافَاتِ وَالْبَحْرِيَّاتِ يُذَلَّلُ، وَقَدْ تَذَلَّلَ لِلطَّبْعِ الْبَشَرِيِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ كُلَّ طَبْعٍ لِلْوُحُوشِ وَالطُّيُورِ وَالزَّحَّافَاتِ وَالْبَحْرِيَّاتِ يُذَلَّلُ، وَقَدْ تَذَلَّلَ لِلطَّبْعِ الْبَشَرِيِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.8",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 8,
+          "text": "وَأَمَّا اللِّسَانُ، فَلَا يَسْتَطِيعُ أَحَدٌ مِنَ النَّاسِ أَنْ يُذَلِّلَهُ. هُوَ شَرٌّ لَا يُضْبَطُ، مَمْلُوٌّ سُمًّا مُمِيتًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا اللِّسَانُ، فَلَا يَسْتَطِيعُ أَحَدٌ مِنَ النَّاسِ أَنْ يُذَلِّلَهُ. هُوَ شَرٌّ لَا يُضْبَطُ، مَمْلُوٌّ سُمًّا مُمِيتًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.9",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 9,
+          "text": "بِهِ نُبَارِكُ اللهَ الآبَ، وَبِهِ نَلْعَنُ النَّاسَ الَّذِينَ قَدْ تَكَوَّنُوا عَلَى شِبْهِ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بِهِ نُبَارِكُ اللهَ الآبَ، وَبِهِ نَلْعَنُ النَّاسَ الَّذِينَ قَدْ تَكَوَّنُوا عَلَى شِبْهِ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.10",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 10,
+          "text": "مِنَ الْفَمِ الْوَاحِدِ تَخْرُجُ بَرَكَةٌ وَلَعْنَةٌ! لَا يَصْلُحُ يَا إِخْوَتِي أَنْ تَكُونَ هَذِهِ الأُمُورُ هَكَذَا!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنَ الْفَمِ الْوَاحِدِ تَخْرُجُ بَرَكَةٌ وَلَعْنَةٌ! لَا يَصْلُحُ يَا إِخْوَتِي أَنْ تَكُونَ هَذِهِ الأُمُورُ هَكَذَا!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.11",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 11,
+          "text": "أَلَعَلَّ يَنْبُوعًا يُنْبِعُ مِنْ نَفْسِ عَيْنٍ وَاحِدَةٍ الْعَذْبَ وَالْمُرَّ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَلَعَلَّ يَنْبُوعًا يُنْبِعُ مِنْ نَفْسِ عَيْنٍ وَاحِدَةٍ الْعَذْبَ وَالْمُرَّ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.12",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 12,
+          "text": "هَلْ تَقْدِرُ يَا إِخْوَتِي تِينَةٌ أَنْ تَصْنَعَ زَيْتُونًا، أَوْ كَرْمَةٌ تِينًا؟ وَلَا كَذَلِكَ يَنْبُوعٌ يَصْنَعُ مَاءً مَالِحًا وَعَذْبًا!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَلْ تَقْدِرُ يَا إِخْوَتِي تِينَةٌ أَنْ تَصْنَعَ زَيْتُونًا، أَوْ كَرْمَةٌ تِينًا؟ وَلَا كَذَلِكَ يَنْبُوعٌ يَصْنَعُ مَاءً مَالِحًا وَعَذْبًا!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.13",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 13,
+          "text": "مَنْ هُوَ حَكِيمٌ وَعَالِمٌ بَيْنَكُمْ، فَلْيُرِ أَعْمَالَهُ بِالتَّصَرُّفِ الْحَسَنِ فِي وَدَاعَةِ الْحِكْمَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ هُوَ حَكِيمٌ وَعَالِمٌ بَيْنَكُمْ، فَلْيُرِ أَعْمَالَهُ بِالتَّصَرُّفِ الْحَسَنِ فِي وَدَاعَةِ الْحِكْمَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "نوعان من الحكمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.14",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 14,
+          "text": "وَلكِنْ إِنْ كَانَ لَكُمْ غَيْرَةٌ مُرَّةٌ وَتَحَزُّبٌ فِي قُلُوبِكُمْ، فَلَا تَفْتَخِرُوا وَتَكْذِبُوا عَلَى الْحَقِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ إِنْ كَانَ لَكُمْ غَيْرَةٌ مُرَّةٌ وَتَحَزُّبٌ فِي قُلُوبِكُمْ، فَلَا تَفْتَخِرُوا وَتَكْذِبُوا عَلَى الْحَقِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.15",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 15,
+          "text": "لَيْسَتْ هَذِهِ الْحِكْمَةُ نَازِلَةً مِنْ فَوْقُ، بَلْ هِيَ أَرْضِيَّةٌ نَفْسَانِيَّةٌ شَيْطَانِيَّةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَتْ هَذِهِ الْحِكْمَةُ نَازِلَةً مِنْ فَوْقُ، بَلْ هِيَ أَرْضِيَّةٌ نَفْسَانِيَّةٌ شَيْطَانِيَّةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.16",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 16,
+          "text": "لأَنَّهُ حَيْثُ الْغَيْرَةُ وَالتَّحَزُّبُ، هُنَاكَ التَّشْوِيشُ وَكُلُّ أَمْرٍ رَدِيءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ حَيْثُ الْغَيْرَةُ وَالتَّحَزُّبُ، هُنَاكَ التَّشْوِيشُ وَكُلُّ أَمْرٍ رَدِيءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.17",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 17,
+          "text": "وَأَمَّا الْحِكْمَةُ الَّتِي مِنْ فَوْقُ فَهِيَ أَوَّلًا طَاهِرَةٌ، ثُمَّ مُسَالِمَةٌ، مُتَرَفِّقَةٌ، مُذْعِنَةٌ، مَمْلُوَّةٌ رَحْمَةً وَأَثْمَارًا صَالِحَةً، عَدِيمَةُ الرَّيْبِ وَالرِّيَاءِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الْحِكْمَةُ الَّتِي مِنْ فَوْقُ فَهِيَ أَوَّلًا طَاهِرَةٌ، ثُمَّ مُسَالِمَةٌ، مُتَرَفِّقَةٌ، مُذْعِنَةٌ، مَمْلُوَّةٌ رَحْمَةً وَأَثْمَارًا صَالِحَةً، عَدِيمَةُ الرَّيْبِ وَالرِّيَاءِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.18",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 18,
+          "text": "وَثَمَرُ الْبِرِّ يُزْرَعُ فِي السَّلاَمِ مِنَ الَّذِينَ يَفْعَلُونَ السَّلاَمَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَثَمَرُ الْبِرِّ يُزْرَعُ فِي السَّلاَمِ مِنَ الَّذِينَ يَفْعَلُونَ السَّلاَمَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "ضبط اللسان",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "نوعان من الحكمة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:33.513Z"
+    },
+    "4": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "JAS",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "JAS.4.1",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 1,
+          "text": "مِنْ أَيْنَ الْحُرُوبُ وَالْخُصُومَاتُ بَيْنَكُمْ؟ أَلَيْسَتْ مِنْ هُنَا: مِنْ لَذَّاتِكُمُ الْمُحَارِبَةِ فِي أَعْضَائِكُمْ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْ أَيْنَ الْحُرُوبُ وَالْخُصُومَاتُ بَيْنَكُمْ؟ أَلَيْسَتْ مِنْ هُنَا: مِنْ لَذَّاتِكُمُ الْمُحَارِبَةِ فِي أَعْضَائِكُمْ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "اخضعوا لله",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.2",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 2,
+          "text": "تَشْتَهُونَ وَلَسْتُمْ تَمْتَلِكُونَ. تَقْتُلُونَ وَتَحْسِدُونَ وَلَسْتُمْ تَقْدِرُونَ أَنْ تَنَالُوا. تُخَاصِمُونَ وَتُحَارِبُونَ وَلَسْتُمْ تَمْتَلِكُونَ، لأَنَّكُمْ لَا تَطْلُبُونَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "تَشْتَهُونَ وَلَسْتُمْ تَمْتَلِكُونَ. تَقْتُلُونَ وَتَحْسِدُونَ وَلَسْتُمْ تَقْدِرُونَ أَنْ تَنَالُوا. تُخَاصِمُونَ وَتُحَارِبُونَ وَلَسْتُمْ تَمْتَلِكُونَ، لأَنَّكُمْ لَا تَطْلُبُونَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.3",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 3,
+          "text": "تَطْلُبُونَ وَلَسْتُمْ تَأْخُذُونَ، لأَنَّكُمْ تَطْلُبُونَ رَدِيًّا لِكَيْ تُنْفِقُوا فِي لَذَّاتِكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "تَطْلُبُونَ وَلَسْتُمْ تَأْخُذُونَ، لأَنَّكُمْ تَطْلُبُونَ رَدِيًّا لِكَيْ تُنْفِقُوا فِي لَذَّاتِكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.4",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 4,
+          "text": "أَيُّهَا الزُّنَاةُ وَالزَّوَانِي، أَمَا تَعْلَمُونَ أَنَّ مَحَبَّةَ الْعَالَمِ عَدَاوَةٌ للهِ؟ فَمَنْ أَرَادَ أَنْ يَكُونَ مُحِبًّا لِلْعَالَمِ، فَقَدْ صَارَ عَدُوًّا للهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا الزُّنَاةُ وَالزَّوَانِي، أَمَا تَعْلَمُونَ أَنَّ مَحَبَّةَ الْعَالَمِ عَدَاوَةٌ للهِ؟ فَمَنْ أَرَادَ أَنْ يَكُونَ مُحِبًّا لِلْعَالَمِ، فَقَدْ صَارَ عَدُوًّا للهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.5",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 5,
+          "text": "أَمْ تَظُنُّونَ أَنَّ الْكِتَابَ يَقُولُ بَاطِلًا: الرُّوحُ الَّذِي حَلَّ فِينَا يَشْتَاقُ إِلَى الْحَسَدِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَمْ تَظُنُّونَ أَنَّ الْكِتَابَ يَقُولُ بَاطِلًا: الرُّوحُ الَّذِي حَلَّ فِينَا يَشْتَاقُ إِلَى الْحَسَدِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.6",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 6,
+          "text": "وَلكِنَّهُ يُعْطِي نِعْمَةً أَعْظَمَ. لِذَلِكَ يَقُولُ: «يُقَاوِمُ اللهُ الْمُسْتَكْبِرِينَ، وَأَمَّا الْمُتَوَاضِعُونَ فَيُعْطِيهِمْ نِعْمَةً».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنَّهُ يُعْطِي نِعْمَةً أَعْظَمَ. لِذَلِكَ يَقُولُ: «يُقَاوِمُ اللهُ الْمُسْتَكْبِرِينَ، وَأَمَّا الْمُتَوَاضِعُونَ فَيُعْطِيهِمْ نِعْمَةً».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.7",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 7,
+          "text": "فَاخْضَعُوا للهِ. قَاوِمُوا إِبْلِيسَ فَيَهْرُبَ مِنْكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَاخْضَعُوا للهِ. قَاوِمُوا إِبْلِيسَ فَيَهْرُبَ مِنْكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.8",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 8,
+          "text": "اِقْتَرِبُوا إِلَى اللهِ فَيَقْتَرِبَ إِلَيْكُمْ. نَقُّوا أَيْدِيَكُمْ أَيُّهَا الْخُطَاةُ، وَطَهِّرُوا قُلُوبَكُمْ يَا ذَوِي الرَّأْيَيْنِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِقْتَرِبُوا إِلَى اللهِ فَيَقْتَرِبَ إِلَيْكُمْ. نَقُّوا أَيْدِيَكُمْ أَيُّهَا الْخُطَاةُ، وَطَهِّرُوا قُلُوبَكُمْ يَا ذَوِي الرَّأْيَيْنِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.9",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 9,
+          "text": "اكْتَئِبُوا وَنُوحُوا وَابْكُوا. لِيَتَحَوَّلْ ضَحِكُكُمْ إِلَى نَوْحٍ، وَفَرَحُكُمْ إِلَى غَمٍّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اكْتَئِبُوا وَنُوحُوا وَابْكُوا. لِيَتَحَوَّلْ ضَحِكُكُمْ إِلَى نَوْحٍ، وَفَرَحُكُمْ إِلَى غَمٍّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.10",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 10,
+          "text": "اتَّضِعُوا قُدَّامَ الرَّبِّ فَيَرْفَعَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اتَّضِعُوا قُدَّامَ الرَّبِّ فَيَرْفَعَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.11",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 11,
+          "text": "لَا يَذُمَّ بَعْضُكُمْ بَعْضًا أَيُّهَا الإِخْوَةُ. الَّذِي يَذُمُّ أَخَاهُ وَيَدِينُ أَخَاهُ يَذُمُّ النَّامُوسَ وَيَدِينُ النَّامُوسَ. وَإِنْ كُنْتَ تَدِينُ النَّامُوسَ، فَلَسْتَ عَامِلًا بِالنَّامُوسِ، بَلْ دَيَّانًا لَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا يَذُمَّ بَعْضُكُمْ بَعْضًا أَيُّهَا الإِخْوَةُ. الَّذِي يَذُمُّ أَخَاهُ وَيَدِينُ أَخَاهُ يَذُمُّ النَّامُوسَ وَيَدِينُ النَّامُوسَ. وَإِنْ كُنْتَ تَدِينُ النَّامُوسَ، فَلَسْتَ عَامِلًا بِالنَّامُوسِ، بَلْ دَيَّانًا لَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.12",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 12,
+          "text": "وَاحِدٌ هُوَ وَاضِعُ النَّامُوسِ، الْقَادِرُ أَنْ يُخَلِّصَ وَيُهْلِكَ. فَمَنْ أَنْتَ يَا مَنْ تَدِينُ غَيْرَكَ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَاحِدٌ هُوَ وَاضِعُ النَّامُوسِ، الْقَادِرُ أَنْ يُخَلِّصَ وَيُهْلِكَ. فَمَنْ أَنْتَ يَا مَنْ تَدِينُ غَيْرَكَ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.13",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 13,
+          "text": "هَلُمَّ الآنَ أَيُّهَا الْقَائِلُونَ: «نَذْهَبُ الْيَوْمَ أَوْ غَدًا إِلَى هَذِهِ الْمَدِينَةِ أَوْ تِلْكَ، وَهُنَاكَ نَصْرِفُ سَنَةً وَاحِدَةً وَنَتَّجِرُ وَنَرْبَحُ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَلُمَّ الآنَ أَيُّهَا الْقَائِلُونَ: «نَذْهَبُ الْيَوْمَ أَوْ غَدًا إِلَى هَذِهِ الْمَدِينَةِ أَوْ تِلْكَ، وَهُنَاكَ نَصْرِفُ سَنَةً وَاحِدَةً وَنَتَّجِرُ وَنَرْبَحُ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "لا تفتخروا بالغد",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.14",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 14,
+          "text": "أَنْتُمُ الَّذِينَ لَا تَعْرِفُونَ أَمْرَ الْغَدِ! لأَنَّهُ مَا هِيَ حَيَاتُكُمْ؟ إِنَّهَا بُخَارٌ، يَظْهَرُ قَلِيلًا ثُمَّ يَضْمَحِلُّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنْتُمُ الَّذِينَ لَا تَعْرِفُونَ أَمْرَ الْغَدِ! لأَنَّهُ مَا هِيَ حَيَاتُكُمْ؟ إِنَّهَا بُخَارٌ، يَظْهَرُ قَلِيلًا ثُمَّ يَضْمَحِلُّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.15",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 15,
+          "text": "عِوَضَ أَنْ تَقُولُوا: «إِنْ شَاءَ الرَّبُّ وَعِشْنَا نَفْعَلُ هَذَا أَوْ ذَاكَ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عِوَضَ أَنْ تَقُولُوا: «إِنْ شَاءَ الرَّبُّ وَعِشْنَا نَفْعَلُ هَذَا أَوْ ذَاكَ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.16",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 16,
+          "text": "وَأَمَّا الآنَ فَإِنَّكُمْ تَفْتَخِرُونَ فِي تَعَظُّمِكُمْ. كُلُّ افْتِخَارٍ مِثْلُ هَذَا رَدِيءٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الآنَ فَإِنَّكُمْ تَفْتَخِرُونَ فِي تَعَظُّمِكُمْ. كُلُّ افْتِخَارٍ مِثْلُ هَذَا رَدِيءٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.17",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 17,
+          "text": "فَمَنْ يَعْرِفُ أَنْ يَعْمَلَ حَسَنًا وَلَا يَعْمَلُ، فَذَلِكَ خَطِيَّةٌ لَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَمَنْ يَعْرِفُ أَنْ يَعْمَلَ حَسَنًا وَلَا يَعْمَلُ، فَذَلِكَ خَطِيَّةٌ لَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "اخضعوا لله",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "لا تفتخروا بالغد",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:34.349Z"
+    },
+    "5": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "JAS",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "JAS.5.1",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 1,
+          "text": "هَلُمَّ الآنَ أَيُّهَا الأَغْنِيَاءُ، ابْكُوا مُوَلْوِلِينَ عَلَى شَقَاوَتِكُمُ الْقَادِمَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَلُمَّ الآنَ أَيُّهَا الأَغْنِيَاءُ، ابْكُوا مُوَلْوِلِينَ عَلَى شَقَاوَتِكُمُ الْقَادِمَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تحذير للأغنياء الظالمين",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.2",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 2,
+          "text": "غِنَاكُمْ قَدْ تَهَرَّأَ، وَثِيَابُكُمْ قَدْ أَكَلَهَا الْعُثُّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غِنَاكُمْ قَدْ تَهَرَّأَ، وَثِيَابُكُمْ قَدْ أَكَلَهَا الْعُثُّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.3",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 3,
+          "text": "ذَهَبُكُمْ وَفِضَّتُكُمْ قَدْ صَدِئَا، وَصَدَأُهُمَا يَكُونُ شَهَادَةً عَلَيْكُمْ، وَيَأْكُلُ لُحُومَكُمْ كَنَارٍ! قَدْ كَنَزْتُمْ فِي الأَيَّامِ الأَخِيرَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ذَهَبُكُمْ وَفِضَّتُكُمْ قَدْ صَدِئَا، وَصَدَأُهُمَا يَكُونُ شَهَادَةً عَلَيْكُمْ، وَيَأْكُلُ لُحُومَكُمْ كَنَارٍ! قَدْ كَنَزْتُمْ فِي الأَيَّامِ الأَخِيرَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.4",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 4,
+          "text": "هُوَذَا أُجْرَةُ الْفَعَلَةِ الَّذِينَ حَصَدُوا حُقُولَكُمُ، الْمَبْخُوسَةُ مِنْكُمْ تَصْرُخُ، وَصِيَاحُ الْحَصَّادِينَ قَدْ دَخَلَ إِلَى أُذْنَيْ رَبِّ الْجُنُودِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُوَذَا أُجْرَةُ الْفَعَلَةِ الَّذِينَ حَصَدُوا حُقُولَكُمُ، الْمَبْخُوسَةُ مِنْكُمْ تَصْرُخُ، وَصِيَاحُ الْحَصَّادِينَ قَدْ دَخَلَ إِلَى أُذْنَيْ رَبِّ الْجُنُودِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.5",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 5,
+          "text": "قَدْ تَرَفَّهْتُمْ عَلَى الأَرْضِ، وَتَنَعَّمْتُمْ وَرَبَّيْتُمْ قُلُوبَكُمْ، كَمَا فِي يَوْمِ الذَّبْحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَدْ تَرَفَّهْتُمْ عَلَى الأَرْضِ، وَتَنَعَّمْتُمْ وَرَبَّيْتُمْ قُلُوبَكُمْ، كَمَا فِي يَوْمِ الذَّبْحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.6",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 6,
+          "text": "حَكَمْتُمْ عَلَى الْبَارِّ. قَتَلْتُمُوهُ. لَا يُقَاوِمُكُمْ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَكَمْتُمْ عَلَى الْبَارِّ. قَتَلْتُمُوهُ. لَا يُقَاوِمُكُمْ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.7",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 7,
+          "text": "فَتَأَنَّوْا أَيُّهَا الإِخْوَةُ إِلَى مَجِيءِ الرَّبِّ. هُوَذَا الْفَلَاحُ يَنْتَظِرُ ثَمَرَ الأَرْضِ الثَّمِينَ، مُتَأَنِّيًا عَلَيْهِ حَتَّى يَنَالَ الْمَطَرَ الْمُبَكِّرَ وَالْمُتَأَخِّرَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَتَأَنَّوْا أَيُّهَا الإِخْوَةُ إِلَى مَجِيءِ الرَّبِّ. هُوَذَا الْفَلَاحُ يَنْتَظِرُ ثَمَرَ الأَرْضِ الثَّمِينَ، مُتَأَنِّيًا عَلَيْهِ حَتَّى يَنَالَ الْمَطَرَ الْمُبَكِّرَ وَالْمُتَأَخِّرَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الصبر في الضيقات",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.8",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 8,
+          "text": "فَتَأَنَّوْا أَنْتُمْ وَثَبِّتُوا قُلُوبَكُمْ، لأَنَّ مَجِيءَ الرَّبِّ قَدِ اقْتَرَبَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَتَأَنَّوْا أَنْتُمْ وَثَبِّتُوا قُلُوبَكُمْ، لأَنَّ مَجِيءَ الرَّبِّ قَدِ اقْتَرَبَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.9",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 9,
+          "text": "لَا يَئِنَّ بَعْضُكُمْ عَلَى بَعْضٍ أَيُّهَا الإِخْوَةُ لِئَلاَّ تُدَانُوا. هُوَذَا الدَّيَّانُ وَاقِفٌ قُدَّامَ الْبَابِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا يَئِنَّ بَعْضُكُمْ عَلَى بَعْضٍ أَيُّهَا الإِخْوَةُ لِئَلاَّ تُدَانُوا. هُوَذَا الدَّيَّانُ وَاقِفٌ قُدَّامَ الْبَابِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.10",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 10,
+          "text": "خُذُوا يَا إِخْوَتِي مِثَالًا لاحْتِمَالِ الْمَشَقَّاتِ وَالأَنَاةِ: الأَنْبِيَاءَ الَّذِينَ تَكَلَّمُوا بِاسْمِ الرَّبِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "خُذُوا يَا إِخْوَتِي مِثَالًا لاحْتِمَالِ الْمَشَقَّاتِ وَالأَنَاةِ: الأَنْبِيَاءَ الَّذِينَ تَكَلَّمُوا بِاسْمِ الرَّبِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.11",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 11,
+          "text": "هَا نَحْنُ نُطَوِّبُ الصَّابِرِينَ. قَدْ سَمِعْتُمْ بِصَبْرِ أَيُّوبَ وَرَأَيْتُمْ عَاقِبَةَ الرَّبِّ. لأَنَّ الرَّبَّ كَثِيرُ الرَّحْمَةِ وَرَؤُوفٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَا نَحْنُ نُطَوِّبُ الصَّابِرِينَ. قَدْ سَمِعْتُمْ بِصَبْرِ أَيُّوبَ وَرَأَيْتُمْ عَاقِبَةَ الرَّبِّ. لأَنَّ الرَّبَّ كَثِيرُ الرَّحْمَةِ وَرَؤُوفٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.12",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 12,
+          "text": "وَلكِنْ قَبْلَ كُلِّ شَيْءٍ يَا إِخْوَتِي، لَا تَحْلِفُوا، لَا بِالسَّمَاءِ، وَلَا بِالأَرْضِ، وَلَا بِقَسَمٍ آخَرَ. بَلْ لِتَكُنْ نَعَمْكُمْ نَعَمْ، وَلاَكُمْ لاَ، لِئَلاَّ تَقَعُوا تَحْتَ دَيْنُونَةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ قَبْلَ كُلِّ شَيْءٍ يَا إِخْوَتِي، لَا تَحْلِفُوا، لَا بِالسَّمَاءِ، وَلَا بِالأَرْضِ، وَلَا بِقَسَمٍ آخَرَ. بَلْ لِتَكُنْ نَعَمْكُمْ نَعَمْ، وَلاَكُمْ لاَ، لِئَلاَّ تَقَعُوا تَحْتَ دَيْنُونَةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.13",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 13,
+          "text": "أَعَلَى أَحَدٍ بَيْنَكُمْ مَشَقَّاتٌ؟ فَلْيُصَلِّ. أَمَسْرُورٌ أَحَدٌ؟ فَلْيُرَتِّلْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَعَلَى أَحَدٍ بَيْنَكُمْ مَشَقَّاتٌ؟ فَلْيُصَلِّ. أَمَسْرُورٌ أَحَدٌ؟ فَلْيُرَتِّلْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "صلاة الإيمان",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.14",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 14,
+          "text": "أَمَرِيضٌ أَحَدٌ بَيْنَكُمْ؟ فَلْيَدْعُ شُيُوخَ الْكَنِيسَةِ فَيُصَلُّوا عَلَيْهِ وَيَدْهَنُوهُ بِزَيْتٍ بِاسْمِ الرَّبِّ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَمَرِيضٌ أَحَدٌ بَيْنَكُمْ؟ فَلْيَدْعُ شُيُوخَ الْكَنِيسَةِ فَيُصَلُّوا عَلَيْهِ وَيَدْهَنُوهُ بِزَيْتٍ بِاسْمِ الرَّبِّ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.15",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 15,
+          "text": "وَصَلاَةُ الإِيمَانِ تَشْفِي الْمَرِيضَ، وَالرَّبُّ يُقِيمُهُ، وَإِنْ كَانَ قَدْ فَعَلَ خَطِيَّةً تُغْفَرُ لَهْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَصَلاَةُ الإِيمَانِ تَشْفِي الْمَرِيضَ، وَالرَّبُّ يُقِيمُهُ، وَإِنْ كَانَ قَدْ فَعَلَ خَطِيَّةً تُغْفَرُ لَهْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.16",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 16,
+          "text": "اِعْتَرِفُوا بَعْضُكُمْ لِبَعْضٍ بِالزَّلاَتِ، وَصَلُّوا بَعْضُكُمْ لأَجْلِ بَعْضٍ، لِكَيْ تُشْفَوْا. طَلِبَةُ الْبَارِّ تَقْتَدِرُ كَثِيرًا فِي فِعْلِهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِعْتَرِفُوا بَعْضُكُمْ لِبَعْضٍ بِالزَّلاَتِ، وَصَلُّوا بَعْضُكُمْ لأَجْلِ بَعْضٍ، لِكَيْ تُشْفَوْا. طَلِبَةُ الْبَارِّ تَقْتَدِرُ كَثِيرًا فِي فِعْلِهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.17",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 17,
+          "text": "كَانَ إِيلِيَّا إِنْسَانًا تَحْتَ الآلاَمِ مِثْلَنَا، وَصَلَّى صَلاَةً أَنْ لَا تُمْطِرَ، فَلَمْ تُمْطِرْ عَلَى الأَرْضِ ثَلاَثَ سِنِينَ وَسِتَّةَ أَشْهُرٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَانَ إِيلِيَّا إِنْسَانًا تَحْتَ الآلاَمِ مِثْلَنَا، وَصَلَّى صَلاَةً أَنْ لَا تُمْطِرَ، فَلَمْ تُمْطِرْ عَلَى الأَرْضِ ثَلاَثَ سِنِينَ وَسِتَّةَ أَشْهُرٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.18",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 18,
+          "text": "ثُمَّ صَلَّى أَيْضًا، فَأَعْطَتِ السَّمَاءُ مَطَرًا، وَأَخْرَجَتِ الأَرْضُ ثَمَرَهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ صَلَّى أَيْضًا، فَأَعْطَتِ السَّمَاءُ مَطَرًا، وَأَخْرَجَتِ الأَرْضُ ثَمَرَهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.19",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 19,
+          "text": "أَيُّهَا الإِخْوَةُ، إِنْ ضَلَّ أَحَدٌ بَيْنَكُمْ عَنِ الْحَقِّ فَرَدَّهُ أَحَدٌ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا الإِخْوَةُ، إِنْ ضَلَّ أَحَدٌ بَيْنَكُمْ عَنِ الْحَقِّ فَرَدَّهُ أَحَدٌ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.20",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 20,
+          "text": "فَلْيَعْلَمْ أَنَّ مَنْ رَدَّ خَاطِئًا عَنْ ضَلاَلِ طَرِيقِهِ، يُخَلِّصُ نَفْسًا مِنَ الْمَوْتِ، وَيَسْتُرُ كَثْرَةً مِنَ الْخَطَايَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَلْيَعْلَمْ أَنَّ مَنْ رَدَّ خَاطِئًا عَنْ ضَلاَلِ طَرِيقِهِ، يُخَلِّصُ نَفْسًا مِنَ الْمَوْتِ، وَيَسْتُرُ كَثْرَةً مِنَ الْخَطَايَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تحذير للأغنياء الظالمين",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "الصبر في الضيقات",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "صلاة الإيمان",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:35.179Z"
+    }
+  }
+}

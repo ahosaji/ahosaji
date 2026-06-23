@@ -1,0 +1,587 @@
+{
+  "usfm": "PHM",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "PHM",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "PHM.1.1",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 1,
+          "text": "بُولُسُ، أَسِيرُ يَسُوعَ الْمَسِيحِ، وَتِيمُوثَاوُسُ الأَخُ، إِلَى فِلِيمُونَ الْمَحْبُوبِ وَالْعَامِلِ مَعَنَا،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بُولُسُ، أَسِيرُ يَسُوعَ الْمَسِيحِ، وَتِيمُوثَاوُسُ الأَخُ، إِلَى فِلِيمُونَ الْمَحْبُوبِ وَالْعَامِلِ مَعَنَا،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "مقدمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.2",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 2,
+          "text": "وَإِلَى أَبْفِيَّةَ الْمَحْبُوبَةِ، وَأَرْخِبُّسَ الْمُتَجَنِّدِ مَعَنَا، وَإِلَى الْكَنِيسَةِ الَّتِي فِي بَيْتِكَ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِلَى أَبْفِيَّةَ الْمَحْبُوبَةِ، وَأَرْخِبُّسَ الْمُتَجَنِّدِ مَعَنَا، وَإِلَى الْكَنِيسَةِ الَّتِي فِي بَيْتِكَ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.3",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 3,
+          "text": "نِعْمَةٌ لَكُمْ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالرَّبِّ يَسُوعَ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نِعْمَةٌ لَكُمْ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالرَّبِّ يَسُوعَ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.4",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 4,
+          "text": "أَشْكُرُ إِلَهِي كُلَّ حِينٍ ذَاكِرًا إِيَّاكَ فِي صَلَوَاتِي،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَشْكُرُ إِلَهِي كُلَّ حِينٍ ذَاكِرًا إِيَّاكَ فِي صَلَوَاتِي،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "شكر وصلاة من أجل فليمون",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.5",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 5,
+          "text": "سَامِعًا بِمَحَبَّتِكَ، وَالإِيمَانِ الَّذِي لَكَ نَحْوَ الرَّبِّ يَسُوعَ، وَلِجَمِيعِ الْقِدِّيسِينَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "سَامِعًا بِمَحَبَّتِكَ، وَالإِيمَانِ الَّذِي لَكَ نَحْوَ الرَّبِّ يَسُوعَ، وَلِجَمِيعِ الْقِدِّيسِينَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.6",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 6,
+          "text": "لِكَيْ تَكُونَ شَرِكَةُ إِيمَانِكَ فَعَّالَةً فِي مَعْرِفَةِ كُلِّ الصَّلاَحِ الَّذِي فِيكُمْ لأَجْلِ الْمَسِيحِ يَسُوعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِكَيْ تَكُونَ شَرِكَةُ إِيمَانِكَ فَعَّالَةً فِي مَعْرِفَةِ كُلِّ الصَّلاَحِ الَّذِي فِيكُمْ لأَجْلِ الْمَسِيحِ يَسُوعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.7",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 7,
+          "text": "لأَنَّ لَنَا فَرَحًا كَثِيرًا وَتَعْزِيَةً بِسَبَبِ مَحَبَّتِكَ، لأَنَّ أَحْشَاءَ الْقِدِّيسِينَ قَدِ اسْتَرَاحَتْ بِكَ أَيُّهَا الأَخُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ لَنَا فَرَحًا كَثِيرًا وَتَعْزِيَةً بِسَبَبِ مَحَبَّتِكَ، لأَنَّ أَحْشَاءَ الْقِدِّيسِينَ قَدِ اسْتَرَاحَتْ بِكَ أَيُّهَا الأَخُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.8",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 8,
+          "text": "لِذَلَِكَ، وَإِنْ كَانَ لِي بِالْمَسِيحِ ثِقَةٌ كَثِيرَةٌ أَنْ آمُرَكَ بِمَا يَلِيقُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِذَلَِكَ، وَإِنْ كَانَ لِي بِالْمَسِيحِ ثِقَةٌ كَثِيرَةٌ أَنْ آمُرَكَ بِمَا يَلِيقُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "التماس بولس من أجل أنسيمس",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.9",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 9,
+          "text": "مِنْ أَجْلِ الْمَحَبَّةِ، أَطْلُبُ بِالْحَرِيِّ­ إِذْ أَنَا إِنْسَانٌ هَكَذَا نَظِيرُ بُولُسَ الشَّيْخِ، وَالآنَ أَسِيرُ يَسُوعَ الْمَسِيحِ أَيْضًا ­",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْ أَجْلِ الْمَحَبَّةِ، أَطْلُبُ بِالْحَرِيِّ­ إِذْ أَنَا إِنْسَانٌ هَكَذَا نَظِيرُ بُولُسَ الشَّيْخِ، وَالآنَ أَسِيرُ يَسُوعَ الْمَسِيحِ أَيْضًا ­",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.10",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 10,
+          "text": "أَطْلُبُ إِلَيْكَ لأَجْلِ ابْنِي أُنِسِيمُسَ، الَّذِي وَلَدْتُهُ فِي قُيُودِي،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَطْلُبُ إِلَيْكَ لأَجْلِ ابْنِي أُنِسِيمُسَ، الَّذِي وَلَدْتُهُ فِي قُيُودِي،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.11",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 11,
+          "text": "الَّذِي كَانَ قَبْلًا غَيْرَ نَافِعٍ لَكَ، وَلكِنَّهُ الآنَ نَافِعٌ لَكَ وَلِي،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي كَانَ قَبْلًا غَيْرَ نَافِعٍ لَكَ، وَلكِنَّهُ الآنَ نَافِعٌ لَكَ وَلِي،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.12",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 12,
+          "text": "الَّذِي رَدَدْتُهُ. فَاقْبَلْهُ، الَّذِي هُوَ أَحْشَائِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي رَدَدْتُهُ. فَاقْبَلْهُ، الَّذِي هُوَ أَحْشَائِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.13",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 13,
+          "text": "الَّذِي كُنْتُ أَشَاءُ أَنْ أُمْسِكَهُ عِنْدِي لِكَيْ يَخْدِمَنِي عِوَضًا عَنْكَ فِي قُيُودِ الإِنْجِيلِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي كُنْتُ أَشَاءُ أَنْ أُمْسِكَهُ عِنْدِي لِكَيْ يَخْدِمَنِي عِوَضًا عَنْكَ فِي قُيُودِ الإِنْجِيلِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تحيات ختامية",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.14",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 14,
+          "text": "وَلكِنْ بِدُونِ رَأْيِكَ لَمْ أُرِدْ أَنْ أَفْعَلَ شَيْئًا، لِكَيْ لَا يَكُونَ خَيْرُكَ كَأَنَّهُ عَلَى سَبِيلِ الاضْطِرَارِ بَلْ عَلَى سَبِيلِ الاخْتِيَارِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ بِدُونِ رَأْيِكَ لَمْ أُرِدْ أَنْ أَفْعَلَ شَيْئًا، لِكَيْ لَا يَكُونَ خَيْرُكَ كَأَنَّهُ عَلَى سَبِيلِ الاضْطِرَارِ بَلْ عَلَى سَبِيلِ الاخْتِيَارِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.15",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 15,
+          "text": "لأَنَّهُ رُبَّمَا لأَجْلِ هَذَا افْتَرَقَ عَنْكَ إِلَى سَاعَةٍ، لِكَيْ يَكُونَ لَكَ إِلَى الأَبَدِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ رُبَّمَا لأَجْلِ هَذَا افْتَرَقَ عَنْكَ إِلَى سَاعَةٍ، لِكَيْ يَكُونَ لَكَ إِلَى الأَبَدِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.16",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 16,
+          "text": "لَا كَعَبْدٍ فِي مَا بَعْدُ، بَلْ أَفْضَلَ مِنْ عَبْدٍ: أَخًا مَحْبُوبًا، وَلَا سِيَّمَا إِلَيَّ، فَكَمْ بِالْحَرِيِّ إِلَيْكَ فِي الْجَسَدِ وَالرَّبِّ جَمِيعًا!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا كَعَبْدٍ فِي مَا بَعْدُ، بَلْ أَفْضَلَ مِنْ عَبْدٍ: أَخًا مَحْبُوبًا، وَلَا سِيَّمَا إِلَيَّ، فَكَمْ بِالْحَرِيِّ إِلَيْكَ فِي الْجَسَدِ وَالرَّبِّ جَمِيعًا!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.17",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 17,
+          "text": "فَإِنْ كُنْتَ تَحْسِبُنِي شَرِيكًا، فَاقْبَلْهُ نَظِيرِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنْ كُنْتَ تَحْسِبُنِي شَرِيكًا، فَاقْبَلْهُ نَظِيرِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.18",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 18,
+          "text": "ثُمَّ إِنْ كَانَ قَدْ ظَلَمَكَ بِشَيْءٍ، أَوْ لَكَ عَلَيْهِ دَيْنٌ، فَاحْسُبْ ذَلِكَ عَلَيَّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ إِنْ كَانَ قَدْ ظَلَمَكَ بِشَيْءٍ، أَوْ لَكَ عَلَيْهِ دَيْنٌ، فَاحْسُبْ ذَلِكَ عَلَيَّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.19",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 19,
+          "text": "أَنَا بُولُسَ كَتَبْتُ بِيَدِي: أَنَا أُوفِي. حَتَّى لَا أَقُولُ لَكَ إِنَّكَ مَدْيُونٌ لِي بِنَفْسِكَ أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنَا بُولُسَ كَتَبْتُ بِيَدِي: أَنَا أُوفِي. حَتَّى لَا أَقُولُ لَكَ إِنَّكَ مَدْيُونٌ لِي بِنَفْسِكَ أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.20",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 20,
+          "text": "نَعَمْ أَيُّهَا الأَخُ، لِيَكُنْ لِي فَرَحٌ بِكَ فِي الرَّبِّ. أَرِحْ أَحْشَائِي فِي الرَّبِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نَعَمْ أَيُّهَا الأَخُ، لِيَكُنْ لِي فَرَحٌ بِكَ فِي الرَّبِّ. أَرِحْ أَحْشَائِي فِي الرَّبِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.21",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 21,
+          "text": "إِذْ أَنَا وَاثِقٌ بِإِطَاعَتِكَ، كَتَبْتُ إِلَيْكَ، عَالِمًا أَنَّكَ تَفْعَلُ أَيْضًا أَكْثَرَ مِمَّا أَقُولُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذْ أَنَا وَاثِقٌ بِإِطَاعَتِكَ، كَتَبْتُ إِلَيْكَ، عَالِمًا أَنَّكَ تَفْعَلُ أَيْضًا أَكْثَرَ مِمَّا أَقُولُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.22",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 22,
+          "text": "وَمَعَ هَذَا، أَعْدِدْ لِي أَيْضًا مَنْزِلًا، لأَنِّي أَرْجُو أَنَّنِي بِصَلَوَاتِكُمْ سَأُوهَبُ لَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَعَ هَذَا، أَعْدِدْ لِي أَيْضًا مَنْزِلًا، لأَنِّي أَرْجُو أَنَّنِي بِصَلَوَاتِكُمْ سَأُوهَبُ لَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.23",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 23,
+          "text": "يُسَلِّمُ عَلَيْكَ أَبَفْرَاسُ الْمَأْسُورُ مَعِي فِي الْمَسِيحِ يَسُوعَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُسَلِّمُ عَلَيْكَ أَبَفْرَاسُ الْمَأْسُورُ مَعِي فِي الْمَسِيحِ يَسُوعَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.24",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 24,
+          "text": "وَمَرْقُسُ، وَأَرِسْتَرْخُسُ، وَدِيمَاسُ، وَلُوقَا الْعَامِلُونَ مَعِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَرْقُسُ، وَأَرِسْتَرْخُسُ، وَدِيمَاسُ، وَلُوقَا الْعَامِلُونَ مَعِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHM.1.25",
+          "book": "PHM",
+          "chapter": 1,
+          "verse": 25,
+          "text": "نِعْمَةُ رَبِّنَا يَسُوعَ الْمَسِيحِ مَعَ رُوحِكُمْ. آمِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نِعْمَةُ رَبِّنَا يَسُوعَ الْمَسِيحِ مَعَ رُوحِكُمْ. آمِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "مقدمة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "شكر وصلاة من أجل فليمون",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "التماس بولس من أجل أنسيمس",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "تحيات ختامية",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:19.706Z"
+    }
+  }
+}

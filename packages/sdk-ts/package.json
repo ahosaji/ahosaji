@@ -1,0 +1,22 @@
+{
+  "name": "@ahosaji/sdk",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Ahosaji TypeScript SDK — auto-generated from OpenAPI",
+  "type": "module",
+  "main": "./src/generated/index.ts",
+  "types": "./src/generated/index.ts",
+  "scripts": {
+    "generate": "openapi --input ../../docs/api/openapi.yaml --output src/generated --name AhosajiClient --client fetch --useOptions --useUnionTypes",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "smoke": "tsx src/smoke.ts",
+    "docs": "typedoc --options typedoc.json"
+  },
+  "devDependencies": {
+    "openapi-typescript-codegen": "^0.29.0",
+    "tsx": "^4.19.1",
+    "typedoc": "^0.28.19",
+    "typescript": "^5.6.3"
+  }
+}

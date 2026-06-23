@@ -1,0 +1,47 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# build outputs
+dist/
+build/
+.next/
+.turbo/
+*.tsbuildinfo
+
+# env / secrets
+.env
+.env.local
+.env.*.local
+*.env
+!*.env.example
+
+# logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# coverage / test
+coverage/
+.nyc_output/
+
+# ingestion working files
+ingest/data/cache/
+ingest/data/.scratch/
+
+# infra-local
+infra/backups/
+infra/*.env
+!infra/*.env.example
+
+# python sidecar
+__pycache__/
+*.pyc
+.venv/

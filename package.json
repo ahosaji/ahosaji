@@ -1,0 +1,26 @@
+{
+  "name": "ahosaji",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Ahosaji — Coptic Orthodox content API (Treasure of the Word)",
+  "engines": {
+    "node": ">=22.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter @ahosaji/ingest dev",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "pnpm": {
+    "overrides": {
+      "fast-uri": ">=3.1.2",
+      "axios": ">=1.16.0"
+    }
+  },
+  "packageManager": "pnpm@9.12.0"
+}

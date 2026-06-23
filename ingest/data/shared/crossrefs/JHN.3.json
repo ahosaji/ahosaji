@@ -1,0 +1,16 @@
+{
+  "comment": "Sample cross-references for John 3, derived from the Treasury of Scripture Knowledge (TSK, public domain, 19th century). For the full Bible-wide dataset, see https://www.openbible.info/labs/cross-references/ which exposes ~340,000 cross-refs as a public-domain CSV. This sample is hand-curated for the Day 6 enrichment prototype.",
+  "tradition": "TSK",
+  "refs": [
+    { "from": "JHN.3.3", "to": ["JHN.1.13", "1PE.1.23", "TIT.3.5"] },
+    { "from": "JHN.3.5", "to": ["EZK.36.25", "MRK.16.16", "ACT.2.38", "TIT.3.5"] },
+    { "from": "JHN.3.13", "to": ["PRO.30.4", "ACT.2.34", "EPH.4.9", "1CO.15.47"] },
+    { "from": "JHN.3.14", "to": ["NUM.21.9", "JHN.8.28", "JHN.12.32"] },
+    { "from": "JHN.3.16", "to": ["ROM.5.8", "1JN.4.9", "1JN.4.10", "JHN.3.36"] },
+    { "from": "JHN.3.17", "to": ["LUK.9.56", "JHN.5.45", "JHN.12.47", "1JN.4.14"] },
+    { "from": "JHN.3.18", "to": ["JHN.3.36", "JHN.5.24", "MRK.16.16", "1JN.5.10"] },
+    { "from": "JHN.3.19", "to": ["JHN.1.4", "JHN.1.9", "JHN.8.12", "JHN.12.46"] },
+    { "from": "JHN.3.30", "to": ["ISA.9.7", "ACT.13.36", "PHP.2.9", "COL.1.18"] },
+    { "from": "JHN.3.36", "to": ["JHN.3.16", "ROM.1.18", "1JN.5.10", "EPH.5.6"] }
+  ]
+}

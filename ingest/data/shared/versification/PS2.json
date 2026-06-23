@@ -1,0 +1,17 @@
+{
+  "book": "PS2",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "coptic-orthodox-arabic",
+    "en": "rahlfs-lxx"
+  },
+  "scope": "comprehensive",
+  "notes": [
+    "Psalm 151 — the supernumerary autobiographical psalm of David, treated as a separate USFM book (PS2) in our schema since the modern 150-Psalm numbering used by both translations doesn't accommodate it inline.",
+    "Both translations contain the same 7 narrative beats (David as shepherd, building the lyre, sending of the angel, anointing, his brothers, the foreigner / Philistine, the beheading), but ar splits the closing v7 (\"drew sword + beheaded + removed disgrace\") into ar v7 (drew sword) and ar v8 (removed disgrace, with closing Hallelujah). This 1→2 split gives ar 8 verses to en's 7.",
+    "Verses 1-6 align cleanly between translations. The split occurs only at the end."
+  ],
+  "mappings": [
+    { "ar": "PS2.1.8", "en": "PS2.1.7" }
+  ]
+}

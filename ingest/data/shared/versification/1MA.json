@@ -1,0 +1,24 @@
+{
+  "book": "1MA",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "vulgate",
+    "en": "rahlfs-lxx"
+  },
+  "scope": "comprehensive-overflow-v1",
+  "notes": [
+    "1 Maccabees aligns very cleanly between Arabic source Arabic and English English — 12 of 16 chapters are verse-count-identical. The 4 divergent chapters all show ar > en by 1-3 verses, caused by Vulgate splitting a single LXX verse into two for narrative emphasis (e.g. ch1 v63 split into ar v65-66; ch12 v53 quotation split into ar v53-54).",
+    "ch1 v65-66 are the famous martyrs-rather-than-eat-unclean verses, immediately preceding the introduction of Mattathias. Vulgate gave them their own verse numbering for emphasis."
+  ],
+  "mappings": [
+    { "ar": "1MA.1.65", "en": "1MA.1.63" },
+    { "ar": "1MA.1.66", "en": "1MA.1.63" },
+    { "ar": "1MA.1.67", "en": "1MA.1.64" },
+
+    { "ar": "1MA.8.32", "en": "1MA.8.31" },
+
+    { "ar": "1MA.12.54", "en": "1MA.12.53" },
+
+    { "ar": "1MA.13.54", "en": "1MA.13.53" }
+  ]
+}

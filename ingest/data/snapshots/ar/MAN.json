@@ -1,0 +1,281 @@
+{
+  "usfm": "MAN",
+  "source": "arabic",
+  "_provenance": {
+    "title": "تسابيح ليلة سبت الفرح (الأبوغلمسيس) 6: صلاة منسى الملك",
+    "title_en": "Hymns of the Night of Bright Saturday (Apogalmesis) 6: Prayer of King Manasseh",
+    "container": "كتاب دلال أسبوع الآلام: طقس البصخة المقدسة",
+    "container_en": "The Guide to the Holy Pascha — Coptic Orthodox liturgical rite",
+    "url": "https://example.org/lyrics/ar/liturgy/holy-pascha/483.html",
+    "publisher": "example.org (موقع الأنبا تكلاهيمانوت)",
+    "note": "Sourced because Arabic source's Bible-search endpoint does not include the Prayer of Manasseh. Selected as a Coptic-Orthodox-aligned Arabic source: this is the Arabic text used in the Coptic Orthodox Holy Pascha (Bright Saturday) liturgy itself, so the verse-7 Coptic-tradition addition is already incorporated naturally into the prayer body — matching the bracketed addition in our en/MAN.json sourced from Fr. the editor's parish edition."
+  },
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "MAN",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "MAN.1.1",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 1,
+          "text": "يَا رَبُّ ضَابِطُ الْكُلِّ الَّذِي فِي السَّمَاءِ، إِلَهُ آبَائِنَا إِبْرَاهِيمَ وَإِسْحَقَ وَيَعْقُوبَ وَزَرْعِهِمُ الصِّدِّيقِ.",
+          "structured": {
+            "tokens": [{ "text": "يَا رَبُّ ضَابِطُ الْكُلِّ الَّذِي فِي السَّمَاءِ، إِلَهُ آبَائِنَا إِبْرَاهِيمَ وَإِسْحَقَ وَيَعْقُوبَ وَزَرْعِهِمُ الصِّدِّيقِ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "صَلاَةُ مَنَسَّى ابْنِ حَزَقِيَّا",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.2",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 2,
+          "text": "الَّذِي خَلَقَ السَّمَاءَ وَالأَرْضَ وَكُلَّ زِينَتِهِمَا.",
+          "structured": {
+            "tokens": [{ "text": "الَّذِي خَلَقَ السَّمَاءَ وَالأَرْضَ وَكُلَّ زِينَتِهِمَا.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.3",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 3,
+          "text": "الَّذِي رَبَطَ الْبَحْرَ بِكَلِمَةِ أَمْرِهِ، وَخَتَمَ فَمَهُ بِاسْمِهِ الْمَخُوفِ وَالْمَمْلُوءِ مَجْدًا.",
+          "structured": {
+            "tokens": [{ "text": "الَّذِي رَبَطَ الْبَحْرَ بِكَلِمَةِ أَمْرِهِ، وَخَتَمَ فَمَهُ بِاسْمِهِ الْمَخُوفِ وَالْمَمْلُوءِ مَجْدًا.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.4",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 4,
+          "text": "الَّذِي يَفْزَعُ وَيَرْتَعِدُ كُلُّ شَيْءٍ مِنْ قُدَّامِ وَجْهِ قُوَّتِهِ.",
+          "structured": {
+            "tokens": [{ "text": "الَّذِي يَفْزَعُ وَيَرْتَعِدُ كُلُّ شَيْءٍ مِنْ قُدَّامِ وَجْهِ قُوَّتِهِ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.5",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 5,
+          "text": "لأَنَّهَا لاَ تُحَدُّ عَظَمَةُ عِزِّ مَجْدِكَ، وَلاَ يُدْرَكُ غَضَبُ رِجْزِكَ عَلَى الْخُطَاةِ.",
+          "structured": {
+            "tokens": [{ "text": "لأَنَّهَا لاَ تُحَدُّ عَظَمَةُ عِزِّ مَجْدِكَ، وَلاَ يُدْرَكُ غَضَبُ رِجْزِكَ عَلَى الْخُطَاةِ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.6",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 6,
+          "text": "وَغَيْرُ مُحْصَاةٍ وَلاَ مُدْرَكَةٍ رَحْمَةُ إِرَادَتِكَ.",
+          "structured": {
+            "tokens": [{ "text": "وَغَيْرُ مُحْصَاةٍ وَلاَ مُدْرَكَةٍ رَحْمَةُ إِرَادَتِكَ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.7",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 7,
+          "text": "أَنْتَ الرَّبُّ الْعَلِيُّ الرَّحُومُ، طَوِيلُ الرُّوحِ وَكَثِيرُ الرَّحْمَةِ وَبَارٌّ، وَمُتَأَسِّفٌ عَلَى شَرِّ الْبَشَرِ. [أَنْتَ أَيْضًا يَا رَبُّ عَلَى قَدْرِ صَلاَحِكَ رَسَمْتَ تَوْبَةً لِمَنْ أَخْطَأَ إِلَيْكَ، وَبِكَثْرَةِ رَحْمَتِكَ بَشَّرْتَ بِتَوْبَةٍ لِلْخَطَأَةِ لِخَلاَصِهِمْ.]",
+          "structured": {
+            "tokens": [
+              { "text": "أَنْتَ الرَّبُّ الْعَلِيُّ الرَّحُومُ، طَوِيلُ الرُّوحِ وَكَثِيرُ الرَّحْمَةِ وَبَارٌّ، وَمُتَأَسِّفٌ عَلَى شَرِّ الْبَشَرِ. ", "redLetter": false },
+              { "text": "[أَنْتَ أَيْضًا يَا رَبُّ عَلَى قَدْرِ صَلاَحِكَ رَسَمْتَ تَوْبَةً لِمَنْ أَخْطَأَ إِلَيْكَ، وَبِكَثْرَةِ رَحْمَتِكَ بَشَّرْتَ بِتَوْبَةٍ لِلْخَطَأَةِ لِخَلاَصِهِمْ.]", "redLetter": false }
+            ],
+            "footnotes": [
+              { "marker": "أ", "text": "الجزء بين قوسين معقوفين من الآية 7 هو الإضافة من الترجمة القبطية لهذه الصلاة المستخدمة في قراءات سبت الفرح في طقس الكنيسة القبطية الأرثوذكسية. الطبعات الغربية (KJV Apocrypha, NRSV-CE) عادةً ما تحذفه. هذا النص العربي مأخوذ من النص الطقسي القبطي مباشرةً فيتضمن الإضافة طبيعيًا." }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.8",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 8,
+          "text": "أَنْتَ يَا رَبُّ إِلَهُ الأَبْرَارِ، لَمْ تَجْعَلِ التَّوْبَةَ لِلصِّدِّيقِينَ إِبْرَاهِيمَ وَإِسْحَقَ وَيَعْقُوبَ، هَؤُلاَءِ الَّذِينَ لَمْ يُخْطِئُوا إِلَيْكَ، بَلْ جَعَلْتَ التَّوْبَةَ لِمِثْلِي أَنَا الْخَاطِئَ.",
+          "structured": {
+            "tokens": [{ "text": "أَنْتَ يَا رَبُّ إِلَهُ الأَبْرَارِ، لَمْ تَجْعَلِ التَّوْبَةَ لِلصِّدِّيقِينَ إِبْرَاهِيمَ وَإِسْحَقَ وَيَعْقُوبَ، هَؤُلاَءِ الَّذِينَ لَمْ يُخْطِئُوا إِلَيْكَ، بَلْ جَعَلْتَ التَّوْبَةَ لِمِثْلِي أَنَا الْخَاطِئَ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.9",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 9,
+          "text": "لأَنِّي أَخْطَأْتُ أَكْثَرَ مِنْ عَدَدِ رَمْلِ الْبَحْرِ، كَثُرَتْ آثَامِي وَلَسْتُ مُسْتَحِقًّا أَنْ أَرْفَعَ عَيْنَيَّ إِلَى السَّمَاءِ مِنْ قِبَلِ كَثْرَةِ ظُلْمِي.",
+          "structured": {
+            "tokens": [{ "text": "لأَنِّي أَخْطَأْتُ أَكْثَرَ مِنْ عَدَدِ رَمْلِ الْبَحْرِ، كَثُرَتْ آثَامِي وَلَسْتُ مُسْتَحِقًّا أَنْ أَرْفَعَ عَيْنَيَّ إِلَى السَّمَاءِ مِنْ قِبَلِ كَثْرَةِ ظُلْمِي.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.10",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 10,
+          "text": "وَلَسْتُ مُسْتَحِقًّا أَنْ أَنْحَنِيَ مِنْ أَجْلِ كَثْرَةِ رِبَاطَاتِ الْحَدِيدِ، وَلاَ أَرْفَعَ رَأْسِي مِنْ خَطَايَايَ. وَالآنَ بِالْحَقِيقَةِ قَدْ أَغْضَبْتُكَ وَلاَ رَاحَةَ لِي، لأَنِّي أَسْخَطْتُ رِجْزَكَ، وَالشَّرَّ صَنَعْتُ بَيْنَ يَدَيْكَ، وَأَقَمْتُ رَجَاسَاتِي وَأَكْثَرْتُ نَجَاسَاتِي.",
+          "structured": {
+            "tokens": [{ "text": "وَلَسْتُ مُسْتَحِقًّا أَنْ أَنْحَنِيَ مِنْ أَجْلِ كَثْرَةِ رِبَاطَاتِ الْحَدِيدِ، وَلاَ أَرْفَعَ رَأْسِي مِنْ خَطَايَايَ. وَالآنَ بِالْحَقِيقَةِ قَدْ أَغْضَبْتُكَ وَلاَ رَاحَةَ لِي، لأَنِّي أَسْخَطْتُ رِجْزَكَ، وَالشَّرَّ صَنَعْتُ بَيْنَ يَدَيْكَ، وَأَقَمْتُ رَجَاسَاتِي وَأَكْثَرْتُ نَجَاسَاتِي.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.11",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 11,
+          "text": "وَالآنَ أَحْنِي رُكْبَتَيْ قَلْبِي وَأَطْلُبُ مِنْ صَلاَحِكَ.",
+          "structured": {
+            "tokens": [{ "text": "وَالآنَ أَحْنِي رُكْبَتَيْ قَلْبِي وَأَطْلُبُ مِنْ صَلاَحِكَ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "اعْتِرَافٌ وَطَلَبَةُ مَغْفِرَةٍ",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.12",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 12,
+          "text": "أَخْطَأْتُ يَا رَبُّ أَخْطَأْتُ، وَآثَامِي أَنَا عَارِفُهَا.",
+          "structured": {
+            "tokens": [{ "text": "أَخْطَأْتُ يَا رَبُّ أَخْطَأْتُ، وَآثَامِي أَنَا عَارِفُهَا.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.13",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 13,
+          "text": "وَلَكِنْ أَسْأَلُ وَأَطْلُبُ إِلَيْكَ يَا رَبُّ: اغْفِرْ لِي وَلاَ تُهْلِكْنِي بِآثَامِي، وَلاَ تَحْقِدْ عَلَيَّ إِلَى الدَّهْرِ، وَلاَ تَحْفَظْ شُرُورِي، وَلاَ تُلْقِنِي فِي الدَّيْنُونَةِ فِي قَرَارِ أَسْفَلِ الأَرْضِ، لأَنَّكَ أَنْتَ هُوَ إِلَهُ التَّائِبِينَ.",
+          "structured": {
+            "tokens": [{ "text": "وَلَكِنْ أَسْأَلُ وَأَطْلُبُ إِلَيْكَ يَا رَبُّ: اغْفِرْ لِي وَلاَ تُهْلِكْنِي بِآثَامِي، وَلاَ تَحْقِدْ عَلَيَّ إِلَى الدَّهْرِ، وَلاَ تَحْفَظْ شُرُورِي، وَلاَ تُلْقِنِي فِي الدَّيْنُونَةِ فِي قَرَارِ أَسْفَلِ الأَرْضِ، لأَنَّكَ أَنْتَ هُوَ إِلَهُ التَّائِبِينَ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.14",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 14,
+          "text": "وَفِيَّ أَنَا غَيْرُ الْمُسْتَحِقِّ تُظْهِرُ صَلاَحَكَ، وَتُخَلِّصُنِي بِكَثْرَةِ رَحْمَتِكَ.",
+          "structured": {
+            "tokens": [{ "text": "وَفِيَّ أَنَا غَيْرُ الْمُسْتَحِقِّ تُظْهِرُ صَلاَحَكَ، وَتُخَلِّصُنِي بِكَثْرَةِ رَحْمَتِكَ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.15",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 15,
+          "text": "فَأُسَبِّحُكَ كُلَّ حِينٍ كُلَّ أَيَّامِ حَيَاتِي، لأَنَّكَ أَنْتَ هُوَ الَّذِي تُسَبِّحُ لَكَ كُلُّ قُوَّاتِ السَّمَاوَاتِ، وَلَكَ الْمَجْدُ إِلَى الأَبَدِ. آمِينَ.",
+          "structured": {
+            "tokens": [{ "text": "فَأُسَبِّحُكَ كُلَّ حِينٍ كُلَّ أَيَّامِ حَيَاتِي، لأَنَّكَ أَنْتَ هُوَ الَّذِي تُسَبِّحُ لَكَ كُلُّ قُوَّاتِ السَّمَاوَاتِ، وَلَكَ الْمَجْدُ إِلَى الأَبَدِ. آمِينَ.", "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "صَلاَةُ مَنَسَّى ابْنِ حَزَقِيَّا",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "اعْتِرَافٌ وَطَلَبَةُ مَغْفِرَةٍ",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T00:00:00.000Z"
+    }
+  }
+}

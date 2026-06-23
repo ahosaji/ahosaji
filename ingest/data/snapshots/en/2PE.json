@@ -1,0 +1,1913 @@
+{
+  "usfm": "2PE",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "2PE",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "2PE.1.1",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Simon Peter, a bondservant and apostle of Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Simon Peter, a bondservant and apostle of Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting the Faithful",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.2",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.3",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 3,
+          "text": "as His divine power has given to us all things that pertain to life and godliness, through the knowledge of Him who called us by glory and virtue,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as His divine power has given to us all things that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "pertain",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to life and godliness, through the knowledge of Him who called us by glory and virtue,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.4",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 4,
+          "text": "by which have been given to us exceedingly great and precious promises, that through these you may be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "by which have been given to us exceedingly great and precious promises, that through these you may be partakers of the divine nature, having escaped the corruption ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the world through lust.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "depravity"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.5",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 5,
+          "text": "But also for this very reason, giving all diligence, add to your faith virtue, to virtue knowledge,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But also for this very reason, giving all diligence, add to your faith virtue, to virtue knowledge,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Fruitful Growth in the Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.6",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 6,
+          "text": "to knowledge self-control, to self-control perseverance, to perseverance godliness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to knowledge self-control, to self-control perseverance, to perseverance godliness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "patience"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.7",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 7,
+          "text": "to godliness brotherly kindness, and to brotherly kindness love.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to godliness brotherly kindness, and to brotherly kindness love.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.8",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 8,
+          "text": "For if these things are yours and abound, you will be neither barren nor unfruitful in the knowledge of our Lord Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if these things are yours and abound, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " will be neither barren nor unfruitful in the knowledge of our Lord Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "useless"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.9",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 9,
+          "text": "For he who lacks these things is shortsighted, even to blindness, and has forgotten that he was cleansed from his old sins.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For he who lacks these things is shortsighted, even to blindness, and has forgotten that he was cleansed from his old sins.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.10",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Therefore, brethren, be even more diligent to make your call and election sure, for if you do these things you will never stumble;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, brethren, be even more diligent to make your call and election sure, for if you do these things you will never stumble;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.11",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 11,
+          "text": "for so an entrance will be supplied to you abundantly into the everlasting kingdom of our Lord and Savior Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for so an entrance will be supplied to you abundantly into the everlasting kingdom of our Lord and Savior Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.12",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 12,
+          "text": "For this reason I will not be negligent to remind you always of these things, though you know and are established in the present truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this reason I will not be negligent to remind you always of these things, though you know and are established in the present truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Peter’s Approaching Death",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.13",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Yes, I think it is right, as long as I am in this tent, to stir you up by reminding you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, I think it is right, as long as I am in this tent, to stir you up by reminding ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": ",",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Body"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.14",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 14,
+          "text": "knowing that shortly I must put off my tent, just as our Lord Jesus Christ showed me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing that shortly I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "must",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " put off my tent, just as our Lord Jesus Christ showed me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Die and leave this body"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.15",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Moreover I will be careful to ensure that you always have a reminder of these things after my decease.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Moreover I will be careful to ensure that you always have a reminder of these things after my decease.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. exodus, departure"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.16",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 16,
+          "text": "For we did not follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but were eyewitnesses of His majesty.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we did not follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but were eyewitnesses of His majesty.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Trustworthy Prophetic Word(T)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.17",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 17,
+          "text": "For He received from God the Father honor and glory when such a voice came to Him from the Excellent Glory: “This is My beloved Son, in whom I am well pleased.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For He received from God the Father honor and glory when such a voice came to Him from the Excellent Glory: “This is My beloved Son, in whom I am well pleased.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.18",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 18,
+          "text": "And we heard this voice which came from heaven when we were with Him on the holy mountain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And we heard this voice which came from heaven when we were with Him on the holy mountain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.19",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 19,
+          "text": "And so we have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And so we have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Or We also have the more sure prophetic word"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.20",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 20,
+          "text": "knowing this first, that no prophecy of Scripture is of any private interpretation,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing this first, that no prophecy of Scripture is of any private interpretation,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Or origin"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.1.21",
+          "book": "2PE",
+          "chapter": 1,
+          "verse": 21,
+          "text": "for prophecy never came by the will of man, but holy men of God spoke as they were moved by the Holy Spirit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for prophecy never came by the will of man, but holy men of God spoke ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as they were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " moved by the Holy Spirit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "NU men spoke from God"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting the Faithful",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Fruitful Growth in the Faith",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Peter’s Approaching Death",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "The Trustworthy Prophetic Word(T)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:17.676Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "2PE",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "2PE.2.1",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 1,
+          "text": "But there were also false prophets among the people, even as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Lord who bought them, and bring on themselves swift destruction.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But there were also false prophets among the people, even as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Lord who bought them, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " bring on themselves swift destruction.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Destructive Doctrines",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.2",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 2,
+          "text": "And many will follow their destructive ways, because of whom the way of truth will be blasphemed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And many will follow their destructive ways, because of whom the way of truth will be blasphemed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.3",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 3,
+          "text": "By covetousness they will exploit you with deceptive words; for a long time their judgment has not been idle, and their destruction does not slumber.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By covetousness they will exploit you with deceptive words; for a long time their judgment has not been idle, and their destruction does not slumber.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "M will not"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.4",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 4,
+          "text": "For if God did not spare the angels who sinned, but cast them down to hell and delivered them into chains of darkness, to be reserved for judgment;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if God did not spare the angels who sinned, but cast ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " down to hell and delivered ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " into chains of darkness, to be reserved for judgment;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. Tartarus"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Doom of False Teachers",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.5",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 5,
+          "text": "and did not spare the ancient world, but saved Noah, one of eight people, a preacher of righteousness, bringing in the flood on the world of the ungodly;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and did not spare the ancient world, but saved Noah, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " eight ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "people",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": ", a preacher of righteousness, bringing in the flood on the world of the ungodly;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.6",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 6,
+          "text": "and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, making them an example to those who afterward would live ungodly;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and turning the cities of Sodom and Gomorrah into ashes, condemned ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to destruction, making ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " an example to those who afterward would live ungodly;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.7",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 7,
+          "text": "and delivered righteous Lot, who was oppressed by the filthy conduct of the wicked",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and delivered righteous Lot, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " oppressed by the filthy conduct of the wicked",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.8",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 8,
+          "text": "(for that righteous man, dwelling among them, tormented his righteous soul from day to day by seeing and hearing their lawless deeds)—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(for that righteous man, dwelling among them, tormented ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " righteous soul from day to day by seeing and hearing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "their",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " lawless deeds)—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.9",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 9,
+          "text": "then the Lord knows how to deliver the godly out of temptations and to reserve the unjust under punishment for the day of judgment,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "then",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord knows how to deliver the godly out of temptations and to reserve the unjust under punishment for the day of judgment,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.10",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 10,
+          "text": "and especially those who walk according to the flesh in the lust of uncleanness and despise authority. They are presumptuous, self-willed. They are not afraid to speak evil of dignitaries,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and especially those who walk according to the flesh in the lust of uncleanness and despise authority. ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "They are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " presumptuous, self-willed. They are not afraid to speak evil of dignitaries,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "glorious ones, lit. glories"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.11",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 11,
+          "text": "whereas angels, who are greater in power and might, do not bring a reviling accusation against them before the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whereas angels, who are greater in power and might, do not bring a reviling accusation against them before the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.12",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 12,
+          "text": "But these, like natural brute beasts made to be caught and destroyed, speak evil of the things they do not understand, and will utterly perish in their own corruption,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But these, like natural brute beasts made to be caught and destroyed, speak evil of the things they do not understand, and will utterly perish in their own corruption,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Depravity of False Teachers",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.13",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 13,
+          "text": "and will receive the wages of unrighteousness, as those who count it pleasure to carouse in the daytime. They are spots and blemishes, carousing in their own deceptions while they feast with you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " will receive the wages of unrighteousness, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " those who count it pleasure to carouse in the daytime. ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "They are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " spots and blemishes, carousing in their own deceptions while they feast with you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "revel"
+              },
+              {
+                "marker": "e",
+                "text": "reveling"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.14",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 14,
+          "text": "having eyes full of adultery and that cannot cease from sin, enticing unstable souls. They have a heart trained in covetous practices, and are accursed children.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having eyes full of adultery and that cannot cease from sin, enticing unstable souls. They have a heart trained in covetous practices, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " accursed children.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. an adulteress"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.15",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 15,
+          "text": "They have forsaken the right way and gone astray, following the way of Balaam the son of Beor, who loved the wages of unrighteousness;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They have forsaken the right way and gone astray, following the way of Balaam the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "son",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of Beor, who loved the wages of unrighteousness;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.16",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 16,
+          "text": "but he was rebuked for his iniquity: a dumb donkey speaking with a man’s voice restrained the madness of the prophet.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but he was rebuked for his iniquity: a dumb donkey speaking with a man’s voice restrained the madness of the prophet.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.17",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 17,
+          "text": "These are wells without water, clouds carried by a tempest, for whom is reserved the blackness of darkness forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These are wells without water, clouds carried by a tempest, for whom is reserved the blackness of darkness forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "NU and mists"
+              },
+              {
+                "marker": "h",
+                "text": "NU omits forever"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.18",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 18,
+          "text": "For when they speak great swelling words of emptiness, they allure through the lusts of the flesh, through lewdness, the ones who have actually escaped from those who live in error.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For when they speak great swelling ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "words",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of emptiness, they allure through the lusts of the flesh, through lewdness, the ones who have actually escaped from those who live in error.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "NU are barely escaping"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Deceptions of False Teachers",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.19",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 19,
+          "text": "While they promise them liberty, they themselves are slaves of corruption; for by whom a person is overcome, by him also he is brought into bondage.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "While they promise them liberty, they themselves are slaves of corruption; for by whom a person is overcome, by him also he is brought into bondage.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "depravity"
+              },
+              {
+                "marker": "k",
+                "text": "slavery"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.20",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 20,
+          "text": "For if, after they have escaped the pollutions of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and overcome, the latter end is worse for them than the beginning.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if, after they have escaped the pollutions of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and overcome, the latter end is worse for them than the beginning.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.21",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 21,
+          "text": "For it would have been better for them not to have known the way of righteousness, than having known it, to turn from the holy commandment delivered to them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For it would have been better for them not to have known the way of righteousness, than having known ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to turn from the holy commandment delivered to them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.2.22",
+          "book": "2PE",
+          "chapter": 2,
+          "verse": 22,
+          "text": "But it has happened to them according to the true proverb: “A dog returns to his own vomit,” and, “a sow, having washed, to her wallowing in the mire.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But it has happened to them according to the true proverb: “A dog returns to his own vomit,” and, “a sow, having washed, to her wallowing in the mire.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Destructive Doctrines",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Doom of False Teachers",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Depravity of False Teachers",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Deceptions of False Teachers",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:19.185Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "2PE",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "2PE.3.1",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Beloved, I now write to you this second epistle (in both of which I stir up your pure minds by way of reminder),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, I now write to you this second epistle (in ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "both of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " which I stir up your pure minds by way of reminder),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Promise Is Not Slack(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.2",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 2,
+          "text": "that you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us, the apostles of the Lord and Savior,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us, the apostles of the Lord and Savior,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU, M the apostles of your Lord and Savior or your apostles of the Lord and Savior"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.3",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 3,
+          "text": "knowing this first: that scoffers will come in the last days, walking according to their own lusts,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing this first: that scoffers will come in the last days, walking according to their own lusts,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.4",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 4,
+          "text": "and saying, “Where is the promise of His coming? For since the fathers fell asleep, all things continue as they were from the beginning of creation.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and saying, “Where is the promise of His coming? For since the fathers fell asleep, all things continue as ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "they were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from the beginning of creation.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.5",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 5,
+          "text": "For this they willfully forget: that by the word of God the heavens were of old, and the earth standing out of water and in the water,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this they willfully forget: that by the word of God the heavens were of old, and the earth standing out of water and in the water,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.6",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 6,
+          "text": "by which the world that then existed perished, being flooded with water.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "by which the world ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " then existed perished, being flooded with water.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.7",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 7,
+          "text": "But the heavens and the earth which are now preserved by the same word, are reserved for fire until the day of judgment and perdition of ungodly men.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the heavens and the earth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " are now preserved by the same word, are reserved for fire until the day of judgment and perdition of ungodly men.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "destruction"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.8",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 8,
+          "text": "But, beloved, do not forget this one thing, that with the Lord one day is as a thousand years, and a thousand years as one day.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But, beloved, do not forget this one thing, that with the Lord one day ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as a thousand years, and a thousand years as one day.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.9",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 9,
+          "text": "The Lord is not slack concerning His promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord is not slack concerning ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "His",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.10",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 10,
+          "text": "But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will melt with fervent heat; both the earth and the works that are in it will be burned up.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will melt with fervent heat; both the earth and the works that are in it will be burned up.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU laid bare, lit. found"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Day of the Lord",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.11",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Therefore, since all these things will be dissolved, what manner of persons ought you to be in holy conduct and godliness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, since all these things will be dissolved, what manner ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of persons",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ought you to be in holy conduct and godliness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.12",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 12,
+          "text": "looking for and hastening the coming of the day of God, because of which the heavens will be dissolved, being on fire, and the elements will melt with fervent heat?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "looking for and hastening the coming of the day of God, because of which the heavens will be dissolved, being on fire, and the elements will melt with fervent heat?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.13",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Nevertheless we, according to His promise, look for new heavens and a new earth in which righteousness dwells.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless we, according to His promise, look for new heavens and a new earth in which righteousness dwells.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.14",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 14,
+          "text": "Therefore, beloved, looking forward to these things, be diligent to be found by Him in peace, without spot and blameless;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, beloved, looking forward to these things, be diligent to be found by Him in peace, without spot and blameless;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Be Steadfast",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.15",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 15,
+          "text": "and consider that the longsuffering of our Lord is salvation—as also our beloved brother Paul, according to the wisdom given to him, has written to you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and consider ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the longsuffering of our Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " salvation—as also our beloved brother Paul, according to the wisdom given to him, has written to you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.16",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 16,
+          "text": "as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which untaught and unstable ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "people",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " twist to their own destruction, as ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "they do",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " also the rest of the Scriptures.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.17",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 17,
+          "text": "You therefore, beloved, since you know this beforehand, beware lest you also fall from your own steadfastness, being led away with the error of the wicked;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You therefore, beloved, since you know ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "this",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " beforehand, beware lest you also fall from your own steadfastness, being led away with the error of the wicked;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "2PE.3.18",
+          "book": "2PE",
+          "chapter": 3,
+          "verse": 18,
+          "text": "but grow in the grace and knowledge of our Lord and Savior Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but grow in the grace and knowledge of our Lord and Savior Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God’s Promise Is Not Slack(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "The Day of the Lord",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Be Steadfast",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:20.733Z"
+    }
+  }
+}

@@ -1,0 +1,2821 @@
+{
+  "usfm": "1JN",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "1JN",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "1JN.1.1",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 1,
+          "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, concerning the Word of life—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, concerning the Word of life—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "What Was Heard, Seen, and Touched(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.2",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 2,
+          "text": "the life was manifested, and we have seen, and bear witness, and declare to you that eternal life which was with the Father and was manifested to us—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the life was manifested, and we have seen, and bear witness, and declare to you that eternal life which was with the Father and was manifested to us—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.3",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 3,
+          "text": "that which we have seen and heard we declare to you, that you also may have fellowship with us; and truly our fellowship is with the Father and with His Son Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that which we have seen and heard we declare to you, that you also may have fellowship with us; and truly our fellowship ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with the Father and with His Son Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.4",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 4,
+          "text": "And these things we write to you that your joy may be full.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And these things we write to you that your joy may be full.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU, M our"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.5",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 5,
+          "text": "This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Fellowship with Him and One Another",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.6",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 6,
+          "text": "If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.7",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 7,
+          "text": "But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.8",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 8,
+          "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.9",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 9,
+          "text": "If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If we confess our sins, He is faithful and just to forgive us ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "our",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sins and to cleanse us from all unrighteousness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.1.10",
+          "book": "1JN",
+          "chapter": 1,
+          "verse": 10,
+          "text": "If we say that we have not sinned, we make Him a liar, and His word is not in us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If we say that we have not sinned, we make Him a liar, and His word is not in us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "What Was Heard, Seen, and Touched(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Fellowship with Him and One Another",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:21.797Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "1JN",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "1JN.2.1",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 1,
+          "text": "My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Test of Knowing Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.2",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 2,
+          "text": "And He Himself is the propitiation for our sins, and not for ours only but also for the whole world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He Himself is the propitiation for our sins, and not for ours only but also for the whole world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.3",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Now by this we know that we know Him, if we keep His commandments.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now by this we know that we know Him, if we keep His commandments.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Test of Knowing Him",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.4",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 4,
+          "text": "He who says, “I know Him,” and does not keep His commandments, is a liar, and the truth is not in him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who says, “I know Him,” and does not keep His commandments, is a liar, and the truth is not in him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.5",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 5,
+          "text": "But whoever keeps His word, truly the love of God is perfected in him. By this we know that we are in Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But whoever keeps His word, truly the love of God is perfected in him. By this we know that we are in Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "has been completed"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.6",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 6,
+          "text": "He who says he abides in Him ought himself also to walk just as He walked.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who says he abides in Him ought himself also to walk just as He walked.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.7",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 7,
+          "text": "Brethren, I write no new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word which you heard from the beginning.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, I write no new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word which you heard from the beginning.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU Beloved"
+              },
+              {
+                "marker": "c",
+                "text": "NU omits from the beginning"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.8",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 8,
+          "text": "Again, a new commandment I write to you, which thing is true in Him and in you, because the darkness is passing away, and the true light is already shining.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Again, a new commandment I write to you, which thing is true in Him and in you, because the darkness is passing away, and the true light is already shining.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.9",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 9,
+          "text": "He who says he is in the light, and hates his brother, is in darkness until now.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who says he is in the light, and hates his brother, is in darkness until now.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.10",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 10,
+          "text": "He who loves his brother abides in the light, and there is no cause for stumbling in him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who loves his brother abides in the light, and there is no cause for stumbling in him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.11",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 11,
+          "text": "But he who hates his brother is in darkness and walks in darkness, and does not know where he is going, because the darkness has blinded his eyes.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But he who hates his brother is in darkness and walks in darkness, and does not know where he is going, because the darkness has blinded his eyes.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.12",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 12,
+          "text": "I write to you, little children,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I write to you, little children,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Their Spiritual State",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.13",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 13,
+          "text": "I write to you, fathers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I write to you, fathers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.14",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 14,
+          "text": "I have written to you, fathers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have written to you, fathers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.15",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Do Not Love the World",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.16",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 16,
+          "text": "For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For all that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.17",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 17,
+          "text": "And the world is passing away, and the lust of it; but he who does the will of God abides forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the world is passing away, and the lust of it; but he who does the will of God abides forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.18",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Little children, it is the last hour; and as you have heard that the Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Little children, it is the last hour; and as you have heard that the Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU omits the"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Deceptions of the Last Hour",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.19",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 19,
+          "text": "They went out from us, but they were not of us; for if they had been of us, they would have continued with us; but they went out that they might be made manifest, that none of them were of us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They went out from us, but they were not of us; for if they had been of us, they would have continued with us; but ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "they went out",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that they might be made manifest, that none of them were of us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.20",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 20,
+          "text": "But you have an anointing from the Holy One, and you know all things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you have an anointing from the Holy One, and you know all things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU you all know."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.21",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 21,
+          "text": "I have not written to you because you do not know the truth, but because you know it, and that no lie is of the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have not written to you because you do not know the truth, but because you know it, and that no lie is of the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.22",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 22,
+          "text": "Who is a liar but he who denies that Jesus is the Christ? He is antichrist who denies the Father and the Son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who is a liar but he who denies that Jesus is the Christ? He is antichrist who denies the Father and the Son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.23",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 23,
+          "text": "Whoever denies the Son does not have the Father either; he who acknowledges the Son has the Father also.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whoever denies the Son does not have the Father either; he who acknowledges the Son has the Father also.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.24",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 24,
+          "text": "Therefore let that abide in you which you heard from the beginning. If what you heard from the beginning abides in you, you also will abide in the Son and in the Father.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore let that abide in you which you heard from the beginning. If what you heard from the beginning abides in you, you also will abide in the Son and in the Father.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Let Truth Abide in You",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.25",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 25,
+          "text": "And this is the promise that He has promised us—eternal life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this is the promise that He has promised us—eternal life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.26",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 26,
+          "text": "These things I have written to you concerning those who try to deceive you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These things I have written to you concerning those who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "try to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " deceive you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "lead you astray"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.27",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 27,
+          "text": "But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not a lie, and just as it has taught you, you will abide in Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not a lie, and just as it has taught you, you will abide in Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "NU omits will"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.28",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 28,
+          "text": "And now, little children, abide in Him, that when He appears, we may have confidence and not be ashamed before Him at His coming.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And now, little children, abide in Him, that when He appears, we may have confidence and not be ashamed before Him at His coming.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "NU if"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Children of God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.2.29",
+          "book": "1JN",
+          "chapter": 2,
+          "verse": 29,
+          "text": "If you know that He is righteous, you know that everyone who practices righteousness is born of Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you know that He is righteous, you know that everyone who practices righteousness is born of Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Test of Knowing Christ",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "The Test of Knowing Him",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Their Spiritual State",
+          "level": 2
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Do Not Love the World",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Deceptions of the Last Hour",
+          "level": 2
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Let Truth Abide in You",
+          "level": 2
+        },
+        {
+          "beforeVerse": 28,
+          "text": "The Children of God",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:23.398Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "1JN",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "1JN.3.1",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU adds And we are."
+              },
+              {
+                "marker": "b",
+                "text": "M you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Command to Love",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.2",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 2,
+          "text": "Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.3",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 3,
+          "text": "And everyone who has this hope in Him purifies himself, just as He is pure.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And everyone who has this hope in Him purifies himself, just as He is pure.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.4",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Whoever commits sin also commits lawlessness, and sin is lawlessness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whoever commits sin also commits lawlessness, and sin is lawlessness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Sin and the Child of God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.5",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 5,
+          "text": "And you know that He was manifested to take away our sins, and in Him there is no sin.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And you know that He was manifested to take away our sins, and in Him there is no sin.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.6",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 6,
+          "text": "Whoever abides in Him does not sin. Whoever sins has neither seen Him nor known Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whoever abides in Him does not sin. Whoever sins has neither seen Him nor known Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.7",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Little children, let no one deceive you. He who practices righteousness is righteous, just as He is righteous.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Little children, let no one deceive you. He who practices righteousness is righteous, just as He is righteous.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.8",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 8,
+          "text": "He who sins is of the devil, for the devil has sinned from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who sins is of the devil, for the devil has sinned from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.9",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.10",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 10,
+          "text": "In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " he who does not love his brother.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Imperative of Love(Q)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.11",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 11,
+          "text": "For this is the message that you heard from the beginning, that we should love one another,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this is the message that you heard from the beginning, that we should love one another,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.12",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 12,
+          "text": "not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother’s righteous.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not as Cain ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother’s righteous.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.13",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Do not marvel, my brethren, if the world hates you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not marvel, my brethren, if the world hates you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.14",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 14,
+          "text": "We know that we have passed from death to life, because we love the brethren. He who does not love his brother abides in death.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We know that we have passed from death to life, because we love the brethren. He who does not love ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " brother abides in death.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU omits his brother"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.15",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 15,
+          "text": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.16",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 16,
+          "text": "By this we know love, because He laid down His life for us. And we also ought to lay down our lives for the brethren.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By this we know love, because He laid down His life for us. And we also ought to lay down ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "our",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " lives for the brethren.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Outworking of Love",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.17",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 17,
+          "text": "But whoever has this world’s goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But whoever has this world’s goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.18",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 18,
+          "text": "My little children, let us not love in word or in tongue, but in deed and in truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My little children, let us not love in word or in tongue, but in deed and in truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.19",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 19,
+          "text": "And by this we know that we are of the truth, and shall assure our hearts before Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And by this we know that we are of the truth, and shall assure our hearts before Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU shall know"
+              },
+              {
+                "marker": "e",
+                "text": "persuade, set at rest"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.20",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 20,
+          "text": "For if our heart condemns us, God is greater than our heart, and knows all things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if our heart condemns us, God is greater than our heart, and knows all things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.21",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 21,
+          "text": "Beloved, if our heart does not condemn us, we have confidence toward God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, if our heart does not condemn us, we have confidence toward God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.22",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 22,
+          "text": "And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.23",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 23,
+          "text": "And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "M omits us"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.3.24",
+          "book": "1JN",
+          "chapter": 3,
+          "verse": 24,
+          "text": "Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Spirit of Truth and the Spirit of Error",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Command to Love",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Sin and the Child of God",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "The Imperative of Love(Q)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "The Outworking of Love",
+          "level": 2
+        },
+        {
+          "beforeVerse": 24,
+          "text": "The Spirit of Truth and the Spirit of Error",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:24.909Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "1JN",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "1JN.4.1",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Love for God and One Another",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.2",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 2,
+          "text": "By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.3",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 3,
+          "text": "and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "spirit",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the Antichrist, which you have heard was coming, and is now already in the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU omits that"
+              },
+              {
+                "marker": "b",
+                "text": "NU omits Christ has come in the flesh"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.4",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 4,
+          "text": "You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.5",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 5,
+          "text": "They are of the world. Therefore they speak as of the world, and the world hears them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They are of the world. Therefore they speak ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the world, and the world hears them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.6",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 6,
+          "text": "We are of God. He who knows God hears us; he who is not of God does not hear us. By this we know the spirit of truth and the spirit of error.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We are of God. He who knows God hears us; he who is not of God does not hear us. By this we know the spirit of truth and the spirit of error.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.7",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Beloved, let us love one another, for love is of God; and everyone who loves is born of God and knows God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, let us love one another, for love is of God; and everyone who loves is born of God and knows God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Knowing God Through Love(H)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.8",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 8,
+          "text": "He who does not love does not know God, for God is love.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who does not love does not know God, for God is love.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.9",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 9,
+          "text": "In this the love of God was manifested toward us, that God has sent His only begotten Son into the world, that we might live through Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In this the love of God was manifested toward us, that God has sent His only begotten Son into the world, that we might live through Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.10",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 10,
+          "text": "In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In this is love, not that we loved God, but that He loved us and sent His Son ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the propitiation for our sins.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.11",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Beloved, if God so loved us, we also ought to love one another.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, if God so loved us, we also ought to love one another.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.12",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 12,
+          "text": "No one has seen God at any time. If we love one another, God abides in us, and His love has been perfected in us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "No one has seen God at any time. If we love one another, God abides in us, and His love has been perfected in us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Seeing God Through Love",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.13",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 13,
+          "text": "By this we know that we abide in Him, and He in us, because He has given us of His Spirit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By this we know that we abide in Him, and He in us, because He has given us of His Spirit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.14",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 14,
+          "text": "And we have seen and testify that the Father has sent the Son as Savior of the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And we have seen and testify that the Father has sent the Son ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Savior of the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.15",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 15,
+          "text": "Whoever confesses that Jesus is the Son of God, God abides in him, and he in God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whoever confesses that Jesus is the Son of God, God abides in him, and he in God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.16",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 16,
+          "text": "And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.17",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 17,
+          "text": "Love has been perfected among us in this: that we may have boldness in the day of judgment; because as He is, so are we in this world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Love has been perfected among us in this: that we may have boldness in the day of judgment; because as He is, so are we in this world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Consummation of Love",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.18",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 18,
+          "text": "There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.19",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 19,
+          "text": "We love Him because He first loved us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We love Him because He first loved us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU omits Him"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.20",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 20,
+          "text": "If someone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If someone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU he cannot"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Obedience by Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.4.21",
+          "book": "1JN",
+          "chapter": 4,
+          "verse": 21,
+          "text": "And this commandment we have from Him: that he who loves God must love his brother also.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this commandment we have from Him: that he who loves God ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "must",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " love his brother also.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Love for God and One Another",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Knowing God Through Love(H)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Seeing God Through Love",
+          "level": 2
+        },
+        {
+          "beforeVerse": 17,
+          "text": "The Consummation of Love",
+          "level": 2
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Obedience by Faith",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:26.381Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "1JN",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "1JN.5.1",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Whoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Obedience by Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.2",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 2,
+          "text": "By this we know that we love the children of God, when we love God and keep His commandments.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By this we know that we love the children of God, when we love God and keep His commandments.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.3",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 3,
+          "text": "For this is the love of God, that we keep His commandments. And His commandments are not burdensome.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this is the love of God, that we keep His commandments. And His commandments are not burdensome.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.4",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 4,
+          "text": "For whatever is born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For whatever is born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "M your"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.5",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.6",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 6,
+          "text": "This is He who came by water and blood—Jesus Christ; not only by water, but by water and blood. And it is the Spirit who bears witness, because the Spirit is truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is He who came by water and blood—Jesus Christ; not only by water, but by water and blood. And it is the Spirit who bears witness, because the Spirit is truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Certainty of God’s Witness",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.7",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 7,
+          "text": "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU, M omit the words from in heaven (v. ) through on earth (v. ). Only 4 or 5 very late mss. contain these words in Greek."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.8",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 8,
+          "text": "And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.9",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 9,
+          "text": "If we receive the witness of men, the witness of God is greater; for this is the witness of God which He has testified of His Son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If we receive the witness of men, the witness of God is greater; for this is the witness of God which He has testified of His Son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU God, that"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.10",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 10,
+          "text": "He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.11",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 11,
+          "text": "And this is the testimony: that God has given us eternal life, and this life is in His Son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this is the testimony: that God has given us eternal life, and this life is in His Son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.12",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 12,
+          "text": "He who has the Son has life; he who does not have the Son of God does not have life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who has the Son has life; he who does not have the Son of God does not have life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or the life"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.13",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 13,
+          "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "continue to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " believe in the name of the Son of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU omits the rest of v. ."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.14",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Now this is the confidence that we have in Him, that if we ask anything according to His will, He hears us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now this is the confidence that we have in Him, that if we ask anything according to His will, He hears us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Confidence and Compassion in Prayer",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.15",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 15,
+          "text": "And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.16",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 16,
+          "text": "If anyone sees his brother sinning a sin which does not lead to death, he will ask, and He will give him life for those who commit sin not leading to death. There is sin leading to death. I do not say that he should pray about that.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If anyone sees his brother sinning a sin ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which does",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "lead",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to death, he will ask, and He will give him life for those who commit sin not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "leading",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to death. There is sin ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "leading",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to death. I do not say that he should pray about that.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.17",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 17,
+          "text": "All unrighteousness is sin, and there is sin not leading to death.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All unrighteousness is sin, and there is sin not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "leading",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to death.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.18",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 18,
+          "text": "We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "guards"
+              },
+              {
+                "marker": "g",
+                "text": "NU him"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Knowing the True—Rejecting the False",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.19",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 19,
+          "text": "We know that we are of God, and the whole world lies under the sway of the wicked one.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We know that we are of God, and the whole world lies ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "under the sway of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the wicked one.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.20",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 20,
+          "text": "And we know that the Son of God has come and has given us an understanding, that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And we know that the Son of God has come and has given us an understanding, that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1JN.5.21",
+          "book": "1JN",
+          "chapter": 5,
+          "verse": 21,
+          "text": "Little children, keep yourselves from idols. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Little children, keep yourselves from idols. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Obedience by Faith",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "The Certainty of God’s Witness",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Confidence and Compassion in Prayer",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Knowing the True—Rejecting the False",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:28.002Z"
+    }
+  }
+}

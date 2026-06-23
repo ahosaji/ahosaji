@@ -1,0 +1,170 @@
+{
+  "usfm": "PS2",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "PS2",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "PS2.1.1",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 1,
+          "text": "This is a psalm written with David's own hand, although outside the number, when he fought in single combat with Goliath.† was small among my brothers And the y oungest in my father's house; I tended my father's sheep.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is a psalm written with David's own hand, although outside the number, when he fought in single combat with Goliath.† was small among my brothers And the y oungest in my father's house; I tended my father's sheep.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.2",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "My hands built a musical instrument; My fingers tuned a ly re.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My hands built a musical instrument; My fingers tuned a ly re.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.3",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 3,
+          "text": "And who shall tell my Lord? The Lord Himself, He Himself hears.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And who shall tell my Lord? The Lord Himself, He Himself hears.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.4",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 4,
+          "text": "He sent forth His Angel And took me from my father's sheep; And he anointed me with his anointing oil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He sent forth His Angel And took me from my father's sheep; And he anointed me with his anointing oil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.5",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 5,
+          "text": "My brothers were handsome and tall, But the Lord took no pleasure in them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My brothers were handsome and tall, But the Lord took no pleasure in them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.6",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 6,
+          "text": "I went out to meet the foreigner, And he cursed me with his idols;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I went out to meet the foreigner, And he cursed me with his idols;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.7",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 7,
+          "text": "But I drew his own sword and beheaded him, And remov ed disgrace from the children of Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I drew his own sword and beheaded him, And remov ed disgrace from the children of Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-04T14:39:04.690310+00:00"
+    }
+  }
+}

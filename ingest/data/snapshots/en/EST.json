@@ -1,0 +1,5405 @@
+{
+  "usfm": "EST",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "EST.1.1",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Now it came to pass in the days of Ahasuerus (this was the Ahasuerus who reigned over one hundred and twenty-seven provinces, from India to Ethiopia),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now it came to pass in the days of Ahasuerus (this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Ahasuerus who reigned over one hundred and twenty-seven provinces, from India to Ethiopia),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Generally identified with Xerxes I (485–464 b.c.)"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The King Dethrones Queen Vashti",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.2",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 2,
+          "text": "in those days when King Ahasuerus sat on the throne of his kingdom, which was in Shushan the citadel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in those days when King Ahasuerus sat on the throne of his kingdom, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in Shushan the citadel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "c",
+                "text": "Or fortified palace, and so elsewhere in the book"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.3",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 3,
+          "text": "that in the third year of his reign he made a feast for all his officials and servants—the powers of Persia and Media, the nobles, and the princes of the provinces being before him—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the third year of his reign he made a feast for all his officials and servants—the powers of Persia and Media, the nobles, and the princes of the provinces ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "being",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " before him—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.4",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 4,
+          "text": "when he showed the riches of his glorious kingdom and the splendor of his excellent majesty for many days, one hundred and eighty days in all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "when he showed the riches of his glorious kingdom and the splendor of his excellent majesty for many days, one hundred and eighty days ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "in all.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.5",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 5,
+          "text": "And when these days were completed, the king made a feast lasting seven days for all the people who were present in Shushan the citadel, from great to small, in the court of the garden of the king’s palace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And when these days were completed, the king made a feast lasting seven days for all the people who were present in Shushan the citadel, from great to small, in the court of the garden of the king’s palace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "e",
+                "text": "palace"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.6",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 6,
+          "text": "There were white and blue linen curtains fastened with cords of fine linen and purple on silver rods and marble pillars; and the couches were of gold and silver on a mosaic pavement of alabaster, turquoise, and white and black marble.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " white and blue linen ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "curtains",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " fastened with cords of fine linen and purple on silver rods and marble pillars; ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " couches ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of gold and silver on a ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "mosaic",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " pavement of alabaster, turquoise, and white and black marble.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.7",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 7,
+          "text": "And they served drinks in golden vessels, each vessel being different from the other, with royal wine in abundance, according to the generosity of the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And they served drinks in golden vessels, each vessel being different from the other, with royal wine in abundance, according to the generosity of the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. hand"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.8",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 8,
+          "text": "In accordance with the law, the drinking was not compulsory; for so the king had ordered all the officers of his household, that they should do according to each man’s pleasure.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In accordance with the law, the drinking was not compulsory; for so the king had ordered all the officers of his household, that they should do according to each man’s pleasure.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.9",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Queen Vashti also made a feast for the women in the royal palace which belonged to King Ahasuerus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Queen Vashti also made a feast for the women ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "in",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the royal palace which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "belonged",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to King Ahasuerus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.10",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 10,
+          "text": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas, seven eunuchs who served in the presence of King Ahasuerus,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas, seven eunuchs who served in the presence of King Ahasuerus,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.11",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 11,
+          "text": "to bring Queen Vashti before the king, wearing her royal crown, in order to show her beauty to the people and the officials, for she was beautiful to behold.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to bring Queen Vashti before the king, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "wearing",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " her royal crown, in order to show her beauty to the people and the officials, for she ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " beautiful to behold.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.12",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 12,
+          "text": "But Queen Vashti refused to come at the king’s command brought by his eunuchs; therefore the king was furious, and his anger burned within him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But Queen Vashti refused to come at the king’s command ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "brought",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " eunuchs; therefore the king was furious, and his anger burned within him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.13",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Then the king said to the wise men who understood the times (for this was the king’s manner toward all who knew law and justice,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king said to the wise men who understood the times (for this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the king’s manner toward all who knew law and justice,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.14",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 14,
+          "text": "those closest to him being Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who had access to the king’s presence, and who ranked highest in the kingdom):",
+          "structured": {
+            "tokens": [
+              {
+                "text": "those closest to him ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "being",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who had access to the king’s presence, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " who ranked highest in the kingdom):",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Lit. sat in first place"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.15",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 15,
+          "text": "“What shall we do to Queen Vashti, according to law, because she did not obey the command of King Ahasuerus brought to her by the eunuchs?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "shall we",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " do to Queen Vashti, according to law, because she did not obey the command of King Ahasuerus ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "brought to her",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by the eunuchs?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.16",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 16,
+          "text": "And Memucan answered before the king and the princes: “Queen Vashti has not only wronged the king, but also all the princes, and all the people who are in all the provinces of King Ahasuerus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Memucan answered before the king and the princes: “Queen Vashti has not only wronged the king, but also all the princes, and all the people who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in all the provinces of King Ahasuerus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.17",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 17,
+          "text": "For the queen’s behavior will become known to all women, so that they will despise their husbands in their eyes, when they report, ‘King Ahasuerus commanded Queen Vashti to be brought in before him, but she did not come.’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the queen’s behavior will become known to all women, so that they will despise their husbands in their eyes, when they report, ‘King Ahasuerus commanded Queen Vashti to be brought in before him, but she did not come.’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.18",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 18,
+          "text": "This very day the noble ladies of Persia and Media will say to all the king’s officials that they have heard of the behavior of the queen. Thus there will be excessive contempt and wrath.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This very day the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "noble",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ladies of Persia and Media will say to all the king’s officials that they have heard of the behavior of the queen. Thus ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there will be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " excessive contempt and wrath.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.19",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 19,
+          "text": "If it pleases the king, let a royal decree go out from him, and let it be recorded in the laws of the Persians and the Medes, so that it will not be altered, that Vashti shall come no more before King Ahasuerus; and let the king give her royal position to another who is better than she.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If it pleases the king, let a royal decree go out from him, and let it be recorded in the laws of the Persians and the Medes, so that it will not be altered, that Vashti shall come no more before King Ahasuerus; and let the king give her royal position to another who is better than she.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. word"
+              },
+              {
+                "marker": "i",
+                "text": "pass away"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.20",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 20,
+          "text": "When the king’s decree which he will make is proclaimed throughout all his empire (for it is great), all wives will honor their husbands, both great and small.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When the king’s decree which he will make is proclaimed throughout all his empire (for it is great), all wives will honor their husbands, both great and small.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.21",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 21,
+          "text": "And the reply pleased the king and the princes, and the king did according to the word of Memucan.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the reply pleased the king and the princes, and the king did according to the word of Memucan.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.1.22",
+          "book": "EST",
+          "chapter": 1,
+          "verse": 22,
+          "text": "Then he sent letters to all the king’s provinces, to each province in its own script, and to every people in their own language, that each man should be master in his own house, and speak in the language of his own people.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he sent letters to all the king’s provinces, to each province in its own script, and to every people in their own language, that each man should be master in his own house, and speak in the language of his own people.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The King Dethrones Queen Vashti",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:02.410Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "EST.2.1",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 1,
+          "text": "After these things, when the wrath of King Ahasuerus subsided, he remembered Vashti, what she had done, and what had been decreed against her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "After these things, when the wrath of King Ahasuerus subsided, he remembered Vashti, what she had done, and what had been decreed against her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Esther Becomes Queen",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.2",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 2,
+          "text": "Then the king’s servants who attended him said: “Let beautiful young virgins be sought for the king;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king’s servants who attended him said: “Let beautiful young virgins be sought for the king;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.3",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 3,
+          "text": "and let the king appoint officers in all the provinces of his kingdom, that they may gather all the beautiful young virgins to Shushan the citadel, into the women’s quarters, under the custody of Hegai the king’s eunuch, custodian of the women. And let beauty preparations be given them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and let the king appoint officers in all the provinces of his kingdom, that they may gather all the beautiful young virgins to Shushan the citadel, into the women’s quarters, under the custody of Hegai the king’s eunuch, custodian of the women. And let beauty preparations be given ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "b",
+                "text": "palace"
+              },
+              {
+                "marker": "c",
+                "text": "Heb. Hege"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.4",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Then let the young woman who pleases the king be queen instead of Vashti.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then let the young woman who pleases the king be queen instead of Vashti.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.5",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 5,
+          "text": "In Shushan the citadel there was a certain Jew whose name was Mordecai the son of Jair, the son of Shimei, the son of Kish, a Benjamite.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In Shushan the citadel there was a certain Jew whose name ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Mordecai the son of Jair, the son of Shimei, the son of Kish, a Benjamite.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "e",
+                "text": "palace"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.6",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 6,
+          "text": "Kish had been carried away from Jerusalem with the captives who had been captured with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Kish",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " had been carried away from Jerusalem with the captives who had been captured with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. Who"
+              },
+              {
+                "marker": "g",
+                "text": "Jehoiachin,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.7",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 7,
+          "text": "And Mordecai had brought up Hadassah, that is, Esther, his uncle’s daughter, for she had neither father nor mother. The young woman was lovely and beautiful. When her father and mother died, Mordecai took her as his own daughter.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Mordecai",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " had brought up Hadassah, that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Esther, his uncle’s daughter, for she had neither father nor mother. The young woman ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " lovely and beautiful. When her father and mother died, Mordecai took her as his own daughter.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.8",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 8,
+          "text": "So it was, when the king’s command and decree were heard, and when many young women were gathered at Shushan the citadel, under the custody of Hegai, that Esther also was taken to the king’s palace, into the care of Hegai the custodian of the women.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So it was, when the king’s command and decree were heard, and when many young women were gathered at Shushan the citadel, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "under",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the custody of Hegai, that Esther also was taken to the king’s palace, into the care of Hegai the custodian of the women.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "i",
+                "text": "palace"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.9",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Now the young woman pleased him, and she obtained his favor; so he readily gave beauty preparations to her, besides her allowance. Then seven choice maidservants were provided for her from the king’s palace, and he moved her and her maidservants to the best place in the house of the women.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the young woman pleased him, and she obtained his favor; so he readily gave beauty preparations to her, besides her allowance. Then seven choice maidservants were provided for her from the king’s palace, and he moved her and her maidservants to the best ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "place",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the house of the women.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Lit. her portions"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.10",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Esther had not revealed her people or family, for Mordecai had charged her not to reveal it.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Esther had not revealed her people or family, for Mordecai had charged her not to reveal ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "Revealed the identity of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.11",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 11,
+          "text": "And every day Mordecai paced in front of the court of the women’s quarters, to learn of Esther’s welfare and what was happening to her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And every day Mordecai paced in front of the court of the women’s quarters, to learn of Esther’s welfare and what was happening to her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.12",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 12,
+          "text": "Each young woman’s turn came to go in to King Ahasuerus after she had completed twelve months’ preparation, according to the regulations for the women, for thus were the days of their preparation apportioned: six months with oil of myrrh, and six months with perfumes and preparations for beautifying women.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Each young woman’s turn came to go in to King Ahasuerus after she had completed twelve months’ preparation, according to the regulations for the women, for thus were the days of their preparation apportioned: six months with oil of myrrh, and six months with perfumes and preparations for beautifying women.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.13",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Thus prepared, each young woman went to the king, and she was given whatever she desired to take with her from the women’s quarters to the king’s palace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "prepared, each",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " young woman went to the king, and she was given whatever she desired to take with her from the women’s quarters to the king’s palace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.14",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 14,
+          "text": "In the evening she went, and in the morning she returned to the second house of the women, to the custody of Shaashgaz, the king’s eunuch who kept the concubines. She would not go in to the king again unless the king delighted in her and called for her by name.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the evening she went, and in the morning she returned to the second house of the women, to the custody of Shaashgaz, the king’s eunuch who kept the concubines. She would not go in to the king again unless the king delighted in her and called for her by name.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.15",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Now when the turn came for Esther the daughter of Abihail the uncle of Mordecai, who had taken her as his daughter, to go in to the king, she requested nothing but what Hegai the king’s eunuch, the custodian of the women, advised. And Esther obtained favor in the sight of all who saw her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now when the turn came for Esther the daughter of Abihail the uncle of Mordecai, who had taken her as his daughter, to go in to the king, she requested nothing but what Hegai the king’s eunuch, the custodian of the women, advised. And Esther obtained favor in the sight of all who saw her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.16",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 16,
+          "text": "So Esther was taken to King Ahasuerus, into his royal palace, in the tenth month, which is the month of Tebeth, in the seventh year of his reign.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Esther was taken to King Ahasuerus, into his royal palace, in the tenth month, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the month of Tebeth, in the seventh year of his reign.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.17",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 17,
+          "text": "The king loved Esther more than all the other women, and she obtained grace and favor in his sight more than all the virgins; so he set the royal crown upon her head and made her queen instead of Vashti.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king loved Esther more than all the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "other",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " women, and she obtained grace and favor in his sight more than all the virgins; so he set the royal crown upon her head and made her queen instead of Vashti.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.18",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Then the king made a great feast, the Feast of Esther, for all his officials and servants; and he proclaimed a holiday in the provinces and gave gifts according to the generosity of a king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king made a great feast, the Feast of Esther, for all his officials and servants; and he proclaimed a holiday in the provinces and gave gifts according to the generosity of a king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "l",
+                "text": "Lit. hand"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.19",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 19,
+          "text": "When virgins were gathered together a second time, Mordecai sat within the king’s gate.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When virgins were gathered together a second time, Mordecai sat within the king’s gate.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Mordecai Discovers a Plot",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.20",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 20,
+          "text": "Now Esther had not revealed her family and her people, just as Mordecai had charged her, for Esther obeyed the command of Mordecai as when she was brought up by him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Esther had not revealed her family and her people, just as Mordecai had charged her, for Esther obeyed the command of Mordecai as when she was brought up by him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.21",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 21,
+          "text": "In those days, while Mordecai sat within the king’s gate, two of the king’s eunuchs, Bigthan and Teresh, doorkeepers, became furious and sought to lay hands on King Ahasuerus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In those days, while Mordecai sat within the king’s gate, two of the king’s eunuchs, Bigthan and Teresh, doorkeepers, became furious and sought to lay hands on King Ahasuerus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "m",
+                "text": "Bigthana,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.22",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 22,
+          "text": "So the matter became known to Mordecai, who told Queen Esther, and Esther informed the king in Mordecai’s name.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the matter became known to Mordecai, who told Queen Esther, and Esther informed the king in Mordecai’s name.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.2.23",
+          "book": "EST",
+          "chapter": 2,
+          "verse": 23,
+          "text": "And when an inquiry was made into the matter, it was confirmed, and both were hanged on a gallows; and it was written in the book of the chronicles in the presence of the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And when an inquiry was made into the matter, it was confirmed, and both were hanged on a gallows; and it was written in the book of the chronicles in the presence of the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esther Becomes Queen",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Mordecai Discovers a Plot",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:04.569Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "EST.3.1",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 1,
+          "text": "After these things King Ahasuerus promoted Haman, the son of Hammedatha the Agagite, and advanced him and set his seat above all the princes who were with him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "After these things King Ahasuerus promoted Haman, the son of Hammedatha the Agagite, and advanced him and set his seat above all the princes who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Haman’s Conspiracy Against the Jews",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.2",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 2,
+          "text": "And all the king’s servants who were within the king’s gate bowed and paid homage to Haman, for so the king had commanded concerning him. But Mordecai would not bow or pay homage.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And all the king’s servants who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " within the king’s gate bowed and paid homage to Haman, for so the king had commanded concerning him. But Mordecai would not bow or pay homage.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.3",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Then the king’s servants who were within the king’s gate said to Mordecai, “Why do you transgress the king’s command?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king’s servants who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " within the king’s gate said to Mordecai, “Why do you transgress the king’s command?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.4",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Now it happened, when they spoke to him daily and he would not listen to them, that they told it to Haman, to see whether Mordecai’s words would stand; for Mordecai had told them that he was a Jew.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now it happened, when they spoke to him daily and he would not listen to them, that they told ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Haman, to see whether Mordecai’s words would stand; for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Mordecai",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " had told them that he ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a Jew.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.5",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 5,
+          "text": "When Haman saw that Mordecai did not bow or pay him homage, Haman was filled with wrath.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When Haman saw that Mordecai did not bow or pay him homage, Haman was filled with wrath.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.6",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 6,
+          "text": "But he disdained to lay hands on Mordecai alone, for they had told him of the people of Mordecai. Instead, Haman sought to destroy all the Jews who were throughout the whole kingdom of Ahasuerus—the people of Mordecai.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But he disdained to lay hands on Mordecai alone, for they had told him of the people of Mordecai. Instead, Haman sought to destroy all the Jews who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " throughout the whole kingdom of Ahasuerus—the people of Mordecai.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.7",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 7,
+          "text": "In the first month, which is the month of Nisan, in the twelfth year of King Ahasuerus, they cast Pur (that is, the lot), before Haman to determine the day and the month, until it fell on the twelfth month, which is the month of Adar.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the first month, which is the month of Nisan, in the twelfth year of King Ahasuerus, they cast Pur (that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the lot), before Haman to determine the day and the month, until ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it fell on the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " twelfth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "month,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the month of Adar.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. from day to day and month to month"
+              },
+              {
+                "marker": "b",
+                "text": "LXX adds to destroy the people of Mordecai in one day; Vg. adds the nation of the Jews should be destroyed"
+              },
+              {
+                "marker": "c",
+                "text": "So with MT, Vg.; LXX and the lot fell on the fourteenth of the month"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.8",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Then Haman said to King Ahasuerus, “There is a certain people scattered and dispersed among the people in all the provinces of your kingdom; their laws are different from all other people’s, and they do not keep the king’s laws. Therefore it is not fitting for the king to let them remain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Haman said to King Ahasuerus, “There is a certain people scattered and dispersed among the people in all the provinces of your kingdom; their laws ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " different from all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "other",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " people’s, and they do not keep the king’s laws. Therefore it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not fitting for the king to let them remain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.9",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 9,
+          "text": "If it pleases the king, let a decree be written that they be destroyed, and I will pay ten thousand talents of silver into the hands of those who do the work, to bring it into the king’s treasuries.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If it pleases the king, let ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "a decree",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " be written that they be destroyed, and I will pay ten thousand talents of silver into the hands of those who do the work, to bring ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " into the king’s treasuries.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.10",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 10,
+          "text": "So the king took his signet ring from his hand and gave it to Haman, the son of Hammedatha the Agagite, the enemy of the Jews.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the king took his signet ring from his hand and gave it to Haman, the son of Hammedatha the Agagite, the enemy of the Jews.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.11",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 11,
+          "text": "And the king said to Haman, “The money and the people are given to you, to do with them as seems good to you.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the king said to Haman, “The money and the people ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " given to you, to do with them as seems good to you.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.12",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Then the king’s scribes were called on the thirteenth day of the first month, and a decree was written according to all that Haman commanded—to the king’s satraps, to the governors who were over each province, to the officials of all people, to every province according to its script, and to every people in their language. In the name of King Ahasuerus it was written, and sealed with the king’s signet ring.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king’s scribes were called on the thirteenth day of the first month, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "a decree",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " was written according to all that Haman commanded—to the king’s satraps, to the governors who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " over each province, to the officials of all people, to every province according to its script, and to every people in their language. In the name of King Ahasuerus it was written, and sealed with the king’s signet ring.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.13",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 13,
+          "text": "And the letters were sent by couriers into all the king’s provinces, to destroy, to kill, and to annihilate all the Jews, both young and old, little children and women, in one day, on the thirteenth day of the twelfth month, which is the month of Adar, and to plunder their possessions.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the letters were sent by couriers into all the king’s provinces, to destroy, to kill, and to annihilate all the Jews, both young and old, little children and women, in one day, on the thirteenth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "day",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the twelfth month, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the month of Adar, and to plunder their possessions.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "LXX adds the text of the letter here"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.14",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 14,
+          "text": "A copy of the document was to be issued as law in every province, being published for all people, that they should be ready for that day.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A copy of the document was to be issued as law in every province, being published for all people, that they should be ready for that day.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.3.15",
+          "book": "EST",
+          "chapter": 3,
+          "verse": 15,
+          "text": "The couriers went out, hastened by the king’s command; and the decree was proclaimed in Shushan the citadel. So the king and Haman sat down to drink, but the city of Shushan was perplexed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The couriers went out, hastened by the king’s command; and the decree was proclaimed in Shushan the citadel. So the king and Haman sat down to drink, but the city of Shushan was perplexed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "f",
+                "text": "palace"
+              },
+              {
+                "marker": "g",
+                "text": "in confusion"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Haman’s Conspiracy Against the Jews",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:06.999Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "EST.4.1",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 1,
+          "text": "When Mordecai learned all that had happened, he tore his clothes and put on sackcloth and ashes, and went out into the midst of the city. He cried out with a loud and bitter cry.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When Mordecai learned all that had happened, he tore his clothes and put on sackcloth and ashes, and went out into the midst of the city. He cried out with a loud and bitter cry.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. Mordecai"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Esther Agrees to Help the Jews",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.2",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 2,
+          "text": "He went as far as the front of the king’s gate, for no one might enter the king’s gate clothed with sackcloth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He went as far as the front of the king’s gate, for no one ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "might",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " enter the king’s gate clothed with sackcloth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.3",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 3,
+          "text": "And in every province where the king’s command and decree arrived, there was great mourning among the Jews, with fasting, weeping, and wailing; and many lay in sackcloth and ashes.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And in every province where the king’s command and decree arrived, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " great mourning among the Jews, with fasting, weeping, and wailing; and many lay in sackcloth and ashes.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.4",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 4,
+          "text": "So Esther’s maids and eunuchs came and told her, and the queen was deeply distressed. Then she sent garments to clothe Mordecai and take his sackcloth away from him, but he would not accept them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Esther’s maids and eunuchs came and told her, and the queen was deeply distressed. Then she sent garments to clothe Mordecai and take his sackcloth away from him, but he would not accept ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.5",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Then Esther called Hathach, one of the king’s eunuchs whom he had appointed to attend her, and she gave him a command concerning Mordecai, to learn what and why this was.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Esther called Hathach, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the king’s eunuchs whom he had appointed to attend her, and she gave him a command concerning Mordecai, to learn what and why this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.6",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 6,
+          "text": "So Hathach went out to Mordecai in the city square that was in front of the king’s gate.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Hathach went out to Mordecai in the city square that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in front of the king’s gate.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.7",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 7,
+          "text": "And Mordecai told him all that had happened to him, and the sum of money that Haman had promised to pay into the king’s treasuries to destroy the Jews.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Mordecai told him all that had happened to him, and the sum of money that Haman had promised to pay into the king’s treasuries to destroy the Jews.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.8",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 8,
+          "text": "He also gave him a copy of the written decree for their destruction, which was given at Shushan, that he might show it to Esther and explain it to her, and that he might command her to go in to the king to make supplication to him and plead before him for her people.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He also gave him a copy of the written decree for their destruction, which was given at Shushan, that he might show it to Esther and explain it to her, and that he might command her to go in to the king to make supplication to him and plead before him for her people.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or Susa"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.9",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 9,
+          "text": "So Hathach returned and told Esther the words of Mordecai.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Hathach returned and told Esther the words of Mordecai.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.10",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 10,
+          "text": "Then Esther spoke to Hathach, and gave him a command for Mordecai:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Esther spoke to Hathach, and gave him a command for Mordecai:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.11",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 11,
+          "text": "“All the king’s servants and the people of the king’s provinces know that any man or woman who goes into the inner court to the king, who has not been called, he has but one law: put all to death, except the one to whom the king holds out the golden scepter, that he may live. Yet I myself have not been called to go in to the king these thirty days.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“All the king’s servants and the people of the king’s provinces know that any man or woman who goes into the inner court to the king, who has not been called, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "he has",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " but one law: put ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "all",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to death, except the one to whom the king holds out the golden scepter, that he may live. Yet I myself have not been called to go in to the king these thirty days.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.12",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 12,
+          "text": "So they told Mordecai Esther’s words.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So they told Mordecai Esther’s words.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.13",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 13,
+          "text": "And Mordecai told them to answer Esther: “Do not think in your heart that you will escape in the king’s palace any more than all the other Jews.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Mordecai told ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to answer Esther: “Do not think in your heart that you will escape in the king’s palace any more than all the other Jews.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.14",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 14,
+          "text": "For if you remain completely silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father’s house will perish. Yet who knows whether you have come to the kingdom for such a time as this?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if you remain completely silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father’s house will perish. Yet who knows whether you have come to the kingdom for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "such",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a time as this?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.15",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 15,
+          "text": "Then Esther told them to reply to Mordecai:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Esther told ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to reply to Mordecai:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.16",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 16,
+          "text": "“Go, gather all the Jews who are present in Shushan, and fast for me; neither eat nor drink for three days, night or day. My maids and I will fast likewise. And so I will go to the king, which is against the law; and if I perish, I perish!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Go, gather all the Jews who are present in Shushan, and fast for me; neither eat nor drink for three days, night or day. My maids and I will fast likewise. And so I will go to the king, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " against the law; and if I perish, I perish!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Or Susa"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.4.17",
+          "book": "EST",
+          "chapter": 4,
+          "verse": 17,
+          "text": "So Mordecai went his way and did according to all that Esther commanded him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Mordecai went his way and did according to all that Esther commanded him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "LXX adds a prayer of Mordecai here"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esther Agrees to Help the Jews",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:09.278Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "EST.5.1",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Now it happened on the third day that Esther put on her royal robes and stood in the inner court of the king’s palace, across from the king’s house, while the king sat on his royal throne in the royal house, facing the entrance of the house.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now it happened on the third day that Esther put on ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "her",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " royal ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "robes",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and stood in the inner court of the king’s palace, across from the king’s house, while the king sat on his royal throne in the royal house, facing the entrance of the house.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "LXX adds many extra details in vv. ,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Esther’s Banquet",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.2",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 2,
+          "text": "So it was, when the king saw Queen Esther standing in the court, that she found favor in his sight, and the king held out to Esther the golden scepter that was in his hand. Then Esther went near and touched the top of the scepter.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So it was, when the king saw Queen Esther standing in the court, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " she found favor in his sight, and the king held out to Esther the golden scepter that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in his hand. Then Esther went near and touched the top of the scepter.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.3",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 3,
+          "text": "And the king said to her, “What do you wish, Queen Esther? What is your request? It shall be given to you—up to half the kingdom!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the king said to her, “What do you wish, Queen Esther? What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your request? It shall be given to you—up to half the kingdom!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.4",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 4,
+          "text": "So Esther answered, “If it pleases the king, let the king and Haman come today to the banquet that I have prepared for him.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Esther answered, “If it pleases the king, let the king and Haman come today to the banquet that I have prepared for him.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.5",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Then the king said, “Bring Haman quickly, that he may do as Esther has said.” So the king and Haman went to the banquet that Esther had prepared.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king said, “Bring Haman quickly, that he may do as Esther has said.” So the king and Haman went to the banquet that Esther had prepared.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.6",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 6,
+          "text": "At the banquet of wine the king said to Esther, “What is your petition? It shall be granted you. What is your request, up to half the kingdom? It shall be done!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "At the banquet of wine the king said to Esther, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your petition? It shall be granted you. What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your request, up to half the kingdom? It shall be done!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.7",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Then Esther answered and said, “My petition and request is this:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Esther answered and said, “My petition and request ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is this:",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.8",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 8,
+          "text": "If I have found favor in the sight of the king, and if it pleases the king to grant my petition and fulfill my request, then let the king and Haman come to the banquet which I will prepare for them, and tomorrow I will do as the king has said.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If I have found favor in the sight of the king, and if it pleases the king to grant my petition and fulfill my request, then let the king and Haman come to the banquet which I will prepare for them, and tomorrow I will do as the king has said.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. to do"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.9",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 9,
+          "text": "So Haman went out that day joyful and with a glad heart; but when Haman saw Mordecai in the king’s gate, and that he did not stand or tremble before him, he was filled with indignation against Mordecai.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Haman went out that day joyful and with a glad heart; but when Haman saw Mordecai in the king’s gate, and that he did not stand or tremble before him, he was filled with indignation against Mordecai.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Haman’s Plot Against Mordecai",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.10",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 10,
+          "text": "Nevertheless Haman restrained himself and went home, and he sent and called for his friends and his wife Zeresh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless Haman restrained himself and went home, and he sent and called for his friends and his wife Zeresh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.11",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 11,
+          "text": "Then Haman told them of his great riches, the multitude of his children, everything in which the king had promoted him, and how he had advanced him above the officials and servants of the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Haman told them of his great riches, the multitude of his children, everything in which the king had promoted him, and how he had advanced him above the officials and servants of the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.12",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 12,
+          "text": "Moreover Haman said, “Besides, Queen Esther invited no one but me to come in with the king to the banquet that she prepared; and tomorrow I am again invited by her, along with the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Moreover Haman said, “Besides, Queen Esther invited no one but me to come in with the king to the banquet that she prepared; and tomorrow I am again invited by her, along with the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.13",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 13,
+          "text": "Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.5.14",
+          "book": "EST",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Then his wife Zeresh and all his friends said to him, “Let a gallows be made, fifty cubits high, and in the morning suggest to the king that Mordecai be hanged on it; then go merrily with the king to the banquet.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then his wife Zeresh and all his friends said to him, “Let a gallows be made, fifty cubits high, and in the morning suggest to the king that Mordecai be hanged on it; then go merrily with the king to the banquet.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. tree or wood"
+              },
+              {
+                "marker": "d",
+                "text": "About 75 feet"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esther’s Banquet",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Haman’s Plot Against Mordecai",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:11.964Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "EST.6.1",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 1,
+          "text": "That night the king could not sleep. So one was commanded to bring the book of the records of the chronicles; and they were read before the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That night the king could not sleep. So one was commanded to bring the book of the records of the chronicles; and they were read before the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. the king’s sleep fled away"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The King Honors Mordecai",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.2",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 2,
+          "text": "And it was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, the doorkeepers who had sought to lay hands on King Ahasuerus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, the doorkeepers who had sought to lay hands on King Ahasuerus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Bigthan,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.3",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 3,
+          "text": "Then the king said, “What honor or dignity has been bestowed on Mordecai for this?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king said, “What honor or dignity has been bestowed on Mordecai for this?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.4",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 4,
+          "text": "So the king said, “Who is in the court?” Now Haman had just entered the outer court of the king’s palace to suggest that the king hang Mordecai on the gallows that he had prepared for him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the king said, “Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the court?” Now Haman had ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "just",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " entered the outer court of the king’s palace to suggest that the king hang Mordecai on the gallows that he had prepared for him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.5",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 5,
+          "text": "The king’s servants said to him, “Haman is there, standing in the court.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king’s servants said to him, “Haman is there, standing in the court.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.6",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 6,
+          "text": "So Haman came in, and the king asked him, “What shall be done for the man whom the king delights to honor?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Haman came in, and the king asked him, “What shall be done for the man whom the king delights to honor?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.7",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 7,
+          "text": "And Haman answered the king, “For the man whom the king delights to honor,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Haman answered the king, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "For",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the man whom the king delights to honor,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.8",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 8,
+          "text": "let a royal robe be brought which the king has worn, and a horse on which the king has ridden, which has a royal crest placed on its head.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "let a royal robe be brought which the king has worn, and a horse on which the king has ridden, which has a royal crest placed on its head.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "crown"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.9",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 9,
+          "text": "Then let this robe and horse be delivered to the hand of one of the king’s most noble princes, that he may array the man whom the king delights to honor. Then parade him on horseback through the city square, and proclaim before him: ‘Thus shall it be done to the man whom the king delights to honor!’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then let this robe and horse be delivered to the hand of one of the king’s most noble princes, that he may array the man whom the king delights to honor. Then parade him on horseback through the city square, and proclaim before him: ‘Thus shall it be done to the man whom the king delights to honor!’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. cause him to ride"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.10",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Then the king said to Haman, “Hurry, take the robe and the horse, as you have suggested, and do so for Mordecai the Jew who sits within the king’s gate! Leave nothing undone of all that you have spoken.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king said to Haman, “Hurry, take the robe and the horse, as you have suggested, and do so for Mordecai the Jew who sits within the king’s gate! Leave nothing undone of all that you have spoken.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.11",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 11,
+          "text": "So Haman took the robe and the horse, arrayed Mordecai and led him on horseback through the city square, and proclaimed before him, “Thus shall it be done to the man whom the king delights to honor!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Haman took the robe and the horse, arrayed Mordecai and led him on horseback through the city square, and proclaimed before him, “Thus shall it be done to the man whom the king delights to honor!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.12",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 12,
+          "text": "Afterward Mordecai went back to the king’s gate. But Haman hurried to his house, mourning and with his head covered.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Afterward Mordecai went back to the king’s gate. But Haman hurried to his house, mourning and with his head covered.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.13",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 13,
+          "text": "When Haman told his wife Zeresh and all his friends everything that had happened to him, his wise men and his wife Zeresh said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him but will surely fall before him.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When Haman told his wife Zeresh and all his friends everything that had happened to him, his wise men and his wife Zeresh said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him but will surely fall before him.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.6.14",
+          "book": "EST",
+          "chapter": 6,
+          "verse": 14,
+          "text": "While they were still talking with him, the king’s eunuchs came, and hastened to bring Haman to the banquet which Esther had prepared.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "While they ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " still talking with him, the king’s eunuchs came, and hastened to bring Haman to the banquet which Esther had prepared.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The King Honors Mordecai",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:14.899Z"
+    },
+    "7": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "EST.7.1",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 1,
+          "text": "So the king and Haman went to dine with Queen Esther.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the king and Haman went to dine with Queen Esther.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Haman Hanged Instead of Mordecai",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.2",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 2,
+          "text": "And on the second day, at the banquet of wine, the king again said to Esther, “What is your petition, Queen Esther? It shall be granted you. And what is your request, up to half the kingdom? It shall be done!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And on the second day, at the banquet of wine, the king again said to Esther, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your petition, Queen Esther? It shall be granted you. And what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your request, up to half the kingdom? It shall be done!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.3",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 3,
+          "text": "Then Queen Esther answered and said, “If I have found favor in your sight, O king, and if it pleases the king, let my life be given me at my petition, and my people at my request.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Queen Esther answered and said, “If I have found favor in your sight, O king, and if it pleases the king, let my life be given me at my petition, and my people at my request.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.4",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 4,
+          "text": "For we have been sold, my people and I, to be destroyed, to be killed, and to be annihilated. Had we been sold as male and female slaves, I would have held my tongue, although the enemy could never compensate for the king’s loss.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we have been sold, my people and I, to be destroyed, to be killed, and to be annihilated. Had we been sold as male and female slaves, I would have held my tongue, although the enemy could never compensate for the king’s loss.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.5",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 5,
+          "text": "So King Ahasuerus answered and said to Queen Esther, “Who is he, and where is he, who would dare presume in his heart to do such a thing?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So King Ahasuerus answered and said to Queen Esther, “Who is he, and where is he, who would dare presume in his heart to do such a thing?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.6",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 6,
+          "text": "And Esther said, “The adversary and enemy is this wicked Haman!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Esther said, “The adversary and enemy ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " this wicked Haman!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.7",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 7,
+          "text": "Then the king arose in his wrath from the banquet of wine and went into the palace garden; but Haman stood before Queen Esther, pleading for his life, for he saw that evil was determined against him by the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king arose in his wrath from the banquet of wine ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and went",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " into the palace garden; but Haman stood before Queen Esther, pleading for his life, for he saw that evil was determined against him by the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.8",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 8,
+          "text": "When the king returned from the palace garden to the place of the banquet of wine, Haman had fallen across the couch where Esther was. Then the king said, “Will he also assault the queen while I am in the house?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When the king returned from the palace garden to the place of the banquet of wine, Haman had fallen across the couch where Esther ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was.",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Then the king said, “Will he also assault the queen while I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the house?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.9",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 9,
+          "text": "Now Harbonah, one of the eunuchs, said to the king, “Look! The gallows, fifty cubits high, which Haman made for Mordecai, who spoke good on the king’s behalf, is standing at the house of Haman.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Harbonah, one of the eunuchs, said to the king, “Look! The gallows, fifty cubits high, which Haman made for Mordecai, who spoke good on the king’s behalf, is standing at the house of Haman.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. tree or wood"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.7.10",
+          "book": "EST",
+          "chapter": 7,
+          "verse": 10,
+          "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then the king’s wrath subsided.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then the king’s wrath subsided.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Haman Hanged Instead of Mordecai",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:17.204Z"
+    },
+    "8": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 8,
+      "verses": [
+        {
+          "ref": "EST.8.1",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 1,
+          "text": "On that day King Ahasuerus gave Queen Esther the house of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had told how he was related to her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "On that day King Ahasuerus gave Queen Esther the house of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had told how he ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was related",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Esther Saves the Jews",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.2",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 2,
+          "text": "So the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai; and Esther appointed Mordecai over the house of Haman.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai; and Esther appointed Mordecai over the house of Haman.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.3",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 3,
+          "text": "Now Esther spoke again to the king, fell down at his feet, and implored him with tears to counteract the evil of Haman the Agagite, and the scheme which he had devised against the Jews.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Esther spoke again to the king, fell down at his feet, and implored him with tears to counteract the evil of Haman the Agagite, and the scheme which he had devised against the Jews.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.4",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 4,
+          "text": "And the king held out the golden scepter toward Esther. So Esther arose and stood before the king,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the king held out the golden scepter toward Esther. So Esther arose and stood before the king,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.5",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 5,
+          "text": "and said, “If it pleases the king, and if I have found favor in his sight and the thing seems right to the king and I am pleasing in his eyes, let it be written to revoke the letters devised by Haman, the son of Hammedatha the Agagite, which he wrote to annihilate the Jews who are in all the king’s provinces.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and said, “If it pleases the king, and if I have found favor in his sight and the thing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "seems",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " right to the king and I am pleasing in his eyes, let it be written to revoke the letters devised by Haman, the son of Hammedatha the Agagite, which he wrote to annihilate the Jews who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in all the king’s provinces.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.6",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 6,
+          "text": "For how can I endure to see the evil that will come to my people? Or how can I endure to see the destruction of my countrymen?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For how can I endure to see the evil that will come to my people? Or how can I endure to see the destruction of my countrymen?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.7",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 7,
+          "text": "Then King Ahasuerus said to Queen Esther and Mordecai the Jew, “Indeed, I have given Esther the house of Haman, and they have hanged him on the gallows because he tried to lay his hand on the Jews.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then King Ahasuerus said to Queen Esther and Mordecai the Jew, “Indeed, I have given Esther the house of Haman, and they have hanged him on the gallows because he ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "tried to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " lay his hand on the Jews.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.8",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 8,
+          "text": "You yourselves write a decree concerning the Jews, as you please, in the king’s name, and seal it with the king’s signet ring; for whatever is written in the king’s name and sealed with the king’s signet ring no one can revoke.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You yourselves write ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "a decree",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " concerning the Jews, as you please, in the king’s name, and seal ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with the king’s signet ring; for whatever is written in the king’s name and sealed with the king’s signet ring no one can revoke.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. as is good in your eyes"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.9",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 9,
+          "text": "So the king’s scribes were called at that time, in the third month, which is the month of Sivan, on the twenty-third day; and it was written, according to all that Mordecai commanded, to the Jews, the satraps, the governors, and the princes of the provinces from India to Ethiopia, one hundred and twenty-seven provinces in all, to every province in its own script, to every people in their own language, and to the Jews in their own script and language.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the king’s scribes were called at that time, in the third month, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the month of Sivan, on the twenty-third ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "day;",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and it was written, according to all that Mordecai commanded, to the Jews, the satraps, the governors, and the princes of the provinces from India to Ethiopia, one hundred and twenty-seven provinces ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "in all,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to every province in its own script, to every people in their own language, and to the Jews in their own script and language.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.10",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 10,
+          "text": "And he wrote in the name of King Ahasuerus, sealed it with the king’s signet ring, and sent letters by couriers on horseback, riding on royal horses bred from swift steeds.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he wrote in the name of King Ahasuerus, sealed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with the king’s signet ring, and sent letters by couriers on horseback, riding on royal horses bred from swift steeds.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. sons of the swift horses"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.11",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 11,
+          "text": "By these letters the king permitted the Jews who were in every city to gather together and protect their lives—to destroy, kill, and annihilate all the forces of any people or province that would assault them, both little children and women, and to plunder their possessions,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By these letters the king permitted the Jews who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in every city to gather together and protect their lives—to destroy, kill, and annihilate all the forces of any people or province that would assault them, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "both",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " little children and women, and to plunder their possessions,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.12",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 12,
+          "text": "on one day in all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "on one day in all the provinces of King Ahasuerus, on the thirteenth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "day",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the twelfth month, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the month of Adar.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "LXX adds the text of the letter here"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.13",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 13,
+          "text": "A copy of the document was to be issued as a decree in every province and published for all people, so that the Jews would be ready on that day to avenge themselves on their enemies.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A copy of the document was to be issued as a decree in every province and published for all people, so that the Jews would be ready on that day to avenge themselves on their enemies.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.14",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 14,
+          "text": "The couriers who rode on royal horses went out, hastened and pressed on by the king’s command. And the decree was issued in Shushan the citadel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The couriers who rode on royal horses went out, hastened and pressed on by the king’s command. And the decree was issued in Shushan the citadel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "e",
+                "text": "palace"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.15",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 15,
+          "text": "So Mordecai went out from the presence of the king in royal apparel of blue and white, with a great crown of gold and a garment of fine linen and purple; and the city of Shushan rejoiced and was glad.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Mordecai went out from the presence of the king in royal apparel of blue and white, with a great crown of gold and a garment of fine linen and purple; and the city of Shushan rejoiced and was glad.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "violet"
+              },
+              {
+                "marker": "g",
+                "text": "Or Susa"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.16",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 16,
+          "text": "The Jews had light and gladness, joy and honor.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Jews had light and gladness, joy and honor.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.8.17",
+          "book": "EST",
+          "chapter": 8,
+          "verse": 17,
+          "text": "And in every province and city, wherever the king’s command and decree came, the Jews had joy and gladness, a feast and a holiday. Then many of the people of the land became Jews, because fear of the Jews fell upon them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And in every province and city, wherever the king’s command and decree came, the Jews had joy and gladness, a feast and a holiday. Then many of the people of the land became Jews, because fear of the Jews fell upon them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esther Saves the Jews",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:18.910Z"
+    },
+    "9": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 9,
+      "verses": [
+        {
+          "ref": "EST.9.1",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 1,
+          "text": "Now in the twelfth month, that is, the month of Adar, on the thirteenth day, the time came for the king’s command and his decree to be executed. On the day that the enemies of the Jews had hoped to overpower them, the opposite occurred, in that the Jews themselves overpowered those who hated them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now in the twelfth month, that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the month of Adar, on the thirteenth day, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the time",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " came for the king’s command and his decree to be executed. On the day that the enemies of the Jews had hoped to overpower them, the opposite occurred, in that the Jews themselves overpowered those who hated them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Jews Destroy Their Tormentors",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.2",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 2,
+          "text": "The Jews gathered together in their cities throughout all the provinces of King Ahasuerus to lay hands on those who sought their harm. And no one could withstand them, because fear of them fell upon all people.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Jews gathered together in their cities throughout all the provinces of King Ahasuerus to lay hands on those who sought their harm. And no one could withstand them, because fear of them fell upon all people.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.3",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 3,
+          "text": "And all the officials of the provinces, the satraps, the governors, and all those doing the king’s work, helped the Jews, because the fear of Mordecai fell upon them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And all the officials of the provinces, the satraps, the governors, and all those doing the king’s work, helped the Jews, because the fear of Mordecai fell upon them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.4",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 4,
+          "text": "For Mordecai was great in the king’s palace, and his fame spread throughout all the provinces; for this man Mordecai became increasingly prominent.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For Mordecai ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " great in the king’s palace, and his fame spread throughout all the provinces; for this man Mordecai became increasingly prominent.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.5",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 5,
+          "text": "Thus the Jews defeated all their enemies with the stroke of the sword, with slaughter and destruction, and did what they pleased with those who hated them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus the Jews defeated all their enemies with the stroke of the sword, with slaughter and destruction, and did what they pleased with those who hated them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.6",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 6,
+          "text": "And in Shushan the citadel the Jews killed and destroyed five hundred men.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And in Shushan the citadel the Jews killed and destroyed five hundred men.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "b",
+                "text": "palace"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.7",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 7,
+          "text": "Also Parshandatha, Dalphon, Aspatha,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also Parshandatha, Dalphon, Aspatha,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.8",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 8,
+          "text": "Poratha, Adalia, Aridatha,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Poratha, Adalia, Aridatha,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.9",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 9,
+          "text": "Parmashta, Arisai, Aridai, and Vajezatha—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Parmashta, Arisai, Aridai, and Vajezatha—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.10",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 10,
+          "text": "the ten sons of Haman the son of Hammedatha, the enemy of the Jews—they killed; but they did not lay a hand on the plunder.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the ten sons of Haman the son of Hammedatha, the enemy of the Jews—they killed; but they did not lay a hand on the plunder.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "spoil"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.11",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 11,
+          "text": "On that day the number of those who were killed in Shushan the citadel was brought to the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "On that day the number of those who were killed in Shushan the citadel was brought to the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "e",
+                "text": "palace"
+              },
+              {
+                "marker": "f",
+                "text": "Lit. came"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.12",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 12,
+          "text": "And the king said to Queen Esther, “The Jews have killed and destroyed five hundred men in Shushan the citadel, and the ten sons of Haman. What have they done in the rest of the king’s provinces? Now what is your petition? It shall be granted to you. Or what is your further request? It shall be done.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the king said to Queen Esther, “The Jews have killed and destroyed five hundred men in Shushan the citadel, and the ten sons of Haman. What have they done in the rest of the king’s provinces? Now what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your petition? It shall be granted to you. Or what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your further request? It shall be done.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.13",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 13,
+          "text": "Then Esther said, “If it pleases the king, let it be granted to the Jews who are in Shushan to do again tomorrow according to today’s decree, and let Haman’s ten sons be hanged on the gallows.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Esther said, “If it pleases the king, let it be granted to the Jews who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in Shushan to do again tomorrow according to today’s decree, and let Haman’s ten sons be hanged on the gallows.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.14",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 14,
+          "text": "So the king commanded this to be done; the decree was issued in Shushan, and they hanged Haman’s ten sons.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the king commanded this to be done; the decree was issued in Shushan, and they hanged Haman’s ten sons.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.15",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 15,
+          "text": "And the Jews who were in Shushan gathered together again on the fourteenth day of the month of Adar and killed three hundred men at Shushan; but they did not lay a hand on the plunder.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Jews who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in Shushan gathered together again on the fourteenth day of the month of Adar and killed three hundred men at Shushan; but they did not lay a hand on the plunder.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Or Susa"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.16",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 16,
+          "text": "The remainder of the Jews in the king’s provinces gathered together and protected their lives, had rest from their enemies, and killed seventy-five thousand of their enemies; but they did not lay a hand on the plunder.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The remainder of the Jews in the king’s provinces gathered together and protected their lives, had rest from their enemies, and killed seventy-five thousand of their enemies; but they did not lay a hand on the plunder.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.17",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 17,
+          "text": "This was on the thirteenth day of the month of Adar. And on the fourteenth of the month they rested and made it a day of feasting and gladness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the thirteenth day of the month of Adar. And on the fourteenth of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the month",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " they rested and made it a day of feasting and gladness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. it"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.18",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 18,
+          "text": "But the Jews who were at Shushan assembled together on the thirteenth day, as well as on the fourteenth; and on the fifteenth of the month they rested, and made it a day of feasting and gladness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the Jews who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " at Shushan assembled together on the thirteenth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "day,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as well as on the fourteenth; and on the fifteenth of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the month",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " they rested, and made it a day of feasting and gladness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Or Susa"
+              },
+              {
+                "marker": "j",
+                "text": "Lit. it"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Feast of Purim",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.19",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 19,
+          "text": "Therefore the Jews of the villages who dwelt in the unwalled towns celebrated the fourteenth day of the month of Adar with gladness and feasting, as a holiday, and for sending presents to one another.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the Jews of the villages who dwelt in the unwalled towns celebrated the fourteenth day of the month of Adar ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "with",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " gladness and feasting, as a holiday, and for sending presents to one another.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.20",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 20,
+          "text": "And Mordecai wrote these things and sent letters to all the Jews, near and far, who were in all the provinces of King Ahasuerus,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Mordecai wrote these things and sent letters to all the Jews, near and far, who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in all the provinces of King Ahasuerus,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.21",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 21,
+          "text": "to establish among them that they should celebrate yearly the fourteenth and fifteenth days of the month of Adar,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to establish among them that they should celebrate yearly the fourteenth and fifteenth days of the month of Adar,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.22",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 22,
+          "text": "as the days on which the Jews had rest from their enemies, as the month which was turned from sorrow to joy for them, and from mourning to a holiday; that they should make them days of feasting and joy, of sending presents to one another and gifts to the poor.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as the days on which the Jews had rest from their enemies, as the month which was turned from sorrow to joy for them, and from mourning to a holiday; that they should make them days of feasting and joy, of sending presents to one another and gifts to the poor.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.23",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 23,
+          "text": "So the Jews accepted the custom which they had begun, as Mordecai had written to them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the Jews accepted the custom which they had begun, as Mordecai had written to them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.24",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 24,
+          "text": "because Haman, the son of Hammedatha the Agagite, the enemy of all the Jews, had plotted against the Jews to annihilate them, and had cast Pur (that is, the lot), to consume them and destroy them;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "because Haman, the son of Hammedatha the Agagite, the enemy of all the Jews, had plotted against the Jews to annihilate them, and had cast Pur (that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the lot), to consume them and destroy them;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.25",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 25,
+          "text": "but when Esther came before the king, he commanded by letter that this wicked plot which Haman had devised against the Jews should return on his own head, and that he and his sons should be hanged on the gallows.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but when ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Esther",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " came before the king, he commanded by letter that this wicked plot which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Haman",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " had devised against the Jews should return on his own head, and that he and his sons should be hanged on the gallows.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "Lit. she or it"
+              },
+              {
+                "marker": "l",
+                "text": "Lit. his"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.26",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 26,
+          "text": "So they called these days Purim, after the name Pur. Therefore, because of all the words of this letter, what they had seen concerning this matter, and what had happened to them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So they called these days Purim, after the name Pur. Therefore, because of all the words of this letter, what they had seen concerning this matter, and what had happened to them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "m",
+                "text": "Lit. Lot"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.27",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 27,
+          "text": "the Jews established and imposed it upon themselves and their descendants and all who would join them, that without fail they should celebrate these two days every year, according to the written instructions and according to the prescribed time,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the Jews established and imposed it upon themselves and their descendants and all who would join them, that without fail they should celebrate these two days every year, according to the written ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "instructions",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and according to the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "prescribed",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " time,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.28",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 28,
+          "text": "that these days should be remembered and kept throughout every generation, every family, every province, and every city, that these days of Purim should not fail to be observed among the Jews, and that the memory of them should not perish among their descendants.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " these days ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "should be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " remembered and kept throughout every generation, every family, every province, and every city, that these days of Purim should not fail ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be observed",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " among the Jews, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the memory of them should not perish among their descendants.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.29",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 29,
+          "text": "Then Queen Esther, the daughter of Abihail, with Mordecai the Jew, wrote with full authority to confirm this second letter about Purim.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Queen Esther, the daughter of Abihail, with Mordecai the Jew, wrote with full authority to confirm this second letter about Purim.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.30",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 30,
+          "text": "And Mordecai sent letters to all the Jews, to the one hundred and twenty-seven provinces of the kingdom of Ahasuerus, with words of peace and truth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Mordecai",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sent letters to all the Jews, to the one hundred and twenty-seven provinces of the kingdom of Ahasuerus, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "with",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " words of peace and truth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.31",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 31,
+          "text": "to confirm these days of Purim at their appointed time, as Mordecai the Jew and Queen Esther had prescribed for them, and as they had decreed for themselves and their descendants concerning matters of their fasting and lamenting.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to confirm these days of Purim at their ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "appointed",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " time, as Mordecai the Jew and Queen Esther had prescribed for them, and as they had decreed for themselves and their descendants concerning matters of their fasting and lamenting.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.9.32",
+          "book": "EST",
+          "chapter": 9,
+          "verse": 32,
+          "text": "So the decree of Esther confirmed these matters of Purim, and it was written in the book.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the decree of Esther confirmed these matters of Purim, and it was written in the book.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Jews Destroy Their Tormentors",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "The Feast of Purim",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:20.498Z"
+    },
+    "10": {
+      "translation": "en",
+      "source": "english",
+      "book": "EST",
+      "chapter": 10,
+      "verses": [
+        {
+          "ref": "EST.10.1",
+          "book": "EST",
+          "chapter": 10,
+          "verse": 1,
+          "text": "And King Ahasuerus imposed tribute on the land and on the islands of the sea.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And King Ahasuerus imposed tribute on the land and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "on",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the islands of the sea.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Mordecai’s Advancement",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.10.2",
+          "book": "EST",
+          "chapter": 10,
+          "verse": 2,
+          "text": "Now all the acts of his power and his might, and the account of the greatness of Mordecai, to which the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now all the acts of his power and his might, and the account of the greatness of Mordecai, to which the king advanced him, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " they not written in the book of the chronicles of the kings of Media and Persia?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. made him great"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EST.10.3",
+          "book": "EST",
+          "chapter": 10,
+          "verse": 3,
+          "text": "For Mordecai the Jew was second to King Ahasuerus, and was great among the Jews and well received by the multitude of his brethren, seeking the good of his people and speaking peace to all his countrymen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For Mordecai the Jew ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " second to King Ahasuerus, and was great among the Jews and well received by the multitude of his brethren, seeking the good of his people and speaking peace to all his countrymen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. seed. LXX, Vg. add a dream of Mordecai here; Vg. adds six more chapters"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mordecai’s Advancement",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:42:22.056Z"
+    }
+  }
+}

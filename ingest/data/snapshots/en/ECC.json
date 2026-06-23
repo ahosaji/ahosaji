@@ -1,0 +1,6564 @@
+{
+  "usfm": "ECC",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "ECC.1.1",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Vanity of Life",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.2",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 2,
+          "text": "“Vanity of vanities,” says the Preacher;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Vanity of vanities,” says the Preacher;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or Absurdity, Frustration, Futility, Nonsense; and so throughout the book"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.3",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 3,
+          "text": "What profit has a man from all his labor",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What profit has a man from all his labor",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.4",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 4,
+          "text": "One generation passes away, and another generation comes;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "One",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " generation passes away, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "another",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " generation comes;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.5",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 5,
+          "text": "The sun also rises, and the sun goes down,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The sun also rises, and the sun goes down,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.6",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 6,
+          "text": "The wind goes toward the south,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The wind goes toward the south,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.7",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 7,
+          "text": "All the rivers run into the sea,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All the rivers run into the sea,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.8",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 8,
+          "text": "All things are full of labor;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " full of labor;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "wearisome"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.9",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 9,
+          "text": "That which has been is what will be,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That which has been ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " what will be,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.10",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Is there anything of which it may be said,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is there anything of which it may be said,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.11",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 11,
+          "text": "There is no remembrance of former things,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no remembrance of former ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "things,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.12",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 12,
+          "text": "I, the Preacher, was king over Israel in Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I, the Preacher, was king over Israel in Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Grief of Wisdom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.13",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 13,
+          "text": "And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Or afflicted"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.14",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 14,
+          "text": "I have seen all the works that are done under the sun; and indeed, all is vanity and grasping for the wind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have seen all the works that are done under the sun; and indeed, all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity and grasping for the wind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.15",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 15,
+          "text": "What is crooked cannot be made straight,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " crooked cannot be made straight,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.16",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 16,
+          "text": "I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. seen"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.17",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 17,
+          "text": "And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.18",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 18,
+          "text": "For in much wisdom is much grief,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For in much wisdom ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " much grief,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Vanity of Life",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "The Grief of Wisdom",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:53.486Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "ECC.2.1",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 1,
+          "text": "I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure”; but surely, this also was vanity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure”; but surely, this also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "gladness"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Vanity of Pleasure(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.2",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 2,
+          "text": "I said of laughter—“Madness!”; and of mirth, “What does it accomplish?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I said of laughter—“Madness!”; and of mirth, “What does it accomplish?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.3",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 3,
+          "text": "I searched in my heart how to gratify my flesh with wine, while guiding my heart with wisdom, and how to lay hold on folly, till I might see what was good for the sons of men to do under heaven all the days of their lives.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I searched in my heart ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "how",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to gratify my flesh with wine, while guiding my heart with wisdom, and how to lay hold on folly, till I might see what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good for the sons of men to do under heaven all the days of their lives.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. to draw my flesh"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.4",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 4,
+          "text": "I made my works great, I built myself houses, and planted myself vineyards.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I made my works great, I built myself houses, and planted myself vineyards.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.5",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 5,
+          "text": "I made myself gardens and orchards, and I planted all kinds of fruit trees in them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I made myself gardens and orchards, and I planted all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "kinds",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of fruit trees in them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.6",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 6,
+          "text": "I made myself water pools from which to water the growing trees of the grove.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I made myself water pools from which to water the growing trees of the grove.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "irrigate"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.7",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 7,
+          "text": "I acquired male and female servants, and had servants born in my house. Yes, I had greater possessions of herds and flocks than all who were in Jerusalem before me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I acquired male and female servants, and had servants born in my house. Yes, I had greater possessions of herds and flocks than all who were in Jerusalem before me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. sons of my house"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.8",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 8,
+          "text": "I also gathered for myself silver and gold and the special treasures of kings and of the provinces. I acquired male and female singers, the delights of the sons of men, and musical instruments of all kinds.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I also gathered for myself silver and gold and the special treasures of kings and of the provinces. I acquired male and female singers, the delights of the sons of men, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " musical instruments of all kinds.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Exact meaning unknown"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.9",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 9,
+          "text": "So I became great and excelled more than all who were before me in Jerusalem. Also my wisdom remained with me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I became great and excelled more than all who were before me in Jerusalem. Also my wisdom remained with me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. increased"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.10",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Whatever my eyes desired I did not keep from them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whatever my eyes desired I did not keep from them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.11",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Then I looked on all the works that my hands had done",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I looked on all the works that my hands had done",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.12",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 12,
+          "text": "Then I turned myself to consider wisdom and madness and folly;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I turned myself to consider wisdom and madness and folly;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The End of the Wise and the Fool",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.13",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Then I saw that wisdom excels folly",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I saw that wisdom excels folly",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.14",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 14,
+          "text": "The wise man’s eyes are in his head,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The wise man’s eyes ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in his head,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.15",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 15,
+          "text": "So I said in my heart,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I said in my heart,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.16",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 16,
+          "text": "For there is no more remembrance of the wise than of the fool forever,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no more remembrance of the wise than of the fool forever,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.17",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Therefore I hated life because the work that was done under the sun was distressing to me, for all is vanity and grasping for the wind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I hated life because the work that was done under the sun ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " distressing to me, for all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity and grasping for the wind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.18",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Then I hated all my labor in which I had toiled under the sun, because I must leave it to the man who will come after me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I hated all my labor in which I had toiled under the sun, because I must leave it to the man who will come after me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.19",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 19,
+          "text": "And who knows whether he will be wise or a fool? Yet he will rule over all my labor in which I toiled and in which I have shown myself wise under the sun. This also is vanity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And who knows whether he will be wise or a fool? Yet he will rule over all my labor in which I toiled and in which I have shown myself wise under the sun. This also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.20",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 20,
+          "text": "Therefore I turned my heart and despaired of all the labor in which I had toiled under the sun.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I turned my heart and despaired of all the labor in which I had toiled under the sun.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.21",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 21,
+          "text": "For there is a man whose labor is with wisdom, knowledge, and skill; yet he must leave his heritage to a man who has not labored for it. This also is vanity and a great evil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For there is a man whose labor ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with wisdom, knowledge, and skill; yet he must leave his heritage to a man who has not labored for it. This also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity and a great evil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. portion"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.22",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 22,
+          "text": "For what has man for all his labor, and for the striving of his heart with which he has toiled under the sun?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For what has man for all his labor, and for the striving of his heart with which he has toiled under the sun?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.23",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 23,
+          "text": "For all his days are sorrowful, and his work burdensome; even in the night his heart takes no rest. This also is vanity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For all his days ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sorrowful, and his work burdensome; even in the night his heart takes no rest. This also is vanity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.24",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 24,
+          "text": "Nothing is better for a man than that he should eat and drink, and that his soul should enjoy good in his labor. This also, I saw, was from the hand of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nothing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better for a man ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "than",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that he should eat and drink, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " his soul should enjoy good in his labor. This also, I saw, was from the hand of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.25",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 25,
+          "text": "For who can eat, or who can have enjoyment, more than I?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For who can eat, or who can have enjoyment, more than I?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "So with MT, Tg., Vg.; some Heb. mss., LXX, Syr. without Him"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.26",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 26,
+          "text": "For God gives wisdom and knowledge and joy to a man who is good in His sight; but to the sinner He gives the work of gathering and collecting, that he may give to him who is good before God. This also is vanity and grasping for the wind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "God",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " gives wisdom and knowledge and joy to a man who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good in His sight; but to the sinner He gives the work of gathering and collecting, that he may give to ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "him who is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good before God. This also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity and grasping for the wind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Vanity of Pleasure(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "The End of the Wise and the Fool",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:55.018Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "ECC.3.1",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 1,
+          "text": "To everything there is a season,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To everything ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a season,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Everything Has Its Time",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.2",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 2,
+          "text": "A time to be born,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A time to be born,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. to bear"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.3",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 3,
+          "text": "A time to kill,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A time to kill,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.4",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 4,
+          "text": "A time to weep,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A time to weep,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.5",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 5,
+          "text": "A time to cast away stones,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A time to cast away stones,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.6",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 6,
+          "text": "A time to gain,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A time to gain,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.7",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 7,
+          "text": "A time to tear,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A time to tear,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.8",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 8,
+          "text": "A time to love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A time to love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.9",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 9,
+          "text": "What profit has the worker from that in which he labors?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What profit has the worker from that in which he labors?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The God-Given Task",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.10",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 10,
+          "text": "I have seen the God-given task with which the sons of men are to be occupied.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have seen the God-given task with which the sons of men are to be occupied.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.11",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 11,
+          "text": "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.12",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 12,
+          "text": "I know that nothing is better for them than to rejoice, and to do good in their lives,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I know that nothing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better for them than to rejoice, and to do good in their lives,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.13",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 13,
+          "text": "and also that every man should eat and drink and enjoy the good of all his labor—it is the gift of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and also that every man should eat and drink and enjoy the good of all his labor—it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the gift of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.14",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 14,
+          "text": "I know that whatever God does,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I know that whatever God does,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.15",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 15,
+          "text": "That which is has already been,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That which is has already been,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.16",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Moreover I saw under the sun:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Moreover I saw under the sun:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Injustice Seems to Prevail",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.17",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 17,
+          "text": "I said in my heart,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I said in my heart,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.18",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 18,
+          "text": "I said in my heart, “Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I said in my heart, “Concerning the condition of the sons of men, God tests them, that they may see that they themselves are ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "like",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " animals.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.19",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 19,
+          "text": "For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all is vanity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.20",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 20,
+          "text": "All go to one place: all are from the dust, and all return to dust.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All go to one place: all are from the dust, and all return to dust.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.21",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 21,
+          "text": "Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "LXX, Syr., Tg., Vg. Who knows whether the spirit . . . goes upward, and whether . . . goes downward to the earth?"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.22",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 22,
+          "text": "So I perceived that nothing is better than that a man should rejoice in his own works, for that is his heritage. For who can bring him to see what will happen after him?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I perceived that nothing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better than that a man should rejoice in his own works, for that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " his heritage. For who can bring him to see what will happen after him?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "portion or lot"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Everything Has Its Time",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "The God-Given Task",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Injustice Seems to Prevail",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:56.864Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "ECC.4.1",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Then I returned and considered all the oppression that is done under the sun:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I returned and considered all the oppression that is done under the sun:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Uselessness of Selfish Toil",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.2",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 2,
+          "text": "Therefore I praised the dead who were already dead,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I praised the dead who were already dead,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.3",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Yet, better than both is he who has never existed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet, better than both ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is he",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " who has never existed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.4",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 4,
+          "text": "Again, I saw that for all toil and every skillful work a man is envied by his neighbor. This also is vanity and grasping for the wind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Again, I saw that for all toil and every skillful work a man is envied by his neighbor. This also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity and grasping for the wind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Vanity of Selfish Toil",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.5",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 5,
+          "text": "The fool folds his hands",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The fool folds his hands",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.6",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 6,
+          "text": "Better a handful with quietness",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Better a handful ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "with",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " quietness",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.7",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Then I returned, and I saw vanity under the sun:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I returned, and I saw vanity under the sun:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.8",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 8,
+          "text": "There is one alone, without companion:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is one alone, without companion:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. a second"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.9",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 9,
+          "text": "Two are better than one,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Two ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better than one,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Value of a Friend",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.10",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 10,
+          "text": "For if they fall, one will lift up his companion.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if they fall, one will lift up his companion.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.11",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Again, if two lie down together, they will keep warm;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Again, if two lie down together, they will keep warm;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.12",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 12,
+          "text": "Though one may be overpowered by another, two can withstand him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though one may be overpowered by another, two can withstand him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.13",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 13,
+          "text": "Better a poor and wise youth",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Better a poor and wise youth",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Popularity Passes Away",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.14",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 14,
+          "text": "For he comes out of prison to be king,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For he comes out of prison to be king,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.15",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 15,
+          "text": "I saw all the living who walk under the sun;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I saw all the living who walk under the sun;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.16",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 16,
+          "text": "There was no end of all the people over whom he was made king;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no end of all the people over whom he was made king;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. to all before whom he was to be"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Uselessness of Selfish Toil",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "The Vanity of Selfish Toil",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "The Value of a Friend",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Popularity Passes Away",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:58.379Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "ECC.5.1",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Fear God, Keep Your Vows",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.2",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Do not be rash with your mouth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not be rash with your mouth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.3",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 3,
+          "text": "For a dream comes through much activity,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For a dream comes through much activity,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.4",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 4,
+          "text": "When you make a vow to God, do not delay to pay it;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When you make a vow to God, do not delay to pay it;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.5",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Better not to vow than to vow and not pay.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Better not to vow than to vow and not pay.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.6",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Do not let your mouth cause your flesh to sin, nor say before the messenger of God that it was an error. Why should God be angry at your excuse and destroy the work of your hands?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not let your mouth cause your flesh to sin, nor say before the messenger ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of God",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " an error. Why should God be angry at your excuse and destroy the work of your hands?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. voice"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.7",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 7,
+          "text": "For in the multitude of dreams and many words there is also vanity. But fear God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For in the multitude of dreams and many words ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " also vanity. But fear God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.8",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 8,
+          "text": "If you see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for high official watches over high official, and higher officials are over them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for high official watches over high official, and higher officials are over them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "wresting"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Vanity of Gain and Honor",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.9",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Moreover the profit of the land is for all; even the king is served from the field.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Moreover the profit of the land is for all; ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "even",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the king is served from the field.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.10",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 10,
+          "text": "He who loves silver will not be satisfied with silver;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who loves silver will not be satisfied with silver;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.11",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 11,
+          "text": "When goods increase,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When goods increase,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.12",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 12,
+          "text": "The sleep of a laboring man is sweet,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The sleep of a laboring man ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sweet,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.13",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 13,
+          "text": "There is a severe evil which I have seen under the sun:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is a severe evil ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I have seen under the sun:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.14",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 14,
+          "text": "But those riches perish through misfortune;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But those riches perish through misfortune;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. bad business"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.15",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 15,
+          "text": "As he came from his mother’s womb, naked shall he return,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As he came from his mother’s womb, naked shall he return,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.16",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 16,
+          "text": "And this also is a severe evil—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a severe evil—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.17",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 17,
+          "text": "All his days he also eats in darkness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All his days he also eats in darkness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.18",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Here is what I have seen: It is good and fitting for one to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; for it is his heritage.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Here is what I have seen: ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "It is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good and fitting ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "for one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; for it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " his heritage.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. portion"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.19",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 19,
+          "text": "As for every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor—this is the gift of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As for every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor—this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the gift of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. portion"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.20",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 20,
+          "text": "For he will not dwell unduly on the days of his life, because God keeps him busy with the joy of his heart.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For he will not dwell unduly on the days of his life, because God keeps ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "him",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " busy with the joy of his heart.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Fear God, Keep Your Vows",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "The Vanity of Gain and Honor",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:00.017Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "ECC.6.1",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 1,
+          "text": "There is an evil which I have seen under the sun, and it is common among men:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is an evil which I have seen under the sun, and it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " common among men:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Wealth Is Not the Goal of Life",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.2",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 2,
+          "text": "A man to whom God has given riches and wealth and honor, so that he lacks nothing for himself of all he desires; yet God does not give him power to eat of it, but a foreigner consumes it. This is vanity, and it is an evil affliction.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A man to whom God has given riches and wealth and honor, so that he lacks nothing for himself of all he desires; yet God does not give him power to eat of it, but a foreigner consumes it. This ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity, and it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " an evil affliction.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "disease"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.3",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 3,
+          "text": "If a man begets a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with goodness, or indeed he has no burial, I say that a stillborn child is better than he—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If a man begets a hundred ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "children",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and lives many years, so that the days of his years are many, but his soul is not satisfied with goodness, or indeed he has no burial, I say ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a stillborn child ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better than he—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or miscarriage"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.4",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 4,
+          "text": "for it comes in vanity and departs in darkness, and its name is covered with darkness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for it comes in vanity and departs in darkness, and its name is covered with darkness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.5",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 5,
+          "text": "Though it has not seen the sun or known anything, this has more rest than that man,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though it has not seen the sun or known ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "anything,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " this has more rest than that man,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.6",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 6,
+          "text": "even if he lives a thousand years twice—but has not seen goodness. Do not all go to one place?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "even if he lives a thousand years twice—but has not seen goodness. Do not all go to one place?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.7",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 7,
+          "text": "All the labor of man is for his mouth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All the labor of man ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for his mouth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.8",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 8,
+          "text": "For what more has the wise man than the fool?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For what more has the wise ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "man",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " than the fool?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.9",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 9,
+          "text": "Better is the sight of the eyes than the wandering of desire.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Better ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the sight of the eyes than the wandering of desire.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "What the eyes see"
+              },
+              {
+                "marker": "d",
+                "text": "Lit. soul"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.10",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Whatever one is, he has been named already,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whatever one is, he has been named already,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.11",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 11,
+          "text": "Since there are many things that increase vanity,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Since there are many things that increase vanity,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.12",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 12,
+          "text": "For who knows what is good for man in life, all the days of his vain life which he passes like a shadow? Who can tell a man what will happen after him under the sun?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For who knows what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good for man in life, all the days of his vain life which he passes like a shadow? Who can tell a man what will happen after him under the sun?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. the number of the days"
+              },
+              {
+                "marker": "f",
+                "text": "futile"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Wealth Is Not the Goal of Life",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:01.486Z"
+    },
+    "7": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "ECC.7.1",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 1,
+          "text": "A good name is better than precious ointment,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A good name ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better than precious ointment,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Value of Practical Wisdom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.2",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 2,
+          "text": "Better to go to the house of mourning",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Better to go to the house of mourning",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.3",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 3,
+          "text": "Sorrow is better than laughter,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Sorrow ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better than laughter,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Vexation or Grief"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.4",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 4,
+          "text": "The heart of the wise is in the house of mourning,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The heart of the wise ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the house of mourning,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.5",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 5,
+          "text": "It is better to hear the rebuke of the wise",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better to hear the rebuke of the wise",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "listen to"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.6",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 6,
+          "text": "For like the crackling of thorns under a pot,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For like the crackling of thorns under a pot,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. sound"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.7",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 7,
+          "text": "Surely oppression destroys a wise man’s reason,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Surely oppression destroys a wise ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "man’s",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " reason,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.8",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 8,
+          "text": "The end of a thing is better than its beginning;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The end of a thing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better than its beginning;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.9",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 9,
+          "text": "Do not hasten in your spirit to be angry,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not hasten in your spirit to be angry,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.10",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 10,
+          "text": "Do not say,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not say,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.11",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 11,
+          "text": "Wisdom is good with an inheritance,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wisdom ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good with an inheritance,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.12",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 12,
+          "text": "For wisdom is a defense as money is a defense,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For wisdom ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a defense ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " money ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a defense,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "A protective shade, lit. shadow"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.13",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 13,
+          "text": "Consider the work of God;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Consider the work of God;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.14",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 14,
+          "text": "In the day of prosperity be joyful,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the day of prosperity be joyful,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.15",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 15,
+          "text": "I have seen everything in my days of vanity:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have seen everything in my days of vanity:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.16",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 16,
+          "text": "Do not be overly righteous,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not be overly righteous,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.17",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 17,
+          "text": "Do not be overly wicked,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not be overly wicked,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.18",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 18,
+          "text": "It is good that you grasp this,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good that you grasp this,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.19",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 19,
+          "text": "Wisdom strengthens the wise",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wisdom strengthens the wise",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.20",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 20,
+          "text": "For there is not a just man on earth who does good",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not a just man on earth who does good",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.21",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 21,
+          "text": "Also do not take to heart everything people say,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also do not take to heart everything people say,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.22",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 22,
+          "text": "For many times, also, your own heart has known",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For many times, also, your own heart has known",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.23",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 23,
+          "text": "All this I have proved by wisdom.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All this I have proved by wisdom.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "tested"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.24",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 24,
+          "text": "As for that which is far off and exceedingly deep,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As for that which is far off and exceedingly deep,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.25",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 25,
+          "text": "I applied my heart to know,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I applied my heart to know,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.26",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 26,
+          "text": "And I find more bitter than death",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I find more bitter than death",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.27",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 27,
+          "text": "“Here is what I have found,” says the Preacher,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Here is what I have found,” says the Preacher,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.28",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 28,
+          "text": "Which my soul still seeks but I cannot find:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Which my soul still seeks but I cannot find:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.29",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 29,
+          "text": "Truly, this only I have found:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Truly, this only I have found:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Value of Practical Wisdom",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:03.141Z"
+    },
+    "8": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 8,
+      "verses": [
+        {
+          "ref": "ECC.8.1",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 1,
+          "text": "Who is like a wise man?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a wise ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "man?",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Obey Authorities for God’s Sake",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.2",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 2,
+          "text": "I say, “Keep the king’s commandment for the sake of your oath to God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "say,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " “Keep the king’s commandment for the sake of your oath to God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Obey Authorities for God’s Sake",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.3",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 3,
+          "text": "Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.4",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 4,
+          "text": "Where the word of a king is, there is power;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Where the word of a king ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is, there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " power;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.5",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 5,
+          "text": "He who keeps his command will experience nothing harmful;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who keeps his command will experience nothing harmful;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.6",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 6,
+          "text": "Because for every matter there is a time and judgment,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because for every matter there is a time and judgment,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.7",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 7,
+          "text": "For he does not know what will happen;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For he does not know what will happen;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.8",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 8,
+          "text": "No one has power over the spirit to retain the spirit,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "No one has power over the spirit to retain the spirit,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.9",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 9,
+          "text": "All this I have seen, and applied my heart to every work that is done under the sun: There is a time in which one man rules over another to his own hurt.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All this I have seen, and applied my heart to every work that is done under the sun: ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "There is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a time in which one man rules over another to his own hurt.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.10",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 10,
+          "text": "Then I saw the wicked buried, who had come and gone from the place of holiness, and they were forgotten in the city where they had so done. This also is vanity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I saw the wicked buried, who had come and gone from the place of holiness, and they were forgotten in the city where they had so done. This also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Some Heb. mss., LXX, Vg. praised"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Death Comes to All",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.11",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 11,
+          "text": "Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.12",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 12,
+          "text": "Though a sinner does evil a hundred times, and his days are prolonged, yet I surely know that it will be well with those who fear God, who fear before Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though a sinner does evil a hundred ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "times,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and his ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "days",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " are prolonged, yet I surely know that it will be well with those who fear God, who fear before Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.13",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 13,
+          "text": "But it will not be well with the wicked; nor will he prolong his days, which are as a shadow, because he does not fear before God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But it will not be well with the wicked; nor will he prolong ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " days, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as a shadow, because he does not fear before God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.14",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 14,
+          "text": "There is a vanity which occurs on earth, that there are just men to whom it happens according to the work of the wicked; again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is a vanity which occurs on earth, that there are just ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "men",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to whom it happens according to the work of the wicked; again, there are wicked ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "men",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to whom it happens according to the work of the righteous. I said that this also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vanity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.15",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 15,
+          "text": "So I commended enjoyment, because a man has nothing better under the sun than to eat, drink, and be merry; for this will remain with him in his labor all the days of his life which God gives him under the sun.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I commended enjoyment, because a man has nothing better under the sun than to eat, drink, and be merry; for this will remain with him in his labor ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "all",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the days of his life which God gives him under the sun.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.16",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 16,
+          "text": "When I applied my heart to know wisdom and to see the business that is done on earth, even though one sees no sleep day or night,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When I applied my heart to know wisdom and to see the business that is done on earth, even though one sees no sleep day or night,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.17",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 17,
+          "text": "then I saw all the work of God, that a man cannot find out the work that is done under the sun. For though a man labors to discover it, yet he will not find it; moreover, though a wise man attempts to know it, he will not be able to find it.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "then I saw all the work of God, that a man cannot find out the work that is done under the sun. For though a man labors to discover ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " yet he will not find ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it;",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " moreover, though a wise ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "man",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " attempts to know ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " he will not be able to find ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Obey Authorities for God’s Sake",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Obey Authorities for God’s Sake",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Death Comes to All",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:04.738Z"
+    },
+    "9": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 9,
+      "verses": [
+        {
+          "ref": "ECC.9.1",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 1,
+          "text": "For I considered all this in my heart, so that I could declare it all: that the righteous and the wise and their works are in the hand of God. People know neither love nor hatred by anything they see before them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I considered all this in my heart, so that I could declare it all: that the righteous and the wise and their works ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the hand of God. People know neither love nor hatred ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "by",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " anything ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "they see",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " before them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. put"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Death Comes to All",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.2",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 2,
+          "text": "All things come alike to all:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "come",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " alike to all:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.3",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 3,
+          "text": "This is an evil in all that is done under the sun: that one thing happens to all. Truly the hearts of the sons of men are full of evil; madness is in their hearts while they live, and after that they go to the dead.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " an evil in all that is done under the sun: that one thing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "happens",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to all. Truly the hearts of the sons of men are full of evil; madness ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in their hearts while they live, and after that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "they go",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to the dead.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.4",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 4,
+          "text": "But for him who is joined to all the living there is hope, for a living dog is better than a dead lion.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But for him who is joined to all the living there is hope, for a living dog is better than a dead lion.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.5",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 5,
+          "text": "For the living know that they will die;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the living know that they will die;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.6",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 6,
+          "text": "Also their love, their hatred, and their envy have now perished;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also their love, their hatred, and their envy have now perished;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.7",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 7,
+          "text": "Go, eat your bread with joy,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Go, eat your bread with joy,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.8",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 8,
+          "text": "Let your garments always be white,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let your garments always be white,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.9",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 9,
+          "text": "Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, all your days of vanity; for that is your portion in life, and in the labor which you perform under the sun.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, all your days of vanity; for that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your portion in life, and in the labor which you perform under the sun.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. See life"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.10",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 10,
+          "text": "Whatever your hand finds to do, do it with your might; for there is no work or device or knowledge or wisdom in the grave where you are going.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whatever your hand finds to do, do ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with your might; for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no work or device or knowledge or wisdom in the grave where you are going.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.11",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 11,
+          "text": "I returned and saw under the sun that—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I returned and saw under the sun that—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.12",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 12,
+          "text": "For man also does not know his time:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For man also does not know his time:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.13",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 13,
+          "text": "This wisdom I have also seen under the sun, and it seemed great to me:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This wisdom I have also seen under the sun, and it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "seemed",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " great to me:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Wisdom Superior to Folly",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.14",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 14,
+          "text": "There was a little city with few men in it; and a great king came against it, besieged it, and built great snares around it.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a little city with few men in it; and a great king came against it, besieged it, and built great snares around it.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "LXX, Syr., Vg. bulwarks"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.15",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 15,
+          "text": "Now there was found in it a poor wise man, and he by his wisdom delivered the city. Yet no one remembered that same poor man.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now there was found in it a poor wise man, and he by his wisdom delivered the city. Yet no one remembered that same poor man.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.16",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 16,
+          "text": "Then I said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.17",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 17,
+          "text": "Words of the wise, spoken quietly, should be heard",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Words of the wise, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "spoken",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " quietly, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "should be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " heard",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.18",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 18,
+          "text": "Wisdom is better than weapons of war;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wisdom ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better than weapons of war;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Death Comes to All",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Wisdom Superior to Folly",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:06.297Z"
+    },
+    "10": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 10,
+      "verses": [
+        {
+          "ref": "ECC.10.1",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 1,
+          "text": "Dead flies putrefy the perfumer’s ointment,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Dead flies putrefy the perfumer’s ointment,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. Flies of death"
+              },
+              {
+                "marker": "b",
+                "text": "Tg., Vg. omit putrefy"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Wisdom and Folly",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.2",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 2,
+          "text": "A wise man’s heart is at his right hand,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A wise man’s heart ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " at his right hand,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.3",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 3,
+          "text": "Even when a fool walks along the way,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even when a fool walks along the way,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.4",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 4,
+          "text": "If the spirit of the ruler rises against you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If the spirit of the ruler rises against you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.5",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 5,
+          "text": "There is an evil I have seen under the sun,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is an evil I have seen under the sun,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.6",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 6,
+          "text": "Folly is set in great dignity,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Folly is set in great dignity,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "exalted positions"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.7",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 7,
+          "text": "I have seen servants on horses,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have seen servants on horses,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.8",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 8,
+          "text": "He who digs a pit will fall into it,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who digs a pit will fall into it,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.9",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 9,
+          "text": "He who quarries stones may be hurt by them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who quarries stones may be hurt by them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.10",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 10,
+          "text": "If the ax is dull,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If the ax is dull,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.11",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 11,
+          "text": "A serpent may bite when it is not charmed;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A serpent may bite when ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not charmed;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.12",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 12,
+          "text": "The words of a wise man’s mouth are gracious,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The words of a wise man’s mouth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " gracious,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.13",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 13,
+          "text": "The words of his mouth begin with foolishness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The words of his mouth begin with foolishness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.14",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 14,
+          "text": "A fool also multiplies words.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A fool also multiplies words.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.15",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 15,
+          "text": "The labor of fools wearies them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The labor of fools wearies them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.16",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 16,
+          "text": "Woe to you, O land, when your king is a child,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to you, O land, when your king ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a child,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.17",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 17,
+          "text": "Blessed are you, O land, when your king is the son of nobles,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you, O land, when your king ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the son of nobles,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.18",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 18,
+          "text": "Because of laziness the building decays,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because of laziness the building decays,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Lit. rafters sink"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.19",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 19,
+          "text": "A feast is made for laughter,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A feast is made for laughter,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.20",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 20,
+          "text": "Do not curse the king, even in your thought;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not curse the king, even in your thought;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Wisdom and Folly",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:07.809Z"
+    },
+    "11": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 11,
+      "verses": [
+        {
+          "ref": "ECC.11.1",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 1,
+          "text": "Cast your bread upon the waters,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Cast your bread upon the waters,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Value of Diligence",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.2",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 2,
+          "text": "Give a serving to seven, and also to eight,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Give a serving to seven, and also to eight,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.3",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 3,
+          "text": "If the clouds are full of rain,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If the clouds are full of rain,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.4",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 4,
+          "text": "He who observes the wind will not sow,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who observes the wind will not sow,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.5",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 5,
+          "text": "As you do not know what is the way of the wind,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As you do not know what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the way of the wind,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or spirit"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.6",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 6,
+          "text": "In the morning sow your seed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the morning sow your seed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.7",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 7,
+          "text": "Truly the light is sweet,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Truly the light is sweet,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.8",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 8,
+          "text": "But if a man lives many years",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if a man lives many years",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.9",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 9,
+          "text": "Rejoice, O young man, in your youth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Rejoice, O young man, in your youth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Seek God in Early Life",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.10",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 10,
+          "text": "Therefore remove sorrow from your heart,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore remove sorrow from your heart,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "vexation"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Value of Diligence",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Seek God in Early Life",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:09.351Z"
+    },
+    "12": {
+      "translation": "en",
+      "source": "english",
+      "book": "ECC",
+      "chapter": 12,
+      "verses": [
+        {
+          "ref": "ECC.12.1",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 1,
+          "text": "Remember now your Creator in the days of your youth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Remember now your Creator in the days of your youth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Seek God in Early Life",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.2",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 2,
+          "text": "While the sun and the light,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "While the sun and the light,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.3",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 3,
+          "text": "In the day when the keepers of the house tremble,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the day when the keepers of the house tremble,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.4",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 4,
+          "text": "When the doors are shut in the streets,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When the doors are shut in the streets,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.5",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 5,
+          "text": "Also they are afraid of height,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also they are afraid of height,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.6",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 6,
+          "text": "Remember your Creator before the silver cord is loosed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Remember your Creator",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " before the silver cord is loosed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "So with Qr., Tg.; Kt. removed; LXX, Vg. broken"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.7",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 7,
+          "text": "Then the dust will return to the earth as it was,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the dust will return to the earth as it was,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.8",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 8,
+          "text": "“Vanity of vanities,” says the Preacher,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Vanity of vanities,” says the Preacher,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.9",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 9,
+          "text": "And moreover, because the Preacher was wise, he still taught the people knowledge; yes, he pondered and sought out and set in order many proverbs.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And moreover, because the Preacher was wise, he still taught the people knowledge; yes, he pondered and sought out ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " set in order many proverbs.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "arranged"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Whole Duty of Man",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.10",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 10,
+          "text": "The Preacher sought to find acceptable words; and what was written was upright—words of truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Preacher sought to find acceptable words; and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "what was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " written ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " upright—words of truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. delightful"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.11",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 11,
+          "text": "The words of the wise are like goads, and the words of scholars are like well-driven nails, given by one Shepherd.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The words of the wise are like goads, and the words of scholars are like well-driven nails, given by one Shepherd.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. masters of assemblies"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.12",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 12,
+          "text": "And further, my son, be admonished by these. Of making many books there is no end, and much study is wearisome to the flesh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And further, my son, be admonished by these. Of making many books ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no end, and much study ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " wearisome to the flesh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.13",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 13,
+          "text": "Let us hear the conclusion of the whole matter:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let us hear the conclusion of the whole matter:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.14",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 14,
+          "text": "For God will bring every work into judgment,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For God will bring every work into judgment,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Seek God in Early Life",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "The Whole Duty of Man",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:10.868Z"
+    }
+  }
+}

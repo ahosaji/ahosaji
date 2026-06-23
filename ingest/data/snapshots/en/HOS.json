@@ -1,0 +1,5181 @@
+{
+  "usfm": "HOS",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "HOS.1.1",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The word of the Lord that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The word of the Lord that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Hosea’s Unfaithful Wife",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.2",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 2,
+          "text": "When the Lord began to speak by Hosea, the Lord said to Hosea:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When the Lord began to speak by Hosea, the Lord said to Hosea:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Family of Hosea",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.3",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 3,
+          "text": "So he went and took Gomer the daughter of Diblaim, and she conceived and bore him a son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So he went and took Gomer the daughter of Diblaim, and she conceived and bore him a son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.4",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Then the Lord said to him:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord said to him:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.5",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 5,
+          "text": "It shall come to pass in that day",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It shall come to pass in that day",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.6",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 6,
+          "text": "And she conceived again and bore a daughter. Then God said to him:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And she conceived again and bore a daughter. Then ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "God",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " said to him:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.7",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 7,
+          "text": "Yet I will have mercy on the house of Judah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet I will have mercy on the house of Judah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.8",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Now when she had weaned Lo-Ruhamah, she conceived and bore a son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now when she had weaned Lo-Ruhamah, she conceived and bore a son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.9",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Then God said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "God",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.10",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 10,
+          "text": "“Yet the number of the children of Israel",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Yet the number of the children of Israel",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Restoration of Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.1.11",
+          "book": "HOS",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Then the children of Judah and the children of Israel",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the children of Judah and the children of Israel",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Hosea’s Unfaithful Wife",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Family of Hosea",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "The Restoration of Israel",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:13.582Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "HOS.2.1",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Say to your brethren, ‘My people,’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Say to your brethren, ‘My people,’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Heb. Ammi, ,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Lord’s Love for His Unfaithful People",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.2",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 2,
+          "text": "“Bring charges against your mother, bring charges;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Bring charges against your mother, bring charges;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Or Contend with"
+              },
+              {
+                "marker": "d",
+                "text": "Or contend"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "God’s Unfaithful People",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.3",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Lest I strip her naked",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Lest I strip her naked",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.4",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 4,
+          "text": "“I will not have mercy on her children,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will not have mercy on her children,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.5",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 5,
+          "text": "For their mother has played the harlot;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For their mother has played the harlot;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.6",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 6,
+          "text": "“Therefore, behold,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore, behold,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.7",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 7,
+          "text": "She will chase her lovers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She will chase her lovers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Or pursue"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.8",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 8,
+          "text": "For she did not know",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For she did not know",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.9",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 9,
+          "text": "“Therefore I will return and take away",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore I will return and take away",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.10",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Now I will uncover her lewdness in the sight of her lovers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now I will uncover her lewdness in the sight of her lovers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.11",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 11,
+          "text": "I will also cause all her mirth to cease,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will also cause all her mirth to cease,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.12",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 12,
+          "text": "“And I will destroy her vines and her fig trees,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And I will destroy her vines and her fig trees,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.13",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 13,
+          "text": "I will punish her",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will punish her",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.14",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 14,
+          "text": "“Therefore, behold, I will allure her,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore, behold, I will allure her,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Mercy on His People",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.15",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 15,
+          "text": "I will give her her vineyards from there,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will give her her vineyards from there,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.16",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 16,
+          "text": "“And it shall be, in that day,”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And it shall be, in that day,”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.17",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 17,
+          "text": "For I will take from her mouth the names of the Baals,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I will take from her mouth the names of the Baals,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.18",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 18,
+          "text": "In that day I will make a covenant for them",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day I will make a covenant for them",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.19",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 19,
+          "text": "“I will betroth you to Me forever;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will betroth you to Me forever;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.20",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 20,
+          "text": "I will betroth you to Me in faithfulness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will betroth you to Me in faithfulness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.21",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 21,
+          "text": "“It shall come to pass in that day",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“It shall come to pass in that day",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.22",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 22,
+          "text": "The earth shall answer",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The earth shall answer",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.2.23",
+          "book": "HOS",
+          "chapter": 2,
+          "verse": 23,
+          "text": "Then I will sow her for Myself in the earth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I will sow her for Myself in the earth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Lord’s Love for His Unfaithful People",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "God’s Unfaithful People",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "God’s Mercy on His People",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:15.242Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "HOS.3.1",
+          "book": "HOS",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Then the Lord said to me, “Go again, love a woman who is loved by a lover and is committing adultery, just like the love of the Lord for the children of Israel, who look to other gods and love the raisin cakes of the pagans.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord said to me, “Go again, love a woman ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " loved by a lover and is committing adultery, just like the love of the Lord for the children of Israel, who look to other gods and love ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " raisin cakes ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of the pagans.",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": "”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. friend or husband"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Israel Will Return to God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.3.2",
+          "book": "HOS",
+          "chapter": 3,
+          "verse": 2,
+          "text": "So I bought her for myself for fifteen shekels of silver, and one and one-half homers of barley.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I bought her for myself for fifteen ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "shekels",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of silver, and one and one-half homers of barley.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.3.3",
+          "book": "HOS",
+          "chapter": 3,
+          "verse": 3,
+          "text": "And I said to her, “You shall stay with me many days; you shall not play the harlot, nor shall you have a man—so, too, will I be toward you.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I said to her, “You shall stay with me many days; you shall not play the harlot, nor shall you have a man—so, too, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " toward you.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.3.4",
+          "book": "HOS",
+          "chapter": 3,
+          "verse": 4,
+          "text": "For the children of Israel shall abide many days without king or prince, without sacrifice or sacred pillar, without ephod or teraphim.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the children of Israel shall abide many days without king or prince, without sacrifice or ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "sacred",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " pillar, without ephod or teraphim.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.3.5",
+          "book": "HOS",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Afterward the children of Israel shall return and seek the Lord their God and David their king. They shall fear the Lord and His goodness in the latter days.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Afterward the children of Israel shall return and seek the Lord their God and David their king. They shall fear the Lord and His goodness in the latter days.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Israel Will Return to God",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:16.762Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "HOS.4.1",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Hear the word of the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear the word of the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Charge Against Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.2",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 2,
+          "text": "By swearing and lying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " swearing and lying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.3",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Therefore the land will mourn;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the land will mourn;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.4",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 4,
+          "text": "“Now let no man contend, or rebuke another;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Now let no man contend, or rebuke another;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.5",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Therefore you shall stumble in the day;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore you shall stumble in the day;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.6",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 6,
+          "text": "My people are destroyed for lack of knowledge.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My people are destroyed for lack of knowledge.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.7",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 7,
+          "text": "“The more they increased,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The more they increased,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.8",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 8,
+          "text": "They eat up the sin of My people;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They eat up the sin of My people;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.9",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 9,
+          "text": "And it shall be: like people, like priest.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it shall be: like people, like priest.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.10",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 10,
+          "text": "For they shall eat, but not have enough;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they shall eat, but not have enough;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.11",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 11,
+          "text": "“Harlotry, wine, and new wine enslave the heart.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Harlotry, wine, and new wine enslave the heart.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Idolatry of Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.12",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 12,
+          "text": "My people ask counsel from their wooden idols,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My people ask counsel from their wooden ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "idols,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.13",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 13,
+          "text": "They offer sacrifices on the mountaintops,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They offer sacrifices on the mountaintops,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.14",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 14,
+          "text": "“I will not punish your daughters when they commit harlotry,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will not punish your daughters when they commit harlotry,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.15",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 15,
+          "text": "“Though you, Israel, play the harlot,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Though you, Israel, play the harlot,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.16",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 16,
+          "text": "“For Israel is stubborn",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For Israel is stubborn",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.17",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 17,
+          "text": "“Ephraim is joined to idols,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Ephraim ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " joined to idols,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.18",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 18,
+          "text": "Their drink is rebellion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Their drink is rebellion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Or has turned aside"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.4.19",
+          "book": "HOS",
+          "chapter": 4,
+          "verse": 19,
+          "text": "The wind has wrapped her up in its wings,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The wind has wrapped her up in its wings,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God’s Charge Against Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "The Idolatry of Israel",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:18.247Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "HOS.5.1",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 1,
+          "text": "“Hear this, O priests!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Hear this, O priests!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Impending Judgment on Israel and Judah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.2",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 2,
+          "text": "The revolters are deeply involved in slaughter,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The revolters are deeply involved in slaughter,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.3",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 3,
+          "text": "I know Ephraim,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I know Ephraim,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.4",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 4,
+          "text": "“They do not direct their deeds",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They do not direct their deeds",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or Their deeds will not allow them to turn"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.5",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 5,
+          "text": "The pride of Israel testifies to his face;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The pride of Israel testifies to his face;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.6",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 6,
+          "text": "“With their flocks and herds",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“With their flocks and herds",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.7",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 7,
+          "text": "They have dealt treacherously with the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They have dealt treacherously with the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.8",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 8,
+          "text": "“Blow the ram’s horn in Gibeah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Blow the ram’s horn in Gibeah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.9",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Ephraim shall be desolate in the day of rebuke;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ephraim shall be desolate in the day of rebuke;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.10",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 10,
+          "text": "“The princes of Judah are like those who remove a landmark;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The princes of Judah are like those who remove a landmark;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.11",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 11,
+          "text": "Ephraim is oppressed and broken in judgment,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ephraim is oppressed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " broken in judgment,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.12",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 12,
+          "text": "Therefore I will be to Ephraim like a moth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Ephraim like a moth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.13",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 13,
+          "text": "“When Ephraim saw his sickness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“When Ephraim saw his sickness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.14",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 14,
+          "text": "For I will be like a lion to Ephraim,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a lion to Ephraim,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.5.15",
+          "book": "HOS",
+          "chapter": 5,
+          "verse": 15,
+          "text": "I will return again to My place",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will return again to My place",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Impending Judgment on Israel and Judah",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:19.741Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "HOS.6.1",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 1,
+          "text": "Come, and let us return to the Lord;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Come, and let us return to the Lord;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Call to Repentance",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.2",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 2,
+          "text": "After two days He will revive us;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "After two days He will revive us;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.3",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 3,
+          "text": "Let us know,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let us know,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.4",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 4,
+          "text": "“O Ephraim, what shall I do to you?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O Ephraim, what shall I do to you?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Impenitence of Israel and Judah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.5",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 5,
+          "text": "Therefore I have hewn them by the prophets,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I have hewn ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by the prophets,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.6",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 6,
+          "text": "For I desire mercy and not sacrifice,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I desire mercy and not sacrifice,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Or faithfulness or loyalty"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.7",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 7,
+          "text": "“But like men they transgressed the covenant;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But like men they transgressed the covenant;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or Adam"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.8",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 8,
+          "text": "Gilead is a city of evildoers",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Gilead ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a city of evildoers",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.9",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 9,
+          "text": "As bands of robbers lie in wait for a man,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As bands of robbers lie in wait for a man,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.10",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 10,
+          "text": "I have seen a horrible thing in the house of Israel:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have seen a horrible thing in the house of Israel:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.6.11",
+          "book": "HOS",
+          "chapter": 6,
+          "verse": 11,
+          "text": "Also, O Judah, a harvest is appointed for you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also, O Judah, a harvest is appointed for you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Call to Repentance",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Impenitence of Israel and Judah",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:21.228Z"
+    },
+    "7": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "HOS.7.1",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 1,
+          "text": "“When I would have healed Israel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“When I would have healed Israel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel Has Rebelled Against God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.2",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 2,
+          "text": "They do not consider in their hearts",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They do not consider in their hearts",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. do not say to"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.3",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 3,
+          "text": "They make a king glad with their wickedness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They make a king glad with their wickedness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.4",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 4,
+          "text": "“They are all adulterers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " all adulterers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.5",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 5,
+          "text": "In the day of our king",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the day of our king",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.6",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 6,
+          "text": "They prepare their heart like an oven,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They prepare their heart like an oven,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.7",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 7,
+          "text": "They are all hot, like an oven,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They are all hot, like an oven,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.8",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 8,
+          "text": "“Ephraim has mixed himself among the peoples;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Ephraim has mixed himself among the peoples;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.9",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 9,
+          "text": "Aliens have devoured his strength,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Aliens have devoured his strength,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.10",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 10,
+          "text": "And the pride of Israel testifies to his face,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the pride of Israel testifies to his face,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.11",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 11,
+          "text": "“Ephraim also is like a silly dove, without sense—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Ephraim also is like a silly dove, without sense—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. heart"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Futile Reliance on the Nations",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.12",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 12,
+          "text": "Wherever they go, I will spread My net on them;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wherever they go, I will spread My net on them;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.13",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 13,
+          "text": "“Woe to them, for they have fled from Me!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Woe to them, for they have fled from Me!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.14",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 14,
+          "text": "They did not cry out to Me with their heart",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They did not cry out to Me with their heart",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.15",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 15,
+          "text": "Though I disciplined and strengthened their arms,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though I disciplined ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " strengthened their arms,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.7.16",
+          "book": "HOS",
+          "chapter": 7,
+          "verse": 16,
+          "text": "They return, but not to the Most High;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They return, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "but",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not to the Most High;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Or upward"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Israel Has Rebelled Against God",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Futile Reliance on the Nations",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:22.756Z"
+    },
+    "8": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 8,
+      "verses": [
+        {
+          "ref": "HOS.8.1",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 1,
+          "text": "“Set the trumpet to your mouth!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Set",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the trumpet to your mouth!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "ram’s horn, Heb. shophar"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Apostasy of Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.2",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 2,
+          "text": "Israel will cry to Me,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Israel will cry to Me,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.3",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 3,
+          "text": "Israel has rejected the good;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Israel has rejected the good;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.4",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 4,
+          "text": "“They set up kings, but not by Me;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They set up kings, but not by Me;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.5",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 5,
+          "text": "Your calf is rejected, O Samaria!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your calf is rejected, O Samaria!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Golden calf image"
+              },
+              {
+                "marker": "c",
+                "text": "Or has rejected you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.6",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 6,
+          "text": "For from Israel is even this:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For from Israel ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " even this:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.7",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 7,
+          "text": "“They sow the wind,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They sow the wind,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.8",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 8,
+          "text": "Israel is swallowed up;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Israel is swallowed up;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.9",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 9,
+          "text": "For they have gone up to Assyria,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they have gone up to Assyria,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.10",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 10,
+          "text": "Yes, though they have hired among the nations,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, though they have hired among the nations,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.11",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 11,
+          "text": "“Because Ephraim has made many altars for sin,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Because Ephraim has made many altars for sin,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.12",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 12,
+          "text": "I have written for him the great things of My law,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have written for him the great things of My law,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.13",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 13,
+          "text": "For the sacrifices of My offerings they sacrifice flesh and eat it,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the sacrifices of My offerings they sacrifice flesh and eat ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.8.14",
+          "book": "HOS",
+          "chapter": 8,
+          "verse": 14,
+          "text": "“For Israel has forgotten his Maker,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For Israel has forgotten his Maker,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Apostasy of Israel",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:24.288Z"
+    },
+    "9": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 9,
+      "verses": [
+        {
+          "ref": "HOS.9.1",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 1,
+          "text": "Do not rejoice, O Israel, with joy like other peoples,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not rejoice, O Israel, with joy like ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "other",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " peoples,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment of Israel’s Sin",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.2",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 2,
+          "text": "The threshing floor and the winepress",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The threshing floor and the winepress",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.3",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 3,
+          "text": "They shall not dwell in the Lord’s land,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They shall not dwell in the Lord’s land,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.4",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 4,
+          "text": "They shall not offer wine offerings to the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They shall not offer wine ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "offerings",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.5",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 5,
+          "text": "What will you do in the appointed day,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What will you do in the appointed day,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.6",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 6,
+          "text": "For indeed they are gone because of destruction.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For indeed they are gone because of destruction.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.7",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 7,
+          "text": "The days of punishment have come;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The days of punishment have come;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.8",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 8,
+          "text": "The watchman of Ephraim is with my God;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The watchman of Ephraim ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with my God;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.9",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 9,
+          "text": "They are deeply corrupted,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They are deeply corrupted,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.10",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 10,
+          "text": "“I found Israel",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I found Israel",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.11",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 11,
+          "text": "As for Ephraim, their glory shall fly away like a bird—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As for",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Ephraim, their glory shall fly away like a bird—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.12",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 12,
+          "text": "Though they bring up their children,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though they bring up their children,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.13",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 13,
+          "text": "Just as I saw Ephraim like Tyre, planted in a pleasant place,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Just as I saw Ephraim like Tyre, planted in a pleasant place,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.14",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 14,
+          "text": "Give them, O Lord—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Give them, O Lord—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.15",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 15,
+          "text": "“All their wickedness is in Gilgal,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“All their wickedness ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in Gilgal,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.16",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 16,
+          "text": "Ephraim is stricken,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ephraim is stricken,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.9.17",
+          "book": "HOS",
+          "chapter": 9,
+          "verse": 17,
+          "text": "My God will cast them away,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My God will cast them away,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Judgment of Israel’s Sin",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:25.799Z"
+    },
+    "10": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 10,
+      "verses": [
+        {
+          "ref": "HOS.10.1",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 1,
+          "text": "Israel empties his vine;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Israel empties ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " vine;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel’s Sin and Captivity",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.2",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 2,
+          "text": "Their heart is divided;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Their heart is divided;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Divided in loyalty"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.3",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 3,
+          "text": "For now they say,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For now they say,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.4",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 4,
+          "text": "They have spoken words,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They have spoken words,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.5",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 5,
+          "text": "The inhabitants of Samaria fear",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The inhabitants of Samaria fear",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.6",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 6,
+          "text": "The idol also shall be carried to Assyria",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The idol",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " also shall be carried to Assyria",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.7",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 7,
+          "text": "As for Samaria, her king is cut off",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As for",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Samaria, her king is cut off",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.8",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 8,
+          "text": "Also the high places of Aven, the sin of Israel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also the high places of Aven, the sin of Israel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. Idolatry or Wickedness"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.9",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 9,
+          "text": "“O Israel, you have sinned from the days of Gibeah;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O Israel, you have sinned from the days of Gibeah;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.10",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 10,
+          "text": "When it is My desire, I will chasten them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " My desire, I will chasten them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.11",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 11,
+          "text": "Ephraim is a trained heifer",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ephraim ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a trained heifer",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.12",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 12,
+          "text": "Sow for yourselves righteousness;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Sow for yourselves righteousness;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.13",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 13,
+          "text": "You have plowed wickedness;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have plowed wickedness;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.14",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 14,
+          "text": "Therefore tumult shall arise among your people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore tumult shall arise among your people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.10.15",
+          "book": "HOS",
+          "chapter": 10,
+          "verse": 15,
+          "text": "Thus it shall be done to you, O Bethel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus it shall be done to you, O Bethel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Israel’s Sin and Captivity",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:27.382Z"
+    },
+    "11": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 11,
+      "verses": [
+        {
+          "ref": "HOS.11.1",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 1,
+          "text": "“When Israel was a child, I loved him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“When Israel ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a child, I loved him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or youth"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "God’s Continuing Love for Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.2",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 2,
+          "text": "As they called them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " they called them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "So with MT, Vg.; LXX Just as I called them; Tg. interprets as I sent prophets to a thousand of them."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.3",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 3,
+          "text": "“I taught Ephraim to walk,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I taught Ephraim to walk,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.4",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 4,
+          "text": "I drew them with gentle cords,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I drew them with gentle cords,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. cords of a man"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.5",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 5,
+          "text": "“He shall not return to the land of Egypt;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“He shall not return to the land of Egypt;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.6",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 6,
+          "text": "And the sword shall slash in his cities,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the sword shall slash in his cities,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.7",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 7,
+          "text": "My people are bent on backsliding from Me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My people are bent on backsliding from Me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.8",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 8,
+          "text": "“How can I give you up, Ephraim?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“How can I give you up, Ephraim?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.9",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 9,
+          "text": "I will not execute the fierceness of My anger;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will not execute the fierceness of My anger;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.10",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 10,
+          "text": "“They shall walk after the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They shall walk after the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.11",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 11,
+          "text": "They shall come trembling like a bird from Egypt,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They shall come trembling like a bird from Egypt,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.11.12",
+          "book": "HOS",
+          "chapter": 11,
+          "verse": 12,
+          "text": "“Ephraim has encircled Me with lies,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Ephraim has encircled Me with lies,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Charge Against Ephraim",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God’s Continuing Love for Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "God’s Charge Against Ephraim",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:29.009Z"
+    },
+    "12": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 12,
+      "verses": [
+        {
+          "ref": "HOS.12.1",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 1,
+          "text": "“Ephraim feeds on the wind,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Ephraim feeds on the wind,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Ephraim’s Sins Rebuked by God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.2",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 2,
+          "text": "“The Lord also brings a charge against Judah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The Lord also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "brings",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a charge against Judah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "A legal complaint"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.3",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 3,
+          "text": "He took his brother by the heel in the womb,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He took his brother by the heel in the womb,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.4",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 4,
+          "text": "Yes, he struggled with the Angel and prevailed;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, he struggled with the Angel and prevailed;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.5",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 5,
+          "text": "That is, the Lord God of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That is, the Lord God of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.6",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 6,
+          "text": "So you, by the help of your God, return;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So you, by ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the help of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your God, return;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.7",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 7,
+          "text": "“A cunning Canaanite!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“A cunning Canaanite!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or merchant"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.8",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 8,
+          "text": "And Ephraim said,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Ephraim said,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.9",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 9,
+          "text": "“But I am the Lord your God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord your God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.10",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 10,
+          "text": "I have also spoken by the prophets,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have also spoken by the prophets,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.11",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 11,
+          "text": "Though Gilead has idols—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though Gilead ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "has",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " idols—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.12",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 12,
+          "text": "Jacob fled to the country of Syria;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Jacob fled to the country of Syria;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.13",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 13,
+          "text": "By a prophet the Lord brought Israel out of Egypt,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By a prophet the Lord brought Israel out of Egypt,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.12.14",
+          "book": "HOS",
+          "chapter": 12,
+          "verse": 14,
+          "text": "Ephraim provoked Him to anger most bitterly;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ephraim provoked ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Him",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to anger most bitterly;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ephraim’s Sins Rebuked by God",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:30.556Z"
+    },
+    "13": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 13,
+      "verses": [
+        {
+          "ref": "HOS.13.1",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 1,
+          "text": "When Ephraim spoke, trembling,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When Ephraim spoke, trembling,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Relentless Judgment on Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.2",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 2,
+          "text": "Now they sin more and more,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now they sin more and more,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.3",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 3,
+          "text": "Therefore they shall be like the morning cloud",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore they shall be like the morning cloud",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.4",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 4,
+          "text": "“Yet I am the Lord your God",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Yet I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord your God",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.5",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 5,
+          "text": "I knew you in the wilderness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I knew you in the wilderness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Cared for you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.6",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 6,
+          "text": "When they had pasture, they were filled;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When they had pasture, they were filled;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.7",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 7,
+          "text": "“So I will be to them like a lion;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“So I will be to them like a lion;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.8",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 8,
+          "text": "I will meet them like a bear deprived of her cubs;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will meet them like a bear deprived ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of her cubs;",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.9",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 9,
+          "text": "“O Israel, you are destroyed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O Israel, you are destroyed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. it or he destroyed you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.10",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 10,
+          "text": "I will be your King;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will be your King;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "LXX, Syr., Tg., Vg. Where is your king?"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.11",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 11,
+          "text": "I gave you a king in My anger,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I gave you a king in My anger,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.12",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 12,
+          "text": "“The iniquity of Ephraim is bound up;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The iniquity of Ephraim ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " bound up;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.13",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 13,
+          "text": "The sorrows of a woman in childbirth shall come upon him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The sorrows of a woman in childbirth shall come upon him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.14",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 14,
+          "text": "“I will ransom them from the power of the grave;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will ransom them from the power of the grave;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Lit. hand"
+              },
+              {
+                "marker": "j",
+                "text": "Or Sheol"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.15",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 15,
+          "text": "Though he is fruitful among his brethren,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though he is fruitful among ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " brethren,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.13.16",
+          "book": "HOS",
+          "chapter": 13,
+          "verse": 16,
+          "text": "Samaria is held guilty,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Samaria is held guilty,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "n",
+                "text": "LXX shall be disfigured"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Relentless Judgment on Israel",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:32.046Z"
+    },
+    "14": {
+      "translation": "en",
+      "source": "english",
+      "book": "HOS",
+      "chapter": 14,
+      "verses": [
+        {
+          "ref": "HOS.14.1",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 1,
+          "text": "O Israel, return to the Lord your God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Israel, return to the Lord your God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel Restored at Last",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.2",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 2,
+          "text": "Take words with you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Take words with you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.3",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 3,
+          "text": "Assyria shall not save us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Assyria shall not save us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.4",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 4,
+          "text": "“I will heal their backsliding,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will heal their backsliding,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.5",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 5,
+          "text": "I will be like the dew to Israel;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will be like the dew to Israel;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.6",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 6,
+          "text": "His branches shall spread;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His branches shall spread;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. go"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.7",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 7,
+          "text": "Those who dwell under his shadow shall return;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those who dwell under his shadow shall return;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.8",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 8,
+          "text": "“Ephraim shall say, ‘What have I to do anymore with idols?’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Ephraim ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "shall say,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ‘What have I to do anymore with idols?’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HOS.14.9",
+          "book": "HOS",
+          "chapter": 14,
+          "verse": 9,
+          "text": "Who is wise?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " wise?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Israel Restored at Last",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:33.560Z"
+    }
+  }
+}

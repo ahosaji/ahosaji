@@ -1,0 +1,3025 @@
+{
+  "usfm": "PHP",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "PHP",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "PHP.1.1",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul and Timothy, bondservants of Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Paul and Timothy, bondservants of Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.2",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.3",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 3,
+          "text": "I thank my God upon every remembrance of you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I thank my God upon every remembrance of you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Thankfulness and Prayer",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.4",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 4,
+          "text": "always in every prayer of mine making request for you all with joy,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "always in every prayer of mine making request for you all with joy,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.5",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 5,
+          "text": "for your fellowship in the gospel from the first day until now,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for your fellowship in the gospel from the first day until now,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.6",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 6,
+          "text": "being confident of this very thing, that He who has begun a good work in you will complete it until the day of Jesus Christ;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "being confident of this very thing, that He who has begun a good work in you will complete ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " until the day of Jesus Christ;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.7",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 7,
+          "text": "just as it is right for me to think this of you all, because I have you in my heart, inasmuch as both in my chains and in the defense and confirmation of the gospel, you all are partakers with me of grace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "just as it is right for me to think this of you all, because I have you in my heart, inasmuch as both in my chains and in the defense and confirmation of the gospel, you all are partakers with me of grace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.8",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 8,
+          "text": "For God is my witness, how greatly I long for you all with the affection of Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For God is my witness, how greatly I long for you all with the affection of Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.9",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 9,
+          "text": "And this I pray, that your love may abound still more and more in knowledge and all discernment,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this I pray, that your love may abound still more and more in knowledge and all discernment,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.10",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 10,
+          "text": "that you may approve the things that are excellent, that you may be sincere and without offense till the day of Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that you may approve the things that are excellent, that you may be sincere and without offense till the day of Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.11",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 11,
+          "text": "being filled with the fruits of righteousness which are by Jesus Christ, to the glory and praise of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "being filled with the fruits of righteousness which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by Jesus Christ, to the glory and praise of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.12",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 12,
+          "text": "But I want you to know, brethren, that the things which happened to me have actually turned out for the furtherance of the gospel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I want you to know, brethren, that the things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which happened",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to me have actually turned out for the furtherance of the gospel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Christ Is Preached",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.13",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 13,
+          "text": "so that it has become evident to the whole palace guard, and to all the rest, that my chains are in Christ;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "so that it has become evident to the whole palace guard, and to all the rest, that my chains are in Christ;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or Praetorium"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.14",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 14,
+          "text": "and most of the brethren in the Lord, having become confident by my chains, are much more bold to speak the word without fear.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and most of the brethren in the Lord, having become confident by my chains, are much more bold to speak the word without fear.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.15",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Some indeed preach Christ even from envy and strife, and some also from goodwill:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Some indeed preach Christ even from envy and strife, and some also from goodwill:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.16",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 16,
+          "text": "The former preach Christ from selfish ambition, not sincerely, supposing to add affliction to my chains;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The former preach Christ from selfish ambition, not sincerely, supposing to add affliction to my chains;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU reverses vv.  and ."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.17",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 17,
+          "text": "but the latter out of love, knowing that I am appointed for the defense of the gospel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but the latter out of love, knowing that I am appointed for the defense of the gospel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.18",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 18,
+          "text": "What then? Only that in every way, whether in pretense or in truth, Christ is preached; and in this I rejoice, yes, and will rejoice.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What then? Only ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in every way, whether in pretense or in truth, Christ is preached; and in this I rejoice, yes, and will rejoice.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.19",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 19,
+          "text": "For I know that this will turn out for my deliverance through your prayer and the supply of the Spirit of Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I know that this will turn out for my deliverance through your prayer and the supply of the Spirit of Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "To Live Is Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.20",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 20,
+          "text": "according to my earnest expectation and hope that in nothing I shall be ashamed, but with all boldness, as always, so now also Christ will be magnified in my body, whether by life or by death.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "according to my earnest expectation and hope that in nothing I shall be ashamed, but with all boldness, as always, so now also Christ will be magnified in my body, whether by life or by death.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.21",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 21,
+          "text": "For to me, to live is Christ, and to die is gain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For to me, to live ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Christ, and to die ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " gain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.22",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 22,
+          "text": "But if I live on in the flesh, this will mean fruit from my labor; yet what I shall choose I cannot tell.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "I",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " live on in the flesh, this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will mean",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " fruit from ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "my",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " labor; yet what I shall choose I cannot tell.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "do not know"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.23",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 23,
+          "text": "For I am hard-pressed between the two, having a desire to depart and be with Christ, which is far better.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I am hard-pressed between the two, having a desire to depart and be with Christ, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " far better.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU, M But"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.24",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 24,
+          "text": "Nevertheless to remain in the flesh is more needful for you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless to remain in the flesh ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " more needful for you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.25",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 25,
+          "text": "And being confident of this, I know that I shall remain and continue with you all for your progress and joy of faith,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And being confident of this, I know that I shall remain and continue with you all for your progress and joy of faith,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.26",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 26,
+          "text": "that your rejoicing for me may be more abundant in Jesus Christ by my coming to you again.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that your rejoicing for me may be more abundant in Jesus Christ by my coming to you again.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.27",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 27,
+          "text": "Only let your conduct be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Only let your conduct be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Striving and Suffering for Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.28",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 28,
+          "text": "and not in any way terrified by your adversaries, which is to them a proof of perdition, but to you of salvation, and that from God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and not in any way terrified by your adversaries, which is to them a proof of perdition, but to you of salvation, and that from God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU of your salvation"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.29",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 29,
+          "text": "For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.30",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 30,
+          "text": "having the same conflict which you saw in me and now hear is in me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having the same conflict which you saw in me and now hear ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Thankfulness and Prayer",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Christ Is Preached",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "To Live Is Christ",
+          "level": 2
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Striving and Suffering for Christ",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:00.884Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "PHP",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "PHP.2.1",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Therefore if there is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore if ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or encouragement"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Unity Through Humility",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.2",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 2,
+          "text": "fulfill my joy by being like-minded, having the same love, being of one accord, of one mind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "fulfill my joy by being like-minded, having the same love, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "being",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of one accord, of one mind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.3",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " nothing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be done",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.4",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Let each of you look out not only for his own interests, but also for the interests of others.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let each of you look out not only for his own interests, but also for the interests of others.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.5",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Let this mind be in you which was also in Christ Jesus,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let this mind be in you which was also in Christ Jesus,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Humbled and Exalted Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.6",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 6,
+          "text": "who, being in the form of God, did not consider it robbery to be equal with God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who, being in the form of God, did not consider it robbery to be equal with God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or something to be held onto to be equal"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.7",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 7,
+          "text": "but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but made Himself of no reputation, taking the form of a bondservant, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " coming in the likeness of men.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "emptied Himself of His privileges"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.8",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 8,
+          "text": "And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And being found in appearance as a man, He humbled Himself and became obedient to ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the point of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " death, even the death of the cross.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.9",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Therefore God also has highly exalted Him and given Him the name which is above every name,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore God also has highly exalted Him and given Him the name which is above every name,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.10",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 10,
+          "text": "that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.11",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 11,
+          "text": "and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " every tongue should confess that Jesus Christ ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Lord, to the glory of God the Father.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.12",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 12,
+          "text": "Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Light Bearers",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.13",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 13,
+          "text": "for it is God who works in you both to will and to do for His good pleasure.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for it is God who works in you both to will and to do for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "His",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good pleasure.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.14",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Do all things without complaining and disputing,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do all things without complaining and disputing,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "grumbling"
+              },
+              {
+                "marker": "e",
+                "text": "arguing"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.15",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 15,
+          "text": "that you may become blameless and harmless, children of God without fault in the midst of a crooked and perverse generation, among whom you shine as lights in the world,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that you may become blameless and harmless, children of God without fault in the midst of a crooked and perverse generation, among whom you shine as lights in the world,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "innocent"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.16",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 16,
+          "text": "holding fast the word of life, so that I may rejoice in the day of Christ that I have not run in vain or labored in vain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "holding fast the word of life, so that I may rejoice in the day of Christ that I have not run in vain or labored in vain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.17",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Yes, and if I am being poured out as a drink offering on the sacrifice and service of your faith, I am glad and rejoice with you all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, and if I am being poured out ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as a drink offering",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the sacrifice and service of your faith, I am glad and rejoice with you all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.18",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 18,
+          "text": "For the same reason you also be glad and rejoice with me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the same reason you also be glad and rejoice with me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.19",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 19,
+          "text": "But I trust in the Lord Jesus to send Timothy to you shortly, that I also may be encouraged when I know your state.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I trust in the Lord Jesus to send Timothy to you shortly, that I also may be encouraged when I know your state.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "condition"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Timothy Commended",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.20",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 20,
+          "text": "For I have no one like-minded, who will sincerely care for your state.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I have no one like-minded, who will sincerely care for your state.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.21",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 21,
+          "text": "For all seek their own, not the things which are of Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For all seek their own, not the things which are of Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.22",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 22,
+          "text": "But you know his proven character, that as a son with his father he served with me in the gospel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you know his proven character, that as a son with ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " father he served with me in the gospel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.23",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 23,
+          "text": "Therefore I hope to send him at once, as soon as I see how it goes with me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I hope to send him at once, as soon as I see how it goes with me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.24",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 24,
+          "text": "But I trust in the Lord that I myself shall also come shortly.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I trust in the Lord that I myself shall also come shortly.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.25",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 25,
+          "text": "Yet I considered it necessary to send to you Epaphroditus, my brother, fellow worker, and fellow soldier, but your messenger and the one who ministered to my need;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet I considered it necessary to send to you Epaphroditus, my brother, fellow worker, and fellow soldier, but your messenger and the one who ministered to my need;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Epaphroditus Praised",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.26",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 26,
+          "text": "since he was longing for you all, and was distressed because you had heard that he was sick.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "since he was longing for you all, and was distressed because you had heard that he was sick.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.27",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 27,
+          "text": "For indeed he was sick almost unto death; but God had mercy on him, and not only on him but on me also, lest I should have sorrow upon sorrow.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For indeed he was sick almost unto death; but God had mercy on him, and not only on him but on me also, lest I should have sorrow upon sorrow.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.28",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 28,
+          "text": "Therefore I sent him the more eagerly, that when you see him again you may rejoice, and I may be less sorrowful.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I sent him the more eagerly, that when you see him again you may rejoice, and I may be less sorrowful.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.29",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 29,
+          "text": "Receive him therefore in the Lord with all gladness, and hold such men in esteem;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Receive him therefore in the Lord with all gladness, and hold such men in esteem;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.30",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 30,
+          "text": "because for the work of Christ he came close to death, not regarding his life, to supply what was lacking in your service toward me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "because for the work of Christ he came close to death, not regarding his life, to supply what was lacking in your service toward me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "risking"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Unity Through Humility",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "The Humbled and Exalted Christ",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Light Bearers",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Timothy Commended",
+          "level": 2
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Epaphroditus Praised",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:02.380Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "PHP",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "PHP.3.1",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Finally, my brethren, rejoice in the Lord. For me to write the same things to you is not tedious, but for you it is safe.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Finally, my brethren, rejoice in the Lord. For me to write the same things to you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not tedious, but for you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " safe.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "All for Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.2",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 2,
+          "text": "Beware of dogs, beware of evil workers, beware of the mutilation!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beware of dogs, beware of evil workers, beware of the mutilation!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.3",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 3,
+          "text": "For we are the circumcision, who worship God in the Spirit, rejoice in Christ Jesus, and have no confidence in the flesh,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we are the circumcision, who worship God in the Spirit, rejoice in Christ Jesus, and have no confidence in the flesh,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU, M in the Spirit of God"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.4",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 4,
+          "text": "though I also might have confidence in the flesh. If anyone else thinks he may have confidence in the flesh, I more so:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "though I also might have confidence in the flesh. If anyone else thinks he may have confidence in the flesh, I more so:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.5",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 5,
+          "text": "circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of the Hebrews; concerning the law, a Pharisee;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "circumcised the eighth day, of the stock of Israel, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the tribe of Benjamin, a Hebrew of the Hebrews; concerning the law, a Pharisee;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.6",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 6,
+          "text": "concerning zeal, persecuting the church; concerning the righteousness which is in the law, blameless.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "concerning zeal, persecuting the church; concerning the righteousness which is in the law, blameless.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.7",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 7,
+          "text": "But what things were gain to me, these I have counted loss for Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But what things were gain to me, these I have counted loss for Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.8",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.9",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 9,
+          "text": "and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and be found in Him, not having my own righteousness, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from the law, but that which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " through faith in Christ, the righteousness which is from God by faith;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.10",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 10,
+          "text": "that I may know Him and the power of His resurrection, and the fellowship of His sufferings, being conformed to His death,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that I may know Him and the power of His resurrection, and the fellowship of His sufferings, being conformed to His death,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.11",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 11,
+          "text": "if, by any means, I may attain to the resurrection from the dead.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "if, by any means, I may attain to the resurrection from the dead.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. arrive at"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.12",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Not that I have already attained, or am already perfected; but I press on, that I may lay hold of that for which Christ Jesus has also laid hold of me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Not that I have already attained, or am already perfected; but I press on, that I may lay hold of that for which Christ Jesus has also laid hold of me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "obtained it"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Pressing Toward the Goal",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.13",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Brethren, I do not count myself to have apprehended; but one thing I do, forgetting those things which are behind and reaching forward to those things which are ahead,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, I do not count myself to have apprehended; but one thing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "I do,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " forgetting those things which are behind and reaching forward to those things which are ahead,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "laid hold of it"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.14",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 14,
+          "text": "I press toward the goal for the prize of the upward call of God in Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I press toward the goal for the prize of the upward call of God in Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.15",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 15,
+          "text": "Therefore let us, as many as are mature, have this mind; and if in anything you think otherwise, God will reveal even this to you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore let us, as many as are mature, have this mind; and if in anything you think otherwise, God will reveal even this to you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.16",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Nevertheless, to the degree that we have already attained, let us walk by the same rule, let us be of the same mind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless, to ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the degree",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that we have already attained, let us walk by the same rule, let us be of the same mind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "arrived"
+              },
+              {
+                "marker": "f",
+                "text": "NU omits rule and the rest of v. ."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.17",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 17,
+          "text": "Brethren, join in following my example, and note those who so walk, as you have us for a pattern.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, join in following my example, and note those who so walk, as you have us for a pattern.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Our Citizenship in Heaven",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.18",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 18,
+          "text": "For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For many walk, of whom I have told you often, and now tell you even weeping, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that they are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the enemies of the cross of Christ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.19",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 19,
+          "text": "whose end is destruction, whose god is their belly, and whose glory is in their shame—who set their mind on earthly things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whose end ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " destruction, whose god ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is their",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " belly, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "whose",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " glory ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in their shame—who set their mind on earthly things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.20",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 20,
+          "text": "For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.21",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 21,
+          "text": "who will transform our lowly body that it may be conformed to His glorious body, according to the working by which He is able even to subdue all things to Himself.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who will transform our lowly body that it may be conformed to His glorious body, according to the working by which He is able even to subdue all things to Himself.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "All for Christ",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Pressing Toward the Goal",
+          "level": 2
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Our Citizenship in Heaven",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:03.905Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "PHP",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "PHP.4.1",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Therefore, my beloved and longed-for brethren, my joy and crown, so stand fast in the Lord, beloved.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, my beloved and longed-for brethren, my joy and crown, so stand fast in the Lord, beloved.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Be Anxious for Nothing; Think These Thoughts",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.2",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 2,
+          "text": "I implore Euodia and I implore Syntyche to be of the same mind in the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I implore Euodia and I implore Syntyche to be of the same mind in the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Be United, Joyful, and in Prayer",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.3",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 3,
+          "text": "And I urge you also, true companion, help these women who labored with me in the gospel, with Clement also, and the rest of my fellow workers, whose names are in the Book of Life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I urge you also, true companion, help these women who labored with me in the gospel, with Clement also, and the rest of my fellow workers, whose names ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the Book of Life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU, M Yes"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.4",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 4,
+          "text": "Rejoice in the Lord always. Again I will say, rejoice!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Rejoice in the Lord always. Again I will say, rejoice!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.5",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Let your gentleness be known to all men. The Lord is at hand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let your gentleness be known to all men. The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " at hand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "graciousness or forbearance"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.6",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 6,
+          "text": "Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.7",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 7,
+          "text": "and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.8",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 8,
+          "text": "Finally, brethren, whatever things are true, whatever things are noble, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report, if there is any virtue and if there is anything praiseworthy—meditate on these things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Finally, brethren, whatever things are true, whatever things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " noble, whatever things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " just, whatever things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " pure, whatever things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " lovely, whatever things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of good report, if ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " any virtue and if ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " anything praiseworthy—meditate on these things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Meditate on These Things",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.9",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 9,
+          "text": "The things which you learned and received and heard and saw in me, these do, and the God of peace will be with you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The things which you learned and received and heard and saw in me, these do, and the God of peace will be with you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.10",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 10,
+          "text": "But I rejoiced in the Lord greatly that now at last your care for me has flourished again; though you surely did care, but you lacked opportunity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I rejoiced in the Lord greatly that now at last your care for me has flourished again; though you surely did care, but you lacked opportunity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "you have revived your care"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Philippian Generosity",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.11",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Not that I speak in regard to need, for I have learned in whatever state I am, to be content:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Not that I speak in regard to need, for I have learned in whatever state I am, to be content:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.12",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 12,
+          "text": "I know how to be abased, and I know how to abound. Everywhere and in all things I have learned both to be full and to be hungry, both to abound and to suffer need.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I know how to be abased, and I know how to abound. Everywhere and in all things I have learned both to be full and to be hungry, both to abound and to suffer need.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "live humbly"
+              },
+              {
+                "marker": "e",
+                "text": "live in prosperity"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.13",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 13,
+          "text": "I can do all things through Christ who strengthens me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I can do all things through Christ who strengthens me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU Him who"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.14",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 14,
+          "text": "Nevertheless you have done well that you shared in my distress.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless you have done well that you shared in my distress.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.15",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 15,
+          "text": "Now you Philippians know also that in the beginning of the gospel, when I departed from Macedonia, no church shared with me concerning giving and receiving but you only.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now you Philippians know also that in the beginning of the gospel, when I departed from Macedonia, no church shared with me concerning giving and receiving but you only.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.16",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 16,
+          "text": "For even in Thessalonica you sent aid once and again for my necessities.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For even in Thessalonica you sent ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "aid",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " once and again for my necessities.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.17",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 17,
+          "text": "Not that I seek the gift, but I seek the fruit that abounds to your account.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Not that I seek the gift, but I seek the fruit that abounds to your account.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.18",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 18,
+          "text": "Indeed I have all and abound. I am full, having received from Epaphroditus the things sent from you, a sweet-smelling aroma, an acceptable sacrifice, well pleasing to God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed I have all and abound. I am full, having received from Epaphroditus the things ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "sent",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from you, a sweet-smelling aroma, an acceptable sacrifice, well pleasing to God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Or have received all"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.19",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 19,
+          "text": "And my God shall supply all your need according to His riches in glory by Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And my God shall supply all your need according to His riches in glory by Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.20",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 20,
+          "text": "Now to our God and Father be glory forever and ever. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now to our God and Father ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " glory forever and ever. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.21",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 21,
+          "text": "Greet every saint in Christ Jesus. The brethren who are with me greet you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Greet every saint in Christ Jesus. The brethren who are with me greet you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting and Blessing",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.22",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 22,
+          "text": "All the saints greet you, but especially those who are of Caesar’s household.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All the saints greet you, but especially those who are of Caesar’s household.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.23",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 23,
+          "text": "The grace of our Lord Jesus Christ be with you all. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The grace of our Lord Jesus Christ be with you all. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "NU your spirit"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Be Anxious for Nothing; Think These Thoughts",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Be United, Joyful, and in Prayer",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Meditate on These Things",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Philippian Generosity",
+          "level": 2
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Greeting and Blessing",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:05.477Z"
+    }
+  }
+}

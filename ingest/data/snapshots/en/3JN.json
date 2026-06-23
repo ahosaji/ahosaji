@@ -1,0 +1,415 @@
+{
+  "usfm": "3JN",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "3JN",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "3JN.1.1",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The Elder,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Elder,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting to Gaius",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.2",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Beloved, I pray that you may prosper in all things and be in health, just as your soul prospers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, I pray that you may prosper in all things and be in health, just as your soul prospers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.3",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 3,
+          "text": "For I rejoiced greatly when brethren came and testified of the truth that is in you, just as you walk in the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I rejoiced greatly when brethren came and testified of the truth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in you, just as you walk in the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.4",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 4,
+          "text": "I have no greater joy than to hear that my children walk in truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have no greater joy than to hear that my children walk in truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU the truth"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.5",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Beloved, you do faithfully whatever you do for the brethren and for strangers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, you do faithfully whatever you do for the brethren and for strangers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU and especially for"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Gaius Commended for Generosity",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.6",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 6,
+          "text": "who have borne witness of your love before the church. If you send them forward on their journey in a manner worthy of God, you will do well,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who have borne witness of your love before the church. ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "If",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you send them forward on their journey in a manner worthy of God, you will do well,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.7",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 7,
+          "text": "because they went forth for His name’s sake, taking nothing from the Gentiles.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "because they went forth for His name’s sake, taking nothing from the Gentiles.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.8",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 8,
+          "text": "We therefore ought to receive such, that we may become fellow workers for the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We therefore ought to receive such, that we may become fellow workers for the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU support"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.9",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 9,
+          "text": "I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Diotrephes and Demetrius",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.10",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " out of the church.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "talking nonsense"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.11",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Beloved, do not imitate what is evil, but what is good. He who does good is of God, but he who does evil has not seen God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, do not imitate what is evil, but what is good. He who does good is of God, but he who does evil has not seen God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU, M omit but"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.12",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Demetrius has a good testimony from all, and from the truth itself. And we also bear witness, and you know that our testimony is true.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Demetrius has a ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "good",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " testimony from all, and from the truth itself. And we also bear witness, and you know that our testimony is true.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "testify"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.13",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 13,
+          "text": "I had many things to write, but I do not wish to write to you with pen and ink;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I had many things to write, but I do not wish to write to you with pen and ink;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Farewell Greeting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3JN.1.14",
+          "book": "3JN",
+          "chapter": 1,
+          "verse": 14,
+          "text": "but I hope to see you shortly, and we shall speak face to face.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but I hope to see you shortly, and we shall speak face to face.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting to Gaius",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Gaius Commended for Generosity",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Diotrephes and Demetrius",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Farewell Greeting",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:30.150Z"
+    }
+  }
+}

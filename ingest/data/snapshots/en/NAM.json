@@ -1,0 +1,1312 @@
+{
+  "usfm": "NAM",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "NAM",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "NAM.1.1",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The burden against Nineveh. The book of the vision of Nahum the Elkoshite.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The burden against Nineveh. The book of the vision of Nahum the Elkoshite.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "oracle, prophecy"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "God’s Mercy and Judgment",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.2",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 2,
+          "text": "God is jealous, and the Lord avenges;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "God ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " jealous, and the Lord avenges;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Wrath on His Enemies",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.3",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 3,
+          "text": "The Lord is slow to anger and great in power,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " slow to anger and great in power,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.4",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 4,
+          "text": "He rebukes the sea and makes it dry,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He rebukes the sea and makes it dry,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.5",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 5,
+          "text": "The mountains quake before Him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The mountains quake before Him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.6",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Who can stand before His indignation?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who can stand before His indignation?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.7",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 7,
+          "text": "The Lord is good,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.8",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 8,
+          "text": "But with an overflowing flood",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But with an overflowing flood",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.9",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 9,
+          "text": "What do you conspire against the Lord?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What do you conspire against the Lord?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Or devise"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.10",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 10,
+          "text": "For while tangled like thorns,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For while tangled ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "like",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " thorns,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.11",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 11,
+          "text": "From you comes forth one",
+          "structured": {
+            "tokens": [
+              {
+                "text": "From you comes forth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.12",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.13",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 13,
+          "text": "For now I will break off his yoke from you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For now I will break off his yoke from you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.14",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 14,
+          "text": "The Lord has given a command concerning you:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has given a command concerning you:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.1.15",
+          "book": "NAM",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Behold, on the mountains",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, on the mountains",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God’s Mercy and Judgment",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "God’s Wrath on His Enemies",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:09.773Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "NAM",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "NAM.2.1",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 1,
+          "text": "He who scatters has come up before your face.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who scatters has come up before your face.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Vg. He who destroys"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Destruction of Nineveh",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.2",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 2,
+          "text": "For the Lord will restore the excellence of Jacob",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the Lord will restore the excellence of Jacob",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.3",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 3,
+          "text": "The shields of his mighty men are made red,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The shields of his mighty men ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " made red,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.4",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 4,
+          "text": "The chariots rage in the streets,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The chariots rage in the streets,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.5",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 5,
+          "text": "He remembers his nobles;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He remembers his nobles;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.6",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 6,
+          "text": "The gates of the rivers are opened,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The gates of the rivers are opened,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.7",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 7,
+          "text": "It is decreed:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It is decreed:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Heb. Huzzab"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.8",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 8,
+          "text": "Though Nineveh of old was like a pool of water,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though Nineveh of old ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a pool of water,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.9",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Take spoil of silver!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Take spoil of silver!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Plunder"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.10",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 10,
+          "text": "She is empty, desolate, and waste!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She is empty, desolate, and waste!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.11",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Where is the dwelling of the lions,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Where ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the dwelling of the lions,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.12",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 12,
+          "text": "The lion tore in pieces enough for his cubs,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The lion tore in pieces enough for his cubs,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.2.13",
+          "book": "NAM",
+          "chapter": 2,
+          "verse": 13,
+          "text": "“Behold, I am against you,” says the Lord of hosts, “I will burn your chariots in smoke, and the sword shall devour your young lions; I will cut off your prey from the earth, and the voice of your messengers shall be heard no more.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " against you,” says the Lord of hosts, “I will burn your chariots in smoke, and the sword shall devour your young lions; I will cut off your prey from the earth, and the voice of your messengers shall be heard no more.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Lit. her"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Destruction of Nineveh",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:11.534Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "NAM",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "NAM.3.1",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Woe to the bloody city!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to the bloody city!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Woe of Nineveh",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.2",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 2,
+          "text": "The noise of a whip",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The noise of a whip",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.3",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Horsemen charge with bright sword and glittering spear.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Horsemen charge with bright sword and glittering spear.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.4",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Because of the multitude of harlotries of the seductive harlot,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because of the multitude of harlotries of the seductive harlot,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Spiritual unfaithfulness"
+              },
+              {
+                "marker": "d",
+                "text": "Lit. goodly charm, in a bad sense"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.5",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 5,
+          "text": "“Behold, I am against you,” says the Lord of hosts;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " against you,” says the Lord of hosts;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.6",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 6,
+          "text": "I will cast abominable filth upon you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will cast abominable filth upon you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.7",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 7,
+          "text": "It shall come to pass that all who look upon you",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It shall come to pass ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " all who look upon you",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.8",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Are you better than No Amon",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Are you better than No Amon",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Ancient Thebes; Tg., Vg. populous Alexandria"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.9",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Ethiopia and Egypt were her strength,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ethiopia and Egypt ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " her strength,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.10",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Yet she was carried away,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet she ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " carried away,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.11",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 11,
+          "text": "You also will be drunk;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You also will be drunk;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.12",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 12,
+          "text": "All your strongholds are fig trees with ripened figs:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All your strongholds ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " fig trees with ripened figs:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.13",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Surely, your people in your midst are women!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Surely, your people in your midst ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " women!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.14",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 14,
+          "text": "Draw your water for the siege!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Draw your water for the siege!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.15",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 15,
+          "text": "There the fire will devour you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There the fire will devour you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.16",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 16,
+          "text": "You have multiplied your merchants more than the stars of heaven.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have multiplied your merchants more than the stars of heaven.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.17",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 17,
+          "text": "Your commanders are like swarming locusts,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your commanders ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "swarming",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " locusts,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.18",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 18,
+          "text": "Your shepherds slumber, O king of Assyria;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your shepherds slumber, O king of Assyria;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "NAM.3.19",
+          "book": "NAM",
+          "chapter": 3,
+          "verse": 19,
+          "text": "Your injury has no healing,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your injury ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "has",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no healing,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Woe of Nineveh",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:13.086Z"
+    }
+  }
+}

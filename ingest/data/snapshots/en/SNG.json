@@ -1,0 +1,3113 @@
+{
+  "usfm": "SNG",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "SNG.1.1",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The song of songs, which is Solomon’s.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The song of songs, which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Solomon’s.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Solomon’s Love for a Shulamite Girl",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.2",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 2,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "A young woman from the town of Shulam or Shunem, . The speaker and audience are identified according to the number, gender, and person of the Hebrew words. Occasionally the identity is not certain."
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Banquet",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.3",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Because of the fragrance of your good ointments,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because of the fragrance of your good ointments,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.4",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Draw me away!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Draw me away!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.5",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 5,
+          "text": "I am dark, but lovely,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " dark, but lovely,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.6",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Do not look upon me, because I am dark,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not look upon me, because I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " dark,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.7",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 7,
+          "text": "(To Her Beloved)",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(To Her Beloved)",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.8",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 8,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.9",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 9,
+          "text": "I have compared you, my love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have compared you, my love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.10",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Your cheeks are lovely with ornaments,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your cheeks are lovely with ornaments,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.11",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 11,
+          "text": "The Daughters of Jerusalem",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Daughters of Jerusalem",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.12",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 12,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.13",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 13,
+          "text": "A bundle of myrrh is my beloved to me,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A bundle of myrrh ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " my beloved to me,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.14",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 14,
+          "text": "My beloved is to me a cluster of henna blooms",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My beloved ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to me a cluster of henna ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "blooms",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.15",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 15,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.16",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 16,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.1.17",
+          "book": "SNG",
+          "chapter": 1,
+          "verse": 17,
+          "text": "The beams of our houses are cedar,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The beams of our houses ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " cedar,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Solomon’s Love for a Shulamite Girl",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Banquet",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:11.806Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "SNG.2.1",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 1,
+          "text": "I am the rose of Sharon,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the rose of Sharon,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Country Girl in a Palace",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.2",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 2,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.3",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 3,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.4",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 4,
+          "text": "The Shulamite to the Daughters of Jerusalem",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite to the Daughters of Jerusalem",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.5",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Sustain me with cakes of raisins,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Sustain me with cakes of raisins,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.6",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 6,
+          "text": "His left hand is under my head,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His left hand ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " under my head,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.7",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 7,
+          "text": "I charge you, O daughters of Jerusalem,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I charge you, O daughters of Jerusalem,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "adjure"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.8",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 8,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Beloved’s Request",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.9",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 9,
+          "text": "My beloved is like a gazelle or a young stag.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My beloved is like a gazelle or a young stag.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.10",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 10,
+          "text": "My beloved spoke, and said to me:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My beloved spoke, and said to me:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.11",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 11,
+          "text": "For lo, the winter is past,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For lo, the winter is past,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.12",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 12,
+          "text": "The flowers appear on the earth;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The flowers appear on the earth;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.13",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 13,
+          "text": "The fig tree puts forth her green figs,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The fig tree puts forth her green figs,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.14",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 14,
+          "text": "“O my dove, in the clefts of the rock,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O my dove, in the clefts of the rock,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.15",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Her Brothers",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her Brothers",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.16",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 16,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.2.17",
+          "book": "SNG",
+          "chapter": 2,
+          "verse": 17,
+          "text": "(To Her Beloved)",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(To Her Beloved)",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Country Girl in a Palace",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "The Beloved’s Request",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:13.288Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "SNG.3.1",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 1,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Troubled Night",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.2",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 2,
+          "text": "“I will rise now,” I said,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will rise now,” ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "I said,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.3",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 3,
+          "text": "The watchmen who go about the city found me;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The watchmen who go about the city found me;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.4",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Scarcely had I passed by them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Scarcely had I passed by them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.5",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 5,
+          "text": "I charge you, O daughters of Jerusalem,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I charge you, O daughters of Jerusalem,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "adjure"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.6",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 6,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Coming of Solomon",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.7",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Behold, it is Solomon’s couch,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Solomon’s couch,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.8",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 8,
+          "text": "They all hold swords,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They all hold swords,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.9",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Of the wood of Lebanon",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Of the wood of Lebanon",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.10",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 10,
+          "text": "He made its pillars of silver,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He made its pillars ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " silver,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.3.11",
+          "book": "SNG",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Go forth, O daughters of Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Go forth, O daughters of Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Troubled Night",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "The Coming of Solomon",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:14.820Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "SNG.4.1",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 1,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Bridegroom Praises the Bride",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.2",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 2,
+          "text": "Your teeth are like a flock of shorn sheep",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your teeth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a flock of shorn ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "sheep",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.3",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Your lips are like a strand of scarlet,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your lips ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a strand of scarlet,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.4",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 4,
+          "text": "Your neck is like the tower of David,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your neck ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like the tower of David,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.5",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Your two breasts are like two fawns,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your two breasts ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like two fawns,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.6",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 6,
+          "text": "Until the day breaks",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Until the day breaks",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.7",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 7,
+          "text": "You are all fair, my love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " all fair, my love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.8",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 8,
+          "text": "Come with me from Lebanon, my spouse,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Come with me from Lebanon, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "my",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " spouse,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.9",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 9,
+          "text": "You have ravished my heart,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have ravished my heart,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.10",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 10,
+          "text": "How fair is your love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How fair is your love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.11",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Your lips, O my spouse,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your lips, O ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "my",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " spouse,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.12",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 12,
+          "text": "A garden enclosed",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A garden enclosed",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "locked or barred"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.13",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 13,
+          "text": "Your plants are an orchard of pomegranates",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your plants ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " an orchard of pomegranates",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.14",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 14,
+          "text": "Spikenard and saffron,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Spikenard and saffron,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.15",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 15,
+          "text": "A fountain of gardens,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A fountain of gardens,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.4.16",
+          "book": "SNG",
+          "chapter": 4,
+          "verse": 16,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Bridegroom Praises the Bride",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:16.276Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "SNG.5.1",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 1,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Bride Praises the Bridegroom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.2",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 2,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Shulamite’s Troubled Evening",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.3",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 3,
+          "text": "I have taken off my robe;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have taken off my robe;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.4",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 4,
+          "text": "My beloved put his hand",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My beloved put his hand",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.5",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 5,
+          "text": "I arose to open for my beloved,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I arose to open for my beloved,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.6",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 6,
+          "text": "I opened for my beloved,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I opened for my beloved,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.7",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 7,
+          "text": "The watchmen who went about the city found me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The watchmen who went about the city found me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.8",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 8,
+          "text": "I charge you, O daughters of Jerusalem,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I charge you, O daughters of Jerusalem,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.9",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 9,
+          "text": "The Daughters of Jerusalem",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Daughters of Jerusalem",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.10",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 10,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.11",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 11,
+          "text": "His head is like the finest gold;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His head ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is like",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the finest gold;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.12",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 12,
+          "text": "His eyes are like doves",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His eyes ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like doves",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.13",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 13,
+          "text": "His cheeks are like a bed of spices,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His cheeks ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a bed of spices,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.14",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 14,
+          "text": "His hands are rods of gold",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His hands ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " rods of gold",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.15",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 15,
+          "text": "His legs are pillars of marble",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His legs ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " pillars of marble",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.5.16",
+          "book": "SNG",
+          "chapter": 5,
+          "verse": 16,
+          "text": "His mouth is most sweet,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His mouth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " most sweet,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Bride Praises the Bridegroom",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Shulamite’s Troubled Evening",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:17.761Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "SNG.6.1",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 1,
+          "text": "The Daughters of Jerusalem",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Daughters of Jerusalem",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "I Am My Beloved’s",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.2",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 2,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.3",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 3,
+          "text": "I am my beloved’s,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " my beloved’s,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.4",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 4,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Praise of the Shulamite’s Beauty",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.5",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 5,
+          "text": "Turn your eyes away from me,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Turn your eyes away from me,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.6",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 6,
+          "text": "Your teeth are like a flock of sheep",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your teeth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a flock of sheep",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.7",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 7,
+          "text": "Like a piece of pomegranate",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Like a piece of pomegranate",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.8",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 8,
+          "text": "There are sixty queens",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There are sixty queens",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.9",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 9,
+          "text": "My dove, my perfect one,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My dove, my perfect one,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.10",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Who is she who looks forth as the morning,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who is she who looks forth as the morning,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.11",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 11,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.12",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 12,
+          "text": "Before I was even aware,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Before I was even aware,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.6.13",
+          "book": "SNG",
+          "chapter": 6,
+          "verse": 13,
+          "text": "The Beloved and His Friends",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved and His Friends",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I Am My Beloved’s",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Praise of the Shulamite’s Beauty",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:19.232Z"
+    },
+    "7": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "SNG.7.1",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 1,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Expressions of Praise",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.2",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 2,
+          "text": "Your navel is a rounded goblet;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your navel ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a rounded goblet;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.3",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 3,
+          "text": "Your two breasts are like two fawns,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your two breasts ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like two fawns,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.4",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 4,
+          "text": "Your neck is like an ivory tower,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your neck ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like an ivory tower,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.5",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 5,
+          "text": "Your head crowns you like Mount Carmel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your head ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "crowns",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you like ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Mount",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Carmel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.6",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 6,
+          "text": "How fair and how pleasant you are,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How fair and how pleasant you are,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.7",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 7,
+          "text": "This stature of yours is like a palm tree,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This stature of yours is like a palm tree,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.8",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 8,
+          "text": "I said, “I will go up to the palm tree,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I said, “I will go up to the palm tree,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.9",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 9,
+          "text": "And the roof of your mouth like the best wine.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the roof of your mouth like the best wine.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.10",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 10,
+          "text": "I am my beloved’s,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " my beloved’s,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.11",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 11,
+          "text": "Come, my beloved,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Come, my beloved,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.12",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 12,
+          "text": "Let us get up early to the vineyards;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let us get up early to the vineyards;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.7.13",
+          "book": "SNG",
+          "chapter": 7,
+          "verse": 13,
+          "text": "The mandrakes give off a fragrance,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The mandrakes give off a fragrance,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Expressions of Praise",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:20.721Z"
+    },
+    "8": {
+      "translation": "en",
+      "source": "english",
+      "book": "SNG",
+      "chapter": 8,
+      "verses": [
+        {
+          "ref": "SNG.8.1",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 1,
+          "text": "Oh, that you were like my brother,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Oh, that you were like my brother,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Lovers Reunited at Their Country Home",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.2",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 2,
+          "text": "I would lead you and bring you",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I would lead you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " bring you",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.3",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 3,
+          "text": "(To the Daughters of Jerusalem)",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(To the Daughters of Jerusalem)",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.4",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 4,
+          "text": "I charge you, O daughters of Jerusalem,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I charge you, O daughters of Jerusalem,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.5",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 5,
+          "text": "A Relative",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A Relative",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Love Renewed in Lebanon",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.6",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 6,
+          "text": "The Shulamite to Her Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite to Her Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.7",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 7,
+          "text": "Many waters cannot quench love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Many waters cannot quench love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.8",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 8,
+          "text": "The Shulamite’s Brothers",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite’s Brothers",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.9",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 9,
+          "text": "If she is a wall,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If she ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a wall,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.10",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 10,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.11",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 11,
+          "text": "Solomon had a vineyard at Baal Hamon;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Solomon had a vineyard at Baal Hamon;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.12",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 12,
+          "text": "(To Solomon)",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(To Solomon)",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.13",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 13,
+          "text": "The Beloved",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Beloved",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "SNG.8.14",
+          "book": "SNG",
+          "chapter": 8,
+          "verse": 14,
+          "text": "The Shulamite",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Shulamite",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lovers Reunited at Their Country Home",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Love Renewed in Lebanon",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:22.222Z"
+    }
+  }
+}

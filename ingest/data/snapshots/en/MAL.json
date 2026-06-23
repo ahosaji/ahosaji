@@ -1,0 +1,1389 @@
+{
+  "usfm": "MAL",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "MAL",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "MAL.1.1",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The burden of the word of the Lord to Israel by Malachi.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The burden of the word of the Lord to Israel by Malachi.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "oracle, prophecy"
+              },
+              {
+                "marker": "b",
+                "text": "Lit. by the hand of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Polluted Offerings to God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.2",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 2,
+          "text": "“I have loved you,” says the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I have loved you,” says the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel Beloved of God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.3",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 3,
+          "text": "But Esau I have hated,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But Esau I have hated,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.4",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Even though Edom has said,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even though Edom has said,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.5",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Your eyes shall see,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your eyes shall see,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.6",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 6,
+          "text": "“A son honors his father,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“A son honors ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " father,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Polluted Offerings",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.7",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 7,
+          "text": "“You offer defiled food on My altar,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“You offer defiled food on My altar,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.8",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 8,
+          "text": "And when you offer the blind as a sacrifice,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And when you offer the blind as a sacrifice,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.9",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 9,
+          "text": "“But now entreat God’s favor,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But now entreat God’s favor,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.10",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 10,
+          "text": "“Who is there even among you who would shut the doors,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is there",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " even among you who would shut the doors,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.11",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 11,
+          "text": "For from the rising of the sun, even to its going down,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For from the rising of the sun, even to its going down,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.12",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 12,
+          "text": "“But you profane it,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But you profane it,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.13",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 13,
+          "text": "You also say,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You also say,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.1.14",
+          "book": "MAL",
+          "chapter": 1,
+          "verse": 14,
+          "text": "“But cursed be the deceiver",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But cursed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the deceiver",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Polluted Offerings to God",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Israel Beloved of God",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Polluted Offerings",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:45.712Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "MAL",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "MAL.2.1",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 1,
+          "text": "“And now, O priests, this commandment is for you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And now, O priests, this commandment is for you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Corrupt Priests",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.2",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 2,
+          "text": "If you will not hear,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you will not hear,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.3",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 3,
+          "text": "“Behold, I will rebuke your descendants",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, I will rebuke your descendants",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.4",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Then you shall know that I have sent this commandment to you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then you shall know that I have sent this commandment to you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.5",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 5,
+          "text": "“My covenant was with him, one of life and peace,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“My covenant was with him, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of life and peace,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.6",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 6,
+          "text": "The law of truth was in his mouth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The law of truth was in his mouth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or True instruction"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.7",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 7,
+          "text": "“For the lips of a priest should keep knowledge,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For the lips of a priest should keep knowledge,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.8",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 8,
+          "text": "But you have departed from the way;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you have departed from the way;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.9",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 9,
+          "text": "“Therefore I also have made you contemptible and base",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore I also have made you contemptible and base",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.10",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Have we not all one Father?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Have we not all one Father?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Treachery of Infidelity",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.11",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Judah has dealt treacherously,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Judah has dealt treacherously,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.12",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 12,
+          "text": "May the Lord cut off from the tents of Jacob",
+          "structured": {
+            "tokens": [
+              {
+                "text": "May the Lord cut off from the tents of Jacob",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.13",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 13,
+          "text": "And this is the second thing you do:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this is the second thing you do:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.14",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Yet you say, “For what reason?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet you say, “For what reason?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.15",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 15,
+          "text": "But did He not make them one,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But did He not make ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " one,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.16",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 16,
+          "text": "“For the Lord God of Israel says",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For the Lord God of Israel says",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.2.17",
+          "book": "MAL",
+          "chapter": 2,
+          "verse": 17,
+          "text": "You have wearied the Lord with your words;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have wearied the Lord with your words;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Corrupt Priests",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Treachery of Infidelity",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:47.209Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "MAL",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "MAL.3.1",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 1,
+          "text": "“Behold, I send My messenger,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, I send My messenger,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Coming Messenger",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.2",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 2,
+          "text": "“But who can endure the day of His coming?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But who can endure the day of His coming?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.3",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 3,
+          "text": "He will sit as a refiner and a purifier of silver;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He will sit as a refiner and a purifier of silver;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.4",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 4,
+          "text": "“Then the offering of Judah and Jerusalem",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Then the offering of Judah and Jerusalem",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.5",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 5,
+          "text": "And I will come near you for judgment;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I will come near you for judgment;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.6",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 6,
+          "text": "“For I am the Lord, I do not change;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord, I do not change;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.7",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Yet from the days of your fathers",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet from the days of your fathers",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.8",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 8,
+          "text": "“Will a man rob God?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Will a man rob God?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Do Not Rob God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.9",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 9,
+          "text": "You are cursed with a curse,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You are cursed with a curse,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.10",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Bring all the tithes into the storehouse,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Bring all the tithes into the storehouse,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.11",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 11,
+          "text": "“And I will rebuke the devourer for your sakes,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And I will rebuke the devourer for your sakes,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.12",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 12,
+          "text": "“And all nations will call you blessed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And all nations will call you blessed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.13",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 13,
+          "text": "“Your words have been harsh against Me,”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Your words have been harsh against Me,”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. strong"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The People Complain Harshly",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.14",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 14,
+          "text": "You have said,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have said,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.15",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 15,
+          "text": "So now we call the proud blessed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So now we call the proud blessed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.16",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Then those who feared the Lord spoke to one another,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then those who feared the Lord spoke to one another,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Book of Remembrance",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.17",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 17,
+          "text": "“They shall be Mine,” says the Lord of hosts,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They shall be Mine,” says the Lord of hosts,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.3.18",
+          "book": "MAL",
+          "chapter": 3,
+          "verse": 18,
+          "text": "Then you shall again discern",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then you shall again discern",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Coming Messenger",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Do Not Rob God",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "The People Complain Harshly",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "A Book of Remembrance",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:48.756Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "MAL",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "MAL.4.1",
+          "book": "MAL",
+          "chapter": 4,
+          "verse": 1,
+          "text": "“For behold, the day is coming,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For behold, the day is coming,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Great Day of God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.4.2",
+          "book": "MAL",
+          "chapter": 4,
+          "verse": 2,
+          "text": "But to you who fear My name",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But to you who fear My name",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.4.3",
+          "book": "MAL",
+          "chapter": 4,
+          "verse": 3,
+          "text": "You shall trample the wicked,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You shall trample the wicked,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.4.4",
+          "book": "MAL",
+          "chapter": 4,
+          "verse": 4,
+          "text": "“Remember the Law of Moses, My servant,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Remember the Law of Moses, My servant,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.4.5",
+          "book": "MAL",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Behold, I will send you Elijah the prophet",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, I will send you Elijah the prophet",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAL.4.6",
+          "book": "MAL",
+          "chapter": 4,
+          "verse": 6,
+          "text": "And he will turn",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he will turn",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Great Day of God",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:50.379Z"
+    }
+  }
+}

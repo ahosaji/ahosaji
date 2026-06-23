@@ -1,0 +1,5122 @@
+{
+  "usfm": "ECC",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "ECC.1.1",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 1,
+          "text": "كَلَامُ الْجَامِعَةِ ابْنِ دَاوُدَ الْمَلِكِ فِي أُورُشَلِيمَ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَلَامُ الْجَامِعَةِ ابْنِ دَاوُدَ الْمَلِكِ فِي أُورُشَلِيمَ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الكل باطل",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.2",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 2,
+          "text": "بَاطِلُ الأَبَاطِيلِ، قَالَ الْجَامِعَةُ: بَاطِلُ الأَبَاطِيلِ، الْكُلُّ بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بَاطِلُ الأَبَاطِيلِ، قَالَ الْجَامِعَةُ: بَاطِلُ الأَبَاطِيلِ، الْكُلُّ بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.3",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 3,
+          "text": "مَا الْفَائِدَةُ لِلإِنْسَانِ مِنْ كُلِّ تَعَبِهِ الَّذِي يَتْعَبُهُ تَحْتَ الشَّمْسِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَا الْفَائِدَةُ لِلإِنْسَانِ مِنْ كُلِّ تَعَبِهِ الَّذِي يَتْعَبُهُ تَحْتَ الشَّمْسِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.4",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 4,
+          "text": "دَوْرٌ يَمْضِي وَدَوْرٌ يَجِيءُ، وَالأَرْضُ قَائِمَةٌ إِلَى الأَبَدِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "دَوْرٌ يَمْضِي وَدَوْرٌ يَجِيءُ، وَالأَرْضُ قَائِمَةٌ إِلَى الأَبَدِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.5",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 5,
+          "text": "وَالشَّمْسُ تُشْرِقُ، وَالشَّمْسُ تَغْرُبُ، وَتُسْرِعُ إِلَى مَوْضِعِهَا حَيْثُ تُشْرِقُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَالشَّمْسُ تُشْرِقُ، وَالشَّمْسُ تَغْرُبُ، وَتُسْرِعُ إِلَى مَوْضِعِهَا حَيْثُ تُشْرِقُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.6",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 6,
+          "text": "اَلرِّيحُ تَذْهَبُ إِلَى الْجَنُوبِ، وَتَدُورُ إِلَى الشَّمَالِ. تَذْهَبُ دَائِرَةً دَوَرَانًا، وَإِلَى مَدَارَاتِهَا تَرْجِعُ الرِّيحُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلرِّيحُ تَذْهَبُ إِلَى الْجَنُوبِ، وَتَدُورُ إِلَى الشَّمَالِ. تَذْهَبُ دَائِرَةً دَوَرَانًا، وَإِلَى مَدَارَاتِهَا تَرْجِعُ الرِّيحُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.7",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 7,
+          "text": "كُلُّ الأَنْهَارِ تَجْرِي إِلَى الْبَحْرِ، وَالْبَحْرُ لَيْسَ بِمَلآنَ. إِلَى الْمَكَانِ الَّذِي جَرَتْ مِنْهُ الأَنْهَارُ إِلَى هُنَاكَ تَذْهَبُ رَاجِعَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُلُّ الأَنْهَارِ تَجْرِي إِلَى الْبَحْرِ، وَالْبَحْرُ لَيْسَ بِمَلآنَ. إِلَى الْمَكَانِ الَّذِي جَرَتْ مِنْهُ الأَنْهَارُ إِلَى هُنَاكَ تَذْهَبُ رَاجِعَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.8",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 8,
+          "text": "كُلُّ الْكَلَامِ يَقْصُرُ. لَا يَسْتَطِيعُ الإِنْسَانُ أَنْ يُخْبِرَ بِالْكُلِّ. الْعَيْنُ لَا تَشْبَعُ مِنَ النَّظَرِ، وَالأُذُنُ لَا تَمْتَلِئُ مِنَ السَّمْعِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُلُّ الْكَلَامِ يَقْصُرُ. لَا يَسْتَطِيعُ الإِنْسَانُ أَنْ يُخْبِرَ بِالْكُلِّ. الْعَيْنُ لَا تَشْبَعُ مِنَ النَّظَرِ، وَالأُذُنُ لَا تَمْتَلِئُ مِنَ السَّمْعِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.9",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 9,
+          "text": "مَا كَانَ فَهُوَ مَا يَكُونُ، وَالَّذِي صُنِعَ فَهُوَ الَّذِي يُصْنَعُ، فَلَيْسَ تَحْتَ الشَّمْسِ جَدِيدٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَا كَانَ فَهُوَ مَا يَكُونُ، وَالَّذِي صُنِعَ فَهُوَ الَّذِي يُصْنَعُ، فَلَيْسَ تَحْتَ الشَّمْسِ جَدِيدٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.10",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 10,
+          "text": "إِنْ وُجِدَ شَيْءٌ يُقَالُ عَنْهُ: «انْظُرْ. هَذَا جَدِيدٌ!» فَهُوَ مُنْذُ زَمَانٍ كَانَ فِي الدُّهُورِ الَّتِي كَانَتْ قَبْلَنَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ وُجِدَ شَيْءٌ يُقَالُ عَنْهُ: «انْظُرْ. هَذَا جَدِيدٌ!» فَهُوَ مُنْذُ زَمَانٍ كَانَ فِي الدُّهُورِ الَّتِي كَانَتْ قَبْلَنَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.11",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 11,
+          "text": "لَيْسَ ذِكْرٌ لِلأَوَّلِينَ. وَالآخِرُونَ أَيْضًا الَّذِينَ سَيَكُونُونَ، لَا يَكُونُ لَهُمْ ذِكْرٌ عِنْدَ الَّذِينَ يَكُونُونَ بَعْدَهُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَ ذِكْرٌ لِلأَوَّلِينَ. وَالآخِرُونَ أَيْضًا الَّذِينَ سَيَكُونُونَ، لَا يَكُونُ لَهُمْ ذِكْرٌ عِنْدَ الَّذِينَ يَكُونُونَ بَعْدَهُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.12",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 12,
+          "text": "أَنَا الْجَامِعَةُ كُنْتُ مَلِكًا عَلَى إِسْرَائِيلَ فِي أُورُشَلِيمَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنَا الْجَامِعَةُ كُنْتُ مَلِكًا عَلَى إِسْرَائِيلَ فِي أُورُشَلِيمَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "بُطل الحكمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.13",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 13,
+          "text": "وَوَجَّهْتُ قَلْبِي لِلسُّؤَالِ وَالتَّفْتِيشِ بِالْحِكْمَةِ عَنْ كُلِّ مَا عُمِلَ تَحْتَ السَّمَاوَاتِ. هُوَ عَنَاءٌ رَدِيءٌ جَعَلَهَا اللهُ لِبَنِي الْبَشَرِ لِيَعْنُوا فِيهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَوَجَّهْتُ قَلْبِي لِلسُّؤَالِ وَالتَّفْتِيشِ بِالْحِكْمَةِ عَنْ كُلِّ مَا عُمِلَ تَحْتَ السَّمَاوَاتِ. هُوَ عَنَاءٌ رَدِيءٌ جَعَلَهَا اللهُ لِبَنِي الْبَشَرِ لِيَعْنُوا فِيهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.14",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 14,
+          "text": "رَأَيْتُ كُلَّ الأَعْمَالِ الَّتِي عُمِلَتْ تَحْتَ الشَّمْسِ فَإِذَا الْكُلُّ بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "رَأَيْتُ كُلَّ الأَعْمَالِ الَّتِي عُمِلَتْ تَحْتَ الشَّمْسِ فَإِذَا الْكُلُّ بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.15",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 15,
+          "text": "اَلأَعْوَجُ لَا يُمْكِنُ أَنْ يُقَوَّمَ، وَالنَّقْصُ لَا يُمْكِنُ أَنْ يُجْبَرَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلأَعْوَجُ لَا يُمْكِنُ أَنْ يُقَوَّمَ، وَالنَّقْصُ لَا يُمْكِنُ أَنْ يُجْبَرَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.16",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 16,
+          "text": "أَنَا نَاجَيْتُ قَلْبِي قَائِلًا: «هَا أَنَا قَدْ عَظُمْتُ وَازْدَدْتُ حِكْمَةً أَكْثَرَ مِنْ كُلِّ مَنْ كَانَ قَبْلِي عَلَى أُورُشَلِيمَ، وَقَدْ رَأَى قَلْبِي كَثِيرًا مِنَ الْحِكْمَةِ وَالْمَعْرِفَةِ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنَا نَاجَيْتُ قَلْبِي قَائِلًا: «هَا أَنَا قَدْ عَظُمْتُ وَازْدَدْتُ حِكْمَةً أَكْثَرَ مِنْ كُلِّ مَنْ كَانَ قَبْلِي عَلَى أُورُشَلِيمَ، وَقَدْ رَأَى قَلْبِي كَثِيرًا مِنَ الْحِكْمَةِ وَالْمَعْرِفَةِ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.17",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 17,
+          "text": "وَوَجَّهْتُ قَلْبِي لِمَعْرِفَةِ الْحِكْمَةِ وَلِمَعْرِفَةِ الْحَمَاقَةِ وَالْجَهْلِ، فَعَرَفْتُ أَنَّ هَذَا أَيْضًا قَبْضُ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَوَجَّهْتُ قَلْبِي لِمَعْرِفَةِ الْحِكْمَةِ وَلِمَعْرِفَةِ الْحَمَاقَةِ وَالْجَهْلِ، فَعَرَفْتُ أَنَّ هَذَا أَيْضًا قَبْضُ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.1.18",
+          "book": "ECC",
+          "chapter": 1,
+          "verse": 18,
+          "text": "لأَنَّ فِي كَثْرَةِ الْحِكْمَةِ كَثْرَةُ الْغَمِّ، وَالَّذِي يَزِيدُ عِلْمًا يَزِيدُ حُزْنًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ فِي كَثْرَةِ الْحِكْمَةِ كَثْرَةُ الْغَمِّ، وَالَّذِي يَزِيدُ عِلْمًا يَزِيدُ حُزْنًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "الكل باطل",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "بُطل الحكمة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:12.597Z"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "ECC.2.1",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 1,
+          "text": "قُلْتُ أَنَا فِي قَلْبِي: «هَلُمَّ أَمْتَحِنُكَ بِالْفَرَحِ فَتَرَى خَيْرًا». وَإِذَا هَذَا أَيْضًا بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قُلْتُ أَنَا فِي قَلْبِي: «هَلُمَّ أَمْتَحِنُكَ بِالْفَرَحِ فَتَرَى خَيْرًا». وَإِذَا هَذَا أَيْضًا بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "بُطل اللذات",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.2",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 2,
+          "text": "لِلضَّحْكِ قُلْتُ: «مَجْنُونٌ» وَلِلْفَرَحِ: «مَاذَا يَفْعَلُ؟»",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلضَّحْكِ قُلْتُ: «مَجْنُونٌ» وَلِلْفَرَحِ: «مَاذَا يَفْعَلُ؟»",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.3",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 3,
+          "text": "اِفْتَكَرْتُ فِي قَلْبِي أَنْ أُعَلِّلَ جَسَدِي بِالْخَمْرِ، وَقَلْبِي يَلْهَجُ بِالْحِكْمَةِ، وَأَنْ آخُذَ بِالْحَمَاقَةِ، حَتَّى أَرَى مَا هُوَ الْخَيْرُ لِبَنِي الْبَشَرِ حَتَّى يَفْعَلُوهُ تَحْتَ السَّمَاوَاتِ مُدَّةَ أَيَّامِ حَيَاتِهِمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِفْتَكَرْتُ فِي قَلْبِي أَنْ أُعَلِّلَ جَسَدِي بِالْخَمْرِ، وَقَلْبِي يَلْهَجُ بِالْحِكْمَةِ، وَأَنْ آخُذَ بِالْحَمَاقَةِ، حَتَّى أَرَى مَا هُوَ الْخَيْرُ لِبَنِي الْبَشَرِ حَتَّى يَفْعَلُوهُ تَحْتَ السَّمَاوَاتِ مُدَّةَ أَيَّامِ حَيَاتِهِمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.4",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 4,
+          "text": "فَعَظَّمْتُ عَمَلِي: بَنَيْتُ لِنَفْسِي بُيُوتًا، غَرَسْتُ لِنَفْسِي كُرُومًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَعَظَّمْتُ عَمَلِي: بَنَيْتُ لِنَفْسِي بُيُوتًا، غَرَسْتُ لِنَفْسِي كُرُومًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.5",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 5,
+          "text": "عَمِلْتُ لِنَفْسِي جَنَّاتٍ وَفَرَادِيسَ، وَغَرَسْتُ فِيهَا أَشْجَارًا مِنْ كُلِّ نَوْعِ ثَمَرٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عَمِلْتُ لِنَفْسِي جَنَّاتٍ وَفَرَادِيسَ، وَغَرَسْتُ فِيهَا أَشْجَارًا مِنْ كُلِّ نَوْعِ ثَمَرٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.6",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 6,
+          "text": "عَمِلْتُ لِنَفْسِي بِرَكَ مِيَاهٍ لِتُسْقَى بِهَا الْمَغَارِسُ الْمُنْبِتَةُ الشَّجَرَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عَمِلْتُ لِنَفْسِي بِرَكَ مِيَاهٍ لِتُسْقَى بِهَا الْمَغَارِسُ الْمُنْبِتَةُ الشَّجَرَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.7",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 7,
+          "text": "قَنَيْتُ عَبِيدًا وَجَوَارِيَ، وَكَانَ لِي وُلْدَانُ الْبَيْتِ. وَكَانَتْ لِي أَيْضًا قِنْيَةُ بَقَرٍ وَغَنَمٍ أَكْثَرَ مِنْ جَمِيعِ الَّذِينَ كَانُوا فِي أُورُشَلِيمَ قَبْلِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَنَيْتُ عَبِيدًا وَجَوَارِيَ، وَكَانَ لِي وُلْدَانُ الْبَيْتِ. وَكَانَتْ لِي أَيْضًا قِنْيَةُ بَقَرٍ وَغَنَمٍ أَكْثَرَ مِنْ جَمِيعِ الَّذِينَ كَانُوا فِي أُورُشَلِيمَ قَبْلِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "بُطل التعب",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.8",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 8,
+          "text": "جَمَعْتُ لِنَفْسِي أَيْضًا فِضَّةً وَذَهَبًا وَخُصُوصِيَّاتِ الْمُلُوكِ وَالْبُلْدَانِ. اتَّخَذْتُ لِنَفْسِي مُغَنِّينَ وَمُغَنِّيَاتٍ وَتَنَعُّمَاتِ بَنِي الْبَشَرِ، سَيِّدَةً وَسَيِّدَاتٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "جَمَعْتُ لِنَفْسِي أَيْضًا فِضَّةً وَذَهَبًا وَخُصُوصِيَّاتِ الْمُلُوكِ وَالْبُلْدَانِ. اتَّخَذْتُ لِنَفْسِي مُغَنِّينَ وَمُغَنِّيَاتٍ وَتَنَعُّمَاتِ بَنِي الْبَشَرِ، سَيِّدَةً وَسَيِّدَاتٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.9",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 9,
+          "text": "فَعَظُمْتُ وَازْدَدْتُ أَكْثَرَ مِنْ جَمِيعِ الَّذِينَ كَانُوا قَبْلِي فِي أُورُشَلِيمَ، وَبَقِيَتْ أَيْضًا حِكْمَتِي مَعِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَعَظُمْتُ وَازْدَدْتُ أَكْثَرَ مِنْ جَمِيعِ الَّذِينَ كَانُوا قَبْلِي فِي أُورُشَلِيمَ، وَبَقِيَتْ أَيْضًا حِكْمَتِي مَعِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.10",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 10,
+          "text": "وَمَهْمَا اشْتَهَتْهُ عَيْنَايَ لَمْ أُمْسِكْهُ عَنْهُمَا. لَمْ أَمْنَعْ قَلْبِي مِنْ كُلِّ فَرَحٍ، لأَنَّ قَلْبِي فَرِحَ بِكُلِّ تَعَبِي. وَهَذَا كَانَ نَصِيبِي مِنْ كُلِّ تَعَبِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَهْمَا اشْتَهَتْهُ عَيْنَايَ لَمْ أُمْسِكْهُ عَنْهُمَا. لَمْ أَمْنَعْ قَلْبِي مِنْ كُلِّ فَرَحٍ، لأَنَّ قَلْبِي فَرِحَ بِكُلِّ تَعَبِي. وَهَذَا كَانَ نَصِيبِي مِنْ كُلِّ تَعَبِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.11",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 11,
+          "text": "ثُمَّ الْتَفَتُّ أَنَا إِلَى كُلِّ أَعْمَالِي الَّتِي عَمِلَتْهَا يَدَايَ، وَإِلَى التَّعَبِ الَّذِي تَعِبْتُهُ فِي عَمَلِهِ، فَإِذَا الْكُلُّ بَاطِلٌ وَقَبْضُ الرِّيحِ، وَلَا مَنْفَعَةَ تَحْتَ الشَّمْسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ الْتَفَتُّ أَنَا إِلَى كُلِّ أَعْمَالِي الَّتِي عَمِلَتْهَا يَدَايَ، وَإِلَى التَّعَبِ الَّذِي تَعِبْتُهُ فِي عَمَلِهِ، فَإِذَا الْكُلُّ بَاطِلٌ وَقَبْضُ الرِّيحِ، وَلَا مَنْفَعَةَ تَحْتَ الشَّمْسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.12",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 12,
+          "text": "ثُمَّ الْتَفَتُّ لأَنْظُرَ الْحِكْمَةَ وَالْحَمَاقَةَ وَالْجَهْلَ. فَمَا الإِنْسَانُ الَّذِي يَأْتِي وَرَاءَ الْمَلِكِ الَّذِي قَدْ نَصَبُوهُ مُنْذُ زَمَانٍ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ الْتَفَتُّ لأَنْظُرَ الْحِكْمَةَ وَالْحَمَاقَةَ وَالْجَهْلَ. فَمَا الإِنْسَانُ الَّذِي يَأْتِي وَرَاءَ الْمَلِكِ الَّذِي قَدْ نَصَبُوهُ مُنْذُ زَمَانٍ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.13",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 13,
+          "text": "فَرَأَيْتُ أَنَّ لِلْحِكْمَةِ مَنْفَعَةً أَكْثَرَ مِنَ الْجَهْلِ، كَمَا أَنَّ لِلنُّورِ مَنْفَعَةً أَكْثَرَ مِنَ الظُّلْمَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَرَأَيْتُ أَنَّ لِلْحِكْمَةِ مَنْفَعَةً أَكْثَرَ مِنَ الْجَهْلِ، كَمَا أَنَّ لِلنُّورِ مَنْفَعَةً أَكْثَرَ مِنَ الظُّلْمَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.14",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 14,
+          "text": "اَلْحَكِيمُ عَيْنَاهُ فِي رَأْسِهِ، أَمَّا الْجَاهِلُ فَيَسْلُكُ فِي الظَّلاَمِ. وَعَرَفْتُ أَنَا أَيْضًا أَنَّ حَادِثَةً وَاحِدَةً تَحْدُثُ لِكِلَيْهِمَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْحَكِيمُ عَيْنَاهُ فِي رَأْسِهِ، أَمَّا الْجَاهِلُ فَيَسْلُكُ فِي الظَّلاَمِ. وَعَرَفْتُ أَنَا أَيْضًا أَنَّ حَادِثَةً وَاحِدَةً تَحْدُثُ لِكِلَيْهِمَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.15",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 15,
+          "text": "فَقُلْتُ فِي قَلْبِي: «كَمَا يَحْدُثُ لِلْجَاهِلِ كَذَلِكَ يَحْدُثُ أَيْضًا لِي أَنَا. وَإِذْ ذَاكَ، فَلِمَاذَا أَنَا أَوْفَرُ حِكْمَةً؟» فَقُلْتُ فِي قَلْبِي: «هَذَا أَيْضًا بَاطِلٌ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَقُلْتُ فِي قَلْبِي: «كَمَا يَحْدُثُ لِلْجَاهِلِ كَذَلِكَ يَحْدُثُ أَيْضًا لِي أَنَا. وَإِذْ ذَاكَ، فَلِمَاذَا أَنَا أَوْفَرُ حِكْمَةً؟» فَقُلْتُ فِي قَلْبِي: «هَذَا أَيْضًا بَاطِلٌ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.16",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 16,
+          "text": "لأَنَّهُ لَيْسَ ذِكْرٌ لِلْحَكِيمِ وَلَا لِلْجَاهِلِ إِلَى الأَبَدِ. كَمَا مُنْذُ زَمَانٍ كَذَا الأَيَّامُ الآتِيَةُ: الْكُلُّ يُنْسَى. وَكَيْفَ يَمُوتُ الْحَكِيمُ كَالْجَاهِلِ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ لَيْسَ ذِكْرٌ لِلْحَكِيمِ وَلَا لِلْجَاهِلِ إِلَى الأَبَدِ. كَمَا مُنْذُ زَمَانٍ كَذَا الأَيَّامُ الآتِيَةُ: الْكُلُّ يُنْسَى. وَكَيْفَ يَمُوتُ الْحَكِيمُ كَالْجَاهِلِ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.17",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 17,
+          "text": "فَكَرِهْتُ الْحَيَاةَ، لأَنَّهُ رَدِيءٌ عِنْدِي، الْعَمَلُ الَّذِي عُمِلَ تَحْتَ الشَّمْسِ، لأَنَّ الْكُلَّ بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَكَرِهْتُ الْحَيَاةَ، لأَنَّهُ رَدِيءٌ عِنْدِي، الْعَمَلُ الَّذِي عُمِلَ تَحْتَ الشَّمْسِ، لأَنَّ الْكُلَّ بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.18",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 18,
+          "text": "فَكَرِهْتُ كُلَّ تَعَبِي الَّذِي تَعِبْتُ فِيهِ تَحْتَ الشَّمْسِ حَيْثُ أَتْرُكُهُ لِلإِنْسَانِ الَّذِي يَكُونُ بَعْدِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَكَرِهْتُ كُلَّ تَعَبِي الَّذِي تَعِبْتُ فِيهِ تَحْتَ الشَّمْسِ حَيْثُ أَتْرُكُهُ لِلإِنْسَانِ الَّذِي يَكُونُ بَعْدِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.19",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 19,
+          "text": "وَمَنْ يَعْلَمُ، هَلْ يَكُونُ حَكِيمًا أَوْ جَاهِلًا، وَيَسْتَوْلِي عَلَى كُلِّ تَعَبِي الَّذِي تَعِبْتُ فِيهِ وَأَظْهَرْتُ فِيهِ حِكْمَتِي تَحْتَ الشَّمْسِ؟ هَذَا أَيْضًا بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَنْ يَعْلَمُ، هَلْ يَكُونُ حَكِيمًا أَوْ جَاهِلًا، وَيَسْتَوْلِي عَلَى كُلِّ تَعَبِي الَّذِي تَعِبْتُ فِيهِ وَأَظْهَرْتُ فِيهِ حِكْمَتِي تَحْتَ الشَّمْسِ؟ هَذَا أَيْضًا بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.20",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 20,
+          "text": "فَتَحَوَّلْتُ لِكَيْ أَجْعَلَ قَلْبِي يَيْئَسُ مِنْ كُلِّ التَّعَبِ الَّذِي تَعِبْتُ فِيهِ تَحْتَ الشَّمْسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَتَحَوَّلْتُ لِكَيْ أَجْعَلَ قَلْبِي يَيْئَسُ مِنْ كُلِّ التَّعَبِ الَّذِي تَعِبْتُ فِيهِ تَحْتَ الشَّمْسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.21",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 21,
+          "text": "لأَنَّهُ قَدْ يَكُونُ إِنْسَانٌ تَعَبُهُ بِالْحِكْمَةِ وَالْمَعْرِفَةِ وَبِالْفَلَاحِ، فَيَتْرُكُهُ نَصِيبًا لإِنْسَانٍ لَمْ يَتْعَبْ فِيهِ. هَذَا أَيْضًا بَاطِلٌ وَشَرٌّ عَظِيمٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ قَدْ يَكُونُ إِنْسَانٌ تَعَبُهُ بِالْحِكْمَةِ وَالْمَعْرِفَةِ وَبِالْفَلَاحِ، فَيَتْرُكُهُ نَصِيبًا لإِنْسَانٍ لَمْ يَتْعَبْ فِيهِ. هَذَا أَيْضًا بَاطِلٌ وَشَرٌّ عَظِيمٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.22",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 22,
+          "text": "لأَنَّهُ مَاذَا لِلإِنْسَانِ مِنْ كُلِّ تَعَبِهِ، وَمِنِ اجْتِهَادِ قَلْبِهِ الَّذِي تَعِبَ فِيهِ تَحْتَ الشَّمْسِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ مَاذَا لِلإِنْسَانِ مِنْ كُلِّ تَعَبِهِ، وَمِنِ اجْتِهَادِ قَلْبِهِ الَّذِي تَعِبَ فِيهِ تَحْتَ الشَّمْسِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.23",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 23,
+          "text": "لأَنَّ كُلَّ أَيَّامِهِ أَحْزَانٌ، وَعَمَلَهُ غَمٌّ. أَيْضًا بِاللَّيْلِ لَا يَسْتَرِيحُ قَلْبُهُ. هَذَا أَيْضًا بَاطِلٌ هُوَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ كُلَّ أَيَّامِهِ أَحْزَانٌ، وَعَمَلَهُ غَمٌّ. أَيْضًا بِاللَّيْلِ لَا يَسْتَرِيحُ قَلْبُهُ. هَذَا أَيْضًا بَاطِلٌ هُوَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.24",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 24,
+          "text": "لَيْسَ لِلإِنْسَانِ خَيْرٌ مِنْ أَنْ يَأْكُلَ وَيَشْرَبَ وَيُرِيَ نَفْسَهُ خَيْرًا فِي تَعَبِهِ. رَأَيْتُ هَذَا أَيْضًا أَنَّهُ مِنْ يَدِ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَ لِلإِنْسَانِ خَيْرٌ مِنْ أَنْ يَأْكُلَ وَيَشْرَبَ وَيُرِيَ نَفْسَهُ خَيْرًا فِي تَعَبِهِ. رَأَيْتُ هَذَا أَيْضًا أَنَّهُ مِنْ يَدِ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.25",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 25,
+          "text": "لأَنَّهُ مَنْ يَأْكُلُ وَمَنْ يَلْتَذُّ غَيْرِي؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ مَنْ يَأْكُلُ وَمَنْ يَلْتَذُّ غَيْرِي؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.2.26",
+          "book": "ECC",
+          "chapter": 2,
+          "verse": 26,
+          "text": "لأَنَّهُ يُؤْتِي الإِنْسَانَ الصَّالِحَ قُدَّامَهُ حِكْمَةً وَمَعْرِفَةً وَفَرَحًا، أَمَّا الْخَاطِئُ فَيُعْطِيهِ شُغْلَ الْجَمْعِ وَالتَّكْوِيمِ، لِيُعْطِيَ لِلصَّالِحِ قُدَّامَ اللهِ. هَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ يُؤْتِي الإِنْسَانَ الصَّالِحَ قُدَّامَهُ حِكْمَةً وَمَعْرِفَةً وَفَرَحًا، أَمَّا الْخَاطِئُ فَيُعْطِيهِ شُغْلَ الْجَمْعِ وَالتَّكْوِيمِ، لِيُعْطِيَ لِلصَّالِحِ قُدَّامَ اللهِ. هَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "بُطل اللذات",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "بُطل التعب",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:14.397Z"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "ECC.3.1",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 1,
+          "text": "لِكُلِّ شَيْءٍ زَمَانٌ، وَلِكُلِّ أَمْرٍ تَحْتَ السَّمَاوَاتِ وَقْتٌ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِكُلِّ شَيْءٍ زَمَانٌ، وَلِكُلِّ أَمْرٍ تَحْتَ السَّمَاوَاتِ وَقْتٌ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "لكل شيء زمان",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.2",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 2,
+          "text": "لِلْوِلاَدَةِ وَقْتٌ وَلِلْمَوْتِ وَقْتٌ. لِلْغَرْسِ وَقْتٌ وَلِقَلْعِ الْمَغْرُوسِ وَقْتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلْوِلاَدَةِ وَقْتٌ وَلِلْمَوْتِ وَقْتٌ. لِلْغَرْسِ وَقْتٌ وَلِقَلْعِ الْمَغْرُوسِ وَقْتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.3",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 3,
+          "text": "لِلْقَتْلِ وَقْتٌ وَلِلشِّفَاءِ وَقْتٌ. لِلْهَدْمِ وَقْتٌ وَلِلْبِنَاءِ وَقْتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلْقَتْلِ وَقْتٌ وَلِلشِّفَاءِ وَقْتٌ. لِلْهَدْمِ وَقْتٌ وَلِلْبِنَاءِ وَقْتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.4",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 4,
+          "text": "لِلْبُكَاءِ وَقْتٌ وَلِلضَّحْكِ وَقْتٌ. لِلنَّوْحِ وَقْتٌ وَلِلرَّقْصِ وَقْتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلْبُكَاءِ وَقْتٌ وَلِلضَّحْكِ وَقْتٌ. لِلنَّوْحِ وَقْتٌ وَلِلرَّقْصِ وَقْتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.5",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 5,
+          "text": "لِتَفْرِيقِ الْحِجَارَةِ وَقْتٌ وَلِجَمْعِ الْحِجَارَةِ وَقْتٌ. لِلْمُعَانَقَةِ وَقْتٌ وَلِلانْفِصَالِ عَنِ الْمُعَانَقَةِ وَقْتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِتَفْرِيقِ الْحِجَارَةِ وَقْتٌ وَلِجَمْعِ الْحِجَارَةِ وَقْتٌ. لِلْمُعَانَقَةِ وَقْتٌ وَلِلانْفِصَالِ عَنِ الْمُعَانَقَةِ وَقْتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.6",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 6,
+          "text": "لِلْكَسْبِ وَقْتٌ وَلِلْخَسَارَةِ وَقْتٌ. لِلصِّيَانَةِ وَقْتٌ وَلِلطَّرْحِ وَقْتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلْكَسْبِ وَقْتٌ وَلِلْخَسَارَةِ وَقْتٌ. لِلصِّيَانَةِ وَقْتٌ وَلِلطَّرْحِ وَقْتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.7",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 7,
+          "text": "لِلتَّمْزِيقِ وَقْتٌ وَلِلتَّخْيِيطِ وَقْتٌ. لِلسُّكُوتِ وَقْتٌ وَلِلتَّكَلُّمِ وَقْتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلتَّمْزِيقِ وَقْتٌ وَلِلتَّخْيِيطِ وَقْتٌ. لِلسُّكُوتِ وَقْتٌ وَلِلتَّكَلُّمِ وَقْتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.8",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 8,
+          "text": "لِلْحُبِّ وَقْتٌ وَلِلْبُغْضَةِ وَقْتٌ. لِلْحَرْبِ وَقْتٌ وَلِلصُّلْحِ وَقْتٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلْحُبِّ وَقْتٌ وَلِلْبُغْضَةِ وَقْتٌ. لِلْحَرْبِ وَقْتٌ وَلِلصُّلْحِ وَقْتٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.9",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 9,
+          "text": "فَأَيُّ مَنْفَعَةٍ لِمَنْ يَتْعَبُ مِمَّا يَتْعَبُ بِهِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَأَيُّ مَنْفَعَةٍ لِمَنْ يَتْعَبُ مِمَّا يَتْعَبُ بِهِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.10",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 10,
+          "text": "قَدْ رَأَيْتُ الشُّغْلَ الَّذِي أَعْطَاهُ اللهُ بَنِي الْبَشَرِ لِيَشْتَغِلُوا بِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَدْ رَأَيْتُ الشُّغْلَ الَّذِي أَعْطَاهُ اللهُ بَنِي الْبَشَرِ لِيَشْتَغِلُوا بِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.11",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 11,
+          "text": "صَنَعَ الْكُلَّ حَسَنًا فِي وَقْتِهِ، وَأَيْضًا جَعَلَ الأَبَدِيَّةَ فِي قَلْبِهِمِ، الَّتِي بِلاَهَا لَا يُدْرِكُ الإِنْسَانُ الْعَمَلَ الَّذِي يَعْمَلُهُ اللهُ مِنَ الْبِدَايَةِ إِلَى النِّهَايَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "صَنَعَ الْكُلَّ حَسَنًا فِي وَقْتِهِ، وَأَيْضًا جَعَلَ الأَبَدِيَّةَ فِي قَلْبِهِمِ، الَّتِي بِلاَهَا لَا يُدْرِكُ الإِنْسَانُ الْعَمَلَ الَّذِي يَعْمَلُهُ اللهُ مِنَ الْبِدَايَةِ إِلَى النِّهَايَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.12",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 12,
+          "text": "عَرَفْتُ أَنَّهُ لَيْسَ لَهُمْ خَيْرٌ، إِلاَّ أَنْ يَفْرَحُوا وَيَفْعَلُوا خَيْرًا فِي حَيَاتِهِمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عَرَفْتُ أَنَّهُ لَيْسَ لَهُمْ خَيْرٌ، إِلاَّ أَنْ يَفْرَحُوا وَيَفْعَلُوا خَيْرًا فِي حَيَاتِهِمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.13",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 13,
+          "text": "وَأَيْضًا أَنْ يَأْكُلَ كُلُّ إِنْسَانٍ وَيَشْرَبَ وَيَرَى خَيْرًا مِنْ كُلِّ تَعَبِهِ، فَهُوَ عَطِيَّةُ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَيْضًا أَنْ يَأْكُلَ كُلُّ إِنْسَانٍ وَيَشْرَبَ وَيَرَى خَيْرًا مِنْ كُلِّ تَعَبِهِ، فَهُوَ عَطِيَّةُ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.14",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 14,
+          "text": "قَدْ عَرَفْتُ أَنَّ كُلَّ مَا يَعْمَلُهُ اللهُ أَنَّهُ يَكُونُ إِلَى الأَبَدِ. لَا شَيْءَ يُزَادُ عَلَيْهِ، وَلَا شَيْءَ يُنْقَصُ مِنْهُ، وَأَنَّ اللهَ عَمِلَهُ حَتَّى يَخَافُوا أَمَامَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَدْ عَرَفْتُ أَنَّ كُلَّ مَا يَعْمَلُهُ اللهُ أَنَّهُ يَكُونُ إِلَى الأَبَدِ. لَا شَيْءَ يُزَادُ عَلَيْهِ، وَلَا شَيْءَ يُنْقَصُ مِنْهُ، وَأَنَّ اللهَ عَمِلَهُ حَتَّى يَخَافُوا أَمَامَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.15",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 15,
+          "text": "مَا كَانَ فَمِنَ الْقِدَمِ هُوَ، وَمَا يَكُونُ فَمِنَ الْقِدَمِ قَدْ كَانَ. وَاللهُ يَطْلُبُ مَا قَدْ مَضَى.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَا كَانَ فَمِنَ الْقِدَمِ هُوَ، وَمَا يَكُونُ فَمِنَ الْقِدَمِ قَدْ كَانَ. وَاللهُ يَطْلُبُ مَا قَدْ مَضَى.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.16",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 16,
+          "text": "وَأَيْضًا رَأَيْتُ تَحْتَ الشَّمْسِ: مَوْضِعَ الْحَقِّ هُنَاكَ الظُّلْمُ، وَمَوْضِعَ الْعَدْلِ هُنَاكَ الْجَوْرُ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَيْضًا رَأَيْتُ تَحْتَ الشَّمْسِ: مَوْضِعَ الْحَقِّ هُنَاكَ الظُّلْمُ، وَمَوْضِعَ الْعَدْلِ هُنَاكَ الْجَوْرُ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.17",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 17,
+          "text": "فَقُلْتُ فِي قَلْبِي: «اللهُ يَدِينُ الصِّدِّيقَ وَالشِّرِّيرَ، لأَنَّ لِكُلِّ أَمْرٍ وَلِكُلِّ عَمَلٍ وَقْتًا هُنَاكَ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَقُلْتُ فِي قَلْبِي: «اللهُ يَدِينُ الصِّدِّيقَ وَالشِّرِّيرَ، لأَنَّ لِكُلِّ أَمْرٍ وَلِكُلِّ عَمَلٍ وَقْتًا هُنَاكَ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.18",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 18,
+          "text": "قُلْتُ فِي قَلْبِي: «مِنْ جِهَةِ أُمُورِ بَنِي الْبَشَرِ، إِنَّ اللهَ يَمْتَحِنُهُمْ لِيُرِيَهُمْ أَنَّهُ كَمَا الْبَهِيمَةِ هَكَذَا هُمْ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قُلْتُ فِي قَلْبِي: «مِنْ جِهَةِ أُمُورِ بَنِي الْبَشَرِ، إِنَّ اللهَ يَمْتَحِنُهُمْ لِيُرِيَهُمْ أَنَّهُ كَمَا الْبَهِيمَةِ هَكَذَا هُمْ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.19",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 19,
+          "text": "لأَنَّ مَا يَحْدُثُ لِبَنِي الْبَشَرِ يَحْدُثُ لِلْبَهِيمَةِ، وَحَادِثَةٌ وَاحِدَةٌ لَهُمْ. مَوْتُ هَذَا كَمَوْتِ ذَاكَ، وَنَسَمَةٌ وَاحِدَةٌ لِلْكُلِّ. فَلَيْسَ لِلإِنْسَانِ مَزِيَّةٌ عَلَى الْبَهِيمَةِ، لأَنَّ كِلَيْهِمَا بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ مَا يَحْدُثُ لِبَنِي الْبَشَرِ يَحْدُثُ لِلْبَهِيمَةِ، وَحَادِثَةٌ وَاحِدَةٌ لَهُمْ. مَوْتُ هَذَا كَمَوْتِ ذَاكَ، وَنَسَمَةٌ وَاحِدَةٌ لِلْكُلِّ. فَلَيْسَ لِلإِنْسَانِ مَزِيَّةٌ عَلَى الْبَهِيمَةِ، لأَنَّ كِلَيْهِمَا بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.20",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 20,
+          "text": "يَذْهَبُ كِلَاهُمَا إِلَى مَكَانٍ وَاحِدٍ. كَانَ كِلَاهُمَا مِنَ التُّرَابِ، وَإِلَى التُّرَابِ يَعُودُ كِلَاهُمَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يَذْهَبُ كِلَاهُمَا إِلَى مَكَانٍ وَاحِدٍ. كَانَ كِلَاهُمَا مِنَ التُّرَابِ، وَإِلَى التُّرَابِ يَعُودُ كِلَاهُمَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.21",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 21,
+          "text": "مَنْ يَعْلَمُ رُوحَ بَنِي الْبَشَرِ هَلْ هِيَ تَصْعَدُ إِلَى فَوْقٍ؟ وَرُوحَ الْبَهِيمَةِ هَلْ هِيَ تَنْزِلُ إِلَى أَسْفَلَ، إِلَى الأَرْضِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ يَعْلَمُ رُوحَ بَنِي الْبَشَرِ هَلْ هِيَ تَصْعَدُ إِلَى فَوْقٍ؟ وَرُوحَ الْبَهِيمَةِ هَلْ هِيَ تَنْزِلُ إِلَى أَسْفَلَ، إِلَى الأَرْضِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.3.22",
+          "book": "ECC",
+          "chapter": 3,
+          "verse": 22,
+          "text": "فَرَأَيْتُ أَنَّهُ لَا شَيْءَ خَيْرٌ مِنْ أَنْ يَفْرَحَ الإِنْسَانُ بِأَعْمَالِهِ، لأَنَّ ذَلِكَ نَصِيبَهُ. لأَنَّهُ مَنْ يَأْتِي بِهِ لِيَرَى مَا سَيَكُونُ بَعْدَهُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَرَأَيْتُ أَنَّهُ لَا شَيْءَ خَيْرٌ مِنْ أَنْ يَفْرَحَ الإِنْسَانُ بِأَعْمَالِهِ، لأَنَّ ذَلِكَ نَصِيبَهُ. لأَنَّهُ مَنْ يَأْتِي بِهِ لِيَرَى مَا سَيَكُونُ بَعْدَهُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "لكل شيء زمان",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:17.208Z"
+    },
+    "4": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "ECC.4.1",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 1,
+          "text": "ثُمَّ رَجَعْتُ وَرَأَيْتُ كُلَّ الْمَظَالِمِ الَّتِي تُجْرَى تَحْتَ الشَّمْسِ: فَهُوَذَا دُمُوعُ الْمَظْلُومِينَ وَلَا مُعَزٍّ لَهُمْ، وَمِنْ يَدِ ظَالِمِيهِمْ قَهْرٌ، أَمَّا هُمْ فَلَا مُعَزٍّ لَهُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ رَجَعْتُ وَرَأَيْتُ كُلَّ الْمَظَالِمِ الَّتِي تُجْرَى تَحْتَ الشَّمْسِ: فَهُوَذَا دُمُوعُ الْمَظْلُومِينَ وَلَا مُعَزٍّ لَهُمْ، وَمِنْ يَدِ ظَالِمِيهِمْ قَهْرٌ، أَمَّا هُمْ فَلَا مُعَزٍّ لَهُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الظلم والكد والوحدة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.2",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 2,
+          "text": "فَغَبَطْتُ أَنَا الأَمْوَاتَ الَّذِينَ قَدْ مَاتُوا مُنْذُ زَمَانٍ أَكْثَرَ مِنَ الأَحْيَاءِ الَّذِينَ هُمْ عَائِشُونَ بَعْدُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَغَبَطْتُ أَنَا الأَمْوَاتَ الَّذِينَ قَدْ مَاتُوا مُنْذُ زَمَانٍ أَكْثَرَ مِنَ الأَحْيَاءِ الَّذِينَ هُمْ عَائِشُونَ بَعْدُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.3",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 3,
+          "text": "وَخَيْرٌ مِنْ كِلَيْهِمَا الَّذِي لَمْ يُولَدْ بَعْدُ، الَّذِي لَمْ يَرَ الْعَمَلَ الرَّدِيءَ الَّذِي عُمِلَ تَحْتَ الشَّمْسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَخَيْرٌ مِنْ كِلَيْهِمَا الَّذِي لَمْ يُولَدْ بَعْدُ، الَّذِي لَمْ يَرَ الْعَمَلَ الرَّدِيءَ الَّذِي عُمِلَ تَحْتَ الشَّمْسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.4",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 4,
+          "text": "وَرَأَيْتُ كُلَّ التَّعَبِ وَكُلَّ فَلَاحِ عَمَلٍ أَنَّهُ حَسَدُ الإِنْسَانِ مِنْ قَرِيبِهِ. وَهَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَرَأَيْتُ كُلَّ التَّعَبِ وَكُلَّ فَلَاحِ عَمَلٍ أَنَّهُ حَسَدُ الإِنْسَانِ مِنْ قَرِيبِهِ. وَهَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.5",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 5,
+          "text": "اَلْكَسْلاَنُ يَأْكُلُ لَحْمَهُ وَهُوَ طَاوٍ يَدَيْهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْكَسْلاَنُ يَأْكُلُ لَحْمَهُ وَهُوَ طَاوٍ يَدَيْهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.6",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 6,
+          "text": "حُفْنَةُ رَاحَةٍ خَيْرٌ مِنْ حُفْنَتَيْ تَعَبٍ وَقَبْضِ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حُفْنَةُ رَاحَةٍ خَيْرٌ مِنْ حُفْنَتَيْ تَعَبٍ وَقَبْضِ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.7",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 7,
+          "text": "ثُمَّ عُدْتُ وَرَأَيْتُ بَاطِلًا تَحْتَ الشَّمْسِ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ عُدْتُ وَرَأَيْتُ بَاطِلًا تَحْتَ الشَّمْسِ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.8",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 8,
+          "text": "يُوجَدُ وَاحِدٌ وَلَا ثَانِيَ لَهُ، وَلَيْسَ لَهُ ابْنٌ وَلَا أَخٌ، وَلَا نِهَايَةَ لِكُلِّ تَعَبِهِ، وَلَا تَشْبَعُ عَيْنُهُ مِنَ الْغِنَى. فَلِمَنْ أَتْعَبُ أَنَا وَأُحَرِّمُ نَفْسِي الْخَيْرَ؟ هَذَا أَيْضًا بَاطِلٌ وَأَمْرٌ رَدِيءٌ هُوَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُوجَدُ وَاحِدٌ وَلَا ثَانِيَ لَهُ، وَلَيْسَ لَهُ ابْنٌ وَلَا أَخٌ، وَلَا نِهَايَةَ لِكُلِّ تَعَبِهِ، وَلَا تَشْبَعُ عَيْنُهُ مِنَ الْغِنَى. فَلِمَنْ أَتْعَبُ أَنَا وَأُحَرِّمُ نَفْسِي الْخَيْرَ؟ هَذَا أَيْضًا بَاطِلٌ وَأَمْرٌ رَدِيءٌ هُوَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.9",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 9,
+          "text": "اِثْنَانِ خَيْرٌ مِنْ وَاحِدٍ، لأَنَّ لَهُمَا أُجْرَةً لِتَعَبِهِمَا صَالِحَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِثْنَانِ خَيْرٌ مِنْ وَاحِدٍ، لأَنَّ لَهُمَا أُجْرَةً لِتَعَبِهِمَا صَالِحَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.10",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 10,
+          "text": "لأَنَّهُ إِنْ وَقَعَ أَحَدُهُمَا يُقِيمُهُ رَفِيقُهُ. وَوَيْلٌ لِمَنْ هُوَ وَحْدَهُ إِنْ وَقَعَ، إِذْ لَيْسَ ثَانٍ لِيُقِيمَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ إِنْ وَقَعَ أَحَدُهُمَا يُقِيمُهُ رَفِيقُهُ. وَوَيْلٌ لِمَنْ هُوَ وَحْدَهُ إِنْ وَقَعَ، إِذْ لَيْسَ ثَانٍ لِيُقِيمَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.11",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 11,
+          "text": "أَيْضًا إِنِ اضْطَجَعَ اثْنَانِ يَكُونُ لَهُمَا دِفْءٌ، أَمَّا الْوَحْدُ فَكَيْفَ يَدْفَأُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيْضًا إِنِ اضْطَجَعَ اثْنَانِ يَكُونُ لَهُمَا دِفْءٌ، أَمَّا الْوَحْدُ فَكَيْفَ يَدْفَأُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.12",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 12,
+          "text": "وَإِنْ غَلَبَ أَحَدٌ عَلَى الْوَاحِدِ يَقِفُ مُقَابَلَهُ الاثْنَانِ، وَالْخَيْطُ الْمَثْلُوثُ لَا يَنْقَطِعُ سَرِيعًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِنْ غَلَبَ أَحَدٌ عَلَى الْوَاحِدِ يَقِفُ مُقَابَلَهُ الاثْنَانِ، وَالْخَيْطُ الْمَثْلُوثُ لَا يَنْقَطِعُ سَرِيعًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.13",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 13,
+          "text": "وَلَدٌ فَقِيرٌ وَحَكِيمٌ خَيْرٌ مِنْ مَلِكٍ شَيْخٍ جَاهِلٍ، الَّذِي لَا يَعْرِفُ أَنْ يُحَذَّرَ بَعْدُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلَدٌ فَقِيرٌ وَحَكِيمٌ خَيْرٌ مِنْ مَلِكٍ شَيْخٍ جَاهِلٍ، الَّذِي لَا يَعْرِفُ أَنْ يُحَذَّرَ بَعْدُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "بُطل التفوق",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.14",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 14,
+          "text": "لأَنَّهُ مِنَ السِّجْنِ خَرَجَ إِلَى الْمُلْكِ، وَالْمَوْلُودُ مَلِكًا قَدْ يَفْتَقِرُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ مِنَ السِّجْنِ خَرَجَ إِلَى الْمُلْكِ، وَالْمَوْلُودُ مَلِكًا قَدْ يَفْتَقِرُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.15",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 15,
+          "text": "رَأَيْتُ كُلَّ الأَحْيَاءِ السَّائِرِينَ تَحْتَ الشَّمْسِ مَعَ الْوَلَدِ الثَّانِي الَّذِي يَقُومُ عِوَضًا عَنْهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "رَأَيْتُ كُلَّ الأَحْيَاءِ السَّائِرِينَ تَحْتَ الشَّمْسِ مَعَ الْوَلَدِ الثَّانِي الَّذِي يَقُومُ عِوَضًا عَنْهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.4.16",
+          "book": "ECC",
+          "chapter": 4,
+          "verse": 16,
+          "text": "لَا نِهَايَةَ لِكُلِّ الشَّعْبِ، لِكُلِّ الَّذِينَ كَانَ أَمَامَهُمْ. أَيْضًا الْمُتَأَخِّرُونَ لَا يَفْرَحُونَ بِهِ. فَهَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا نِهَايَةَ لِكُلِّ الشَّعْبِ، لِكُلِّ الَّذِينَ كَانَ أَمَامَهُمْ. أَيْضًا الْمُتَأَخِّرُونَ لَا يَفْرَحُونَ بِهِ. فَهَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "الظلم والكد والوحدة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "بُطل التفوق",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:19.924Z"
+    },
+    "5": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "ECC.5.1",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 1,
+          "text": "اِحْفَظْ قَدَمَكَ حِينَ تَذْهَبُ إِلَى بَيْتِ اللهِ، فَالاسْتِمَاعُ أَقْرَبُ مِنْ تَقْدِيمِ ذَبِيحَةِ الْجُهَّالِ، لأَنَّهُمْ لَا يُبَالُونَ بِفَعْلِ الشَّرِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِحْفَظْ قَدَمَكَ حِينَ تَذْهَبُ إِلَى بَيْتِ اللهِ، فَالاسْتِمَاعُ أَقْرَبُ مِنْ تَقْدِيمِ ذَبِيحَةِ الْجُهَّالِ، لأَنَّهُمْ لَا يُبَالُونَ بِفَعْلِ الشَّرِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الوقوف بهيبة أمم الله",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.2",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 2,
+          "text": "لَا تَسْتَعْجِلْ فَمَكَ وَلَا يُسْرِعْ قَلْبُكَ إِلَى نُطْقِ كَلاَمٍ قُدَّامَ اللهِ، لأَنَّ اللهَ فِي السَّمَاوَاتِ وَأَنْتَ عَلَى الأَرْضِ، فَلِذَلِكَ لِتَكُنْ كَلِمَاتُكَ قَلِيلَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَسْتَعْجِلْ فَمَكَ وَلَا يُسْرِعْ قَلْبُكَ إِلَى نُطْقِ كَلاَمٍ قُدَّامَ اللهِ، لأَنَّ اللهَ فِي السَّمَاوَاتِ وَأَنْتَ عَلَى الأَرْضِ، فَلِذَلِكَ لِتَكُنْ كَلِمَاتُكَ قَلِيلَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.3",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 3,
+          "text": "لأَنَّ الْحُلْمَ يَأْتِي مِنْ كَثْرَةِ الشُّغْلِ، وَقَوْلَ الْجَهْلِ مِنْ كَثْرَةِ الْكَلاَمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الْحُلْمَ يَأْتِي مِنْ كَثْرَةِ الشُّغْلِ، وَقَوْلَ الْجَهْلِ مِنْ كَثْرَةِ الْكَلاَمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.4",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 4,
+          "text": "إِذَا نَذَرْتَ نَذْرًا للهِ فَلَا تَتَأَخَّرْ عَنِ الْوَفَاءِ بِهِ، لأَنَّهُ لَا يُسَرُّ بِالْجُهَّالِ. فَأَوْفِ بِمَا نَذَرْتَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذَا نَذَرْتَ نَذْرًا للهِ فَلَا تَتَأَخَّرْ عَنِ الْوَفَاءِ بِهِ، لأَنَّهُ لَا يُسَرُّ بِالْجُهَّالِ. فَأَوْفِ بِمَا نَذَرْتَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.5",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 5,
+          "text": "أَنْ لَا تَنْذُرُ خَيْرٌ مِنْ أَنْ تَنْذُرَ وَلَا تَفِيَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنْ لَا تَنْذُرُ خَيْرٌ مِنْ أَنْ تَنْذُرَ وَلَا تَفِيَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.6",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 6,
+          "text": "لَا تَدَعْ فَمَكَ يَجْعَلُ جَسَدَكَ يُخْطِئُ، وَلَا تَقُلْ قُدَّامَ الْمَلاَكِ: «إِنَّهُ سَهْوٌ». لِمَاذَا يَغْضَبُ اللهُ عَلَى قَوْلِكَ، وَيُفْسِدُ عَمَلَ يَدَيْكَ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَدَعْ فَمَكَ يَجْعَلُ جَسَدَكَ يُخْطِئُ، وَلَا تَقُلْ قُدَّامَ الْمَلاَكِ: «إِنَّهُ سَهْوٌ». لِمَاذَا يَغْضَبُ اللهُ عَلَى قَوْلِكَ، وَيُفْسِدُ عَمَلَ يَدَيْكَ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.7",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 7,
+          "text": "لأَنَّ ذَلِكَ مِنْ كَثْرَةِ الأَحْلاَمِ وَالأَبَاطِيلِ وَكَثْرَةِ الْكَلاَمِ. وَلكِنِ اخْشَ اللهَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ ذَلِكَ مِنْ كَثْرَةِ الأَحْلاَمِ وَالأَبَاطِيلِ وَكَثْرَةِ الْكَلاَمِ. وَلكِنِ اخْشَ اللهَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.8",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 8,
+          "text": "إِنْ رَأَيْتَ ظُلْمَ الْفَقِيرِ وَنَزْعَ الْحَقِّ وَالْعَدْلِ فِي الْبِلاَدِ، فَلَا تَرْتَعْ مِنَ الأَمْرِ، لأَنَّ فَوْقَ الْعَالِي عَالِيًا يُلاَحِظُ، وَالأَعْلَى فَوْقَهُمَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ رَأَيْتَ ظُلْمَ الْفَقِيرِ وَنَزْعَ الْحَقِّ وَالْعَدْلِ فِي الْبِلاَدِ، فَلَا تَرْتَعْ مِنَ الأَمْرِ، لأَنَّ فَوْقَ الْعَالِي عَالِيًا يُلاَحِظُ، وَالأَعْلَى فَوْقَهُمَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "بُطل الغنى",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.9",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 9,
+          "text": "وَمَنْفَعَةُ الأَرْضِ لِلْكُلِّ. الْمَلِكُ مَخْدُومٌ مِنَ الْحَقْلِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَنْفَعَةُ الأَرْضِ لِلْكُلِّ. الْمَلِكُ مَخْدُومٌ مِنَ الْحَقْلِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.10",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 10,
+          "text": "مَنْ يُحِبُّ الْفِضَّةَ لَا يَشْبَعُ مِنَ الْفِضَّةِ، وَمَنْ يُحِبُّ الثَّرْوَةَ لَا يَشْبَعُ مِنْ دَخْلٍ. هَذَا أَيْضًا بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ يُحِبُّ الْفِضَّةَ لَا يَشْبَعُ مِنَ الْفِضَّةِ، وَمَنْ يُحِبُّ الثَّرْوَةَ لَا يَشْبَعُ مِنْ دَخْلٍ. هَذَا أَيْضًا بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.11",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 11,
+          "text": "إِذَا كَثُرَتِ الْخَيْرَاتُ كَثُرَ الَّذِينَ يَأْكُلُونَهَا، وَأَيُّ مَنْفَعَةٍ لِصَاحِبِهَا إِلاَّ رُؤْيَتَهَا بِعَيْنَيْهِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذَا كَثُرَتِ الْخَيْرَاتُ كَثُرَ الَّذِينَ يَأْكُلُونَهَا، وَأَيُّ مَنْفَعَةٍ لِصَاحِبِهَا إِلاَّ رُؤْيَتَهَا بِعَيْنَيْهِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.12",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 12,
+          "text": "نَوْمُ الْمُشْتَغِلِ حُلْوٌ، إِنْ أَكَلَ قَلِيلًا أَوْ كَثِيرًا، وَوَفْرُ الْغَنِيِّ لَا يُرِيحُهُ حَتَّى يَنَامَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نَوْمُ الْمُشْتَغِلِ حُلْوٌ، إِنْ أَكَلَ قَلِيلًا أَوْ كَثِيرًا، وَوَفْرُ الْغَنِيِّ لَا يُرِيحُهُ حَتَّى يَنَامَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.13",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 13,
+          "text": "يُوجَدُ شَرٌّ خَبِيثٌ رَأَيْتُهُ تَحْتَ الشَّمْسِ: ثَرْوَةٌ مَصُونَةٌ لِصَاحِبِهَا لِضَرَرِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُوجَدُ شَرٌّ خَبِيثٌ رَأَيْتُهُ تَحْتَ الشَّمْسِ: ثَرْوَةٌ مَصُونَةٌ لِصَاحِبِهَا لِضَرَرِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.14",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 14,
+          "text": "فَهَلَكَتْ تِلْكَ الثَّرْوَةُ بِأَمْرٍ سَيِّئٍ، ثُمَّ وَلَدَ ابْنًا وَمَا بِيَدِهِ شَيْءٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَهَلَكَتْ تِلْكَ الثَّرْوَةُ بِأَمْرٍ سَيِّئٍ، ثُمَّ وَلَدَ ابْنًا وَمَا بِيَدِهِ شَيْءٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.15",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 15,
+          "text": "كَمَا خَرَجَ مِنْ بَطْنِ أُمِّهِ عُرْيَانًا يَرْجِعُ ذَاهِبًا كَمَا جَاءَ، وَلَا يَأْخُذُ شَيْئًا مِنْ تَعَبِهِ فَيَذْهَبُ بِهِ فِي يَدِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَمَا خَرَجَ مِنْ بَطْنِ أُمِّهِ عُرْيَانًا يَرْجِعُ ذَاهِبًا كَمَا جَاءَ، وَلَا يَأْخُذُ شَيْئًا مِنْ تَعَبِهِ فَيَذْهَبُ بِهِ فِي يَدِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.16",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 16,
+          "text": "وَهَذَا أَيْضًا مَصِيبَةٌ رَدِيئَةٌ، فِي كُلِّ شَيْءٍ كَمَا جَاءَ هَكَذَا يَذْهَبُ، فَأَيَّةُ مَنْفَعَةٍ لَهُ، لِلَّذِي تَعِبَ لِلرِّيحِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَهَذَا أَيْضًا مَصِيبَةٌ رَدِيئَةٌ، فِي كُلِّ شَيْءٍ كَمَا جَاءَ هَكَذَا يَذْهَبُ، فَأَيَّةُ مَنْفَعَةٍ لَهُ، لِلَّذِي تَعِبَ لِلرِّيحِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.17",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 17,
+          "text": "أَيْضًا يَأْكُلُ كُلَّ أَيَّامِهِ فِي الظَّلاَمِ، وَيَغْتَمُّ كَثِيرًا مَعَ حُزْنٍ وَغَيْظٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيْضًا يَأْكُلُ كُلَّ أَيَّامِهِ فِي الظَّلاَمِ، وَيَغْتَمُّ كَثِيرًا مَعَ حُزْنٍ وَغَيْظٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.18",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 18,
+          "text": "هُوَذَا الَّذِي رَأَيْتُهُ أَنَا خَيْرًا، الَّذِي هُوَ حَسَنٌ: أَنْ يَأْكُلَ الإِنْسَانُ وَيَشْرَبَ وَيَرَى خَيْرًا مِنْ كُلِّ تَعَبِهِ الَّذِي يَتْعَبُ فِيهِ تَحْتَ الشَّمْسِ مُدَّةَ أَيَّامِ حَيَاتِهِ الَّتِي أَعْطَاهُ اللهُ إِيَّاهَا، لأَنَّهُ نَصِيبُهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُوَذَا الَّذِي رَأَيْتُهُ أَنَا خَيْرًا، الَّذِي هُوَ حَسَنٌ: أَنْ يَأْكُلَ الإِنْسَانُ وَيَشْرَبَ وَيَرَى خَيْرًا مِنْ كُلِّ تَعَبِهِ الَّذِي يَتْعَبُ فِيهِ تَحْتَ الشَّمْسِ مُدَّةَ أَيَّامِ حَيَاتِهِ الَّتِي أَعْطَاهُ اللهُ إِيَّاهَا، لأَنَّهُ نَصِيبُهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.19",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 19,
+          "text": "أَيْضًا كُلُّ إِنْسَانٍ أَعْطَاهُ اللهُ غِنًى وَمَالًا وَسَلَّطَهُ عَلَيْهِ حَتَّى يَأْكُلَ مِنْهُ، وَيَأْخُذَ نَصِيبَهُ، وَيَفْرَحَ بِتَعَبِهِ، فَهَذَا هُوَ عَطِيَّةُ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيْضًا كُلُّ إِنْسَانٍ أَعْطَاهُ اللهُ غِنًى وَمَالًا وَسَلَّطَهُ عَلَيْهِ حَتَّى يَأْكُلَ مِنْهُ، وَيَأْخُذَ نَصِيبَهُ، وَيَفْرَحَ بِتَعَبِهِ، فَهَذَا هُوَ عَطِيَّةُ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.5.20",
+          "book": "ECC",
+          "chapter": 5,
+          "verse": 20,
+          "text": "لأَنَّهُ لَا يَذْكُرُ أَيَّامَ حَيَاتِهِ كَثِيرًا، لأَنَّ اللهَ مُلْهِيهِ بِفَرَحِ قَلْبِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ لَا يَذْكُرُ أَيَّامَ حَيَاتِهِ كَثِيرًا، لأَنَّ اللهَ مُلْهِيهِ بِفَرَحِ قَلْبِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "الوقوف بهيبة أمم الله",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "بُطل الغنى",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:22.748Z"
+    },
+    "6": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "ECC.6.1",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 1,
+          "text": "يُوجَدُ شَرٌّ قَدْ رَأَيْتُهُ تَحْتَ الشَّمْسِ وَهُوَ كَثِيرٌ بَيْنَ النَّاسِ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُوجَدُ شَرٌّ قَدْ رَأَيْتُهُ تَحْتَ الشَّمْسِ وَهُوَ كَثِيرٌ بَيْنَ النَّاسِ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: بُطل الغنى",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.2",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 2,
+          "text": "رَجُلٌ أَعْطَاهُ اللهُ غِنًى وَمَالًا وَكَرَامَةً، وَلَيْسَ لِنَفْسِهِ عَوَزٌ مِنْ كُلِّ مَا يَشْتَهِيهِ، وَلَمْ يُعْطِهِ اللهُ اسْتِطَاعَةً عَلَى أَنْ يَأْكُلَ مِنْهُ، بَلْ يَأْكُلُهُ إِنْسَانٌ غَرِيبٌ. هَذَا بَاطِلٌ وَمُصِيبَةٌ رَدِيئَةٌ هُوَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "رَجُلٌ أَعْطَاهُ اللهُ غِنًى وَمَالًا وَكَرَامَةً، وَلَيْسَ لِنَفْسِهِ عَوَزٌ مِنْ كُلِّ مَا يَشْتَهِيهِ، وَلَمْ يُعْطِهِ اللهُ اسْتِطَاعَةً عَلَى أَنْ يَأْكُلَ مِنْهُ، بَلْ يَأْكُلُهُ إِنْسَانٌ غَرِيبٌ. هَذَا بَاطِلٌ وَمُصِيبَةٌ رَدِيئَةٌ هُوَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.3",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 3,
+          "text": "إِنْ وَلَدَ إِنْسَانٌ مِئَةً، وَعَاشَ سِنِينَ كَثِيرَةً حَتَّى تَصِيرَ أَيَّامُ سِنِيهِ كَثِيرَةً، وَلَمْ تَشْبَعْ نَفْسُهُ مِنَ الْخَيْرِ، وَلَيْسَ لَهُ أَيْضًا دَفْنٌ، فَأَقُولُ إِنَّ السِّقْطَ خَيْرٌ مِنْهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ وَلَدَ إِنْسَانٌ مِئَةً، وَعَاشَ سِنِينَ كَثِيرَةً حَتَّى تَصِيرَ أَيَّامُ سِنِيهِ كَثِيرَةً، وَلَمْ تَشْبَعْ نَفْسُهُ مِنَ الْخَيْرِ، وَلَيْسَ لَهُ أَيْضًا دَفْنٌ، فَأَقُولُ إِنَّ السِّقْطَ خَيْرٌ مِنْهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.4",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 4,
+          "text": "لأَنَّهُ فِي الْبَاطِلِ يَجِيءُ، وَفِي الظَّلاَمِ يَذْهَبُ، وَاسْمُهُ يُغَطَّى بِالظَّلاَمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ فِي الْبَاطِلِ يَجِيءُ، وَفِي الظَّلاَمِ يَذْهَبُ، وَاسْمُهُ يُغَطَّى بِالظَّلاَمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.5",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 5,
+          "text": "وَأَيْضًا لَمْ يَرَ الشَّمْسَ وَلَمْ يَعْلَمْ. فَهَذَا لَهُ رَاحَةٌ أَكْثَرُ مِنْ ذَاكَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَيْضًا لَمْ يَرَ الشَّمْسَ وَلَمْ يَعْلَمْ. فَهَذَا لَهُ رَاحَةٌ أَكْثَرُ مِنْ ذَاكَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.6",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 6,
+          "text": "وَإِنْ عَاشَ أَلْفَ سَنَةٍ مُضَاعَفَةً وَلَمْ يَرَ خَيْرًا، أَلَيْسَ إِلَى مَوْضِعٍ وَاحِدٍ يَذْهَبُ الْجَمِيعُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِنْ عَاشَ أَلْفَ سَنَةٍ مُضَاعَفَةً وَلَمْ يَرَ خَيْرًا، أَلَيْسَ إِلَى مَوْضِعٍ وَاحِدٍ يَذْهَبُ الْجَمِيعُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.7",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 7,
+          "text": "كُلُّ تَعَبِ الإِنْسَانِ لِفَمِهِ، وَمَعَ ذَلِكَ فَالنَّفْسُ لَا تَمْتَلِئُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُلُّ تَعَبِ الإِنْسَانِ لِفَمِهِ، وَمَعَ ذَلِكَ فَالنَّفْسُ لَا تَمْتَلِئُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.8",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 8,
+          "text": "لأَنَّهُ مَاذَا يَبْقَى لِلْحَكِيمِ أَكْثَرَ مِنَ الْجَاهِلِ؟ مَاذَا لِلْفَقِيرِ الْعَارِفِ السُّلُوكَ أَمَامَ الأَحْيَاءِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ مَاذَا يَبْقَى لِلْحَكِيمِ أَكْثَرَ مِنَ الْجَاهِلِ؟ مَاذَا لِلْفَقِيرِ الْعَارِفِ السُّلُوكَ أَمَامَ الأَحْيَاءِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.9",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 9,
+          "text": "رُؤْيَةُ الْعُيُونِ خَيْرٌ مِنْ شَهْوَةِ النَّفْسِ. هَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "رُؤْيَةُ الْعُيُونِ خَيْرٌ مِنْ شَهْوَةِ النَّفْسِ. هَذَا أَيْضًا بَاطِلٌ وَقَبْضُ الرِّيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.10",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 10,
+          "text": "الَّذِي كَانَ فَقَدْ دُعِيَ بِاسْمٍ مُنْذُ زَمَانٍ، وَهُوَ مَعْرُوفٌ أَنَّهُ إِنْسَانٌ، وَلَا يَسْتَطِيعُ أَنْ يُخَاصِمَ مَنْ هُوَ أَقْوَى مِنْهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي كَانَ فَقَدْ دُعِيَ بِاسْمٍ مُنْذُ زَمَانٍ، وَهُوَ مَعْرُوفٌ أَنَّهُ إِنْسَانٌ، وَلَا يَسْتَطِيعُ أَنْ يُخَاصِمَ مَنْ هُوَ أَقْوَى مِنْهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.11",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 11,
+          "text": "لأَنَّهُ تُوجَدُ أُمُورٌ كَثِيرَةٌ تَزِيدُ الْبَاطِلَ. فَأَيُّ فَضْلٍ لِلإِنْسَانِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ تُوجَدُ أُمُورٌ كَثِيرَةٌ تَزِيدُ الْبَاطِلَ. فَأَيُّ فَضْلٍ لِلإِنْسَانِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.6.12",
+          "book": "ECC",
+          "chapter": 6,
+          "verse": 12,
+          "text": "لأَنَّهُ مَنْ يَعْرِفُ مَا هُوَ خَيْرٌ لِلإِنْسَانِ فِي الْحَيَاةِ، مُدَّةَ أَيَّامِ حَيَاةِ بَاطِلِهِ الَّتِي يَقْضِيهَا كَالظِّلِّ؟ لأَنَّهُ مَنْ يُخْبِرُ الإِنْسَانَ بِمَا يَكُونُ بَعْدَهُ تَحْتَ الشَّمْسِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ مَنْ يَعْرِفُ مَا هُوَ خَيْرٌ لِلإِنْسَانِ فِي الْحَيَاةِ، مُدَّةَ أَيَّامِ حَيَاةِ بَاطِلِهِ الَّتِي يَقْضِيهَا كَالظِّلِّ؟ لأَنَّهُ مَنْ يُخْبِرُ الإِنْسَانَ بِمَا يَكُونُ بَعْدَهُ تَحْتَ الشَّمْسِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: بُطل الغنى",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:25.440Z"
+    },
+    "7": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "ECC.7.1",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 1,
+          "text": "اَلصِّيتُ خَيْرٌ مِنَ الدُّهْنِ الطَّيِّبِ، وَيَوْمُ الْمَمَاتِ خَيْرٌ مِنْ يَوْمِ الْوِلاَدَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلصِّيتُ خَيْرٌ مِنَ الدُّهْنِ الطَّيِّبِ، وَيَوْمُ الْمَمَاتِ خَيْرٌ مِنْ يَوْمِ الْوِلاَدَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الحكمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.2",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 2,
+          "text": "اَلذَّهَابُ إِلَى بَيْتِ النَّوْحِ خَيْرٌ مِنَ الذَّهَابِ إِلَى بَيْتِ الْوَلِيمَةِ، لأَنَّ ذَاكَ نِهَايَةُ كُلِّ إِنْسَانٍ، وَالْحَيُّ يَضَعُهُ فِي قَلْبِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلذَّهَابُ إِلَى بَيْتِ النَّوْحِ خَيْرٌ مِنَ الذَّهَابِ إِلَى بَيْتِ الْوَلِيمَةِ، لأَنَّ ذَاكَ نِهَايَةُ كُلِّ إِنْسَانٍ، وَالْحَيُّ يَضَعُهُ فِي قَلْبِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.3",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 3,
+          "text": "اَلْحُزْنُ خَيْرٌ مِنَ الضَّحِكِ، لأَنَّهُ بِكَآبَةِ الْوَجْهِ يُصْلَحُ الْقَلْبُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْحُزْنُ خَيْرٌ مِنَ الضَّحِكِ، لأَنَّهُ بِكَآبَةِ الْوَجْهِ يُصْلَحُ الْقَلْبُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.4",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 4,
+          "text": "قَلْبُ الْحُكَمَاءِ فِي بَيْتِ النَّوْحِ، وَقَلْبُ الْجُهَّالِ فِي بَيْتِ الْفَرَحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَلْبُ الْحُكَمَاءِ فِي بَيْتِ النَّوْحِ، وَقَلْبُ الْجُهَّالِ فِي بَيْتِ الْفَرَحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.5",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 5,
+          "text": "سَمْعُ الانْتِهَارِ مِنَ الْحَكِيمِ خَيْرٌ لِلإِنْسَانِ مِنْ سَمْعِ غِنَاءِ الْجُهَّالِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "سَمْعُ الانْتِهَارِ مِنَ الْحَكِيمِ خَيْرٌ لِلإِنْسَانِ مِنْ سَمْعِ غِنَاءِ الْجُهَّالِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.6",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 6,
+          "text": "لأَنَّهُ كَصَوْتِ الشَّوْكِ تَحْتَ الْقِدْرِ هَكَذَا ضَحِكُ الْجُهَّالِ. هَذَا أَيْضًا بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ كَصَوْتِ الشَّوْكِ تَحْتَ الْقِدْرِ هَكَذَا ضَحِكُ الْجُهَّالِ. هَذَا أَيْضًا بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.7",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 7,
+          "text": "لأَنَّ الظُّلْمَ يُحَمِّقُ الْحَكِيمَ، وَالْعَطِيَّةَ تُفْسِدُ الْقَلْبَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الظُّلْمَ يُحَمِّقُ الْحَكِيمَ، وَالْعَطِيَّةَ تُفْسِدُ الْقَلْبَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.8",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 8,
+          "text": "نِهَايَةُ أَمْرٍ خَيْرٌ مِنْ بَدَايَتِهِ. طُولُ الرُّوحِ خَيْرٌ مِنْ تَكَبُّرِ الرُّوحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نِهَايَةُ أَمْرٍ خَيْرٌ مِنْ بَدَايَتِهِ. طُولُ الرُّوحِ خَيْرٌ مِنْ تَكَبُّرِ الرُّوحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.9",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 9,
+          "text": "لَا تُسْرِعْ بِرُوحِكَ إِلَى الْغَضَبِ، لأَنَّ الْغَضَبَ يَسْتَقِرُّ فِي حِضْنِ الْجُهَّالِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تُسْرِعْ بِرُوحِكَ إِلَى الْغَضَبِ، لأَنَّ الْغَضَبَ يَسْتَقِرُّ فِي حِضْنِ الْجُهَّالِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.10",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 10,
+          "text": "لَا تَقُلْ: «لِمَاذَا كَانَتِ الأَيَّامُ الأُولَى خَيْرًا مِنْ هَذِهِ؟» لأَنَّهُ لَيْسَ عَنْ حِكْمَةٍ تَسْأَلُ عَنْ هَذَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَقُلْ: «لِمَاذَا كَانَتِ الأَيَّامُ الأُولَى خَيْرًا مِنْ هَذِهِ؟» لأَنَّهُ لَيْسَ عَنْ حِكْمَةٍ تَسْأَلُ عَنْ هَذَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.11",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 11,
+          "text": "اَلْحِكْمَةُ صَالِحَةٌ مِثْلُ الْمِيرَاثِ، بَلْ أَفْضَلُ لِنَاظِرِي الشَّمْسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْحِكْمَةُ صَالِحَةٌ مِثْلُ الْمِيرَاثِ، بَلْ أَفْضَلُ لِنَاظِرِي الشَّمْسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.12",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 12,
+          "text": "لأَنَّ الَّذِي فِي ظِلِّ الْحِكْمَةِ هُوَ فِي ظِلِّ الْفِضَّةِ، وَفَضْلُ الْمَعْرِفَةِ هُوَ إِنَّ الْحِكْمَةَ تُحْيِي أَصْحَابَهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الَّذِي فِي ظِلِّ الْحِكْمَةِ هُوَ فِي ظِلِّ الْفِضَّةِ، وَفَضْلُ الْمَعْرِفَةِ هُوَ إِنَّ الْحِكْمَةَ تُحْيِي أَصْحَابَهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.13",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 13,
+          "text": "اُنْظُرْ عَمَلَ اللهِ: لأَنَّهُ مَنْ يَقْدِرُ عَلَى تَقْوِيمِ مَا قَدْ عَوَّجَهُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اُنْظُرْ عَمَلَ اللهِ: لأَنَّهُ مَنْ يَقْدِرُ عَلَى تَقْوِيمِ مَا قَدْ عَوَّجَهُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.14",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 14,
+          "text": "فِي يَوْمِ الْخَيْرِ كُنْ بِخَيْرٍ، وَفِي يَوْمِ الشَّرِّ اعْتَبِرْ. إِنَّ اللهَ جَعَلَ هَذَا مَعَ ذَاكَ، لِكَيْلاَ يَجِدَ الإِنْسَانُ شَيْئًا بَعْدَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فِي يَوْمِ الْخَيْرِ كُنْ بِخَيْرٍ، وَفِي يَوْمِ الشَّرِّ اعْتَبِرْ. إِنَّ اللهَ جَعَلَ هَذَا مَعَ ذَاكَ، لِكَيْلاَ يَجِدَ الإِنْسَانُ شَيْئًا بَعْدَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.15",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 15,
+          "text": "قَدْ رَأَيْتُ الْكُلَّ فِي أَيَّامِ بُطْلِي: قَدْ يَكُونُ بَارٌّ يَبِيدُ فِي بِرِّهِ، وَقَدْ يَكُونُ شِرِّيرٌ يَطُولُ فِي شَرِّهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَدْ رَأَيْتُ الْكُلَّ فِي أَيَّامِ بُطْلِي: قَدْ يَكُونُ بَارٌّ يَبِيدُ فِي بِرِّهِ، وَقَدْ يَكُونُ شِرِّيرٌ يَطُولُ فِي شَرِّهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.16",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 16,
+          "text": "لَا تَكُنْ بَارًّا كَثِيرًا، وَلَا تَكُنْ حَكِيمًا بِزِيَادَةٍ. لِمَاذَا تَخْرِبُ نَفْسَكَ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَكُنْ بَارًّا كَثِيرًا، وَلَا تَكُنْ حَكِيمًا بِزِيَادَةٍ. لِمَاذَا تَخْرِبُ نَفْسَكَ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.17",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 17,
+          "text": "لَا تَكُنْ شِرِّيرًا كَثِيرًا، وَلَا تَكُنْ جَاهِلًا. لِمَاذَا تَمُوتُ فِي غَيْرِ وَقْتِكَ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَكُنْ شِرِّيرًا كَثِيرًا، وَلَا تَكُنْ جَاهِلًا. لِمَاذَا تَمُوتُ فِي غَيْرِ وَقْتِكَ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.18",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 18,
+          "text": "حَسَنٌ أَنْ تَتَمَسَّكَ بِهَذَا، وَأَيْضًا أَنْ لَا تَرْخِيَ يَدَكَ عَنْ ذَاكَ، لأَنَّ مُتَّقِيَ اللهِ يَخْرُجُ مِنْهُمَا كِلَيْهِمَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَسَنٌ أَنْ تَتَمَسَّكَ بِهَذَا، وَأَيْضًا أَنْ لَا تَرْخِيَ يَدَكَ عَنْ ذَاكَ، لأَنَّ مُتَّقِيَ اللهِ يَخْرُجُ مِنْهُمَا كِلَيْهِمَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.19",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 19,
+          "text": "اَلْحِكْمَةُ تُقَوِّي الْحَكِيمَ أَكْثَرَ مِنْ عَشَرَةِ مُسَلِّطِينَ، الَّذِينَ هُمْ فِي الْمَدِينَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْحِكْمَةُ تُقَوِّي الْحَكِيمَ أَكْثَرَ مِنْ عَشَرَةِ مُسَلِّطِينَ، الَّذِينَ هُمْ فِي الْمَدِينَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.20",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 20,
+          "text": "لأَنَّهُ لَا إِنْسَانٌ صِدِّيقٌ فِي الأَرْضِ يَعْمَلُ صَلاَحًا وَلَا يُخْطِئُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ لَا إِنْسَانٌ صِدِّيقٌ فِي الأَرْضِ يَعْمَلُ صَلاَحًا وَلَا يُخْطِئُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.21",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 21,
+          "text": "أَيْضًا لَا تَضَعْ قَلْبَكَ عَلَى كُلِّ الْكَلَامِ الَّذِي يُقَالُ، لِئَلاَّ تَسْمَعَ عَبْدَكَ يَسِبُّكَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيْضًا لَا تَضَعْ قَلْبَكَ عَلَى كُلِّ الْكَلَامِ الَّذِي يُقَالُ، لِئَلاَّ تَسْمَعَ عَبْدَكَ يَسِبُّكَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.22",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 22,
+          "text": "لأَنَّ قَلْبَكَ أَيْضًا يَعْلَمُ أَنَّكَ أَنْتَ كَذَلِكَ مِرَارًا كَثِيرَةً سَبَبْتَ آخَرِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ قَلْبَكَ أَيْضًا يَعْلَمُ أَنَّكَ أَنْتَ كَذَلِكَ مِرَارًا كَثِيرَةً سَبَبْتَ آخَرِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.23",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 23,
+          "text": "كُلُّ هَذَا امْتَحَنْتُهُ بِالْحِكْمَةِ. قُلْتُ: «أَكُونُ حَكِيمًا». أَمَّا هِيَ فَبَعِيدَةٌ عَنِّي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُلُّ هَذَا امْتَحَنْتُهُ بِالْحِكْمَةِ. قُلْتُ: «أَكُونُ حَكِيمًا». أَمَّا هِيَ فَبَعِيدَةٌ عَنِّي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.24",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 24,
+          "text": "بَعِيدٌ مَا كَانَ بَعِيدًا، وَالْعَمِيقُ الْعَمِيقُ مَنْ يَجِدُهُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بَعِيدٌ مَا كَانَ بَعِيدًا، وَالْعَمِيقُ الْعَمِيقُ مَنْ يَجِدُهُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.25",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 25,
+          "text": "دُرْتُ أَنَا وَقَلْبِي لأَعْلَمَ وَلأَبْحَثَ وَلأَطْلُبَ حِكْمَةً وَعَقْلًا، وَلأَعْرِفَ الشَّرَّ أَنَّهُ جَهَالَةٌ، وَالْحَمَاقَةَ أَنَّهَا جُنُونٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "دُرْتُ أَنَا وَقَلْبِي لأَعْلَمَ وَلأَبْحَثَ وَلأَطْلُبَ حِكْمَةً وَعَقْلًا، وَلأَعْرِفَ الشَّرَّ أَنَّهُ جَهَالَةٌ، وَالْحَمَاقَةَ أَنَّهَا جُنُونٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.26",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 26,
+          "text": "فَوَجَدْتُ أَمَرَّ مِنَ الْمَوْتِ: الْمَرْأَةَ الَّتِي هِيَ شِبَاكٌ، وَقَلْبُهَا أَشْرَاكٌ، وَيَدَاهَا قُيُودٌ. الصَّالِحُ قُدَّامَ اللهِ يَنْجُو مِنْهَا. أَمَّا الْخَاطِئُ فَيُؤْخَذُ بِهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَوَجَدْتُ أَمَرَّ مِنَ الْمَوْتِ: الْمَرْأَةَ الَّتِي هِيَ شِبَاكٌ، وَقَلْبُهَا أَشْرَاكٌ، وَيَدَاهَا قُيُودٌ. الصَّالِحُ قُدَّامَ اللهِ يَنْجُو مِنْهَا. أَمَّا الْخَاطِئُ فَيُؤْخَذُ بِهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.27",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 27,
+          "text": "اُنْظُرْ. هَذَا وَجَدْتُهُ، قَالَ الْجَامِعَةُ: وَاحِدَةً فَوَاحِدَةً لأَجِدَ النَّتِيجَةَ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اُنْظُرْ. هَذَا وَجَدْتُهُ، قَالَ الْجَامِعَةُ: وَاحِدَةً فَوَاحِدَةً لأَجِدَ النَّتِيجَةَ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.28",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 28,
+          "text": "الَّتِي لَمْ تَزَلْ نَفْسِي تَطْلُبُهَا فَلَمْ أَجِدْهَا. رَجُلًا وَاحِدًا بَيْنَ أَلْفٍ وَجَدْتُ، أَمَّا امْرَأَةً فَبَيْنَ كُلِّ أُولئِكَ لَمْ أَجِدْ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّتِي لَمْ تَزَلْ نَفْسِي تَطْلُبُهَا فَلَمْ أَجِدْهَا. رَجُلًا وَاحِدًا بَيْنَ أَلْفٍ وَجَدْتُ، أَمَّا امْرَأَةً فَبَيْنَ كُلِّ أُولئِكَ لَمْ أَجِدْ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.7.29",
+          "book": "ECC",
+          "chapter": 7,
+          "verse": 29,
+          "text": "اُنْظُرْ. هَذَا وَجَدْتُ فَقَطْ: أَنَّ اللهَ صَنَعَ الإِنْسَانَ مُسْتَقِيمًا، أَمَّا هُمْ فَطَلَبُوا اخْتِرَاعَاتٍ كَثِيرَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اُنْظُرْ. هَذَا وَجَدْتُ فَقَطْ: أَنَّ اللهَ صَنَعَ الإِنْسَانَ مُسْتَقِيمًا، أَمَّا هُمْ فَطَلَبُوا اخْتِرَاعَاتٍ كَثِيرَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "الحكمة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:27.922Z"
+    },
+    "8": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 8,
+      "verses": [
+        {
+          "ref": "ECC.8.1",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 1,
+          "text": "مَنْ كَالْحَكِيمِ؟ وَمَنْ يَفْهَمُ تَفْسِيرَ أَمْرٍ؟ حِكْمَةُ الإِنْسَانِ تُنِيرُ وَجْهَهُ، وَصَلاَبَةُ وَجْهِهِ تَتَغَيَّرُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ كَالْحَكِيمِ؟ وَمَنْ يَفْهَمُ تَفْسِيرَ أَمْرٍ؟ حِكْمَةُ الإِنْسَانِ تُنِيرُ وَجْهَهُ، وَصَلاَبَةُ وَجْهِهِ تَتَغَيَّرُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: الحكمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.2",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 2,
+          "text": "أَنَا أَقُولُ: احْفَظْ أَمْرَ الْمَلِكِ، وَذَاكَ بِسَبَبِ يَمِينِ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنَا أَقُولُ: احْفَظْ أَمْرَ الْمَلِكِ، وَذَاكَ بِسَبَبِ يَمِينِ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "أطيعوا الملك",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.3",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 3,
+          "text": "لَا تَعْجَلْ إِلَى الذَّهَابِ مِنْ وَجْهِهِ. لَا تَقِفْ فِي أَمْرٍ شَاقٍّ، لأَنَّهُ يَفْعَلُ كُلَّ مَا شَاءَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَعْجَلْ إِلَى الذَّهَابِ مِنْ وَجْهِهِ. لَا تَقِفْ فِي أَمْرٍ شَاقٍّ، لأَنَّهُ يَفْعَلُ كُلَّ مَا شَاءَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.4",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 4,
+          "text": "حَيْثُ تَكُونُ كَلِمَةُ الْمَلِكِ فَهُنَاكَ سُلْطَانٌ. وَمَنْ يَقُولُ لَهُ: «مَاذَا تَفْعَلُ؟»",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَيْثُ تَكُونُ كَلِمَةُ الْمَلِكِ فَهُنَاكَ سُلْطَانٌ. وَمَنْ يَقُولُ لَهُ: «مَاذَا تَفْعَلُ؟»",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.5",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 5,
+          "text": "حَافِظُ الْوَصِيَّةِ لَا يَشْعُرُ بِأَمْرٍ شَاقٍّ، وَقَلْبُ الْحَكِيمِ يَعْرِفُ الْوَقْتَ وَالْحُكْمَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَافِظُ الْوَصِيَّةِ لَا يَشْعُرُ بِأَمْرٍ شَاقٍّ، وَقَلْبُ الْحَكِيمِ يَعْرِفُ الْوَقْتَ وَالْحُكْمَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.6",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 6,
+          "text": "لأَنَّ لِكُلِّ أَمْرٍ وَقْتًا وَحُكْمًا. لأَنَّ شَرَّ الإِنْسَانِ عَظِيمٌ عَلَيْهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ لِكُلِّ أَمْرٍ وَقْتًا وَحُكْمًا. لأَنَّ شَرَّ الإِنْسَانِ عَظِيمٌ عَلَيْهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.7",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 7,
+          "text": "لأَنَّهُ لَا يَعْلَمُ مَا سَيَكُونُ. لأَنَّهُ مَنْ يُخْبِرُهُ كَيْفَ يَكُونُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ لَا يَعْلَمُ مَا سَيَكُونُ. لأَنَّهُ مَنْ يُخْبِرُهُ كَيْفَ يَكُونُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.8",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 8,
+          "text": "لَيْسَ لإِنْسَانٍ سُلْطَانٌ عَلَى الرُّوحِ لِيُمْسِكَ الرُّوحَ، وَلَا سُلْطَانٌ عَلَى يَوْمِ الْمَوْتِ، وَلَا تَخْلِيَةٌ فِي الْحَرْبِ، وَلَا يُنَجِّي الشَّرُّ أَصْحَابَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَ لإِنْسَانٍ سُلْطَانٌ عَلَى الرُّوحِ لِيُمْسِكَ الرُّوحَ، وَلَا سُلْطَانٌ عَلَى يَوْمِ الْمَوْتِ، وَلَا تَخْلِيَةٌ فِي الْحَرْبِ، وَلَا يُنَجِّي الشَّرُّ أَصْحَابَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.9",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 9,
+          "text": "كُلُّ هَذَا رَأَيْتُهُ إِذْ وَجَّهْتُ قَلْبِي لِكُلِّ عَمَلٍ عُمِلَ تَحْتَ الشَّمْسِ، وَقْتَمَا يَتَسَلَّطُ إِنْسَانٌ عَلَى إِنْسَانٍ لِضَرَرِ نَفْسِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُلُّ هَذَا رَأَيْتُهُ إِذْ وَجَّهْتُ قَلْبِي لِكُلِّ عَمَلٍ عُمِلَ تَحْتَ الشَّمْسِ، وَقْتَمَا يَتَسَلَّطُ إِنْسَانٌ عَلَى إِنْسَانٍ لِضَرَرِ نَفْسِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.10",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 10,
+          "text": "وَهَكَذَا رَأَيْتُ أَشْرَارًا يُدْفَنُونَ وَضُمُّوا، وَالَّذِينَ عَمِلُوا بِالْحَقِّ ذَهَبُوا مِنْ مَكَانِ الْقُدْسِ وَنُسُوا فِي الْمَدِينَةِ. هَذَا أَيْضًا بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَهَكَذَا رَأَيْتُ أَشْرَارًا يُدْفَنُونَ وَضُمُّوا، وَالَّذِينَ عَمِلُوا بِالْحَقِّ ذَهَبُوا مِنْ مَكَانِ الْقُدْسِ وَنُسُوا فِي الْمَدِينَةِ. هَذَا أَيْضًا بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.11",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 11,
+          "text": "لأَنَّ الْقَضَاءَ عَلَى الْعَمَلِ الرَّدِيءِ لَا يُجْرَى سَرِيعًا، فَلِذَلِكَ قَدِ امْتَلأَ قَلْبُ بَنِي الْبَشَرِ فِيهِمْ لِفَعْلِ الشَّرِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الْقَضَاءَ عَلَى الْعَمَلِ الرَّدِيءِ لَا يُجْرَى سَرِيعًا، فَلِذَلِكَ قَدِ امْتَلأَ قَلْبُ بَنِي الْبَشَرِ فِيهِمْ لِفَعْلِ الشَّرِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.12",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 12,
+          "text": "اَلْخَاطِئُ وَإِنْ عَمِلَ شَرًّا مِئَةَ مَرَّةٍ وَطَالَتْ أَيَّامُهُ، إِلاَّ أَنِّي أَعْلَمُ أَنَّهُ يَكُونُ خَيْرٌ لِلْمُتَّقِينَ اللهَ الَّذِينَ يَخَافُونَ قُدَّامَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْخَاطِئُ وَإِنْ عَمِلَ شَرًّا مِئَةَ مَرَّةٍ وَطَالَتْ أَيَّامُهُ، إِلاَّ أَنِّي أَعْلَمُ أَنَّهُ يَكُونُ خَيْرٌ لِلْمُتَّقِينَ اللهَ الَّذِينَ يَخَافُونَ قُدَّامَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.13",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 13,
+          "text": "وَلَا يَكُونُ خَيْرٌ لِلشِّرِّيرِ، وَكَالظِّلِّ لَا يُطِيلُ أَيَّامَهُ لأَنَّهُ لَا يَخْشَى قُدَّامَ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلَا يَكُونُ خَيْرٌ لِلشِّرِّيرِ، وَكَالظِّلِّ لَا يُطِيلُ أَيَّامَهُ لأَنَّهُ لَا يَخْشَى قُدَّامَ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.14",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 14,
+          "text": "يُوجَدُ بَاطِلٌ يُجْرَى عَلَى الأَرْضِ: أَنْ يُوجَدَ صِدِّيقُونَ يُصِيبُهُمْ مِثْلَ عَمَلِ الأَشْرَارِ، وَيُوجَدُ أَشْرَارٌ يُصِيبُهُمْ مِثْلَ عَمَلِ الصِّدِّيقِينَ. فَقُلْتُ: إِنَّ هَذَا أَيْضًا بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُوجَدُ بَاطِلٌ يُجْرَى عَلَى الأَرْضِ: أَنْ يُوجَدَ صِدِّيقُونَ يُصِيبُهُمْ مِثْلَ عَمَلِ الأَشْرَارِ، وَيُوجَدُ أَشْرَارٌ يُصِيبُهُمْ مِثْلَ عَمَلِ الصِّدِّيقِينَ. فَقُلْتُ: إِنَّ هَذَا أَيْضًا بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.15",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 15,
+          "text": "فَمَدَحْتُ الْفَرَحَ، لأَنَّهُ لَيْسَ لِلإِنْسَانِ خَيْرٌ تَحْتَ الشَّمْسِ، إِلاَّ أَنْ يَأْكُلَ وَيَشْرَبَ وَيَفْرَحَ، وَهَذَا يَبْقَى لَهُ فِي تَعَبِهِ مُدَّةَ أَيَّامِ حَيَاتِهِ الَّتِي يُعْطِيهِ اللهُ إِيَّاهَا تَحْتَ الشَّمْسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَمَدَحْتُ الْفَرَحَ، لأَنَّهُ لَيْسَ لِلإِنْسَانِ خَيْرٌ تَحْتَ الشَّمْسِ، إِلاَّ أَنْ يَأْكُلَ وَيَشْرَبَ وَيَفْرَحَ، وَهَذَا يَبْقَى لَهُ فِي تَعَبِهِ مُدَّةَ أَيَّامِ حَيَاتِهِ الَّتِي يُعْطِيهِ اللهُ إِيَّاهَا تَحْتَ الشَّمْسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.16",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 16,
+          "text": "لَمَّا وَجَّهْتُ قَلْبِي لأَعْرِفَ الْحِكْمَةَ، وَأَنْظُرَ الْعَمَلَ الَّذِي عُمِلَ عَلَى الأَرْضِ، وَأَنَّهُ نَهَارًا وَلَيْلًا لَا يَرَى النَّوْمَ بِعَيْنَيْهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَمَّا وَجَّهْتُ قَلْبِي لأَعْرِفَ الْحِكْمَةَ، وَأَنْظُرَ الْعَمَلَ الَّذِي عُمِلَ عَلَى الأَرْضِ، وَأَنَّهُ نَهَارًا وَلَيْلًا لَا يَرَى النَّوْمَ بِعَيْنَيْهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.8.17",
+          "book": "ECC",
+          "chapter": 8,
+          "verse": 17,
+          "text": "رَأَيْتُ كُلَّ عَمَلِ اللهِ أَنَّ الإِنْسَانَ لَا يَسْتَطِيعُ أَنْ يَجِدَ الْعَمَلَ الَّذِي عُمِلَ تَحْتَ الشَّمْسِ. مَهْمَا تَعِبَ الإِنْسَانُ فِي الطَّلَبِ فَلَا يَجِدُهُ، وَالْحَكِيمُ أَيْضًا، وَإِنْ قَالَ بِمَعْرِفَتِهِ، لَا يَقْدِرُ أَنْ يَجِدَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "رَأَيْتُ كُلَّ عَمَلِ اللهِ أَنَّ الإِنْسَانَ لَا يَسْتَطِيعُ أَنْ يَجِدَ الْعَمَلَ الَّذِي عُمِلَ تَحْتَ الشَّمْسِ. مَهْمَا تَعِبَ الإِنْسَانُ فِي الطَّلَبِ فَلَا يَجِدُهُ، وَالْحَكِيمُ أَيْضًا، وَإِنْ قَالَ بِمَعْرِفَتِهِ، لَا يَقْدِرُ أَنْ يَجِدَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: الحكمة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "أطيعوا الملك",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:29.898Z"
+    },
+    "9": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 9,
+      "verses": [
+        {
+          "ref": "ECC.9.1",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 1,
+          "text": "لأَنَّ هَذَا كُلَّهُ جَعَلْتُهُ فِي قَلْبِي، وَامْتَحَنْتُ هَذَا كُلَّهُ: أَنَّ الصِّدِّيقِينَ وَالْحُكَمَاءَ وَأَعْمَالَهُمْ فِي يَدِ اللهِ. الإِنْسَانُ لَا يَعْلَمُ حُبًّا وَلَا بُغْضًا. الْكُلُّ أَمَامَهُمُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ هَذَا كُلَّهُ جَعَلْتُهُ فِي قَلْبِي، وَامْتَحَنْتُ هَذَا كُلَّهُ: أَنَّ الصِّدِّيقِينَ وَالْحُكَمَاءَ وَأَعْمَالَهُمْ فِي يَدِ اللهِ. الإِنْسَانُ لَا يَعْلَمُ حُبًّا وَلَا بُغْضًا. الْكُلُّ أَمَامَهُمُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الكل يلقى نفس المصير",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.2",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 2,
+          "text": "الْكُلُّ عَلَى مَا لِلْكُلِّ. حَادِثَةٌ وَاحِدَةٌ لِلصِّدِّيقِ وَلِلشِّرِّيرِ، لِلصَّالِحِ وَلِلطَّاهِرِ وَلِلنَّجِسِ، لِلذَّابِحِ وَلِلَّذِي لَا يَذْبَحُ، كَالصَّالِحِ الْخَاطِئُ. الْحَالِفُ كَالَّذِي يَخَافُ الْحَلْفَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الْكُلُّ عَلَى مَا لِلْكُلِّ. حَادِثَةٌ وَاحِدَةٌ لِلصِّدِّيقِ وَلِلشِّرِّيرِ، لِلصَّالِحِ وَلِلطَّاهِرِ وَلِلنَّجِسِ، لِلذَّابِحِ وَلِلَّذِي لَا يَذْبَحُ، كَالصَّالِحِ الْخَاطِئُ. الْحَالِفُ كَالَّذِي يَخَافُ الْحَلْفَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.3",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 3,
+          "text": "هَذَا أَشَرُّ كُلِّ مَا عُمِلَ تَحْتَ الشَّمْسِ: أَنَّ حَادِثَةً وَاحِدَةً لِلْجَمِيعِ. وَأَيْضًا قَلْبُ بَنِي الْبَشَرِ مَلآنُ مِنَ الشَّرِّ، وَالْحَمَاقَةُ فِي قَلْبِهِمْ وَهُمْ أَحْيَاءٌ، وَبَعْدَ ذَلِكَ يَذْهَبُونَ إِلَى الأَمْوَاتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَذَا أَشَرُّ كُلِّ مَا عُمِلَ تَحْتَ الشَّمْسِ: أَنَّ حَادِثَةً وَاحِدَةً لِلْجَمِيعِ. وَأَيْضًا قَلْبُ بَنِي الْبَشَرِ مَلآنُ مِنَ الشَّرِّ، وَالْحَمَاقَةُ فِي قَلْبِهِمْ وَهُمْ أَحْيَاءٌ، وَبَعْدَ ذَلِكَ يَذْهَبُونَ إِلَى الأَمْوَاتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.4",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 4,
+          "text": "لأَنَّهُ مَنْ يُسْتَثْنَى؟ لِكُلِّ الأَحْيَاءِ يُوجَدُ رَجَاءٌ، فَإِنَّ الْكَلْبَ الْحَيَّ خَيْرٌ مِنَ الأَسَدِ الْمَيْتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ مَنْ يُسْتَثْنَى؟ لِكُلِّ الأَحْيَاءِ يُوجَدُ رَجَاءٌ، فَإِنَّ الْكَلْبَ الْحَيَّ خَيْرٌ مِنَ الأَسَدِ الْمَيْتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.5",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 5,
+          "text": "لأَنَّ الأَحْيَاءَ يَعْلَمُونَ أَنَّهُمْ سَيَمُوتُونَ، أَمَّا الْمَوْتَى فَلَا يَعْلَمُونَ شَيْئًا، وَلَيْسَ لَهُمْ أَجْرٌ بَعْدُ لأَنَّ ذِكْرَهُمْ نُسِيَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الأَحْيَاءَ يَعْلَمُونَ أَنَّهُمْ سَيَمُوتُونَ، أَمَّا الْمَوْتَى فَلَا يَعْلَمُونَ شَيْئًا، وَلَيْسَ لَهُمْ أَجْرٌ بَعْدُ لأَنَّ ذِكْرَهُمْ نُسِيَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.6",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 6,
+          "text": "وَمَحَبَّتُهُمْ وَبُغْضَتُهُمْ وَحَسَدُهُمْ هَلَكَتْ مُنْذُ زَمَانٍ، وَلَا نَصِيبَ لَهُمْ بَعْدُ إِلَى الأَبَدِ، فِي كُلِّ مَا عُمِلَ تَحْتَ الشَّمْسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَحَبَّتُهُمْ وَبُغْضَتُهُمْ وَحَسَدُهُمْ هَلَكَتْ مُنْذُ زَمَانٍ، وَلَا نَصِيبَ لَهُمْ بَعْدُ إِلَى الأَبَدِ، فِي كُلِّ مَا عُمِلَ تَحْتَ الشَّمْسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.7",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 7,
+          "text": "اِذْهَبْ كُلْ خُبْزَكَ بِفَرَحٍ، وَاشْرَبْ خَمْرَكَ بِقَلْبٍ طَيِّبٍ، لأَنَّ اللهَ مُنْذُ زَمَانٍ قَدْ رَضِيَ عَمَلَكَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِذْهَبْ كُلْ خُبْزَكَ بِفَرَحٍ، وَاشْرَبْ خَمْرَكَ بِقَلْبٍ طَيِّبٍ، لأَنَّ اللهَ مُنْذُ زَمَانٍ قَدْ رَضِيَ عَمَلَكَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.8",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 8,
+          "text": "لِتَكُنْ ثِيَابُكَ فِي كُلِّ حِينٍ بَيْضَاءَ، وَلَا يُعْوِزْ رَأْسَكَ الدُّهْنُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِتَكُنْ ثِيَابُكَ فِي كُلِّ حِينٍ بَيْضَاءَ، وَلَا يُعْوِزْ رَأْسَكَ الدُّهْنُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.9",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 9,
+          "text": "اِلْتَذَّ عَيْشًا مَعَ الْمَرْأَةِ الَّتِي أَحْبَبْتَهَا كُلَّ أَيَّامِ حَيَاةِ بَاطِلِكَ الَّتِي أَعْطَاكَ إِيَّاهَا تَحْتَ الشَّمْسِ، كُلَّ أَيَّامِ بَاطِلِكَ، لأَنَّ ذَلِكَ نَصِيبُكَ فِي الْحَيَاةِ وَفِي تَعَبِكَ الَّذِي تَتْعَبُهُ تَحْتَ الشَّمْسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِلْتَذَّ عَيْشًا مَعَ الْمَرْأَةِ الَّتِي أَحْبَبْتَهَا كُلَّ أَيَّامِ حَيَاةِ بَاطِلِكَ الَّتِي أَعْطَاكَ إِيَّاهَا تَحْتَ الشَّمْسِ، كُلَّ أَيَّامِ بَاطِلِكَ، لأَنَّ ذَلِكَ نَصِيبُكَ فِي الْحَيَاةِ وَفِي تَعَبِكَ الَّذِي تَتْعَبُهُ تَحْتَ الشَّمْسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.10",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 10,
+          "text": "كُلُّ مَا تَجِدُهُ يَدُكَ لِتَفْعَلَهُ فَافْعَلْهُ بِقُوَّتِكَ، لأَنَّهُ لَيْسَ مِنْ عَمَلٍ وَلَا اخْتِرَاعٍ وَلَا مَعْرِفَةٍ وَلَا حِكْمَةٍ فِي الْهَاوِيَةِ الَّتِي أَنْتَ ذَاهِبٌ إِلَيْهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُلُّ مَا تَجِدُهُ يَدُكَ لِتَفْعَلَهُ فَافْعَلْهُ بِقُوَّتِكَ، لأَنَّهُ لَيْسَ مِنْ عَمَلٍ وَلَا اخْتِرَاعٍ وَلَا مَعْرِفَةٍ وَلَا حِكْمَةٍ فِي الْهَاوِيَةِ الَّتِي أَنْتَ ذَاهِبٌ إِلَيْهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.11",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 11,
+          "text": "فَعُدْتُ وَرَأَيْتُ تَحْتَ الشَّمْسِ: أَنَّ السَّعْيَ لَيْسَ لِلْخَفِيفِ، وَلَا الْحَرْبَ لِلأَقْوِيَاءِ، وَلَا الْخُبْزَ لِلْحُكَمَاءِ، وَلَا الْغِنَى لِلْفُهَمَاءِ، وَلَا النِّعْمَةَ لِذَوِي الْمَعْرِفَةِ، لأَنَهُ الْوَقْتُ وَالْعَرَضُ يُلاَقِيَانِهِمْ كَافَّةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَعُدْتُ وَرَأَيْتُ تَحْتَ الشَّمْسِ: أَنَّ السَّعْيَ لَيْسَ لِلْخَفِيفِ، وَلَا الْحَرْبَ لِلأَقْوِيَاءِ، وَلَا الْخُبْزَ لِلْحُكَمَاءِ، وَلَا الْغِنَى لِلْفُهَمَاءِ، وَلَا النِّعْمَةَ لِذَوِي الْمَعْرِفَةِ، لأَنَهُ الْوَقْتُ وَالْعَرَضُ يُلاَقِيَانِهِمْ كَافَّةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.12",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 12,
+          "text": "لأَنَّ الإِنْسَانَ أَيْضًا لَا يَعْرِفُ وَقْتَهُ. كَالأَسْمَاكِ الَّتِي تُؤْخَذُ بِشَبَكَةٍ مُهْلِكَةٍ، وَكَالْعَصَافِيرِ الَّتِي تُؤْخَذُ بِالشَّرَكِ، كَذَلِكَ تُقْتَنَصُ بَنُو الْبَشَرِ فِي وَقْتِ شَرٍّ، إِذْ يَقَعُ عَلَيْهِمْ بَغْتَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الإِنْسَانَ أَيْضًا لَا يَعْرِفُ وَقْتَهُ. كَالأَسْمَاكِ الَّتِي تُؤْخَذُ بِشَبَكَةٍ مُهْلِكَةٍ، وَكَالْعَصَافِيرِ الَّتِي تُؤْخَذُ بِالشَّرَكِ، كَذَلِكَ تُقْتَنَصُ بَنُو الْبَشَرِ فِي وَقْتِ شَرٍّ، إِذْ يَقَعُ عَلَيْهِمْ بَغْتَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.13",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 13,
+          "text": "هَذِهِ الْحِكْمَةُ رَأَيْتُهَا أَيْضًا تَحْتَ الشَّمْسِ، وَهِيَ عَظِيمَةٌ عِنْدِي:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَذِهِ الْحِكْمَةُ رَأَيْتُهَا أَيْضًا تَحْتَ الشَّمْسِ، وَهِيَ عَظِيمَةٌ عِنْدِي:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الحكمة أفضل من الحماقة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.14",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 14,
+          "text": "مَدِينَةٌ صَغِيرَةٌ فِيهَا أُنَاسٌ قَلِيلُونَ، فَجَاءَ عَلَيْهَا مَلِكٌ عَظِيمٌ وَحَاصَرَهَا وَبَنَى عَلَيْهَا أَبْرَاجًا عَظِيمَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَدِينَةٌ صَغِيرَةٌ فِيهَا أُنَاسٌ قَلِيلُونَ، فَجَاءَ عَلَيْهَا مَلِكٌ عَظِيمٌ وَحَاصَرَهَا وَبَنَى عَلَيْهَا أَبْرَاجًا عَظِيمَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.15",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 15,
+          "text": "وَوُجِدَ فِيهَا رَجُلٌ مِسْكِينٌ حَكِيمٌ، فَنَجَّى هُوَ الْمَدِينَةَ بِحِكْمَتِهِ. وَمَا أَحَدٌ ذَكَرَ ذَلِكَ الرَّجُلَ الْمِسْكِينَ!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَوُجِدَ فِيهَا رَجُلٌ مِسْكِينٌ حَكِيمٌ، فَنَجَّى هُوَ الْمَدِينَةَ بِحِكْمَتِهِ. وَمَا أَحَدٌ ذَكَرَ ذَلِكَ الرَّجُلَ الْمِسْكِينَ!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.16",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 16,
+          "text": "فَقُلْتُ: «الْحِكْمَةُ خَيْرٌ مِنَ الْقُوَّةِ». أَمَّا حِكْمَةُ الْمِسْكِينِ فَمُحْتَقَرَةٌ، وَكَلاَمُهُ لَا يُسْمَعُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَقُلْتُ: «الْحِكْمَةُ خَيْرٌ مِنَ الْقُوَّةِ». أَمَّا حِكْمَةُ الْمِسْكِينِ فَمُحْتَقَرَةٌ، وَكَلاَمُهُ لَا يُسْمَعُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.17",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 17,
+          "text": "كَلِمَاتُ الْحُكَمَاءِ تُسْمَعُ فِي الْهُدُوءِ، أَكْثَرَ مِنْ صُرَاخِ الْمُتَسَلِّطِ بَيْنَ الْجُهَّالِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَلِمَاتُ الْحُكَمَاءِ تُسْمَعُ فِي الْهُدُوءِ، أَكْثَرَ مِنْ صُرَاخِ الْمُتَسَلِّطِ بَيْنَ الْجُهَّالِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.9.18",
+          "book": "ECC",
+          "chapter": 9,
+          "verse": 18,
+          "text": "اَلْحِكْمَةُ خَيْرٌ مِنْ أَدَوَاتِ الْحَرْبِ. أَمَّا خَاطِئٌ وَاحِدٌ فَيُفْسِدُ خَيْرًا جَزِيلًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْحِكْمَةُ خَيْرٌ مِنْ أَدَوَاتِ الْحَرْبِ. أَمَّا خَاطِئٌ وَاحِدٌ فَيُفْسِدُ خَيْرًا جَزِيلًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "الكل يلقى نفس المصير",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "الحكمة أفضل من الحماقة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:32.488Z"
+    },
+    "10": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 10,
+      "verses": [
+        {
+          "ref": "ECC.10.1",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 1,
+          "text": "اَلذُّبَابُ الْمَيِّتُ يُنَتِّنُ وَيُخَمِّرُ طِيبَ الْعَطَّارِ. جَهَالَةٌ قَلِيلَةٌ أَثْقَلُ مِنَ الْحِكْمَةِ وَمِنَ الْكَرَامَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلذُّبَابُ الْمَيِّتُ يُنَتِّنُ وَيُخَمِّرُ طِيبَ الْعَطَّارِ. جَهَالَةٌ قَلِيلَةٌ أَثْقَلُ مِنَ الْحِكْمَةِ وَمِنَ الْكَرَامَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: الحكمة أفضل من الحماقة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.2",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 2,
+          "text": "قَلْبُ الْحَكِيمِ عَنْ يَمِينِهِ، وَقَلْبُ الْجَاهِلِ عَنْ يَسَارِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَلْبُ الْحَكِيمِ عَنْ يَمِينِهِ، وَقَلْبُ الْجَاهِلِ عَنْ يَسَارِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.3",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 3,
+          "text": "أَيْضًا إِذَا مَشَى الْجَاهِلُ فِي الطَّرِيقِ يَنْقُصُ فَهْمُهُ، وَيَقُولُ لِكُلِّ وَاحِدٍ: إِنَّهُ جَاهِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيْضًا إِذَا مَشَى الْجَاهِلُ فِي الطَّرِيقِ يَنْقُصُ فَهْمُهُ، وَيَقُولُ لِكُلِّ وَاحِدٍ: إِنَّهُ جَاهِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.4",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 4,
+          "text": "إِنْ صَعِدَتْ عَلَيْكَ رُوحُ الْمُتَسَلِّطِ، فَلَا تَتْرُكْ مَكَانَكَ، لأَنَّ الْهُدُوءَ يُسَكِّنُ خَطَايَا عَظِيمَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ صَعِدَتْ عَلَيْكَ رُوحُ الْمُتَسَلِّطِ، فَلَا تَتْرُكْ مَكَانَكَ، لأَنَّ الْهُدُوءَ يُسَكِّنُ خَطَايَا عَظِيمَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.5",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 5,
+          "text": "يُوجَدُ شَرٌّ رَأَيْتُهُ تَحْتَ الشَّمْسِ، كَسَهْوٍ صَادِرٍ مِنْ قِبَلِ الْمُتَسَلِّطِ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُوجَدُ شَرٌّ رَأَيْتُهُ تَحْتَ الشَّمْسِ، كَسَهْوٍ صَادِرٍ مِنْ قِبَلِ الْمُتَسَلِّطِ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.6",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 6,
+          "text": "الْجَهَالَةُ جُعِلَتْ فِي مَعَالِيَ كَثِيرَةٍ، وَالأَغْنِيَاءُ يَجْلِسُونَ فِي السَّافِلِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الْجَهَالَةُ جُعِلَتْ فِي مَعَالِيَ كَثِيرَةٍ، وَالأَغْنِيَاءُ يَجْلِسُونَ فِي السَّافِلِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.7",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 7,
+          "text": "قَدْ رَأَيْتُ عَبِيدًا عَلَى الْخَيْلِ، وَرُؤَسَاءَ مَاشِينَ عَلَى الأَرْضِ كَالْعَبِيدِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَدْ رَأَيْتُ عَبِيدًا عَلَى الْخَيْلِ، وَرُؤَسَاءَ مَاشِينَ عَلَى الأَرْضِ كَالْعَبِيدِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.8",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 8,
+          "text": "مَنْ يَحْفُرْ هُوَّةً يَقَعُ فِيهَا، وَمَنْ يَنْقُضْ جِدَارًا تَلْدَغْهُ حَيَّةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ يَحْفُرْ هُوَّةً يَقَعُ فِيهَا، وَمَنْ يَنْقُضْ جِدَارًا تَلْدَغْهُ حَيَّةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.9",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 9,
+          "text": "مَنْ يَقْلَعْ حِجَارَةً يُوجَعْ بِهَا. مَنْ يُشَقِّقُ حَطَبًا يَكُونُ فِي خَطَرٍ مِنْهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ يَقْلَعْ حِجَارَةً يُوجَعْ بِهَا. مَنْ يُشَقِّقُ حَطَبًا يَكُونُ فِي خَطَرٍ مِنْهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.10",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 10,
+          "text": "إِنْ كَلَّ الْحَدِيدُ وَلَمْ يُسَنِّنْ هُوَ حَدَّهُ، فَلْيَزِدِ الْقُوَّةَ. أَمَّا الْحِكْمَةُ فَنَافِعَةٌ لِلإِنْجَاحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ كَلَّ الْحَدِيدُ وَلَمْ يُسَنِّنْ هُوَ حَدَّهُ، فَلْيَزِدِ الْقُوَّةَ. أَمَّا الْحِكْمَةُ فَنَافِعَةٌ لِلإِنْجَاحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.11",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 11,
+          "text": "إِنْ لَدَغَتِ الْحَيَّةُ بِلاَ رُقْيَةٍ، فَلَا مَنْفَعَةَ لِلرَّاقِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ لَدَغَتِ الْحَيَّةُ بِلاَ رُقْيَةٍ، فَلَا مَنْفَعَةَ لِلرَّاقِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.12",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 12,
+          "text": "كَلِمَاتُ فَمِ الْحَكِيمِ نِعْمَةٌ، وَشَفَتَا الْجَاهِلِ تَبْتَلِعَانِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَلِمَاتُ فَمِ الْحَكِيمِ نِعْمَةٌ، وَشَفَتَا الْجَاهِلِ تَبْتَلِعَانِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.13",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 13,
+          "text": "اِبْتِدَاءُ كَلاَمِ فَمِهِ جَهَالَةٌ، وَآخِرُ فَمِهِ جُنُونٌ رَدِيءٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِبْتِدَاءُ كَلاَمِ فَمِهِ جَهَالَةٌ، وَآخِرُ فَمِهِ جُنُونٌ رَدِيءٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.14",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 14,
+          "text": "وَالْجَاهِلُ يُكَثِّرُ الْكَلاَمَ. لَا يَعْلَمُ إِنْسَانٌ مَا يَكُونُ. وَمَاذَا يَصِيرُ بَعْدَهُ مَنْ يُخْبِرُهُ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَالْجَاهِلُ يُكَثِّرُ الْكَلاَمَ. لَا يَعْلَمُ إِنْسَانٌ مَا يَكُونُ. وَمَاذَا يَصِيرُ بَعْدَهُ مَنْ يُخْبِرُهُ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.15",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 15,
+          "text": "تَعَبُ الْجُهَلاَءِ يُعْيِيهِمْ، لأَنَّهُ لَا يَعْلَمُ كَيْفَ يَذْهَبُ إِلَى الْمَدِينَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "تَعَبُ الْجُهَلاَءِ يُعْيِيهِمْ، لأَنَّهُ لَا يَعْلَمُ كَيْفَ يَذْهَبُ إِلَى الْمَدِينَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.16",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 16,
+          "text": "وَيْلٌ لَكِ أَيَّتُهَا الأَرْضُ إِذَا كَانَ مَلِكُكِ وَلَدًا، وَرُؤَسَاؤُكِ يَأْكُلُونَ فِي الصَّبَاحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَيْلٌ لَكِ أَيَّتُهَا الأَرْضُ إِذَا كَانَ مَلِكُكِ وَلَدًا، وَرُؤَسَاؤُكِ يَأْكُلُونَ فِي الصَّبَاحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.17",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 17,
+          "text": "طُوبَى لَكِ أَيَّتُهَا الأَرْضُ إِذَا كَانَ مَلِكُكِ ابْنَ شُرَفَاءَ، وَرُؤَسَاؤُكِ يَأْكُلُونَ فِي الْوَقْتِ لِلْقُوَّةِ لَا لِلسُّكْرِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "طُوبَى لَكِ أَيَّتُهَا الأَرْضُ إِذَا كَانَ مَلِكُكِ ابْنَ شُرَفَاءَ، وَرُؤَسَاؤُكِ يَأْكُلُونَ فِي الْوَقْتِ لِلْقُوَّةِ لَا لِلسُّكْرِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.18",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 18,
+          "text": "بِالْكَسَلِ الْكَثِيرِ يَهْبِطُ السَّقْفُ، وَبِتَدَلِّي الْيَدَيْنِ يَكِفُ الْبَيْتُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بِالْكَسَلِ الْكَثِيرِ يَهْبِطُ السَّقْفُ، وَبِتَدَلِّي الْيَدَيْنِ يَكِفُ الْبَيْتُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.19",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 19,
+          "text": "لِلْضَّحِكِ يَعْمَلُونَ وَلِيمَةً، وَالْخَمْرُ تُفَرِّحُ الْعَيْشَ. أَمَّا الْفِضَّةُ فَتُحَصِّلُ الْكُلَّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلْضَّحِكِ يَعْمَلُونَ وَلِيمَةً، وَالْخَمْرُ تُفَرِّحُ الْعَيْشَ. أَمَّا الْفِضَّةُ فَتُحَصِّلُ الْكُلَّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.10.20",
+          "book": "ECC",
+          "chapter": 10,
+          "verse": 20,
+          "text": "لَا تَسُبَّ الْمَلِكَ وَلَا فِي فِكْرِكَ، وَلَا تَسُبَّ الْغَنِيَّ فِي مَضْجَعِكَ، لأَنَّ طَيْرَ السَّمَاءِ يَنْقُلُ الصَّوْتَ، وَذُو الْجَنَاحِ يُخْبِرُ بِالأَمْرِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَسُبَّ الْمَلِكَ وَلَا فِي فِكْرِكَ، وَلَا تَسُبَّ الْغَنِيَّ فِي مَضْجَعِكَ، لأَنَّ طَيْرَ السَّمَاءِ يَنْقُلُ الصَّوْتَ، وَذُو الْجَنَاحِ يُخْبِرُ بِالأَمْرِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: الحكمة أفضل من الحماقة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:35.097Z"
+    },
+    "11": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 11,
+      "verses": [
+        {
+          "ref": "ECC.11.1",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 1,
+          "text": "اِرْمِ خُبْزَكَ عَلَى وَجْهِ الْمِيَاهِ فَإِنَّكَ تَجِدُهُ بَعْدَ أَيَّامٍ كَثِيرَةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِرْمِ خُبْزَكَ عَلَى وَجْهِ الْمِيَاهِ فَإِنَّكَ تَجِدُهُ بَعْدَ أَيَّامٍ كَثِيرَةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "خبز على وجه المياه",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.2",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 2,
+          "text": "أَعْطِ نَصِيبًا لِسَبْعَةٍ، وَلِثَمَانِيَةٍ أَيْضًا، لأَنَّكَ لَسْتَ تَعْلَمُ أَيَّ شَرٍّ يَكُونُ عَلَى الأَرْضِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَعْطِ نَصِيبًا لِسَبْعَةٍ، وَلِثَمَانِيَةٍ أَيْضًا، لأَنَّكَ لَسْتَ تَعْلَمُ أَيَّ شَرٍّ يَكُونُ عَلَى الأَرْضِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.3",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 3,
+          "text": "إِذَا امْتَلأَتِ السُّحُبُ مَطَرًا تُرِيقُهُ عَلَى الأَرْضِ. وَإِذَا وَقَعَتِ الشَّجَرَةُ نَحْوَ الْجَنُوبِ أَوْ نَحْوَ الشَّمَالِ، فَفِي الْمَوْضِعِ حَيْثُ تَقَعُ الشَّجَرَةُ هُنَاكَ تَكُونُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذَا امْتَلأَتِ السُّحُبُ مَطَرًا تُرِيقُهُ عَلَى الأَرْضِ. وَإِذَا وَقَعَتِ الشَّجَرَةُ نَحْوَ الْجَنُوبِ أَوْ نَحْوَ الشَّمَالِ، فَفِي الْمَوْضِعِ حَيْثُ تَقَعُ الشَّجَرَةُ هُنَاكَ تَكُونُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.4",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 4,
+          "text": "مَنْ يَرْصُدُ الرِّيحَ لَا يَزْرَعُ، وَمَنْ يُرَاقِبُ السُّحُبَ لَا يَحْصُدُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ يَرْصُدُ الرِّيحَ لَا يَزْرَعُ، وَمَنْ يُرَاقِبُ السُّحُبَ لَا يَحْصُدُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.5",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 5,
+          "text": "كَمَا أَنَّكَ لَسْتَ تَعْلَمُ مَا هِيَ طَرِيقُ الرِّيحِ، وَلَا كَيْفَ الْعِظَامُ فِي بَطْنِ الْحُبْلَى، كَذَلِكَ لَا تَعْلَمُ أَعْمَالَ اللهِ الَّذِي يَصْنَعُ الْجَمِيعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَمَا أَنَّكَ لَسْتَ تَعْلَمُ مَا هِيَ طَرِيقُ الرِّيحِ، وَلَا كَيْفَ الْعِظَامُ فِي بَطْنِ الْحُبْلَى، كَذَلِكَ لَا تَعْلَمُ أَعْمَالَ اللهِ الَّذِي يَصْنَعُ الْجَمِيعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.6",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 6,
+          "text": "فِي الصَّبَاحِ ازْرَعْ زَرْعَكَ، وَفِي الْمَسَاءِ لَا تَرْخِ يَدَكَ، لأَنَّكَ لَا تَعْلَمُ أَيُّهُمَا يَنْمُو: هَذَا أَوْ ذَاكَ، أَوْ أَنْ يَكُونَ كِلَاهُمَا جَيِّدَيْنِ سَوَاءً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فِي الصَّبَاحِ ازْرَعْ زَرْعَكَ، وَفِي الْمَسَاءِ لَا تَرْخِ يَدَكَ، لأَنَّكَ لَا تَعْلَمُ أَيُّهُمَا يَنْمُو: هَذَا أَوْ ذَاكَ، أَوْ أَنْ يَكُونَ كِلَاهُمَا جَيِّدَيْنِ سَوَاءً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.7",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 7,
+          "text": "اَلنُّورُ حُلْوٌ، وَخَيْرٌ لِلْعَيْنَيْنِ أَنْ تَنْظُرَا الشَّمْسَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلنُّورُ حُلْوٌ، وَخَيْرٌ لِلْعَيْنَيْنِ أَنْ تَنْظُرَا الشَّمْسَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "اذكر خالقك في أيام شبابك",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.8",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 8,
+          "text": "لأَنَّهُ إِنْ عَاشَ الإِنْسَانُ سِنِينَ كَثِيرَةً فَلْيَفْرَحْ فِيهَا كُلِّهَا، وَلْيَتَذَكَّرْ أَيَّامَ الظُّلْمَةِ لأَنَّهَا تَكُونُ كَثِيرَةً. كُلُّ مَا يَأْتِي بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ إِنْ عَاشَ الإِنْسَانُ سِنِينَ كَثِيرَةً فَلْيَفْرَحْ فِيهَا كُلِّهَا، وَلْيَتَذَكَّرْ أَيَّامَ الظُّلْمَةِ لأَنَّهَا تَكُونُ كَثِيرَةً. كُلُّ مَا يَأْتِي بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.9",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 9,
+          "text": "اِفْرَحْ أَيُّهَا الشَّابُّ فِي حَدَاثَتِكَ، وَلْيَسُرَّكَ قَلْبُكَ فِي أَيَّامِ شَبَابِكَ، وَاسْلُكْ فِي طُرُقِ قَلْبِكَ وَبِمَرْأَى عَيْنَيْكَ، وَاعْلَمْ أَنَّهُ عَلَى هَذِهِ الأُمُورِ كُلِّهَا يَأْتِي بِكَ اللهُ إِلَى الدَّيْنُونَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِفْرَحْ أَيُّهَا الشَّابُّ فِي حَدَاثَتِكَ، وَلْيَسُرَّكَ قَلْبُكَ فِي أَيَّامِ شَبَابِكَ، وَاسْلُكْ فِي طُرُقِ قَلْبِكَ وَبِمَرْأَى عَيْنَيْكَ، وَاعْلَمْ أَنَّهُ عَلَى هَذِهِ الأُمُورِ كُلِّهَا يَأْتِي بِكَ اللهُ إِلَى الدَّيْنُونَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.11.10",
+          "book": "ECC",
+          "chapter": 11,
+          "verse": 10,
+          "text": "فَانْزِعِ الْغَمَّ مِنْ قَلْبِكَ، وَأَبْعِدِ الشَّرَّ عَنْ لَحْمِكَ، لأَنَّ الْحَدَاثَةَ وَالشَّبَابَ بَاطِلاَنِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَانْزِعِ الْغَمَّ مِنْ قَلْبِكَ، وَأَبْعِدِ الشَّرَّ عَنْ لَحْمِكَ، لأَنَّ الْحَدَاثَةَ وَالشَّبَابَ بَاطِلاَنِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "خبز على وجه المياه",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "اذكر خالقك في أيام شبابك",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:36.941Z"
+    },
+    "12": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ECC",
+      "chapter": 12,
+      "verses": [
+        {
+          "ref": "ECC.12.1",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 1,
+          "text": "فَاذْكُرْ خَالِقَكَ فِي أَيَّامِ شَبَابِكَ، قَبْلَ أَنْ تَأْتِيَ أَيَّامُ الشَّرِّ أَوْ تَجِيءَ السِّنُونَ إِذْ تَقُولُ: «لَيْسَ لِي فِيهَا سُرُورٌ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَاذْكُرْ خَالِقَكَ فِي أَيَّامِ شَبَابِكَ، قَبْلَ أَنْ تَأْتِيَ أَيَّامُ الشَّرِّ أَوْ تَجِيءَ السِّنُونَ إِذْ تَقُولُ: «لَيْسَ لِي فِيهَا سُرُورٌ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: اذكر خالقك في أيام شبابك",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.2",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 2,
+          "text": "قَبْلَ مَا تَظْلُمُ الشَّمْسُ وَالنُّورُ وَالْقَمَرُ وَالنُّجُومُ، وَتَرْجِعُ السُّحُبُ بَعْدَ الْمَطَرِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَبْلَ مَا تَظْلُمُ الشَّمْسُ وَالنُّورُ وَالْقَمَرُ وَالنُّجُومُ، وَتَرْجِعُ السُّحُبُ بَعْدَ الْمَطَرِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.3",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 3,
+          "text": "فِي يَوْمٍ يَتَزَعْزَعُ فِيهِ حَفَظَةُ الْبَيْتِ، وَتَتَلَوَّى رِجَالُ الْقُوَّةِ، وَتَبْطُلُ الطَّوَاحِنُ لأَنَّهَا قَلَّتْ، وَتُظْلِمُ النَّوَاظِرُ مِنَ الشَّبَابِيكِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فِي يَوْمٍ يَتَزَعْزَعُ فِيهِ حَفَظَةُ الْبَيْتِ، وَتَتَلَوَّى رِجَالُ الْقُوَّةِ، وَتَبْطُلُ الطَّوَاحِنُ لأَنَّهَا قَلَّتْ، وَتُظْلِمُ النَّوَاظِرُ مِنَ الشَّبَابِيكِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.4",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 4,
+          "text": "وَتُغْلَقُ الأَبْوَابُ فِي السُّوقِ. حِينَ يَنْخَفِضُ صَوْتُ الْمِطْحَنَةِ، وَيَقُومُ لِصَوْتِ الْعُصْفُورِ، وَتُحَطُّ كُلُّ بَنَاتِ الْغِنَاءِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَتُغْلَقُ الأَبْوَابُ فِي السُّوقِ. حِينَ يَنْخَفِضُ صَوْتُ الْمِطْحَنَةِ، وَيَقُومُ لِصَوْتِ الْعُصْفُورِ، وَتُحَطُّ كُلُّ بَنَاتِ الْغِنَاءِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.5",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 5,
+          "text": "وَأَيْضًا يَخَافُونَ مِنَ الْعَالِي، وَفِي الطَّرِيقِ أَهْوَالٌ، وَاللَّوْزُ يُزْهِرُ، وَالْجُنْدُبُ يُسْتَثْقَلُ، وَالشَّهْوَةُ تَبْطُلُ. لأَنَّ الإِنْسَانَ ذَاهِبٌ إِلَى بَيْتِهِ الأَبَدِيِّ، وَالنَّادِبُونَ يَطُوفُونَ فِي السُّوقِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَيْضًا يَخَافُونَ مِنَ الْعَالِي، وَفِي الطَّرِيقِ أَهْوَالٌ، وَاللَّوْزُ يُزْهِرُ، وَالْجُنْدُبُ يُسْتَثْقَلُ، وَالشَّهْوَةُ تَبْطُلُ. لأَنَّ الإِنْسَانَ ذَاهِبٌ إِلَى بَيْتِهِ الأَبَدِيِّ، وَالنَّادِبُونَ يَطُوفُونَ فِي السُّوقِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.6",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 6,
+          "text": "قَبْلَ مَا يَنْفَصِمُ حَبْلُ الْفِضَّةِ، أَوْ يَنْسَحِقُ كُوزُ الذَّهَبِ، أَوْ تَنْكَسِرُ الْجَرَّةُ عَلَى الْعَيْنِ، أَوْ تَنْقَصِفُ الْبَكَرَةُ عِنْدَ الْبِئْرِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قَبْلَ مَا يَنْفَصِمُ حَبْلُ الْفِضَّةِ، أَوْ يَنْسَحِقُ كُوزُ الذَّهَبِ، أَوْ تَنْكَسِرُ الْجَرَّةُ عَلَى الْعَيْنِ، أَوْ تَنْقَصِفُ الْبَكَرَةُ عِنْدَ الْبِئْرِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.7",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 7,
+          "text": "فَيَرْجِعُ التُّرَابُ إِلَى الأَرْضِ كَمَا كَانَ، وَتَرْجِعُ الرُّوحُ إِلَى اللهِ الَّذِي أَعْطَاهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَيَرْجِعُ التُّرَابُ إِلَى الأَرْضِ كَمَا كَانَ، وَتَرْجِعُ الرُّوحُ إِلَى اللهِ الَّذِي أَعْطَاهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.8",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 8,
+          "text": "بَاطِلُ الأَبَاطِيلِ، قَالَ الْجَامِعَةُ: الْكُلُّ بَاطِلٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بَاطِلُ الأَبَاطِيلِ، قَالَ الْجَامِعَةُ: الْكُلُّ بَاطِلٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.9",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 9,
+          "text": "بَقِيَ أَنَّ الْجَامِعَةَ كَانَ حَكِيمًا، وَأَيْضًا عَلَّمَ الشَّعْبَ عِلْمًا، وَوَزَنَ وَبَحَثَ وَأَتْقَنَ أَمْثَالًا كَثِيرَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بَقِيَ أَنَّ الْجَامِعَةَ كَانَ حَكِيمًا، وَأَيْضًا عَلَّمَ الشَّعْبَ عِلْمًا، وَوَزَنَ وَبَحَثَ وَأَتْقَنَ أَمْثَالًا كَثِيرَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "ختام الأمر",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.10",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 10,
+          "text": "اَلْجَامِعَةُ طَلَبَ أَنْ يَجِدَ كَلِمَاتٍ مُسِرَّةً مَكْتُوبَةً بِالاسْتِقَامَةِ، كَلِمَاتِ حَقٍّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلْجَامِعَةُ طَلَبَ أَنْ يَجِدَ كَلِمَاتٍ مُسِرَّةً مَكْتُوبَةً بِالاسْتِقَامَةِ، كَلِمَاتِ حَقٍّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.11",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 11,
+          "text": "كَلَامُ الْحُكَمَاءِ كَالْمَنَاسِيسِ، وَكَأَوْتَادٍ مُنْغَرِزَةٍ، أَرْبَابُ الْجَمَاعَاتِ، قَدْ أُعْطِيَتْ مِنْ رَاعٍ وَاحِدٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَلَامُ الْحُكَمَاءِ كَالْمَنَاسِيسِ، وَكَأَوْتَادٍ مُنْغَرِزَةٍ، أَرْبَابُ الْجَمَاعَاتِ، قَدْ أُعْطِيَتْ مِنْ رَاعٍ وَاحِدٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.12",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 12,
+          "text": "وَبَقِيَ، فَمِنْ هَذَا يَا ابْنِي تَحَذَّرْ: لِعَمَلِ كُتُبٍ كَثِيرَةٍ لَا نِهَايَةَ، وَالدَّرْسُ الْكَثِيرُ تَعَبٌ لِلْجَسَدِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَبَقِيَ، فَمِنْ هَذَا يَا ابْنِي تَحَذَّرْ: لِعَمَلِ كُتُبٍ كَثِيرَةٍ لَا نِهَايَةَ، وَالدَّرْسُ الْكَثِيرُ تَعَبٌ لِلْجَسَدِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.13",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 13,
+          "text": "فَلْنَسْمَعْ خِتَامَ الأَمْرِ كُلِّهِ: اتَّقِ اللهَ وَاحْفَظْ وَصَايَاهُ، لأَنَّ هَذَا هُوَ الإِنْسَانُ كُلُّهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَلْنَسْمَعْ خِتَامَ الأَمْرِ كُلِّهِ: اتَّقِ اللهَ وَاحْفَظْ وَصَايَاهُ، لأَنَّ هَذَا هُوَ الإِنْسَانُ كُلُّهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ECC.12.14",
+          "book": "ECC",
+          "chapter": 12,
+          "verse": 14,
+          "text": "لأَنَّ اللهَ يُحْضِرُ كُلَّ عَمَلٍ إِلَى الدَّيْنُونَةِ، عَلَى كُلِّ خَفِيٍّ، إِنْ كَانَ خَيْرًا أَوْ شَرًّا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ اللهَ يُحْضِرُ كُلَّ عَمَلٍ إِلَى الدَّيْنُونَةِ، عَلَى كُلِّ خَفِيٍّ، إِنْ كَانَ خَيْرًا أَوْ شَرًّا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: اذكر خالقك في أيام شبابك",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "ختام الأمر",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:40:39.554Z"
+    }
+  }
+}

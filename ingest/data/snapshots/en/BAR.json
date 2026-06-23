@@ -1,0 +1,4849 @@
+{
+  "usfm": "BAR",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "BAR",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "BAR.1.1",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Now these are the words of the book written by Baruch, the son of Neriah, the son of Mahseiah, the son of Zedekiah, the son of Hasadiah, the son of Hilkiah, while in Babylon,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now these are the words of the book written by Baruch, the son of Neriah, the son of Mahseiah, the son of Zedekiah, the son of Hasadiah, the son of Hilkiah, while in Babylon,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.2",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 2,
+          "text": "in the fifth year, on the seventh day of the month, at the time the Chaldeans took Jerusalem and burned it with fire.† A Gathering of the Exiles in Babylon",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in the fifth year, on the seventh day of the month, at the time the Chaldeans took Jerusalem and burned it with fire.† A Gathering of the Exiles in Babylon",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.3",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 3,
+          "text": "And Baruch read the words of this book to Jechoniah the son of Joachim, king of Judah, and to all the people who came to hear the book:†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Baruch read the words of this book to Jechoniah the son of Joachim, king of Judah, and to all the people who came to hear the book:†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Gathering of the Exiles in Babylon",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.4",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 4,
+          "text": "to the nobles and the sons of the kings, to the elders and all the people from small to great, and to everyone dwelling in Babylon by the river Sud.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to the nobles and the sons of the kings, to the elders and all the people from small to great, and to everyone dwelling in Babylon by the river Sud.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.5",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Then they wept and fasted and prayed before the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then they wept and fasted and prayed before the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.6",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 6,
+          "text": "They took up a collection of silver, as each was able to give,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They took up a collection of silver, as each was able to give,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.7",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 7,
+          "text": "and sent it to Jerusalem to Joachim the high priest, son of Hilkiah, son of Salom, and to the priests and to all the people found with him in Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and sent it to Jerusalem to Joachim the high priest, son of Hilkiah, son of Salom, and to the priests and to all the people found with him in Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.8",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 8,
+          "text": "At the same time, on the tenth day of the month Sivan, Baruch took the silver vessels of the house of the Lord fashioned by Zedekiah the son of Josiah, king of Judah, in order to return them to the land of Judah, those vessels previously taken away from the temple",
+          "structured": {
+            "tokens": [
+              {
+                "text": "At the same time, on the tenth day of the month Sivan, Baruch took the silver vessels of the house of the Lord fashioned by Zedekiah the son of Josiah, king of Judah, in order to return them to the land of Judah, those vessels previously taken away from the temple",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.9",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 9,
+          "text": "when Nebuchadnezzar the king of Babylon had carried away Jechoniah and the princes, along with the captives, the powerful men, and the people of the land, and had brought them from Jerusalem into exile in Babylon.† Gifts for Worship in Jerusalem",
+          "structured": {
+            "tokens": [
+              {
+                "text": "when Nebuchadnezzar the king of Babylon had carried away Jechoniah and the princes, along with the captives, the powerful men, and the people of the land, and had brought them from Jerusalem into exile in Babylon.† Gifts for Worship in Jerusalem",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.10",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 10,
+          "text": "And they said, “Behold, we send you silver. With it, buy whole burnt offerings and sin offerings and incense, and prepare bread, and offer them upon the altar of the Lord our God.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And they said, “Behold, we send you silver. With it, buy whole burnt offerings and sin offerings and incense, and prepare bread, and offer them upon the altar of the Lord our God.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Gifts for Worship in Jerusalem",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.11",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 11,
+          "text": "And pray for the life of Nebuchadnezzar king of Babylon and his son Belshazzar, that their days on earth may be like the days of heaven.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And pray for the life of Nebuchadnezzar king of Babylon and his son Belshazzar, that their days on earth may be like the days of heaven.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.12",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 12,
+          "text": "And the Lord will give us strength and enlighten our eyes, and we will live under the shelter of Nebuchadnezzar king of Babylon and under the shelter of Belshazzar his son, and we will serve them for many days and find mercy in their sight. Israel's Confession",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord will give us strength and enlighten our eyes, and we will live under the shelter of Nebuchadnezzar king of Babylon and under the shelter of Belshazzar his son, and we will serve them for many days and find mercy in their sight. Israel's Confession",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.13",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 13,
+          "text": "“Pray for us to the Lord our God, because we have sinned against the Lord our God. Even to this day the wrath of the Lord and His anger is not turned away from us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Pray for us to the Lord our God, because we have sinned against the Lord our God. Even to this day the wrath of the Lord and His anger is not turned away from us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel's Confession",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.14",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 14,
+          "text": "And you shall read this book which we are sending to you, in order to make confession in the house of the Lord on the feast days and on the solemn days.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And you shall read this book which we are sending to you, in order to make confession in the house of the Lord on the feast days and on the solemn days.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.15",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 15,
+          "text": "“And you shall say, ‘To the Lord our God belongs righteousness, but for us shame is on our faces, as it is this day for the people of Judah and to those inhabiting Jerusalem,†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And you shall say, ‘To the Lord our God belongs righteousness, but for us shame is on our faces, as it is this day for the people of Judah and to those inhabiting Jerusalem,†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.16",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 16,
+          "text": "and for our kings, for our rulers, for our priests, for our prophets, and for our fathers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and for our kings, for our rulers, for our priests, for our prophets, and for our fathers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.17",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 17,
+          "text": "who have sinned before the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who have sinned before the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.18",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 18,
+          "text": "We have disobeyed Him and have refused to heed the voice of the Lord our God, to walk in the ordinances of the Lord, which He gave to us openly.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We have disobeyed Him and have refused to heed the voice of the Lord our God, to walk in the ordinances of the Lord, which He gave to us openly.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.19",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 19,
+          "text": "Since the day the Lord led our fathers out of the land of Egypt until this day, we have been disobedient toward Him and neglected to heed His voice.† The Consequences of Israel's Sin",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Since the day the Lord led our fathers out of the land of Egypt until this day, we have been disobedient toward Him and neglected to heed His voice.† The Consequences of Israel's Sin",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.20",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 20,
+          "text": "‘So to this day evils cling to us, even the curse which the Lord set forth through His servant Moses in the day He led our fathers out of the land of Egypt to give us the land flowing with milk and honey.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘So to this day evils cling to us, even the curse which the Lord set forth through His servant Moses in the day He led our fathers out of the land of Egypt to give us the land flowing with milk and honey.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Consequences of Israel's Sin",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.21",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 21,
+          "text": "We did not heed the voice of the Lord our God in all the words of the prophets whom He sent to us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We did not heed the voice of the Lord our God in all the words of the prophets whom He sent to us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.1.22",
+          "book": "BAR",
+          "chapter": 1,
+          "verse": 22,
+          "text": "Instead, each one has followed the imaginations of his own wicked heart, to serve strange gods and to do evil deeds in the sight of the Lord our God.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Instead, each one has followed the imaginations of his own wicked heart, to serve strange gods and to do evil deeds in the sight of the Lord our God.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "A Gathering of the Exiles in Babylon",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Gifts for Worship in Jerusalem",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Israel's Confession",
+          "level": 2
+        },
+        {
+          "beforeVerse": 20,
+          "text": "The Consequences of Israel's Sin",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T15:22:38.097142+00:00"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "BAR",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "BAR.2.1",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 1,
+          "text": "So the Lord confirmed His word which He proclaimed against us, and against our judges who judged Israel, and our kings and rulers, and against every man of Israel and Judah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the Lord confirmed His word which He proclaimed against us, and against our judges who judged Israel, and our kings and rulers, and against every man of Israel and Judah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.2",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 2,
+          "text": "As can be seen in what was written in the law of Moses, there has been nothing comparable anywhere, under all the heavens, as to that which has been done in Jerusalem:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As can be seen in what was written in the law of Moses, there has been nothing comparable anywhere, under all the heavens, as to that which has been done in Jerusalem:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.3",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 3,
+          "text": "that a man eat the flesh of his son and the flesh of his daughter.††",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that a man eat the flesh of his son and the flesh of his daughter.††",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.4",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 4,
+          "text": "He put them under subjection to all the kingdoms around us, to be a reproach and a desolation among all the nations around about us where the Lord scattered them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He put them under subjection to all the kingdoms around us, to be a reproach and a desolation among all the nations around about us where the Lord scattered them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.5",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 5,
+          "text": "And because we sinned against the Lord our God and did not obey His voice, we have been brought low and have not been exalted.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And because we sinned against the Lord our God and did not obey His voice, we have been brought low and have not been exalted.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.6",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 6,
+          "text": "‘To the Lord our God belongs righteousness, but to us and our fathers shame on our faces, as at this day.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘To the Lord our God belongs righteousness, but to us and our fathers shame on our faces, as at this day.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.7",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 7,
+          "text": "All these calamities that the Lord proclaimed against us have come upon us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All these calamities that the Lord proclaimed against us have come upon us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.8",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 8,
+          "text": "But we did not pray before the presence of the Lord, to turn each one away from the purposes of his wicked heart.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But we did not pray before the presence of the Lord, to turn each one away from the purposes of his wicked heart.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.9",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 9,
+          "text": "And the Lord has watched over the evils, and the Lord brings these upon us, for the Lord is righteous in all His works which He commands us.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord has watched over the evils, and the Lord brings these upon us, for the Lord is righteous in all His works which He commands us.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.10",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 10,
+          "text": "But we have not obeyed His voice, to conduct our lives in those commandments of the Lord that He set before us. A Plea for Mercy and Deliverance",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But we have not obeyed His voice, to conduct our lives in those commandments of the Lord that He set before us. A Plea for Mercy and Deliverance",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.11",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 11,
+          "text": "‘And now, O Lord God of Israel, who with a mighty hand led Your people out of the land of Egypt with signs and wonders, with great power and with outstretched arm, and made a name for Yourself then, as it continues to this day,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘And now, O Lord God of Israel, who with a mighty hand led Your people out of the land of Egypt with signs and wonders, with great power and with outstretched arm, and made a name for Yourself then, as it continues to this day,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Plea for Mercy and Deliverance",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.12",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 12,
+          "text": "we have sinned and acted ungodly, we have acted unrighteously, O Lord our God, against all Your commandments.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "we have sinned and acted ungodly, we have acted unrighteously, O Lord our God, against all Your commandments.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.13",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Let Your wrath turn away from us, for only a few of us remain within the nations where You scattered us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let Your wrath turn away from us, for only a few of us remain within the nations where You scattered us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.14",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 14,
+          "text": "O Lord, hear our prayer and our petition, and for Your own sake deliver us, and grant us mercy before those who have carried us into exile,†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, hear our prayer and our petition, and for Your own sake deliver us, and grant us mercy before those who have carried us into exile,†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.15",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 15,
+          "text": "in order that the whole earth may come to know that You are the Lord our God, for Israel and his descendants are called by Your name.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in order that the whole earth may come to know that You are the Lord our God, for Israel and his descendants are called by Your name.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.16",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 16,
+          "text": "‘O Lord, look down from Your holy house and consider us. O Lord, incline Your ear and hear us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘O Lord, look down from Your holy house and consider us. O Lord, incline Your ear and hear us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.17",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 17,
+          "text": "O Lord, open Your eyes and behold, for the dead who are in Hades, whose spirit is taken from their bodies, will not ascribe glory and righteousness to the Lord;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, open Your eyes and behold, for the dead who are in Hades, whose spirit is taken from their bodies, will not ascribe glory and righteousness to the Lord;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.18",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 18,
+          "text": "but the person who is greatly distressed, who walks bent over, who is ailing and going blind, and the person who hungers—these will give glory and righteousness to You, O Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but the person who is greatly distressed, who walks bent over, who is ailing and going blind, and the person who hungers—these will give glory and righteousness to You, O Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.19",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 19,
+          "text": "It is not because of the righteous acts of our fathers or our kings that we lay before You our humble plea, O Lord our God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It is not because of the righteous acts of our fathers or our kings that we lay before You our humble plea, O Lord our God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.20",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 20,
+          "text": "for You sent down Your anger and wrath upon us, as You have said through the hand of Your servants the prophets, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for You sent down Your anger and wrath upon us, as You have said through the hand of Your servants the prophets, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.21",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 21,
+          "text": "“Thus says the Lord: ‘Bend your shoulder and serve the king of Babylon, and remain in the land I gave to your fathers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord: ‘Bend your shoulder and serve the king of Babylon, and remain in the land I gave to your fathers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.22",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 22,
+          "text": "But if you do not heed the voice of the Lord, to serve the king of Babylon,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if you do not heed the voice of the Lord, to serve the king of Babylon,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.23",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 23,
+          "text": "I shall cause to cease from the cities of Judah and from outside Jerusalem the sound of gladness, the voice of joyfulness, the voice of the bridegroom and the voice of the bride. The whole land will become desolate of inhabitants.’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I shall cause to cease from the cities of Judah and from outside Jerusalem the sound of gladness, the voice of joyfulness, the voice of the bridegroom and the voice of the bride. The whole land will become desolate of inhabitants.’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.24",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 24,
+          "text": "‘But we did not obey Your voice, to serve the king of Babylon, and You carried out Your words which you spoke by Your servants the prophets, that the bones of our kings and the bones of our fathers would be carried out from their place.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘But we did not obey Your voice, to serve the king of Babylon, and You carried out Your words which you spoke by Your servants the prophets, that the bones of our kings and the bones of our fathers would be carried out from their place.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.25",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 25,
+          "text": "And behold, they have been cast forth in the heat of the day and the frost of the night, and they died in grievous pains by famine and by the sword and by pestilence.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And behold, they have been cast forth in the heat of the day and the frost of the night, and they died in grievous pains by famine and by the sword and by pestilence.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.26",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 26,
+          "text": "And You laid to waste the house called by Your name, as it is this day, because of the wickedness of the house of Israel and the house of Judah.† Recalling the Promises of God",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And You laid to waste the house called by Your name, as it is this day, because of the wickedness of the house of Israel and the house of Judah.† Recalling the Promises of God",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.27",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 27,
+          "text": "‘Even so, O Lord our God, You have dealt with us according to all Your goodness and great mercy,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘Even so, O Lord our God, You have dealt with us according to all Your goodness and great mercy,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Recalling the Promises of God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.28",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 28,
+          "text": "just as You spoke through Your servant Moses on the day You commanded him to write Your law in the presence of the sons of Israel, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "just as You spoke through Your servant Moses on the day You commanded him to write Your law in the presence of the sons of Israel, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.29",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 29,
+          "text": "“If you do not obey My voice, truly this very great multitude of people will become a small number amidst all the nations where I shall scatter them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“If you do not obey My voice, truly this very great multitude of people will become a small number amidst all the nations where I shall scatter them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.30",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 30,
+          "text": "For I knew they would not obey Me, because they are a stiff-necked people. But in the land of their exile their hearts will turn back,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I knew they would not obey Me, because they are a stiff-necked people. But in the land of their exile their hearts will turn back,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.31",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 31,
+          "text": "and they will know that I am the Lord their God, and I will give them a heart and ears that obey;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and they will know that I am the Lord their God, and I will give them a heart and ears that obey;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.32",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 32,
+          "text": "and they will praise Me in the land of their exile and will remember My name.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and they will praise Me in the land of their exile and will remember My name.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.33",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 33,
+          "text": "They will turn from their stubbornness and their evil deeds; for they shall remember the way of their fathers, who sinned against the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They will turn from their stubbornness and their evil deeds; for they shall remember the way of their fathers, who sinned against the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.34",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 34,
+          "text": "And I shall bring them again to the land I swore to their fathers—to Abraham, Isaac, and Jacob—and they will rule over it, and I will multiply their numbers, and they will not be diminished.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I shall bring them again to the land I swore to their fathers—to Abraham, Isaac, and Jacob—and they will rule over it, and I will multiply their numbers, and they will not be diminished.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.2.35",
+          "book": "BAR",
+          "chapter": 2,
+          "verse": 35,
+          "text": "And I shall establish an everlasting covenant with them to be their God, and they will be My people; I shall never again remove My people Israel from the land I give to them.”†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I shall establish an everlasting covenant with them to be their God, and they will be My people; I shall never again remove My people Israel from the land I give to them.”†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 11,
+          "text": "A Plea for Mercy and Deliverance",
+          "level": 2
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Recalling the Promises of God",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T15:22:38.106345+00:00"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "BAR",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "BAR.3.1",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 1,
+          "text": "O Lord Almighty, the God of Israel, a soul in straits and a spirit of weariness cries out to You.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord Almighty, the God of Israel, a soul in straits and a spirit of weariness cries out to You.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.2",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 2,
+          "text": "Hear, O Lord, and have mercy, for we have sinned against You.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear, O Lord, and have mercy, for we have sinned against You.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.3",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 3,
+          "text": "You endure forever, but we are perishing forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You endure forever, but we are perishing forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.4",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 4,
+          "text": "O Lord Almighty, the God of Israel, hear the prayer of the dead of Israel and of the sons who have sinned against You, who have not obeyed the voice of the Lord their God, so calamities have clung to us.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord Almighty, the God of Israel, hear the prayer of the dead of Israel and of the sons who have sinned against You, who have not obeyed the voice of the Lord their God, so calamities have clung to us.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.5",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Do not remember the wrongdoings of our fathers, but remember Your hand and Your name in this time.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not remember the wrongdoings of our fathers, but remember Your hand and Your name in this time.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.6",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 6,
+          "text": "For You are the Lord our God, and You we will praise, O Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For You are the Lord our God, and You we will praise, O Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.7",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 7,
+          "text": "On account of this You granted in our hearts the fear of You, to call upon Your name, and we shall praise You in our exile, because we will turn away from our hearts all the iniquities of our fathers who sinned against You.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "On account of this You granted in our hearts the fear of You, to call upon Your name, and we shall praise You in our exile, because we will turn away from our hearts all the iniquities of our fathers who sinned against You.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.8",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Behold, today we are in our exile, where You have scattered us to be a reproach and a curse and a punishment for all the iniquities of our fathers, who fell away from the Lord our God.’ ” The Way of Wisdom",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, today we are in our exile, where You have scattered us to be a reproach and a curse and a punishment for all the iniquities of our fathers, who fell away from the Lord our God.’ ” The Way of Wisdom",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.9",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Hear, O Israel, the commandments of life; give ear to know wisdom.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear, O Israel, the commandments of life; give ear to know wisdom.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Way of Wisdom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.10",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Why is it, O Israel, that you are in the land of your enemies, that you have grown old in a foreign land,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Why is it, O Israel, that you are in the land of your enemies, that you have grown old in a foreign land,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.11",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 11,
+          "text": "that you are defiled with the dead and counted among those in Hades?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that you are defiled with the dead and counted among those in Hades?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.12",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 12,
+          "text": "You have forsaken the fountain of wisdom.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have forsaken the fountain of wisdom.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.13",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 13,
+          "text": "If you had walked in the way of God, you would have dwelt in peace forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you had walked in the way of God, you would have dwelt in peace forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.14",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 14,
+          "text": "Learn where wisdom is, where strength is, where understanding is, so at the same time you may know where length of days and life are, where peace is and the light of the eyes.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Learn where wisdom is, where strength is, where understanding is, so at the same time you may know where length of days and life are, where peace is and the light of the eyes.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.15",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 15,
+          "text": "Who has found her place? Who has entered into her treasures?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who has found her place? Who has entered into her treasures?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.16",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Where are the rulers of the nations and those who ruled over the wild animals of the earth;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Where are the rulers of the nations and those who ruled over the wild animals of the earth;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.17",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 17,
+          "text": "those who sport with the birds of the air and those hoarding silver and gold, in which men trust (and there is no end to the acquisition of these),†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "those who sport with the birds of the air and those hoarding silver and gold, in which men trust (and there is no end to the acquisition of these),†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.18",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 18,
+          "text": "those who scheme to obtain silver and are anxious, whose works are unsearchable?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "those who scheme to obtain silver and are anxious, whose works are unsearchable?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.19",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 19,
+          "text": "They vanish and descend into Hades, and others have risen up to take their place.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They vanish and descend into Hades, and others have risen up to take their place.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.20",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 20,
+          "text": "Young men have seen the light and dwelt in the land, but they have not known the way of knowledge,†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Young men have seen the light and dwelt in the land, but they have not known the way of knowledge,†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.21",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 21,
+          "text": "nor practiced it, nor understood her paths; their sons are far from her path.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nor practiced it, nor understood her paths; their sons are far from her path.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.22",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 22,
+          "text": "It has not been heard in Canaan, nor seen in Tamar;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It has not been heard in Canaan, nor seen in Tamar;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.23",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 23,
+          "text": "the sons of Hagar, who seek understanding on the earth, the merchants of Merra and of Tamar, the storytellers and those who search out understanding—none of these have learned the way of wisdom nor remember her paths. They do not know.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the sons of Hagar, who seek understanding on the earth, the merchants of Merra and of Tamar, the storytellers and those who search out understanding—none of these have learned the way of wisdom nor remember her paths. They do not know.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.24",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 24,
+          "text": "O Israel, how great is the house of God, and how far-reaching the place He possesses!†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Israel, how great is the house of God, and how far-reaching the place He possesses!†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.25",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 25,
+          "text": "It is great and has no end; it is high and immeasurable.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It is great and has no end; it is high and immeasurable.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.26",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 26,
+          "text": "The giants born there, those renowned from the beginning, being very large in size and skilled in war,†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The giants born there, those renowned from the beginning, being very large in size and skilled in war,†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.27",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 27,
+          "text": "God did not choose them nor grant them the way of knowledge.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "God did not choose them nor grant them the way of knowledge.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.28",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 28,
+          "text": "Instead, they perished because they failed to attain to wisdom; they perished through their thoughtless counsel. The Author of Wisdom",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Instead, they perished because they failed to attain to wisdom; they perished through their thoughtless counsel. The Author of Wisdom",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.29",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 29,
+          "text": "Who has gone up into heaven and taken hold of her, and brought her down from the clouds?†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who has gone up into heaven and taken hold of her, and brought her down from the clouds?†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Author of Wisdom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.30",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 30,
+          "text": "Who has crossed the sea and found her, and brought her back for pure gold?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who has crossed the sea and found her, and brought her back for pure gold?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.31",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 31,
+          "text": "No one knows her way, nor does anyone ponder her path.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "No one knows her way, nor does anyone ponder her path.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.32",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 32,
+          "text": "But the One who knows all things knows her; He has found her by His understanding—He who formed the earth for all time, who filled it with four-footed creatures;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the One who knows all things knows her; He has found her by His understanding—He who formed the earth for all time, who filled it with four-footed creatures;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.33",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 33,
+          "text": "the One who sends forth the light and it goes out; the One who calls to it, and it obeys with fear.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the One who sends forth the light and it goes out; the One who calls to it, and it obeys with fear.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.34",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 34,
+          "text": "The stars shone in their watches and rejoiced.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The stars shone in their watches and rejoiced.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.35",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 35,
+          "text": "He called them and they said, “Here we are!” They shone with gladness for Him who made them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He called them and they said, “Here we are!” They shone with gladness for Him who made them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.36",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 36,
+          "text": "This is our God; no other shall be compared to Him.ω",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is our God; no other shall be compared to Him.ω",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.37",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 37,
+          "text": "He found the whole way of knowledge and gave it to Jacob His servant and to Israel His beloved.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He found the whole way of knowledge and gave it to Jacob His servant and to Israel His beloved.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.3.38",
+          "book": "BAR",
+          "chapter": 3,
+          "verse": 38,
+          "text": "Afterwards, He was seen upon the earth and lived among men.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Afterwards, He was seen upon the earth and lived among men.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "The Way of Wisdom",
+          "level": 2
+        },
+        {
+          "beforeVerse": 29,
+          "text": "The Author of Wisdom",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T15:22:38.113543+00:00"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "BAR",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "BAR.4.1",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 1,
+          "text": "She is the book of the commandments of God and the law that endures forever. All those who keep her will live, but those forsaking her will die.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She is the book of the commandments of God and the law that endures forever. All those who keep her will live, but those forsaking her will die.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.2",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 2,
+          "text": "Return, O Jacob, and take hold of her. Walk toward the radiance of the presence of her light.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Return, O Jacob, and take hold of her. Walk toward the radiance of the presence of her light.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.3",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Do not give your glory to another or the things that are of advantage to you to a foreign nation. Jerusalem Speaks to Her Children",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not give your glory to another or the things that are of advantage to you to a foreign nation. Jerusalem Speaks to Her Children",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.4",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 4,
+          "text": "O Israel, we are blessed, for what is pleasing to our God is known to us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Israel, we are blessed, for what is pleasing to our God is known to us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Jerusalem Speaks to Her Children",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.5",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Be of good courage, my people, O memorial of Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be of good courage, my people, O memorial of Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.6",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 6,
+          "text": "You were sold to the nations, not for destruction, but you were handed over to the enemies because you provoked God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You were sold to the nations, not for destruction, but you were handed over to the enemies because you provoked God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.7",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 7,
+          "text": "You provoked Him who created you by sacrificing to demons and not to God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You provoked Him who created you by sacrificing to demons and not to God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.8",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 8,
+          "text": "You forgot the eternal God, who nursed you, and you grieved Jerusalem, which nourished you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You forgot the eternal God, who nursed you, and you grieved Jerusalem, which nourished you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.9",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 9,
+          "text": "For she saw the wrath coming upon you from God, and she said, “Give heed, neighbors of Zion, God has brought upon me great sorrow,†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For she saw the wrath coming upon you from God, and she said, “Give heed, neighbors of Zion, God has brought upon me great sorrow,†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.10",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 10,
+          "text": "for I see the exile of my sons and my daughters which the Eternal One brought upon them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for I see the exile of my sons and my daughters which the Eternal One brought upon them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.11",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 11,
+          "text": "With joy I raised them, but with weeping and sorrow I sent them away.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "With joy I raised them, but with weeping and sorrow I sent them away.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.12",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 12,
+          "text": "Let no one rejoice over me, a widow and forsaken of many. I was made desolate on account of the sins of my children, because they turned away from the Law of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let no one rejoice over me, a widow and forsaken of many. I was made desolate on account of the sins of my children, because they turned away from the Law of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.13",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 13,
+          "text": "And they did not know His ordinances, nor walk in the ways of the commandments of God, nor did they walk on the paths of discipline in His righteousness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And they did not know His ordinances, nor walk in the ways of the commandments of God, nor did they walk on the paths of discipline in His righteousness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.14",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 14,
+          "text": "“Let the neighbors of Zion come, and let them remember the exile of my sons and my daughters, which the Eternal One brought upon them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Let the neighbors of Zion come, and let them remember the exile of my sons and my daughters, which the Eternal One brought upon them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.15",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 15,
+          "text": "He brought a nation from afar against them, a shameless nation speaking a strange language, which does not respect the elderly nor pity the young child.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He brought a nation from afar against them, a shameless nation speaking a strange language, which does not respect the elderly nor pity the young child.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.16",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 16,
+          "text": "They led away the widow's beloved sons and left her who was alone destitute without daughters.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They led away the widow's beloved sons and left her who was alone destitute without daughters.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.17",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 17,
+          "text": "But how can I be of help to you?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But how can I be of help to you?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.18",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 18,
+          "text": "For He who brought these calamities upon you will deliver you from the hand of your enemies.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For He who brought these calamities upon you will deliver you from the hand of your enemies.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.19",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 19,
+          "text": "Go, my children, go; for I am left desolate.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Go, my children, go; for I am left desolate.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.20",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 20,
+          "text": "I have taken off the robe of peace and clothed myself in the sackcloth of my prayer. I will cry out to the Eternal One in my days.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have taken off the robe of peace and clothed myself in the sackcloth of my prayer. I will cry out to the Eternal One in my days.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.21",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 21,
+          "text": "“O my children, take courage, cry out to God, and He will deliver you from the power and the hand of the enemies.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O my children, take courage, cry out to God, and He will deliver you from the power and the hand of the enemies.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.22",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 22,
+          "text": "For I hope upon the Eternal One to save you, and the joy from the Holy One comes to me, because mercy will soon come to you from the Eternal One, your Savior.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I hope upon the Eternal One to save you, and the joy from the Holy One comes to me, because mercy will soon come to you from the Eternal One, your Savior.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.23",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 23,
+          "text": "For I sent you out with sorrow and weeping, but with joy and gladness God will restore you to me forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I sent you out with sorrow and weeping, but with joy and gladness God will restore you to me forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.24",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 24,
+          "text": "For just as the neighbors of Zion have now seen your exile, so too they will soon see your salvation from your God, which will come upon you with great glory and the radiance of the Eternal One.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For just as the neighbors of Zion have now seen your exile, so too they will soon see your salvation from your God, which will come upon you with great glory and the radiance of the Eternal One.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.25",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 25,
+          "text": "“My children, endure in patience the wrath that has come upon you from God. Your enemy has pursued you diligently, but soon you will see his destruction, and you will tread upon their necks.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“My children, endure in patience the wrath that has come upon you from God. Your enemy has pursued you diligently, but soon you will see his destruction, and you will tread upon their necks.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.26",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 26,
+          "text": "My pampered ones have been made to walk rough roads; they were carried off like a flock seized by enemies.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My pampered ones have been made to walk rough roads; they were carried off like a flock seized by enemies.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.27",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 27,
+          "text": "Take courage, my children, and cry out to God, for you will be remembered by Him who brought this upon you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Take courage, my children, and cry out to God, for you will be remembered by Him who brought this upon you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.28",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 28,
+          "text": "For just as you purposed to go astray from God, now having returned, seek Him with tenfold zeal.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For just as you purposed to go astray from God, now having returned, seek Him with tenfold zeal.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.29",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 29,
+          "text": "For the One who brought these calamities upon you will bring you everlasting joy with your salvation.” Jerusalem Is Comforted",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the One who brought these calamities upon you will bring you everlasting joy with your salvation.” Jerusalem Is Comforted",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.30",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 30,
+          "text": "Take courage, O Jerusalem, for He who named you will comfort you.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Take courage, O Jerusalem, for He who named you will comfort you.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Jerusalem Is Comforted",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.31",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 31,
+          "text": "Wretched are those who mistreated you and rejoiced at your fall.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wretched are those who mistreated you and rejoiced at your fall.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.32",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 32,
+          "text": "Wretched are the cities in which your children served as slaves. Wretched is she who took your sons.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wretched are the cities in which your children served as slaves. Wretched is she who took your sons.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.33",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 33,
+          "text": "For just as she took pleasure in your ruin and rejoiced over your fall, so shall she be grieved at her own desolation.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For just as she took pleasure in your ruin and rejoiced over your fall, so shall she be grieved at her own desolation.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.34",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 34,
+          "text": "I shall take away from her the rejoicing of her great multitude, and her arrogance will become sorrow.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I shall take away from her the rejoicing of her great multitude, and her arrogance will become sorrow.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.35",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 35,
+          "text": "For fire will come upon her from the Eternal One for many days, and she will be inhabited by demons for a long time.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For fire will come upon her from the Eternal One for many days, and she will be inhabited by demons for a long time.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.36",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 36,
+          "text": "O Jerusalem, look eastward, and see the joy that is coming to you from God.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Jerusalem, look eastward, and see the joy that is coming to you from God.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.4.37",
+          "book": "BAR",
+          "chapter": 4,
+          "verse": 37,
+          "text": "Behold, your sons whom you sent away are coming, gathered together from the east to the west by the word of the Holy One, rejoicing in the glory of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, your sons whom you sent away are coming, gathered together from the east to the west by the word of the Holy One, rejoicing in the glory of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Jerusalem Speaks to Her Children",
+          "level": 2
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jerusalem Is Comforted",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T15:22:38.120802+00:00"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "BAR",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "BAR.5.1",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 1,
+          "text": "O Jerusalem, take off the garment of your sorrow and your oppression, and put on the beauty from the God of glory forever.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Jerusalem, take off the garment of your sorrow and your oppression, and put on the beauty from the God of glory forever.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.2",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Put around you the double robe of righteousness from God; set upon your head the diadem of the glory of the Eternal One.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Put around you the double robe of righteousness from God; set upon your head the diadem of the glory of the Eternal One.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.3",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 3,
+          "text": "For God will show your brightness to every nation under heaven,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For God will show your brightness to every nation under heaven,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.4",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 4,
+          "text": "for your name will forever be called by God the Peace of Righteousness and the Glory of Godliness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for your name will forever be called by God the Peace of Righteousness and the Glory of Godliness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.5",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Arise, O Jerusalem, stand upon the heights and look eastward, and behold your children being gathered together by the word of the Holy One, rejoicing in the remembrance of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Arise, O Jerusalem, stand upon the heights and look eastward, and behold your children being gathered together by the word of the Holy One, rejoicing in the remembrance of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.6",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 6,
+          "text": "For they went out from you on foot, being led away by their enemies. But God will return them being carried back with glory, as on the throne of a kingdom.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they went out from you on foot, being led away by their enemies. But God will return them being carried back with glory, as on the throne of a kingdom.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.7",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 7,
+          "text": "For God commanded every high mountain and the everlasting hills to be made low, and all the valleys to be filled until made level, so that Israel may walk safely in the glory of God;†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For God commanded every high mountain and the everlasting hills to be made low, and all the valleys to be filled until made level, so that Israel may walk safely in the glory of God;†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.8",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 8,
+          "text": "and at the command of God, the woods and every fragrant tree have shaded Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and at the command of God, the woods and every fragrant tree have shaded Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.5.9",
+          "book": "BAR",
+          "chapter": 5,
+          "verse": 9,
+          "text": "For God will lead Israel with joy in the light of His glory, with mercy and righteousness that come from Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For God will lead Israel with joy in the light of His glory, with mercy and righteousness that come from Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-04T15:22:38.123677+00:00"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "BAR",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "BAR.6.1",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 1,
+          "text": "The copy of an epistle Jeremiah sent to those being led away as captives to Babylon by the king of the Babylonians, to proclaim a message to them, as it was commanded him by God. 1Because of the sins you committed in the sight of God, you will be led away to Babylon as captives by Nebuchadnezzar, king of the Babylonians.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The copy of an epistle Jeremiah sent to those being led away as captives to Babylon by the king of the Babylonians, to proclaim a message to them, as it was commanded him by God. 1Because of the sins you committed in the sight of God, you will be led away to Babylon as captives by Nebuchadnezzar, king of the Babylonians.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.2",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 2,
+          "text": "After you enter Babylon, you will remain there many years, even a long time, as many as seven generations. But after this, I shall lead you from that place with peace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "After you enter Babylon, you will remain there many years, even a long time, as many as seven generations. But after this, I shall lead you from that place with peace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.3",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 3,
+          "text": "Now in Babylon you will see gods of silver, gold, and wood carried upon shoulders as displays of fear to the Gentiles.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now in Babylon you will see gods of silver, gold, and wood carried upon shoulders as displays of fear to the Gentiles.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.4",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 4,
+          "text": "Therefore do not reverence them, lest you become like the foreigners, and fear also seizes you because of them†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore do not reverence them, lest you become like the foreigners, and fear also seizes you because of them†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.5",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 5,
+          "text": "when you see a multitude worshiping them, both in front of and behind them. But say in your mind, “One must worship You, O Lord.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "when you see a multitude worshiping them, both in front of and behind them. But say in your mind, “One must worship You, O Lord.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.6",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 6,
+          "text": "For My angel is with all of you, and he is searching your souls.† Idols Dressed Like People",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For My angel is with all of you, and he is searching your souls.† Idols Dressed Like People",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.7",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 7,
+          "text": "Indeed their tongue is polished by a craftsman, and they are plated with silver and gold. But they are false and unable to speak.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed their tongue is polished by a craftsman, and they are plated with silver and gold. But they are false and unable to speak.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Idols Dressed Like People",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.8",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 8,
+          "text": "As though for a virgin, they take gold and prepare crowns upon the heads of their gods.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As though for a virgin, they take gold and prepare crowns upon the heads of their gods.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.9",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 9,
+          "text": "But there are times when the priests will rob the silver and gold from their gods and spend them on themselves, and also give some of them to the prostitutes in their chamber.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But there are times when the priests will rob the silver and gold from their gods and spend them on themselves, and also give some of them to the prostitutes in their chamber.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.10",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 10,
+          "text": "So they adorn them—these gods of silver, gold, and wood— with clothing like humans, but they cannot preserve themselves against scum and moth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So they adorn them—these gods of silver, gold, and wood— with clothing like humans, but they cannot preserve themselves against scum and moth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.11",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 11,
+          "text": "After they clothe them with a purple garment, they wipe their face because of the dust from the temple, which is thick upon them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "After they clothe them with a purple garment, they wipe their face because of the dust from the temple, which is thick upon them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.12",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 12,
+          "text": "One of them holds a scepter, like the judge of a country who does not put to death the one who sins against him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "One of them holds a scepter, like the judge of a country who does not put to death the one who sins against him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.13",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 13,
+          "text": "Another holds a dagger in his right hand and a battleax itself, but he cannot defend himself from war and robbers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Another holds a dagger in his right hand and a battleax itself, but he cannot defend himself from war and robbers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.14",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 14,
+          "text": "From this, it is evident they are not gods; therefore, do not fear them.† Useless, Lifeless",
+          "structured": {
+            "tokens": [
+              {
+                "text": "From this, it is evident they are not gods; therefore, do not fear them.† Useless, Lifeless",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.15",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 15,
+          "text": "For as the vessel of a man is shattered and becomes useless, such are their gods as they sit in their temples.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For as the vessel of a man is shattered and becomes useless, such are their gods as they sit in their temples.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.16",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 16,
+          "text": "Their eyes are full of dust from the feet of those who enter.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Their eyes are full of dust from the feet of those who enter.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.17",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 17,
+          "text": "As courtyards are fenced all around against someone who offends a king, and thus is awaiting the death penalty, so the priests also fortify the temples of their gods with doors, bars, and bolts, lest they be plundered by robbers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As courtyards are fenced all around against someone who offends a king, and thus is awaiting the death penalty, so the priests also fortify the temples of their gods with doors, bars, and bolts, lest they be plundered by robbers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.18",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 18,
+          "text": "Although their gods cannot see for themselves, they burn many lamps for them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Although their gods cannot see for themselves, they burn many lamps for them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.19",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 19,
+          "text": "Indeed, as the saying goes, the gods are like a wooden beam in their temple, for their hearts are eaten out by the creeping things of the earth, which devour both them and their clothing;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed, as the saying goes, the gods are like a wooden beam in their temple, for their hearts are eaten out by the creeping things of the earth, which devour both them and their clothing;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.20",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 20,
+          "text": "and the face of their idols is blackened by the smoke from the temple; yet all this goes unnoticed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and the face of their idols is blackened by the smoke from the temple; yet all this goes unnoticed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.21",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 21,
+          "text": "Bats, swallows, and other birds also perch on their body and head, and even cats likewise sit there.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Bats, swallows, and other birds also perch on their body and head, and even cats likewise sit there.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.22",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 22,
+          "text": "So know from this that they are not gods; therefore, do not fear them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So know from this that they are not gods; therefore, do not fear them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.23",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 23,
+          "text": "As for the gold worn by the idols for beauty, unless someone wipes off the scum, it does not shine; neither did they notice this when they were formed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As for the gold worn by the idols for beauty, unless someone wipes off the scum, it does not shine; neither did they notice this when they were formed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.24",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 24,
+          "text": "Although they are bought at a high price, there is no spirit in them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Although they are bought at a high price, there is no spirit in them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.25",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 25,
+          "text": "Since they are without feet, they must be carried on the shoulders of others, which demonstrates the disgrace of these idols before mankind. Moreover, those who serve them are put to shame, because if the idol happens to fall to the ground, it must be lifted up by them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Since they are without feet, they must be carried on the shoulders of others, which demonstrates the disgrace of these idols before mankind. Moreover, those who serve them are put to shame, because if the idol happens to fall to the ground, it must be lifted up by them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.26",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 26,
+          "text": "Even if someone should stand it upright, it would not move by itself, nor if it were bent over, it would not straighten up; yet gifts are offered to it by them as to the dead.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even if someone should stand it upright, it would not move by itself, nor if it were bent over, it would not straighten up; yet gifts are offered to it by them as to the dead.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.27",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 27,
+          "text": "But the priests sell their sacrifices to make full use of this money for themselves. Likewise even their wives preserve the meat offered them, though neither the poor nor the lame are given a share; and even a woman in her menstruation, or one just giving birth, touches them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the priests sell their sacrifices to make full use of this money for themselves. Likewise even their wives preserve the meat offered them, though neither the poor nor the lame are given a share; and even a woman in her menstruation, or one just giving birth, touches them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.28",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 28,
+          "text": "Since you know from this that they are not gods, therefore, do not fear them. False Priests",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Since you know from this that they are not gods, therefore, do not fear them. False Priests",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.29",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 29,
+          "text": "How then can these be called gods? For women serve offerings to these gods of silver, gold, and wood.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How then can these be called gods? For women serve offerings to these gods of silver, gold, and wood.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "False Priests",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.30",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 30,
+          "text": "Even the priests sit in their temples, and their clothes are torn. Their heads and beards are also closely shaven and uncovered",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even the priests sit in their temples, and their clothes are torn. Their heads and beards are also closely shaven and uncovered",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.31",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 31,
+          "text": "as they roar and shout before their gods, as some do at a feast.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as they roar and shout before their gods, as some do at a feast.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.32",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 32,
+          "text": "The priests take the garments of their idols to clothe their wives and children.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The priests take the garments of their idols to clothe their wives and children.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.33",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 33,
+          "text": "Whether these gods may suffer evil by someone or even good, they will not be able to repay either. Even more, they are not capable of raising up a king, nor do they have the power to remove one.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Whether these gods may suffer evil by someone or even good, they will not be able to repay either. Even more, they are not capable of raising up a king, nor do they have the power to remove one.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.34",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 34,
+          "text": "Likewise they are unable to give wealth or money to anyone. Moreover if someone makes a vow to them but does not pay it, they will not seek payment from him.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise they are unable to give wealth or money to anyone. Moreover if someone makes a vow to them but does not pay it, they will not seek payment from him.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.35",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 35,
+          "text": "They cannot deliver a man from death, nor rescue the weak from the strong.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They cannot deliver a man from death, nor rescue the weak from the strong.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.36",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 36,
+          "text": "They cannot restore the sight of a blind man, nor rescue someone in distress, nor deliver anyone in trouble.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They cannot restore the sight of a blind man, nor rescue someone in distress, nor deliver anyone in trouble.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.37",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 37,
+          "text": "They cannot show mercy to a widow, nor do good to the orphan.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They cannot show mercy to a widow, nor do good to the orphan.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.38",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 38,
+          "text": "These wooden idols, plated with silver and gold, are likened to stones on a mountain, and those who serve them will be put to shame.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These wooden idols, plated with silver and gold, are likened to stones on a mountain, and those who serve them will be put to shame.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.39",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 39,
+          "text": "How then can anyone suppose them to be gods, or call them such? Undiscerning Chaldeans",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How then can anyone suppose them to be gods, or call them such? Undiscerning Chaldeans",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.40",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 40,
+          "text": "Besides, even the Chaldeans themselves dishonor them, for when they see someone without the power of speech, they bring him to Bel. They consider it worthy to call out to him, as though he could understand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Besides, even the Chaldeans themselves dishonor them, for when they see someone without the power of speech, they bring him to Bel. They consider it worthy to call out to him, as though he could understand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Undiscerning Chaldeans",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.41",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 41,
+          "text": "Yet they themselves do not understand so as to abandon their idols, for they have no discernment.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet they themselves do not understand so as to abandon their idols, for they have no discernment.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.42",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 42,
+          "text": "The women also put cords around themselves and sit in the streets, burning corn as incense.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The women also put cords around themselves and sit in the streets, burning corn as incense.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.43",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 43,
+          "text": "When one of these women is led off by some passerby and sleeps with him, she insults her neighbor because she was not as desirable as herself, nor was her cord broken.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When one of these women is led off by some passerby and sleeps with him, she insults her neighbor because she was not as desirable as herself, nor was her cord broken.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.44",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 44,
+          "text": "Everything to do with these idols is a lie. How then can anyone suppose them to be gods, or call them such? Idols Are a Disgrace",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Everything to do with these idols is a lie. How then can anyone suppose them to be gods, or call them such? Idols Are a Disgrace",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.45",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 45,
+          "text": "They are fashioned by craftsmen and goldsmiths. They cannot be anything but what the craftsmen desire them to be.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They are fashioned by craftsmen and goldsmiths. They cannot be anything but what the craftsmen desire them to be.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Idols Are a Disgrace",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.46",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 46,
+          "text": "Even those who fashion them do not attain a long life; therefore, how can the things created by them be gods?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even those who fashion them do not attain a long life; therefore, how can the things created by them be gods?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.47",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 47,
+          "text": "For they leave behind lies and a disgrace for those who come after.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they leave behind lies and a disgrace for those who come after.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.48",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 48,
+          "text": "Indeed, when war and calamities fall upon them, the priests counsel among themselves so they may hide themselves with them.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed, when war and calamities fall upon them, the priests counsel among themselves so they may hide themselves with them.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.49",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 49,
+          "text": "How then is it not perceived that they are not gods, who can neither save themselves from war nor calamities?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How then is it not perceived that they are not gods, who can neither save themselves from war nor calamities?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.50",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 50,
+          "text": "For they are wood, plated with silver and gold,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they are wood, plated with silver and gold,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.51",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 51,
+          "text": "and it will become known and evident in due time to the Gentiles and their kings that they are false and not gods, but rather the works of men's hands. There is nothing of God's work in them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and it will become known and evident in due time to the Gentiles and their kings that they are false and not gods, but rather the works of men's hands. There is nothing of God's work in them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.52",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 52,
+          "text": "Who then can fail to know that they are not gods?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who then can fail to know that they are not gods?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.53",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 53,
+          "text": "For they cannot raise up a king for a country, nor can they give mankind rain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they cannot raise up a king for a country, nor can they give mankind rain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.54",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 54,
+          "text": "They cannot decide a case, nor can they help one who is wronged; for they are like crows tossed about in the air.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They cannot decide a case, nor can they help one who is wronged; for they are like crows tossed about in the air.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.55",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 55,
+          "text": "Indeed, when a fire breaks out in the temple of these wooden gods, plated with silver or gold, their priests will run and save themselves, but these beams of wood in the midst will be burned up.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed, when a fire breaks out in the temple of these wooden gods, plated with silver or gold, their priests will run and save themselves, but these beams of wood in the midst will be burned up.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.56",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 56,
+          "text": "They offer no resistance against a king or in a war.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They offer no resistance against a king or in a war.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.57",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 57,
+          "text": "How then can one admit or suppose that they are gods?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How then can one admit or suppose that they are gods?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.58",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 58,
+          "text": "Neither can wooden gods save themselves from thieves or robbers, since they are plated with silver and gold. For those who are strong will take away their silver and gold and the clothing they wear. Nor can they help themselves.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Neither can wooden gods save themselves from thieves or robbers, since they are plated with silver and gold. For those who are strong will take away their silver and gold and the clothing they wear. Nor can they help themselves.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.59",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 59,
+          "text": "So it is better to be a king able to demonstrate his own courage, or a household utensil that is useful to its owner, than to be false gods. It is better to be a wooden pillar in a palace than to be false gods.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So it is better to be a king able to demonstrate his own courage, or a household utensil that is useful to its owner, than to be false gods. It is better to be a wooden pillar in a palace than to be false gods.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.60",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 60,
+          "text": "For indeed the sun, moon, and stars that shine brightly are sent for a useful purpose, and they obey.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For indeed the sun, moon, and stars that shine brightly are sent for a useful purpose, and they obey.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.61",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 61,
+          "text": "Likewise, when lightning flashes it is seen far and wide, and the wind blows in every country.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise, when lightning flashes it is seen far and wide, and the wind blows in every country.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.62",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 62,
+          "text": "So too, when God commands the clouds to travel across the whole earth, they fulfill what is commanded. So does fire when it is sent from above to consume the mountains and forests, and does what is ordered.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So too, when God commands the clouds to travel across the whole earth, they fulfill what is commanded. So does fire when it is sent from above to consume the mountains and forests, and does what is ordered.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.63",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 63,
+          "text": "But idols cannot be compared to any of this, either in power or appearance.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But idols cannot be compared to any of this, either in power or appearance.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.64",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 64,
+          "text": "Therefore they are not to be considered as gods, nor as able to make judgments, nor to be good for mankind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore they are not to be considered as gods, nor as able to make judgments, nor to be good for mankind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.65",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 65,
+          "text": "So then, since you know they are not gods, do not fear them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So then, since you know they are not gods, do not fear them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.66",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 66,
+          "text": "For they can neither curse nor bless kings.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they can neither curse nor bless kings.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.67",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 67,
+          "text": "They cannot show signs in heaven to the Gentiles, so as to shine like the sun or give light like the moon.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They cannot show signs in heaven to the Gentiles, so as to shine like the sun or give light like the moon.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.68",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 68,
+          "text": "The wild animals are superior to them, for they are able to flee for shelter to profit themselves.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The wild animals are superior to them, for they are able to flee for shelter to profit themselves.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.69",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 69,
+          "text": "Therefore, there is no evidence to prove that they are gods, so do not fear them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, there is no evidence to prove that they are gods, so do not fear them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.70",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 70,
+          "text": "For like a scarecrow in a garden of cucumbers, guarding nothing worthwhile, so are their wooden gods, plated with silver and gold.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For like a scarecrow in a garden of cucumbers, guarding nothing worthwhile, so are their wooden gods, plated with silver and gold.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.71",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 71,
+          "text": "They are like a thorn bush in a garden on which every bird perches, and they are like a dead man cast into darkness. Such are their wooden gods, plated with silver and gold.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They are like a thorn bush in a garden on which every bird perches, and they are like a dead man cast into darkness. Such are their wooden gods, plated with silver and gold.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.72",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 72,
+          "text": "Because of the purple and fine linen rotting on them, you will know that they themselves are not gods. Afterwards, they will be consumed, and become a disgrace in the land.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because of the purple and fine linen rotting on them, you will know that they themselves are not gods. Afterwards, they will be consumed, and become a disgrace in the land.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "BAR.6.73",
+          "book": "BAR",
+          "chapter": 6,
+          "verse": 73,
+          "text": "Better therefore is a man who is righteous and has no idols, for he shall be far from disgrace.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Better therefore is a man who is righteous and has no idols, for he shall be far from disgrace.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Idols Dressed Like People",
+          "level": 2
+        },
+        {
+          "beforeVerse": 29,
+          "text": "False Priests",
+          "level": 2
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Undiscerning Chaldeans",
+          "level": 2
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Idols Are a Disgrace",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T15:22:38.135600+00:00"
+    }
+  }
+}

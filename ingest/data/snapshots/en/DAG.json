@@ -1,0 +1,2374 @@
+{
+  "usfm": "DAG",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "DAG",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "DAG.1.1",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 1,
+          "text": "There was a man living in Babylon, and his name was Jehoiakim.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There was a man living in Babylon, and his name was Jehoiakim.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.2",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 2,
+          "text": "He took a wife whose name was Susanna, the daughter of Hilkiah, a very beautiful woman and one who feared the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He took a wife whose name was Susanna, the daughter of Hilkiah, a very beautiful woman and one who feared the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.3",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Her parents were righteous and taught their daughter according to the Law of Moses.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her parents were righteous and taught their daughter according to the Law of Moses.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.4",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Jehoiakim was exceedingly wealthy, with a spacious garden adjoining his house, and the Jews came to him because he was the most honored of them all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Jehoiakim was exceedingly wealthy, with a spacious garden adjoining his house, and the Jews came to him because he was the most honored of them all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.5",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 5,
+          "text": "In that year, two elders from the people were appointed as judges, concerning whom the Lord said, “Lawlessness came forth out of Babylon from the elders who were judges, who were supposed to govern the people.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that year, two elders from the people were appointed as judges, concerning whom the Lord said, “Lawlessness came forth out of Babylon from the elders who were judges, who were supposed to govern the people.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.6",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 6,
+          "text": "These men were frequently at Jehoiakim's house, and all who had judgments came to them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These men were frequently at Jehoiakim's house, and all who had judgments came to them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.7",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 7,
+          "text": "Now when the people departed at midday, Susanna would go into her husband's garden to walk.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now when the people departed at midday, Susanna would go into her husband's garden to walk.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.8",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 8,
+          "text": "So the two elders would see her going in and walking about every day, and they desired her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the two elders would see her going in and walking about every day, and they desired her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.9",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 9,
+          "text": "They turned away their heart and averted their eyes from looking to heaven, and from remembering righteous judgments. †",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They turned away their heart and averted their eyes from looking to heaven, and from remembering righteous judgments. †",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.10",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Both were pierced to the heart for her, but they did not tell each other their pain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Both were pierced to the heart for her, but they did not tell each other their pain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.11",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 11,
+          "text": "They were ashamed to inform one another of their desire, because they wished to have relations with her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They were ashamed to inform one another of their desire, because they wished to have relations with her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.12",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 12,
+          "text": "So every day they eagerly watched to see her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So every day they eagerly watched to see her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.13",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Finally they said to one another, “Let us go home, for it is time for the midday meal,” and going out, they parted from each other.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Finally they said to one another, “Let us go home, for it is time for the midday meal,” and going out, they parted from each other.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.14",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 14,
+          "text": "But turning back, they met again, and when they pressured each other for the reason, they confessed their desire. Together they arranged for a time they could find her alone.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But turning back, they met again, and when they pressured each other for the reason, they confessed their desire. Together they arranged for a time they could find her alone.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.15",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Then it came to pass, while they were waiting for an opportune day, she went in as before with only two maids. She also wished to bathe in the garden, for it was hot.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then it came to pass, while they were waiting for an opportune day, she went in as before with only two maids. She also wished to bathe in the garden, for it was hot.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.16",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 16,
+          "text": "For no one was there except the two elders, who hid themselves and were watching her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For no one was there except the two elders, who hid themselves and were watching her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.17",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 17,
+          "text": "She said to her maids, “Bring me oil and ointments, and shut the doors of the garden, that I may bathe.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She said to her maids, “Bring me oil and ointments, and shut the doors of the garden, that I may bathe.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.18",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 18,
+          "text": "They did as she said and closed the garden doors. They went out by the side doors to bring the things commanded, but did not see the elders, because they were hidden.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They did as she said and closed the garden doors. They went out by the side doors to bring the things commanded, but did not see the elders, because they were hidden.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.19",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 19,
+          "text": "When the maids left, the two elders arose and ran to her,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When the maids left, the two elders arose and ran to her,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.20",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 20,
+          "text": "and said, “Look, the doors of the garden are closed, and no one will see us, and we desire you. Therefore give us your consent and lie with us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and said, “Look, the doors of the garden are closed, and no one will see us, and we desire you. Therefore give us your consent and lie with us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.21",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 21,
+          "text": "If you do not, we will testify that a young man was with you, and because of this you sent your maids away from you.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you do not, we will testify that a young man was with you, and because of this you sent your maids away from you.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.22",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 22,
+          "text": "Then Susanna sighed deeply and said, “I am hemmed in on all sides, for if I do this thing, it is death for me; yet if I do not, I will not escape your hands.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Susanna sighed deeply and said, “I am hemmed in on all sides, for if I do this thing, it is death for me; yet if I do not, I will not escape your hands.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.23",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 23,
+          "text": "But it is better for me not to do it and to fall into your hands, than to sin against the Lord.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But it is better for me not to do it and to fall into your hands, than to sin against the Lord.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.24",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 24,
+          "text": "Then Susanna cried out with a loud voice, and the two elders cried out against her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Susanna cried out with a loud voice, and the two elders cried out against her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.25",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 25,
+          "text": "One of them ran and opened the garden doors.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "One of them ran and opened the garden doors.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.26",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 26,
+          "text": "When the household servants heard the cry in the garden, they rushed in by the side doors to see what had happened to her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When the household servants heard the cry in the garden, they rushed in by the side doors to see what had happened to her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.27",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 27,
+          "text": "So when the elders told their tale, the servants were deeply ashamed, for such a report had never been made about Susanna.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So when the elders told their tale, the servants were deeply ashamed, for such a report had never been made about Susanna.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.28",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 28,
+          "text": "Then it came to pass the next day, when the people assembled at the house of Jehoiakim, her husband, the two elders also came full of their lawless purpose against Susanna, to have her put to death. They said before all the people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then it came to pass the next day, when the people assembled at the house of Jehoiakim, her husband, the two elders also came full of their lawless purpose against Susanna, to have her put to death. They said before all the people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.29",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 29,
+          "text": "“Send for Susanna the daughter of Hilkiah, who is the wife of Jehoiakim.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Send for Susanna the daughter of Hilkiah, who is the wife of Jehoiakim.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.30",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 30,
+          "text": "So they sent for her, and she came with her parents, her children, and all her kindred.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So they sent for her, and she came with her parents, her children, and all her kindred.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.31",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 31,
+          "text": "Now Susanna was very desirable and beautiful to behold.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Susanna was very desirable and beautiful to behold.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.32",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 32,
+          "text": "However, she was veiled; thus the lawless men commanded she be unveiled, so as to enjoy her beauty.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "However, she was veiled; thus the lawless men commanded she be unveiled, so as to enjoy her beauty.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.33",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 33,
+          "text": "But her friends and all who saw her wept.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But her friends and all who saw her wept.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.34",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 34,
+          "text": "Then the two elders arose in the midst of the people and laid their hands upon her head.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the two elders arose in the midst of the people and laid their hands upon her head.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.35",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 35,
+          "text": "She wept and looked up to heaven; for her heart trusted in the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She wept and looked up to heaven; for her heart trusted in the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.36",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 36,
+          "text": "The two elders said, “As we were walking in the garden alone, this woman came in with two maids, closed the doors of the garden, and dismissed the maids.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The two elders said, “As we were walking in the garden alone, this woman came in with two maids, closed the doors of the garden, and dismissed the maids.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.37",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 37,
+          "text": "Then a young man who was hidden came to her and lay with her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then a young man who was hidden came to her and lay with her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.38",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 38,
+          "text": "Now we were in a corner of the garden and saw this lawlessness. So we ran to them and saw them having relations.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now we were in a corner of the garden and saw this lawlessness. So we ran to them and saw them having relations.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.39",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 39,
+          "text": "But we could not hold the man, for he was stronger than we. He then opened the doors and rushed out.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But we could not hold the man, for he was stronger than we. He then opened the doors and rushed out.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.40",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 40,
+          "text": "So we seized this woman and asked her who the young man was,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So we seized this woman and asked her who the young man was,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.41",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 41,
+          "text": "but she was unwilling to tell us.” Thus the assembly believed them, as they were elders and judges among the people. So they condemned her to death.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but she was unwilling to tell us.” Thus the assembly believed them, as they were elders and judges among the people. So they condemned her to death.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.42",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 42,
+          "text": "But Susanna cried out with a loud voice and said, “O eternal God, who know both what is secret and all things before they come to be,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But Susanna cried out with a loud voice and said, “O eternal God, who know both what is secret and all things before they come to be,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.43",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 43,
+          "text": "You know these men testified against me falsely, and behold, I shall die, though I did none of the things they wickedly invented against me.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You know these men testified against me falsely, and behold, I shall die, though I did none of the things they wickedly invented against me.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.44",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 44,
+          "text": "The Lord heard her voice,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord heard her voice,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.45",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 45,
+          "text": "and as she was being led away to be put to death, God aroused the holy spirit of a young boy, whose name was Daniel.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and as she was being led away to be put to death, God aroused the holy spirit of a young boy, whose name was Daniel.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.46",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 46,
+          "text": "He cried out with a loud voice, “I am innocent of the blood of this woman.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He cried out with a loud voice, “I am innocent of the blood of this woman.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.47",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 47,
+          "text": "So all the people turned to him and said, “What is this thing you said?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So all the people turned to him and said, “What is this thing you said?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.48",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 48,
+          "text": "Then he stood in their midst and said, “Are you such fools, O sons of Israel? Without examination or knowledge of the evidence, have you condemned a daughter of Israel?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he stood in their midst and said, “Are you such fools, O sons of Israel? Without examination or knowledge of the evidence, have you condemned a daughter of Israel?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.49",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 49,
+          "text": "Return to the place of judgment, for these men testified against her falsely.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Return to the place of judgment, for these men testified against her falsely.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.50",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 50,
+          "text": "So all the people returned with haste. The elders said to him, “Come, sit in our midst and inform us, for God gives you that privilege.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So all the people returned with haste. The elders said to him, “Come, sit in our midst and inform us, for God gives you that privilege.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.51",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 51,
+          "text": "Daniel then said to them, “Separate them far from each other, and I will examine them.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel then said to them, “Separate them far from each other, and I will examine them.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.52",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 52,
+          "text": "When they were separated from each other, he summoned one of them and said to him, “You old man of evil days, now the sins you committed in earlier days have come home;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When they were separated from each other, he summoned one of them and said to him, “You old man of evil days, now the sins you committed in earlier days have come home;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.53",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 53,
+          "text": "for you pronounce unjust judgments, condemn the innocent, and set the guilty free. Yet the Lord said, ‘You shall not kill the innocent and the righteous.’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for you pronounce unjust judgments, condemn the innocent, and set the guilty free. Yet the Lord said, ‘You shall not kill the innocent and the righteous.’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.54",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 54,
+          "text": "Now then, if indeed you saw her, tell me, under which tree did you see them being intimate with each other?” He replied, “Under a mastic tree.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now then, if indeed you saw her, tell me, under which tree did you see them being intimate with each other?” He replied, “Under a mastic tree.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.55",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 55,
+          "text": "Daniel then said, “Plainly, you lied against your own head, for even now the angel of God receives the sentence from God, and he shall cut you in two.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel then said, “Plainly, you lied against your own head, for even now the angel of God receives the sentence from God, and he shall cut you in two.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.56",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 56,
+          "text": "Then he removed him, and commanded them to bring the other. He said to him, “You seed of Canaan and not of Judah, beauty deceived you, and desire turned away your heart.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he removed him, and commanded them to bring the other. He said to him, “You seed of Canaan and not of Judah, beauty deceived you, and desire turned away your heart.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.57",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 57,
+          "text": "This is how both of you deal with the daughters of Israel, and they have been intimate with you through fear; but a daughter of Judah would not endure your lawlessness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is how both of you deal with the daughters of Israel, and they have been intimate with you through fear; but a daughter of Judah would not endure your lawlessness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.58",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 58,
+          "text": "Now then, tell me, under what tree did you catch them being intimate with each other?” He replied, “Under the evergreen oak.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now then, tell me, under what tree did you catch them being intimate with each other?” He replied, “Under the evergreen oak.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.59",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 59,
+          "text": "Daniel said to him, “Plainly, you also lied against your own head, for the angel of God is waiting with his sword to cut you in two, that he may destroy both of you.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel said to him, “Plainly, you also lied against your own head, for the angel of God is waiting with his sword to cut you in two, that he may destroy both of you.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.60",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 60,
+          "text": "Then the whole assembly cried out with a loud voice and blessed God, who saves those who hope in Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the whole assembly cried out with a loud voice and blessed God, who saves those who hope in Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.61",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 61,
+          "text": "So they rose up against the two elders, for Daniel convicted them out of their own mouth of bearing false witness; and they did to them the thing they maliciously intended to do against their neighbor.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So they rose up against the two elders, for Daniel convicted them out of their own mouth of bearing false witness; and they did to them the thing they maliciously intended to do against their neighbor.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.62",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 62,
+          "text": "For acting in accordance with the Law of Moses, they put them to death. Therefore innocent blood was saved on that day.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For acting in accordance with the Law of Moses, they put them to death. Therefore innocent blood was saved on that day.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.63",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 63,
+          "text": "Hilkiah and his wife praised God for their daughter, with Jehoiakim her husband and all her kindred, because nothing shameful was found in her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hilkiah and his wife praised God for their daughter, with Jehoiakim her husband and all her kindred, because nothing shameful was found in her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.64",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 64,
+          "text": "Thus Daniel had a great reputation among the people from that day onward. Daniel Daniel and His Companions Obey God In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus Daniel had a great reputation among the people from that day onward. Daniel Daniel and His Companions Obey God In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-04T14:39:04.703100+00:00"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "DAG",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "DAG.2.1",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 1,
+          "text": "When King Astyages was gathered to his fathers, Cyrus of Persia received his kingdom.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When King Astyages was gathered to his fathers, Cyrus of Persia received his kingdom.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.2",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 2,
+          "text": "Daniel was a confidant of the king and was honored above all his friends.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel was a confidant of the king and was honored above all his friends.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.3",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Now the Babylonians had an idol whose name was Bel, and every day they spent on it twelve bushels of fine flour, forty sheep, and six vessels of wine.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the Babylonians had an idol whose name was Bel, and every day they spent on it twelve bushels of fine flour, forty sheep, and six vessels of wine.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.4",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 4,
+          "text": "The king adored it and went every day to worship it; but Daniel worshiped his own God. So the king asked him, “Why do you not worship Bel?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king adored it and went every day to worship it; but Daniel worshiped his own God. So the king asked him, “Why do you not worship Bel?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.5",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Daniel answered, “Because I do not worship idols made with hands, but only the living God who created heaven and earth and has dominion over all flesh.”†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel answered, “Because I do not worship idols made with hands, but only the living God who created heaven and earth and has dominion over all flesh.”†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.6",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 6,
+          "text": "The king said to him, “Do you not think Bel is a living god? Do you not see how much he eats and drinks every day?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king said to him, “Do you not think Bel is a living god? Do you not see how much he eats and drinks every day?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.7",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 7,
+          "text": "Daniel smiled and said, “Do not be deceived, O king, for it is but clay inside and bronze outside, and it has never eaten or drunk anything.”† Bel Is Deposed",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel smiled and said, “Do not be deceived, O king, for it is but clay inside and bronze outside, and it has never eaten or drunk anything.”† Bel Is Deposed",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.8",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 8,
+          "text": "Very angry, the king summoned his priests and said to them, “If you do not tell me who it is that consumes these provisions, you shall die.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Very angry, the king summoned his priests and said to them, “If you do not tell me who it is that consumes these provisions, you shall die.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Bel Is Deposed",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.9",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 9,
+          "text": "But if you can prove Bel consumes them, then Daniel shall die, because he blasphemed against Bel.” So Daniel said to the king, “Let it be according to your word.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if you can prove Bel consumes them, then Daniel shall die, because he blasphemed against Bel.” So Daniel said to the king, “Let it be according to your word.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.10",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Now there were seventy priests of Bel, besides their wives and children, and the king went with Daniel into the temple.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now there were seventy priests of Bel, besides their wives and children, and the king went with Daniel into the temple.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.11",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Then the priests of Bel said, “Look, we will step outside. You, O king, set out the food and prepare the wine, then shut the door and seal it with your signet.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the priests of Bel said, “Look, we will step outside. You, O king, set out the food and prepare the wine, then shut the door and seal it with your signet.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.12",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 12,
+          "text": "If you do not find Bel has eaten it all when you come tomorrow, we will suffer death —or else Daniel shall die, who speaks lies against us.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you do not find Bel has eaten it all when you come tomorrow, we will suffer death —or else Daniel shall die, who speaks lies against us.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.13",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 13,
+          "text": "They were unconcerned, for under the table they had made a secret entrance through which they always came in to consume the provisions.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They were unconcerned, for under the table they had made a secret entrance through which they always came in to consume the provisions.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.14",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 14,
+          "text": "So when they had all gone, the king set out the food for Bel. And Daniel ordered his servants to bring in ashes, which they sprinkled throughout all the temple in the presence of the king alone. Then they went out, shut the door, sealed it with the king's signet, and departed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So when they had all gone, the king set out the food for Bel. And Daniel ordered his servants to bring in ashes, which they sprinkled throughout all the temple in the presence of the king alone. Then they went out, shut the door, sealed it with the king's signet, and departed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.15",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 15,
+          "text": "During the night the priests came with their wives and children, as they usually did, and ate and drank everything.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "During the night the priests came with their wives and children, as they usually did, and ate and drank everything.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.16",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 16,
+          "text": "The king rose early the next morning, and Daniel with him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king rose early the next morning, and Daniel with him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.17",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Then the king said, “Are the seals intact, Daniel?” Daniel answered, “They are intact, O king.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king said, “Are the seals intact, Daniel?” Daniel answered, “They are intact, O king.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.18",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 18,
+          "text": "As soon as the doors were opened, the king looked at the table and cried out in a loud voice, “Great are you, O Bel, and with you there is no deceit at all.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As soon as the doors were opened, the king looked at the table and cried out in a loud voice, “Great are you, O Bel, and with you there is no deceit at all.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.19",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 19,
+          "text": "Then Daniel laughed and restrained the king from going in. He said, “Look at the floor, and notice whose footprints these are.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Daniel laughed and restrained the king from going in. He said, “Look at the floor, and notice whose footprints these are.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.20",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 20,
+          "text": "The king replied, “I see the footprints of men, women, and children.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king replied, “I see the footprints of men, women, and children.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.21",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 21,
+          "text": "With great anger, the king seized the priests and their wives and children, and they showed him the hidden doors where they came in and consumed such things as were upon the table.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "With great anger, the king seized the priests and their wives and children, and they showed him the hidden doors where they came in and consumed such things as were upon the table.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.22",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 22,
+          "text": "Therefore the king put them to death and handed Bel over to Daniel, who destroyed it and its temple. The Serpent Is Destroyed",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the king put them to death and handed Bel over to Daniel, who destroyed it and its temple. The Serpent Is Destroyed",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.23",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 23,
+          "text": "There was also a large serpent the people of Babylon worshiped.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There was also a large serpent the people of Babylon worshiped.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Serpent Is Destroyed",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.24",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 24,
+          "text": "So the king said to Daniel, “Will you also say this is made of bronze? Look, he lives, he eats, and he drinks—you cannot say he is no living god. Therefore worship him.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the king said to Daniel, “Will you also say this is made of bronze? Look, he lives, he eats, and he drinks—you cannot say he is no living god. Therefore worship him.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.25",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 25,
+          "text": "Daniel replied, “I will worship the Lord my God; for He is the living God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel replied, “I will worship the Lord my God; for He is the living God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.26",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 26,
+          "text": "But with your permission, O king, I shall slay this serpent without sword or staff.” The king said, “I will give my permission.”†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But with your permission, O king, I shall slay this serpent without sword or staff.” The king said, “I will give my permission.”†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.27",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 27,
+          "text": "Then Daniel took pitch, tar, and hair; these he boiled together and made cakes, and put them in the mouth of the serpent. The serpent ate them and burst open. Then Daniel said, “Behold the things you have been worshiping.” Daniel Is Vindicated",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Daniel took pitch, tar, and hair; these he boiled together and made cakes, and put them in the mouth of the serpent. The serpent ate them and burst open. Then Daniel said, “Behold the things you have been worshiping.” Daniel Is Vindicated",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.28",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 28,
+          "text": "Now when the people of Babylon heard what had been done, they were indignant and conspired against the king, saying, “The king has become a Jew; he has destroyed Bel, slain the serpent, and put the priests to death.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now when the people of Babylon heard what had been done, they were indignant and conspired against the king, saying, “The king has become a Jew; he has destroyed Bel, slain the serpent, and put the priests to death.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Daniel Is Vindicated",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.29",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 29,
+          "text": "Going to the king, they said, “Deliver Daniel to us, or else we will destroy you and your house.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Going to the king, they said, “Deliver Daniel to us, or else we will destroy you and your house.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.30",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 30,
+          "text": "Now when the king saw they were pressing him hard, he handed Daniel over to them under compulsion.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now when the king saw they were pressing him hard, he handed Daniel over to them under compulsion.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.31",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 31,
+          "text": "They threw Daniel into the lions’ den, where he was left for six days.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They threw Daniel into the lions’ den, where he was left for six days.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.32",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 32,
+          "text": "Now there were seven lions in the den, and they had to give them two carcasses every day and two sheep. But these things were not given to them now, so they might devour Daniel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now there were seven lions in the den, and they had to give them two carcasses every day and two sheep. But these things were not given to them now, so they might devour Daniel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.33",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 33,
+          "text": "Now the prophet Habakkuk was in Judea. He had made a stew and had broken bread into a bowl, and was going to the fields to take it to the reapers.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the prophet Habakkuk was in Judea. He had made a stew and had broken bread into a bowl, and was going to the fields to take it to the reapers.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.34",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 34,
+          "text": "But the angel of the Lord said unto Habakkuk, “Go, carry the dinner you have into Babylon to Daniel, who is in the lions’ den.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the angel of the Lord said unto Habakkuk, “Go, carry the dinner you have into Babylon to Daniel, who is in the lions’ den.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.35",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 35,
+          "text": "Habakkuk said, “O Lord, I have never seen Babylon, nor do I know the den.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Habakkuk said, “O Lord, I have never seen Babylon, nor do I know the den.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.36",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 36,
+          "text": "Then the angel of the Lord took him by the crown, and carried him by the hair of his head, and with the speed of the wind set him in Babylon over the den.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the angel of the Lord took him by the crown, and carried him by the hair of his head, and with the speed of the wind set him in Babylon over the den.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.37",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 37,
+          "text": "Habakkuk cried out, saying, “O Daniel, Daniel, take the meal God has sent you.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Habakkuk cried out, saying, “O Daniel, Daniel, take the meal God has sent you.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.38",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 38,
+          "text": "Daniel said, “You have remembered me, O God, and You have not forsaken those who love You.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Daniel said, “You have remembered me, O God, and You have not forsaken those who love You.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.39",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 39,
+          "text": "So Daniel arose and ate; and the angel of the Lord immediately set Habakkuk down in his own place once more.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Daniel arose and ate; and the angel of the Lord immediately set Habakkuk down in his own place once more.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.40",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 40,
+          "text": "After this, on the seventh day the king went to the lions’ den to mourn for Daniel, and he came to the pit and looked inside—and there sat Daniel.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "After this, on the seventh day the king went to the lions’ den to mourn for Daniel, and he came to the pit and looked inside—and there sat Daniel.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.41",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 41,
+          "text": "The king cried out with a loud voice, “Great are You, O Lord God of Daniel, and there is no other besides You.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king cried out with a loud voice, “Great are You, O Lord God of Daniel, and there is no other besides You.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.42",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 42,
+          "text": "Then he drew him out of the den, and cast in those who had plotted Daniel's destruction; and they were devoured in a moment before his face.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he drew him out of the den, and cast in those who had plotted Daniel's destruction; and they were devoured in a moment before his face.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Bel Is Deposed",
+          "level": 2
+        },
+        {
+          "beforeVerse": 23,
+          "text": "The Serpent Is Destroyed",
+          "level": 2
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Daniel Is Vindicated",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T14:39:04.709464+00:00"
+    }
+  }
+}

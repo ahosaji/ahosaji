@@ -1,0 +1,2702 @@
+{
+  "usfm": "MIC",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "MIC",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "MIC.1.1",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The word of the Lord that came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The word of the Lord that came to Micah of Moresheth in the days of Jotham, Ahaz, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment on Israel and Judah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.2",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Hear, all you peoples!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear, all you peoples!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Coming Judgment on Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.3",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 3,
+          "text": "For behold, the Lord is coming out of His place;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For behold, the Lord is coming out of His place;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.4",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 4,
+          "text": "The mountains will melt under Him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The mountains will melt under Him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.5",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 5,
+          "text": "All this is for the transgression of Jacob",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All this is for the transgression of Jacob",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.6",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 6,
+          "text": "“Therefore I will make Samaria a heap of ruins in the field,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore I will make Samaria a heap of ruins in the field,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.7",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 7,
+          "text": "All her carved images shall be beaten to pieces,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All her carved images shall be beaten to pieces,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.8",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Therefore I will wail and howl,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I will wail and howl,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Mourning for Israel and Judah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.9",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 9,
+          "text": "For her wounds are incurable.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For her wounds ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " incurable.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.10",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Tell it not in Gath,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Tell ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not in Gath,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.11",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Pass by in naked shame, you inhabitant of Shaphir;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Pass by in naked shame, you inhabitant of Shaphir;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. Beautiful"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.12",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 12,
+          "text": "For the inhabitant of Maroth pined for good,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the inhabitant of Maroth pined for good,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. Bitterness"
+              },
+              {
+                "marker": "e",
+                "text": "Lit. was sick"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.13",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 13,
+          "text": "O inhabitant of Lachish,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O inhabitant of Lachish,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.14",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Therefore you shall give presents to Moresheth Gath;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore you shall give presents to Moresheth Gath;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. Possession of Gath"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.15",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 15,
+          "text": "I will yet bring an heir to you, O inhabitant of Mareshah;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will yet bring an heir to you, O inhabitant of Mareshah;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. Inheritance"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.1.16",
+          "book": "MIC",
+          "chapter": 1,
+          "verse": 16,
+          "text": "Make yourself bald and cut off your hair,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Make yourself bald and cut off your hair,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Judgment on Israel and Judah",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Coming Judgment on Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Mourning for Israel and Judah",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:59.151Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "MIC",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "MIC.2.1",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Woe to those who devise iniquity,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to those who devise iniquity,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Woe to Evildoers",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.2",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 2,
+          "text": "They covet fields and take them by violence,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They covet fields and take ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by violence,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.3",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Therefore thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.4",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 4,
+          "text": "In that day one shall take up a proverb against you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " shall take up a proverb against you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.5",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Therefore you will have no one to determine boundaries by lot",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore you will have no one to determine boundaries by lot",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. one casting a surveyor’s line"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.6",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 6,
+          "text": "“Do not prattle,” you say to those who prophesy.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Do not prattle,” ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you say to those",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " who prophesy.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Or preach, lit. drip words"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Lying Prophets",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.7",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 7,
+          "text": "You who are named the house of Jacob:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You who are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " named the house of Jacob:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.8",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 8,
+          "text": "“Lately My people have risen up as an enemy—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Lately My people have risen up as an enemy—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.9",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 9,
+          "text": "The women of My people you cast out",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The women of My people you cast out",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.10",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 10,
+          "text": "“Arise and depart,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Arise and depart,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.11",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 11,
+          "text": "If a man should walk in a false spirit",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If a man should walk in a false spirit",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.12",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 12,
+          "text": "“I will surely assemble all of you, O Jacob,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will surely assemble all of you, O Jacob,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel Restored",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.2.13",
+          "book": "MIC",
+          "chapter": 2,
+          "verse": 13,
+          "text": "The one who breaks open will come up before them;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The one who breaks open will come up before them;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Woe to Evildoers",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Lying Prophets",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Israel Restored",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:00.670Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "MIC",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "MIC.3.1",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 1,
+          "text": "And I said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Wicked Rulers and Prophets",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.2",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 2,
+          "text": "You who hate good and love evil;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You who hate good and love evil;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.3",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Who also eat the flesh of My people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who also eat the flesh of My people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.4",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Then they will cry to the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then they will cry to the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.5",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Thus says the Lord concerning the prophets",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord concerning the prophets",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.6",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 6,
+          "text": "“Therefore you shall have night without vision,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore you shall have night without vision,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Prophetic revelation"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.7",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 7,
+          "text": "So the seers shall be ashamed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the seers shall be ashamed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.8",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 8,
+          "text": "But truly I am full of power by the Spirit of the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But truly I am full of power by the Spirit of the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.9",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Now hear this,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now hear this,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.10",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Who build up Zion with bloodshed",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who build up Zion with bloodshed",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.11",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Her heads judge for a bribe,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her heads judge for a bribe,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.3.12",
+          "book": "MIC",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Therefore because of you",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore because of you",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Wicked Rulers and Prophets",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:02.236Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "MIC",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "MIC.4.1",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now it shall come to pass in the latter days",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now it shall come to pass in the latter days",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Lord’s Reign in Zion(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.2",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 2,
+          "text": "Many nations shall come and say,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Many nations shall come and say,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.3",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 3,
+          "text": "He shall judge between many peoples,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He shall judge between many peoples,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.4",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 4,
+          "text": "But everyone shall sit under his vine and under his fig tree,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But everyone shall sit under his vine and under his fig tree,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.5",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 5,
+          "text": "For all people walk each in the name of his god,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For all people walk each in the name of his god,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.6",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 6,
+          "text": "“In that day,” says the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“In that day,” says the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Zion’s Future Triumph",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.7",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 7,
+          "text": "I will make the lame a remnant,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will make the lame a remnant,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.8",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 8,
+          "text": "And you, O tower of the flock,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And you, O tower of the flock,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.9",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 9,
+          "text": "Now why do you cry aloud?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now why do you cry aloud?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.10",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 10,
+          "text": "Be in pain, and labor to bring forth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be in pain, and labor to bring forth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.11",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Now also many nations have gathered against you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now also many nations have gathered against you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.12",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 12,
+          "text": "But they do not know the thoughts of the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But they do not know the thoughts of the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.4.13",
+          "book": "MIC",
+          "chapter": 4,
+          "verse": 13,
+          "text": "“Arise and thresh, O daughter of Zion;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Arise and thresh, O daughter of Zion;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Lord’s Reign in Zion(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Zion’s Future Triumph",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:03.803Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "MIC",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "MIC.5.1",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Now gather yourself in troops,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now gather yourself in troops,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Messiah Will Be Born at Bethlehem",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.2",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 2,
+          "text": "“But you, Bethlehem Ephrathah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But you, Bethlehem Ephrathah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Coming Messiah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.3",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 3,
+          "text": "Therefore He shall give them up,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore He shall give them up,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.4",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 4,
+          "text": "And He shall stand and feed His flock",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He shall stand and feed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "His flock",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "shepherd"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.5",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 5,
+          "text": "And this One shall be peace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "One",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " shall be peace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment on Israel’s Enemies",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.6",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 6,
+          "text": "They shall waste with the sword the land of Assyria,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They shall waste with the sword the land of Assyria,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "devastate"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.7",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Then the remnant of Jacob",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the remnant of Jacob",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.8",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 8,
+          "text": "And the remnant of Jacob",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the remnant of Jacob",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.9",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Your hand shall be lifted against your adversaries,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your hand shall be lifted against your adversaries,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.10",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 10,
+          "text": "“And it shall be in that day,” says the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And it shall be in that day,” says the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.11",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 11,
+          "text": "I will cut off the cities of your land",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will cut off the cities of your land",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.12",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 12,
+          "text": "I will cut off sorceries from your hand,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will cut off sorceries from your hand,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.13",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 13,
+          "text": "Your carved images I will also cut off,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your carved images I will also cut off,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.14",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 14,
+          "text": "I will pluck your wooden images from your midst;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will pluck your wooden images from your midst;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Heb. Asherim, Canaanite deities"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.5.15",
+          "book": "MIC",
+          "chapter": 5,
+          "verse": 15,
+          "text": "And I will execute vengeance in anger and fury",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I will execute vengeance in anger and fury",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Messiah Will Be Born at Bethlehem",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Coming Messiah",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Judgment on Israel’s Enemies",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:05.365Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "MIC",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "MIC.6.1",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 1,
+          "text": "Hear now what the Lord says:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear now what the Lord says:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God Pleads with Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.2",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 2,
+          "text": "Hear, O you mountains, the Lord’s complaint,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear, O you mountains, the Lord’s complaint,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.3",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 3,
+          "text": "“O My people, what have I done to you?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O My people, what have I done to you?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.4",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 4,
+          "text": "For I brought you up from the land of Egypt,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I brought you up from the land of Egypt,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.5",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 5,
+          "text": "O My people, remember now",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O My people, remember now",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.6",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 6,
+          "text": "With what shall I come before the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "With what shall I come before the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.7",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 7,
+          "text": "Will the Lord be pleased with thousands of rams,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Will the Lord be pleased with thousands of rams,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.8",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 8,
+          "text": "He has shown you, O man, what is good;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has shown you, O man, what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.9",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 9,
+          "text": "The Lord’s voice cries to the city—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord’s voice cries to the city—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Punishment of Israel’s Injustice",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.10",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Are there yet the treasures of wickedness",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Are there yet the treasures of wickedness",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.11",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 11,
+          "text": "Shall I count pure those with the wicked scales,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Shall I count pure ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "those",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with the wicked scales,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.12",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 12,
+          "text": "For her rich men are full of violence,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For her rich men are full of violence,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.13",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 13,
+          "text": "“Therefore I will also make you sick by striking you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore I will also make ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sick by striking you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.14",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 14,
+          "text": "You shall eat, but not be satisfied;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You shall eat, but not be satisfied;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.15",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 15,
+          "text": "“You shall sow, but not reap;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“You shall sow, but not reap;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.6.16",
+          "book": "MIC",
+          "chapter": 6,
+          "verse": 16,
+          "text": "For the statutes of Omri are kept;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the statutes of Omri are kept;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God Pleads with Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Punishment of Israel’s Injustice",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:06.949Z"
+    },
+    "7": {
+      "translation": "en",
+      "source": "english",
+      "book": "MIC",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "MIC.7.1",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 1,
+          "text": "Woe is me!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe is me!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Sorrow for Israel’s Sins",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.2",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 2,
+          "text": "The faithful man has perished from the earth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The faithful ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "man",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " has perished from the earth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or loyal"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.3",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 3,
+          "text": "That they may successfully do evil with both hands—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That they may successfully do evil with both hands—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.4",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 4,
+          "text": "The best of them is like a brier;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The best of them ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like a brier;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.5",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 5,
+          "text": "Do not trust in a friend;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not trust in a friend;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.6",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 6,
+          "text": "For son dishonors father,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For son dishonors father,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.7",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 7,
+          "text": "Therefore I will look to the Lord;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I will look to the Lord;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.8",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 8,
+          "text": "Do not rejoice over me, my enemy;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not rejoice over me, my enemy;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel’s Confession and Comfort",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.9",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 9,
+          "text": "I will bear the indignation of the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will bear the indignation of the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.10",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 10,
+          "text": "Then she who is my enemy will see,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "she who is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " my enemy will see,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.11",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 11,
+          "text": "In the day when your walls are to be built,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the day when your walls are to be built,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.12",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 12,
+          "text": "In that day they shall come to you",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that day they shall come to you",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. he, collective of the captives"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.13",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 13,
+          "text": "Yet the land shall be desolate",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet the land shall be desolate",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.14",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 14,
+          "text": "Shepherd Your people with Your staff,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Shepherd Your people with Your staff,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God Will Forgive Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.15",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 15,
+          "text": "“As in the days when you came out of the land of Egypt,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“As in the days when you came out of the land of Egypt,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.16",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 16,
+          "text": "The nations shall see and be ashamed of all their might;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The nations shall see and be ashamed of all their might;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.17",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 17,
+          "text": "They shall lick the dust like a serpent;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They shall lick the dust like a serpent;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.18",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 18,
+          "text": "Who is a God like You,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a God like You,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.19",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 19,
+          "text": "He will again have compassion on us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He will again have compassion on us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MIC.7.20",
+          "book": "MIC",
+          "chapter": 7,
+          "verse": 20,
+          "text": "You will give truth to Jacob",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You will give truth to Jacob",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sorrow for Israel’s Sins",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Israel’s Confession and Comfort",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "God Will Forgive Israel",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:08.500Z"
+    }
+  }
+}

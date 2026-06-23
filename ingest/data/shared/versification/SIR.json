@@ -1,0 +1,4529 @@
+{
+  "book": "SIR",
+  "translations": [
+    "ar",
+    "en"
+  ],
+  "tradition": {
+    "ar": "vulgate",
+    "en": "rahlfs-lxx"
+  },
+  "scope": "comprehensive-v2",
+  "notes": [
+    "Comprehensive Sirach versification mapping derived from the Vulgate↔NRSV (Greek-LXX) verse correspondence table at http://bombaxo.com/comparison-of-webers-vulgata-and-nrsv-versification-in-sirach/ — itself based on Weber's critical Vulgata edition mapped against the Greek text used by the NRSV (essentially Ziegler's Septuaginta GKI).",
+    "Arabic source Arabic Sirach is Vulgate-derived (the SVD translators worked from the Latin Vulgate for the Deuterocanonicals); English English Sirach follows the Greek LXX (Ziegler GKI). The bombaxo table maps these two at verse-level granularity for all 51 chapters.",
+    "The bombaxo source table also lists a Vulgate-only ch 52 (13 verses of doxology) with no Greek equivalent. Our Arabic source Arabic snapshot does NOT contain that chapter (it ends at SIR.51), so the previously-present SIR.52.1-13 → null entries were dead mappings (no source verse to anchor) and have been removed. If a real ch 52 is ever ingested into the ar snapshot, re-add those 13 null mappings.",
+    "Sub-letter notation in the source table (e.g. 'V 1:2ab → G 1:2') collapses to verse-level mapping in our schema. The Vulgate's frequent splitting of one Greek verse into two sub-parts (V x:Na, V x:Nb) is preserved as multiple ar verses mapping to the same en verse.",
+    "Identity-mapped verses (V x:N = G x:N) are OMITTED from the table — the parallel route's identity fallback handles them. Only renumbering shifts (V x:N → G x:M, M ≠ N) and null-mappings (V x:N ÷ Vulgate-only) appear here."
+  ],
+  "mappings": [
+    {
+      "ar": "SIR.1.2",
+      "en": "SIR.1.3"
+    },
+    {
+      "ar": "SIR.1.3",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.10",
+      "en": "SIR.1.9"
+    },
+    {
+      "ar": "SIR.1.14",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.15",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.16",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.17",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.18",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.19",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.20",
+      "en": "SIR.1.16"
+    },
+    {
+      "ar": "SIR.1.21",
+      "en": "SIR.1.17"
+    },
+    {
+      "ar": "SIR.1.22",
+      "en": "SIR.1.18"
+    },
+    {
+      "ar": "SIR.1.23",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.24",
+      "en": "SIR.1.19"
+    },
+    {
+      "ar": "SIR.1.25",
+      "en": "SIR.1.20"
+    },
+    {
+      "ar": "SIR.1.26",
+      "en": null
+    },
+    {
+      "ar": "SIR.1.27",
+      "en": "SIR.1.21"
+    },
+    {
+      "ar": "SIR.1.28",
+      "en": "SIR.1.22"
+    },
+    {
+      "ar": "SIR.1.29",
+      "en": "SIR.1.23"
+    },
+    {
+      "ar": "SIR.1.30",
+      "en": "SIR.1.24"
+    },
+    {
+      "ar": "SIR.1.31",
+      "en": "SIR.1.25"
+    },
+    {
+      "ar": "SIR.1.32",
+      "en": "SIR.1.25"
+    },
+    {
+      "ar": "SIR.1.33",
+      "en": "SIR.1.26"
+    },
+    {
+      "ar": "SIR.1.34",
+      "en": null
+    },
+    {
+      "ar": "SIR.2.2",
+      "en": null
+    },
+    {
+      "ar": "SIR.2.6",
+      "en": null
+    },
+    {
+      "ar": "SIR.2.10",
+      "en": null
+    },
+    {
+      "ar": "SIR.2.11",
+      "en": "SIR.2.10"
+    },
+    {
+      "ar": "SIR.2.12",
+      "en": "SIR.2.10"
+    },
+    {
+      "ar": "SIR.2.13",
+      "en": "SIR.2.11"
+    },
+    {
+      "ar": "SIR.2.14",
+      "en": "SIR.2.12"
+    },
+    {
+      "ar": "SIR.2.15",
+      "en": "SIR.2.13"
+    },
+    {
+      "ar": "SIR.2.16",
+      "en": null
+    },
+    {
+      "ar": "SIR.2.17",
+      "en": "SIR.2.14"
+    },
+    {
+      "ar": "SIR.2.18",
+      "en": "SIR.2.15"
+    },
+    {
+      "ar": "SIR.2.19",
+      "en": "SIR.2.16"
+    },
+    {
+      "ar": "SIR.2.20",
+      "en": "SIR.2.17"
+    },
+    {
+      "ar": "SIR.2.21",
+      "en": null
+    },
+    {
+      "ar": "SIR.2.22",
+      "en": "SIR.2.17"
+    },
+    {
+      "ar": "SIR.2.23",
+      "en": "SIR.2.17"
+    },
+    {
+      "ar": "SIR.3.1",
+      "en": null
+    },
+    {
+      "ar": "SIR.3.2",
+      "en": "SIR.3.1"
+    },
+    {
+      "ar": "SIR.3.3",
+      "en": "SIR.3.2"
+    },
+    {
+      "ar": "SIR.3.4",
+      "en": null
+    },
+    {
+      "ar": "SIR.3.5",
+      "en": "SIR.3.4"
+    },
+    {
+      "ar": "SIR.3.6",
+      "en": "SIR.3.5"
+    },
+    {
+      "ar": "SIR.3.7",
+      "en": "SIR.3.6"
+    },
+    {
+      "ar": "SIR.3.8",
+      "en": "SIR.3.7"
+    },
+    {
+      "ar": "SIR.3.9",
+      "en": "SIR.3.8"
+    },
+    {
+      "ar": "SIR.3.10",
+      "en": null
+    },
+    {
+      "ar": "SIR.3.11",
+      "en": "SIR.3.9"
+    },
+    {
+      "ar": "SIR.3.12",
+      "en": "SIR.3.10"
+    },
+    {
+      "ar": "SIR.3.13",
+      "en": "SIR.3.11"
+    },
+    {
+      "ar": "SIR.3.14",
+      "en": "SIR.3.12"
+    },
+    {
+      "ar": "SIR.3.15",
+      "en": "SIR.3.14"
+    },
+    {
+      "ar": "SIR.3.16",
+      "en": "SIR.3.14"
+    },
+    {
+      "ar": "SIR.3.17",
+      "en": "SIR.3.15"
+    },
+    {
+      "ar": "SIR.3.18",
+      "en": "SIR.3.16"
+    },
+    {
+      "ar": "SIR.3.19",
+      "en": "SIR.3.17"
+    },
+    {
+      "ar": "SIR.3.20",
+      "en": "SIR.3.18"
+    },
+    {
+      "ar": "SIR.3.21",
+      "en": "SIR.3.19"
+    },
+    {
+      "ar": "SIR.3.22",
+      "en": null
+    },
+    {
+      "ar": "SIR.3.23",
+      "en": "SIR.3.22"
+    },
+    {
+      "ar": "SIR.3.24",
+      "en": null
+    },
+    {
+      "ar": "SIR.3.25",
+      "en": "SIR.3.23"
+    },
+    {
+      "ar": "SIR.3.26",
+      "en": "SIR.3.24"
+    },
+    {
+      "ar": "SIR.3.27",
+      "en": "SIR.3.26"
+    },
+    {
+      "ar": "SIR.3.28",
+      "en": null
+    },
+    {
+      "ar": "SIR.3.29",
+      "en": "SIR.3.27"
+    },
+    {
+      "ar": "SIR.3.30",
+      "en": "SIR.3.28"
+    },
+    {
+      "ar": "SIR.3.31",
+      "en": "SIR.3.29"
+    },
+    {
+      "ar": "SIR.3.32",
+      "en": null
+    },
+    {
+      "ar": "SIR.3.33",
+      "en": "SIR.3.30"
+    },
+    {
+      "ar": "SIR.3.34",
+      "en": "SIR.3.31"
+    },
+    {
+      "ar": "SIR.4.8",
+      "en": null
+    },
+    {
+      "ar": "SIR.4.11",
+      "en": "SIR.4.10"
+    },
+    {
+      "ar": "SIR.4.12",
+      "en": null
+    },
+    {
+      "ar": "SIR.4.13",
+      "en": "SIR.4.12"
+    },
+    {
+      "ar": "SIR.4.14",
+      "en": "SIR.4.13"
+    },
+    {
+      "ar": "SIR.4.15",
+      "en": "SIR.4.14"
+    },
+    {
+      "ar": "SIR.4.16",
+      "en": "SIR.4.15"
+    },
+    {
+      "ar": "SIR.4.17",
+      "en": "SIR.4.16"
+    },
+    {
+      "ar": "SIR.4.18",
+      "en": null
+    },
+    {
+      "ar": "SIR.4.19",
+      "en": "SIR.4.17"
+    },
+    {
+      "ar": "SIR.4.20",
+      "en": "SIR.4.18"
+    },
+    {
+      "ar": "SIR.4.21",
+      "en": null
+    },
+    {
+      "ar": "SIR.4.22",
+      "en": "SIR.4.19"
+    },
+    {
+      "ar": "SIR.4.23",
+      "en": "SIR.4.20"
+    },
+    {
+      "ar": "SIR.4.24",
+      "en": "SIR.4.20"
+    },
+    {
+      "ar": "SIR.4.25",
+      "en": "SIR.4.21"
+    },
+    {
+      "ar": "SIR.4.26",
+      "en": "SIR.4.22"
+    },
+    {
+      "ar": "SIR.4.27",
+      "en": null
+    },
+    {
+      "ar": "SIR.4.28",
+      "en": "SIR.4.23"
+    },
+    {
+      "ar": "SIR.4.29",
+      "en": "SIR.4.24"
+    },
+    {
+      "ar": "SIR.4.30",
+      "en": "SIR.4.25"
+    },
+    {
+      "ar": "SIR.4.31",
+      "en": null
+    },
+    {
+      "ar": "SIR.4.32",
+      "en": "SIR.4.26"
+    },
+    {
+      "ar": "SIR.4.33",
+      "en": "SIR.4.28"
+    },
+    {
+      "ar": "SIR.4.34",
+      "en": "SIR.4.29"
+    },
+    {
+      "ar": "SIR.4.35",
+      "en": "SIR.4.30"
+    },
+    {
+      "ar": "SIR.4.36",
+      "en": "SIR.4.31"
+    },
+    {
+      "ar": "SIR.5.1",
+      "en": null
+    },
+    {
+      "ar": "SIR.5.7",
+      "en": "SIR.5.6"
+    },
+    {
+      "ar": "SIR.5.8",
+      "en": "SIR.5.7"
+    },
+    {
+      "ar": "SIR.5.9",
+      "en": "SIR.5.7"
+    },
+    {
+      "ar": "SIR.5.10",
+      "en": "SIR.5.8"
+    },
+    {
+      "ar": "SIR.5.11",
+      "en": "SIR.5.9"
+    },
+    {
+      "ar": "SIR.5.12",
+      "en": "SIR.5.10"
+    },
+    {
+      "ar": "SIR.5.13",
+      "en": "SIR.5.11"
+    },
+    {
+      "ar": "SIR.5.14",
+      "en": null
+    },
+    {
+      "ar": "SIR.5.15",
+      "en": "SIR.5.13"
+    },
+    {
+      "ar": "SIR.5.16",
+      "en": "SIR.5.14"
+    },
+    {
+      "ar": "SIR.5.17",
+      "en": null
+    },
+    {
+      "ar": "SIR.5.18",
+      "en": "SIR.5.15"
+    },
+    {
+      "ar": "SIR.6.4",
+      "en": null
+    },
+    {
+      "ar": "SIR.6.20",
+      "en": "SIR.6.19"
+    },
+    {
+      "ar": "SIR.6.21",
+      "en": "SIR.6.20"
+    },
+    {
+      "ar": "SIR.6.22",
+      "en": "SIR.6.21"
+    },
+    {
+      "ar": "SIR.6.23",
+      "en": null
+    },
+    {
+      "ar": "SIR.6.24",
+      "en": "SIR.6.23"
+    },
+    {
+      "ar": "SIR.6.25",
+      "en": "SIR.6.24"
+    },
+    {
+      "ar": "SIR.6.26",
+      "en": "SIR.6.25"
+    },
+    {
+      "ar": "SIR.6.27",
+      "en": "SIR.6.26"
+    },
+    {
+      "ar": "SIR.6.28",
+      "en": "SIR.6.27"
+    },
+    {
+      "ar": "SIR.6.29",
+      "en": "SIR.6.28"
+    },
+    {
+      "ar": "SIR.6.30",
+      "en": "SIR.6.29"
+    },
+    {
+      "ar": "SIR.6.31",
+      "en": "SIR.6.30"
+    },
+    {
+      "ar": "SIR.6.32",
+      "en": "SIR.6.31"
+    },
+    {
+      "ar": "SIR.6.33",
+      "en": "SIR.6.32"
+    },
+    {
+      "ar": "SIR.6.34",
+      "en": "SIR.6.33"
+    },
+    {
+      "ar": "SIR.6.35",
+      "en": "SIR.6.34"
+    },
+    {
+      "ar": "SIR.7.9",
+      "en": "SIR.7.10"
+    },
+    {
+      "ar": "SIR.7.11",
+      "en": null
+    },
+    {
+      "ar": "SIR.7.12",
+      "en": "SIR.7.11"
+    },
+    {
+      "ar": "SIR.7.13",
+      "en": "SIR.7.12"
+    },
+    {
+      "ar": "SIR.7.14",
+      "en": "SIR.7.13"
+    },
+    {
+      "ar": "SIR.7.15",
+      "en": "SIR.7.14"
+    },
+    {
+      "ar": "SIR.7.16",
+      "en": "SIR.7.15"
+    },
+    {
+      "ar": "SIR.7.17",
+      "en": "SIR.7.16"
+    },
+    {
+      "ar": "SIR.7.18",
+      "en": "SIR.7.16"
+    },
+    {
+      "ar": "SIR.7.19",
+      "en": "SIR.7.17"
+    },
+    {
+      "ar": "SIR.7.20",
+      "en": "SIR.7.18"
+    },
+    {
+      "ar": "SIR.7.21",
+      "en": "SIR.7.19"
+    },
+    {
+      "ar": "SIR.7.22",
+      "en": "SIR.7.20"
+    },
+    {
+      "ar": "SIR.7.23",
+      "en": "SIR.7.21"
+    },
+    {
+      "ar": "SIR.7.24",
+      "en": "SIR.7.22"
+    },
+    {
+      "ar": "SIR.7.25",
+      "en": "SIR.7.23"
+    },
+    {
+      "ar": "SIR.7.26",
+      "en": "SIR.7.24"
+    },
+    {
+      "ar": "SIR.7.27",
+      "en": "SIR.7.25"
+    },
+    {
+      "ar": "SIR.7.28",
+      "en": "SIR.7.26"
+    },
+    {
+      "ar": "SIR.7.30",
+      "en": "SIR.7.28"
+    },
+    {
+      "ar": "SIR.7.31",
+      "en": "SIR.7.29"
+    },
+    {
+      "ar": "SIR.7.32",
+      "en": "SIR.7.30"
+    },
+    {
+      "ar": "SIR.7.33",
+      "en": null
+    },
+    {
+      "ar": "SIR.7.34",
+      "en": null
+    },
+    {
+      "ar": "SIR.7.35",
+      "en": "SIR.7.31"
+    },
+    {
+      "ar": "SIR.7.36",
+      "en": "SIR.7.32"
+    },
+    {
+      "ar": "SIR.7.37",
+      "en": "SIR.7.33"
+    },
+    {
+      "ar": "SIR.7.38",
+      "en": "SIR.7.34"
+    },
+    {
+      "ar": "SIR.7.39",
+      "en": "SIR.7.35"
+    },
+    {
+      "ar": "SIR.7.40",
+      "en": "SIR.7.36"
+    },
+    {
+      "ar": "SIR.8.3",
+      "en": "SIR.8.2"
+    },
+    {
+      "ar": "SIR.8.4",
+      "en": "SIR.8.3"
+    },
+    {
+      "ar": "SIR.8.5",
+      "en": "SIR.8.4"
+    },
+    {
+      "ar": "SIR.8.6",
+      "en": "SIR.8.5"
+    },
+    {
+      "ar": "SIR.8.7",
+      "en": "SIR.8.6"
+    },
+    {
+      "ar": "SIR.8.8",
+      "en": "SIR.8.7"
+    },
+    {
+      "ar": "SIR.8.9",
+      "en": "SIR.8.8"
+    },
+    {
+      "ar": "SIR.8.10",
+      "en": "SIR.8.8"
+    },
+    {
+      "ar": "SIR.8.11",
+      "en": "SIR.8.9"
+    },
+    {
+      "ar": "SIR.8.12",
+      "en": "SIR.8.9"
+    },
+    {
+      "ar": "SIR.8.13",
+      "en": "SIR.8.10"
+    },
+    {
+      "ar": "SIR.8.14",
+      "en": "SIR.8.11"
+    },
+    {
+      "ar": "SIR.8.15",
+      "en": "SIR.8.12"
+    },
+    {
+      "ar": "SIR.8.16",
+      "en": "SIR.8.13"
+    },
+    {
+      "ar": "SIR.8.17",
+      "en": "SIR.8.14"
+    },
+    {
+      "ar": "SIR.8.18",
+      "en": "SIR.8.15"
+    },
+    {
+      "ar": "SIR.8.19",
+      "en": "SIR.8.16"
+    },
+    {
+      "ar": "SIR.8.20",
+      "en": "SIR.8.17"
+    },
+    {
+      "ar": "SIR.8.21",
+      "en": "SIR.8.18"
+    },
+    {
+      "ar": "SIR.8.22",
+      "en": "SIR.8.19"
+    },
+    {
+      "ar": "SIR.9.9",
+      "en": "SIR.9.8"
+    },
+    {
+      "ar": "SIR.9.10",
+      "en": null
+    },
+    {
+      "ar": "SIR.9.11",
+      "en": null
+    },
+    {
+      "ar": "SIR.9.12",
+      "en": "SIR.9.9"
+    },
+    {
+      "ar": "SIR.9.13",
+      "en": "SIR.9.9"
+    },
+    {
+      "ar": "SIR.9.14",
+      "en": "SIR.9.10"
+    },
+    {
+      "ar": "SIR.9.15",
+      "en": "SIR.9.10"
+    },
+    {
+      "ar": "SIR.9.16",
+      "en": "SIR.9.11"
+    },
+    {
+      "ar": "SIR.9.17",
+      "en": "SIR.9.12"
+    },
+    {
+      "ar": "SIR.9.18",
+      "en": "SIR.9.13"
+    },
+    {
+      "ar": "SIR.9.19",
+      "en": "SIR.9.13"
+    },
+    {
+      "ar": "SIR.9.20",
+      "en": "SIR.9.13"
+    },
+    {
+      "ar": "SIR.9.21",
+      "en": "SIR.9.14"
+    },
+    {
+      "ar": "SIR.9.22",
+      "en": "SIR.9.16"
+    },
+    {
+      "ar": "SIR.9.23",
+      "en": "SIR.9.15"
+    },
+    {
+      "ar": "SIR.9.24",
+      "en": "SIR.9.17"
+    },
+    {
+      "ar": "SIR.9.25",
+      "en": "SIR.9.18"
+    },
+    {
+      "ar": "SIR.10.9",
+      "en": "SIR.10.8"
+    },
+    {
+      "ar": "SIR.10.10",
+      "en": "SIR.10.9"
+    },
+    {
+      "ar": "SIR.10.11",
+      "en": "SIR.10.10"
+    },
+    {
+      "ar": "SIR.10.12",
+      "en": "SIR.10.10"
+    },
+    {
+      "ar": "SIR.10.13",
+      "en": "SIR.10.11"
+    },
+    {
+      "ar": "SIR.10.14",
+      "en": "SIR.10.12"
+    },
+    {
+      "ar": "SIR.10.15",
+      "en": null
+    },
+    {
+      "ar": "SIR.10.16",
+      "en": "SIR.10.13"
+    },
+    {
+      "ar": "SIR.10.17",
+      "en": "SIR.10.14"
+    },
+    {
+      "ar": "SIR.10.18",
+      "en": "SIR.10.15"
+    },
+    {
+      "ar": "SIR.10.19",
+      "en": "SIR.10.16"
+    },
+    {
+      "ar": "SIR.10.20",
+      "en": "SIR.10.17"
+    },
+    {
+      "ar": "SIR.10.21",
+      "en": null
+    },
+    {
+      "ar": "SIR.10.22",
+      "en": "SIR.10.18"
+    },
+    {
+      "ar": "SIR.10.23",
+      "en": "SIR.10.19"
+    },
+    {
+      "ar": "SIR.10.24",
+      "en": "SIR.10.20"
+    },
+    {
+      "ar": "SIR.10.25",
+      "en": "SIR.10.22"
+    },
+    {
+      "ar": "SIR.10.26",
+      "en": "SIR.10.23"
+    },
+    {
+      "ar": "SIR.10.27",
+      "en": "SIR.10.24"
+    },
+    {
+      "ar": "SIR.10.28",
+      "en": null
+    },
+    {
+      "ar": "SIR.10.29",
+      "en": "SIR.10.26"
+    },
+    {
+      "ar": "SIR.10.30",
+      "en": "SIR.10.27"
+    },
+    {
+      "ar": "SIR.10.31",
+      "en": "SIR.10.28"
+    },
+    {
+      "ar": "SIR.10.32",
+      "en": "SIR.10.29"
+    },
+    {
+      "ar": "SIR.10.33",
+      "en": "SIR.10.30"
+    },
+    {
+      "ar": "SIR.10.34",
+      "en": "SIR.10.31"
+    },
+    {
+      "ar": "SIR.11.13",
+      "en": null
+    },
+    {
+      "ar": "SIR.11.15",
+      "en": null
+    },
+    {
+      "ar": "SIR.11.16",
+      "en": null
+    },
+    {
+      "ar": "SIR.11.20",
+      "en": "SIR.11.19"
+    },
+    {
+      "ar": "SIR.11.21",
+      "en": "SIR.11.20"
+    },
+    {
+      "ar": "SIR.11.22",
+      "en": "SIR.11.21"
+    },
+    {
+      "ar": "SIR.11.23",
+      "en": "SIR.11.21"
+    },
+    {
+      "ar": "SIR.11.24",
+      "en": "SIR.11.22"
+    },
+    {
+      "ar": "SIR.11.25",
+      "en": "SIR.11.23"
+    },
+    {
+      "ar": "SIR.11.26",
+      "en": "SIR.11.24"
+    },
+    {
+      "ar": "SIR.11.27",
+      "en": "SIR.11.25"
+    },
+    {
+      "ar": "SIR.11.28",
+      "en": "SIR.11.26"
+    },
+    {
+      "ar": "SIR.11.29",
+      "en": "SIR.11.27"
+    },
+    {
+      "ar": "SIR.11.30",
+      "en": "SIR.11.28"
+    },
+    {
+      "ar": "SIR.11.31",
+      "en": "SIR.11.29"
+    },
+    {
+      "ar": "SIR.11.32",
+      "en": "SIR.11.30"
+    },
+    {
+      "ar": "SIR.11.33",
+      "en": "SIR.11.31"
+    },
+    {
+      "ar": "SIR.11.34",
+      "en": "SIR.11.32"
+    },
+    {
+      "ar": "SIR.11.35",
+      "en": "SIR.11.33"
+    },
+    {
+      "ar": "SIR.11.36",
+      "en": "SIR.11.34"
+    },
+    {
+      "ar": "SIR.12.3",
+      "en": null
+    },
+    {
+      "ar": "SIR.12.4",
+      "en": "SIR.12.6"
+    },
+    {
+      "ar": "SIR.12.5",
+      "en": "SIR.12.7"
+    },
+    {
+      "ar": "SIR.12.6",
+      "en": "SIR.12.5"
+    },
+    {
+      "ar": "SIR.12.7",
+      "en": "SIR.12.6"
+    },
+    {
+      "ar": "SIR.12.13",
+      "en": "SIR.12.14"
+    },
+    {
+      "ar": "SIR.12.14",
+      "en": "SIR.12.15"
+    },
+    {
+      "ar": "SIR.12.15",
+      "en": "SIR.12.16"
+    },
+    {
+      "ar": "SIR.12.18",
+      "en": "SIR.12.17"
+    },
+    {
+      "ar": "SIR.12.19",
+      "en": "SIR.12.18"
+    },
+    {
+      "ar": "SIR.13.3",
+      "en": "SIR.13.2"
+    },
+    {
+      "ar": "SIR.13.4",
+      "en": "SIR.13.3"
+    },
+    {
+      "ar": "SIR.13.5",
+      "en": "SIR.13.4"
+    },
+    {
+      "ar": "SIR.13.6",
+      "en": "SIR.13.5"
+    },
+    {
+      "ar": "SIR.13.7",
+      "en": "SIR.13.6"
+    },
+    {
+      "ar": "SIR.13.8",
+      "en": "SIR.13.7"
+    },
+    {
+      "ar": "SIR.13.9",
+      "en": null
+    },
+    {
+      "ar": "SIR.13.10",
+      "en": "SIR.13.8"
+    },
+    {
+      "ar": "SIR.13.11",
+      "en": "SIR.13.8"
+    },
+    {
+      "ar": "SIR.13.12",
+      "en": "SIR.13.9"
+    },
+    {
+      "ar": "SIR.13.13",
+      "en": "SIR.13.10"
+    },
+    {
+      "ar": "SIR.13.14",
+      "en": "SIR.13.11"
+    },
+    {
+      "ar": "SIR.13.15",
+      "en": "SIR.13.12"
+    },
+    {
+      "ar": "SIR.13.16",
+      "en": "SIR.13.13"
+    },
+    {
+      "ar": "SIR.13.17",
+      "en": "SIR.13.14"
+    },
+    {
+      "ar": "SIR.13.19",
+      "en": "SIR.13.15"
+    },
+    {
+      "ar": "SIR.13.20",
+      "en": "SIR.13.16"
+    },
+    {
+      "ar": "SIR.13.21",
+      "en": "SIR.13.17"
+    },
+    {
+      "ar": "SIR.13.22",
+      "en": "SIR.13.18"
+    },
+    {
+      "ar": "SIR.13.23",
+      "en": "SIR.13.19"
+    },
+    {
+      "ar": "SIR.13.24",
+      "en": "SIR.13.20"
+    },
+    {
+      "ar": "SIR.13.25",
+      "en": "SIR.13.21"
+    },
+    {
+      "ar": "SIR.13.26",
+      "en": "SIR.13.22"
+    },
+    {
+      "ar": "SIR.13.27",
+      "en": "SIR.13.22"
+    },
+    {
+      "ar": "SIR.13.28",
+      "en": "SIR.13.23"
+    },
+    {
+      "ar": "SIR.13.29",
+      "en": "SIR.13.23"
+    },
+    {
+      "ar": "SIR.13.30",
+      "en": "SIR.13.24"
+    },
+    {
+      "ar": "SIR.13.31",
+      "en": "SIR.13.25"
+    },
+    {
+      "ar": "SIR.13.32",
+      "en": "SIR.13.26"
+    },
+    {
+      "ar": "SIR.14.10",
+      "en": null
+    },
+    {
+      "ar": "SIR.14.12",
+      "en": null
+    },
+    {
+      "ar": "SIR.14.17",
+      "en": "SIR.14.16"
+    },
+    {
+      "ar": "SIR.14.18",
+      "en": null
+    },
+    {
+      "ar": "SIR.14.19",
+      "en": "SIR.14.18"
+    },
+    {
+      "ar": "SIR.14.20",
+      "en": "SIR.14.19"
+    },
+    {
+      "ar": "SIR.14.21",
+      "en": null
+    },
+    {
+      "ar": "SIR.14.22",
+      "en": "SIR.14.20"
+    },
+    {
+      "ar": "SIR.14.23",
+      "en": "SIR.14.22"
+    },
+    {
+      "ar": "SIR.14.24",
+      "en": "SIR.14.23"
+    },
+    {
+      "ar": "SIR.14.25",
+      "en": "SIR.14.24"
+    },
+    {
+      "ar": "SIR.15.4",
+      "en": "SIR.15.5"
+    },
+    {
+      "ar": "SIR.15.5",
+      "en": null
+    },
+    {
+      "ar": "SIR.15.7",
+      "en": "SIR.15.8"
+    },
+    {
+      "ar": "SIR.15.8",
+      "en": null
+    },
+    {
+      "ar": "SIR.15.10",
+      "en": "SIR.15.9"
+    },
+    {
+      "ar": "SIR.15.15",
+      "en": null
+    },
+    {
+      "ar": "SIR.15.16",
+      "en": "SIR.15.15"
+    },
+    {
+      "ar": "SIR.15.17",
+      "en": "SIR.15.16"
+    },
+    {
+      "ar": "SIR.15.18",
+      "en": "SIR.15.17"
+    },
+    {
+      "ar": "SIR.15.19",
+      "en": "SIR.15.18"
+    },
+    {
+      "ar": "SIR.15.20",
+      "en": "SIR.15.19"
+    },
+    {
+      "ar": "SIR.15.21",
+      "en": "SIR.15.20"
+    },
+    {
+      "ar": "SIR.15.22",
+      "en": null
+    },
+    {
+      "ar": "SIR.16.1",
+      "en": "SIR.16.2"
+    },
+    {
+      "ar": "SIR.16.2",
+      "en": "SIR.16.3"
+    },
+    {
+      "ar": "SIR.16.4",
+      "en": "SIR.16.3"
+    },
+    {
+      "ar": "SIR.16.5",
+      "en": "SIR.16.4"
+    },
+    {
+      "ar": "SIR.16.6",
+      "en": "SIR.16.5"
+    },
+    {
+      "ar": "SIR.16.7",
+      "en": "SIR.16.6"
+    },
+    {
+      "ar": "SIR.16.8",
+      "en": "SIR.16.7"
+    },
+    {
+      "ar": "SIR.16.9",
+      "en": "SIR.16.8"
+    },
+    {
+      "ar": "SIR.16.10",
+      "en": "SIR.16.9"
+    },
+    {
+      "ar": "SIR.16.11",
+      "en": "SIR.16.10"
+    },
+    {
+      "ar": "SIR.16.12",
+      "en": "SIR.16.11"
+    },
+    {
+      "ar": "SIR.16.13",
+      "en": "SIR.16.12"
+    },
+    {
+      "ar": "SIR.16.14",
+      "en": "SIR.16.13"
+    },
+    {
+      "ar": "SIR.16.15",
+      "en": "SIR.16.14"
+    },
+    {
+      "ar": "SIR.16.16",
+      "en": "SIR.16.17"
+    },
+    {
+      "ar": "SIR.16.20",
+      "en": null
+    },
+    {
+      "ar": "SIR.16.21",
+      "en": "SIR.16.20"
+    },
+    {
+      "ar": "SIR.16.22",
+      "en": "SIR.16.21"
+    },
+    {
+      "ar": "SIR.16.25",
+      "en": null
+    },
+    {
+      "ar": "SIR.16.29",
+      "en": "SIR.16.28"
+    },
+    {
+      "ar": "SIR.16.30",
+      "en": "SIR.16.29"
+    },
+    {
+      "ar": "SIR.16.31",
+      "en": "SIR.16.30"
+    },
+    {
+      "ar": "SIR.17.1",
+      "en": "SIR.17.3"
+    },
+    {
+      "ar": "SIR.17.2",
+      "en": "SIR.17.3"
+    },
+    {
+      "ar": "SIR.17.3",
+      "en": "SIR.17.2"
+    },
+    {
+      "ar": "SIR.17.6",
+      "en": "SIR.17.7"
+    },
+    {
+      "ar": "SIR.17.7",
+      "en": "SIR.17.8"
+    },
+    {
+      "ar": "SIR.17.8",
+      "en": "SIR.17.9"
+    },
+    {
+      "ar": "SIR.17.9",
+      "en": "SIR.17.11"
+    },
+    {
+      "ar": "SIR.17.10",
+      "en": "SIR.17.12"
+    },
+    {
+      "ar": "SIR.17.11",
+      "en": "SIR.17.14"
+    },
+    {
+      "ar": "SIR.17.12",
+      "en": "SIR.17.14"
+    },
+    {
+      "ar": "SIR.17.13",
+      "en": "SIR.17.15"
+    },
+    {
+      "ar": "SIR.17.14",
+      "en": "SIR.17.17"
+    },
+    {
+      "ar": "SIR.17.15",
+      "en": "SIR.17.17"
+    },
+    {
+      "ar": "SIR.17.16",
+      "en": "SIR.17.19"
+    },
+    {
+      "ar": "SIR.17.17",
+      "en": "SIR.17.20"
+    },
+    {
+      "ar": "SIR.17.18",
+      "en": "SIR.17.22"
+    },
+    {
+      "ar": "SIR.17.19",
+      "en": "SIR.17.23"
+    },
+    {
+      "ar": "SIR.17.20",
+      "en": null
+    },
+    {
+      "ar": "SIR.17.21",
+      "en": "SIR.17.25"
+    },
+    {
+      "ar": "SIR.17.22",
+      "en": "SIR.17.25"
+    },
+    {
+      "ar": "SIR.17.23",
+      "en": "SIR.17.26"
+    },
+    {
+      "ar": "SIR.17.24",
+      "en": null
+    },
+    {
+      "ar": "SIR.17.25",
+      "en": "SIR.17.27"
+    },
+    {
+      "ar": "SIR.17.26",
+      "en": "SIR.17.28"
+    },
+    {
+      "ar": "SIR.17.27",
+      "en": "SIR.17.28"
+    },
+    {
+      "ar": "SIR.17.28",
+      "en": "SIR.17.29"
+    },
+    {
+      "ar": "SIR.18.1",
+      "en": null
+    },
+    {
+      "ar": "SIR.18.2",
+      "en": "SIR.18.4"
+    },
+    {
+      "ar": "SIR.18.3",
+      "en": "SIR.18.4"
+    },
+    {
+      "ar": "SIR.18.4",
+      "en": "SIR.18.5"
+    },
+    {
+      "ar": "SIR.18.5",
+      "en": "SIR.18.6"
+    },
+    {
+      "ar": "SIR.18.6",
+      "en": "SIR.18.7"
+    },
+    {
+      "ar": "SIR.18.7",
+      "en": "SIR.18.8"
+    },
+    {
+      "ar": "SIR.18.8",
+      "en": "SIR.18.10"
+    },
+    {
+      "ar": "SIR.18.9",
+      "en": "SIR.18.11"
+    },
+    {
+      "ar": "SIR.18.10",
+      "en": "SIR.18.12"
+    },
+    {
+      "ar": "SIR.18.11",
+      "en": null
+    },
+    {
+      "ar": "SIR.18.12",
+      "en": "SIR.18.13"
+    },
+    {
+      "ar": "SIR.18.19",
+      "en": "SIR.18.20"
+    },
+    {
+      "ar": "SIR.18.20",
+      "en": "SIR.18.19"
+    },
+    {
+      "ar": "SIR.18.22",
+      "en": null
+    },
+    {
+      "ar": "SIR.18.29",
+      "en": null
+    },
+    {
+      "ar": "SIR.19.2",
+      "en": null
+    },
+    {
+      "ar": "SIR.19.3",
+      "en": null
+    },
+    {
+      "ar": "SIR.19.5",
+      "en": "SIR.19.6"
+    },
+    {
+      "ar": "SIR.19.6",
+      "en": "SIR.19.5"
+    },
+    {
+      "ar": "SIR.19.16",
+      "en": "SIR.19.15"
+    },
+    {
+      "ar": "SIR.19.17",
+      "en": "SIR.19.16"
+    },
+    {
+      "ar": "SIR.19.18",
+      "en": "SIR.19.20"
+    },
+    {
+      "ar": "SIR.19.19",
+      "en": "SIR.19.22"
+    },
+    {
+      "ar": "SIR.19.20",
+      "en": "SIR.19.23"
+    },
+    {
+      "ar": "SIR.19.21",
+      "en": "SIR.19.24"
+    },
+    {
+      "ar": "SIR.19.22",
+      "en": "SIR.19.25"
+    },
+    {
+      "ar": "SIR.19.23",
+      "en": "SIR.19.26"
+    },
+    {
+      "ar": "SIR.19.24",
+      "en": "SIR.19.27"
+    },
+    {
+      "ar": "SIR.19.25",
+      "en": "SIR.19.28"
+    },
+    {
+      "ar": "SIR.19.26",
+      "en": "SIR.19.29"
+    },
+    {
+      "ar": "SIR.19.27",
+      "en": "SIR.19.30"
+    },
+    {
+      "ar": "SIR.20.1",
+      "en": "SIR.20.3"
+    },
+    {
+      "ar": "SIR.20.2",
+      "en": "SIR.20.4"
+    },
+    {
+      "ar": "SIR.20.3",
+      "en": "SIR.20.4"
+    },
+    {
+      "ar": "SIR.20.4",
+      "en": null
+    },
+    {
+      "ar": "SIR.20.16",
+      "en": "SIR.20.15"
+    },
+    {
+      "ar": "SIR.20.17",
+      "en": "SIR.20.16"
+    },
+    {
+      "ar": "SIR.20.18",
+      "en": "SIR.20.17"
+    },
+    {
+      "ar": "SIR.20.20",
+      "en": "SIR.20.18"
+    },
+    {
+      "ar": "SIR.20.21",
+      "en": "SIR.20.19"
+    },
+    {
+      "ar": "SIR.20.22",
+      "en": "SIR.20.20"
+    },
+    {
+      "ar": "SIR.20.23",
+      "en": "SIR.20.21"
+    },
+    {
+      "ar": "SIR.20.24",
+      "en": "SIR.20.22"
+    },
+    {
+      "ar": "SIR.20.25",
+      "en": "SIR.20.23"
+    },
+    {
+      "ar": "SIR.20.26",
+      "en": "SIR.20.24"
+    },
+    {
+      "ar": "SIR.20.27",
+      "en": "SIR.20.25"
+    },
+    {
+      "ar": "SIR.20.28",
+      "en": "SIR.20.26"
+    },
+    {
+      "ar": "SIR.20.29",
+      "en": "SIR.20.27"
+    },
+    {
+      "ar": "SIR.20.30",
+      "en": "SIR.20.28"
+    },
+    {
+      "ar": "SIR.20.31",
+      "en": "SIR.20.29"
+    },
+    {
+      "ar": "SIR.20.32",
+      "en": "SIR.20.30"
+    },
+    {
+      "ar": "SIR.20.33",
+      "en": "SIR.20.31"
+    },
+    {
+      "ar": "SIR.21.3",
+      "en": "SIR.21.2"
+    },
+    {
+      "ar": "SIR.21.4",
+      "en": "SIR.21.3"
+    },
+    {
+      "ar": "SIR.21.5",
+      "en": null
+    },
+    {
+      "ar": "SIR.21.6",
+      "en": "SIR.21.5"
+    },
+    {
+      "ar": "SIR.21.7",
+      "en": "SIR.21.6"
+    },
+    {
+      "ar": "SIR.21.8",
+      "en": "SIR.21.7"
+    },
+    {
+      "ar": "SIR.21.9",
+      "en": "SIR.21.8"
+    },
+    {
+      "ar": "SIR.21.10",
+      "en": "SIR.21.9"
+    },
+    {
+      "ar": "SIR.21.11",
+      "en": "SIR.21.10"
+    },
+    {
+      "ar": "SIR.21.12",
+      "en": "SIR.21.11"
+    },
+    {
+      "ar": "SIR.21.13",
+      "en": "SIR.21.11"
+    },
+    {
+      "ar": "SIR.21.14",
+      "en": "SIR.21.12"
+    },
+    {
+      "ar": "SIR.21.15",
+      "en": null
+    },
+    {
+      "ar": "SIR.21.16",
+      "en": "SIR.21.13"
+    },
+    {
+      "ar": "SIR.21.17",
+      "en": "SIR.21.14"
+    },
+    {
+      "ar": "SIR.21.18",
+      "en": "SIR.21.15"
+    },
+    {
+      "ar": "SIR.21.19",
+      "en": "SIR.21.16"
+    },
+    {
+      "ar": "SIR.21.20",
+      "en": "SIR.21.17"
+    },
+    {
+      "ar": "SIR.21.21",
+      "en": "SIR.21.18"
+    },
+    {
+      "ar": "SIR.21.22",
+      "en": "SIR.21.19"
+    },
+    {
+      "ar": "SIR.21.23",
+      "en": "SIR.21.20"
+    },
+    {
+      "ar": "SIR.21.24",
+      "en": "SIR.21.21"
+    },
+    {
+      "ar": "SIR.21.25",
+      "en": "SIR.21.22"
+    },
+    {
+      "ar": "SIR.21.26",
+      "en": "SIR.21.23"
+    },
+    {
+      "ar": "SIR.21.27",
+      "en": "SIR.21.24"
+    },
+    {
+      "ar": "SIR.21.28",
+      "en": "SIR.21.25"
+    },
+    {
+      "ar": "SIR.21.29",
+      "en": "SIR.21.26"
+    },
+    {
+      "ar": "SIR.21.30",
+      "en": "SIR.21.27"
+    },
+    {
+      "ar": "SIR.21.31",
+      "en": "SIR.21.28"
+    },
+    {
+      "ar": "SIR.22.7",
+      "en": "SIR.22.9"
+    },
+    {
+      "ar": "SIR.22.8",
+      "en": "SIR.22.9"
+    },
+    {
+      "ar": "SIR.22.9",
+      "en": "SIR.22.10"
+    },
+    {
+      "ar": "SIR.22.10",
+      "en": "SIR.22.11"
+    },
+    {
+      "ar": "SIR.22.12",
+      "en": "SIR.22.11"
+    },
+    {
+      "ar": "SIR.22.13",
+      "en": "SIR.22.12"
+    },
+    {
+      "ar": "SIR.22.14",
+      "en": "SIR.22.13"
+    },
+    {
+      "ar": "SIR.22.15",
+      "en": "SIR.22.13"
+    },
+    {
+      "ar": "SIR.22.16",
+      "en": "SIR.22.13"
+    },
+    {
+      "ar": "SIR.22.17",
+      "en": "SIR.22.14"
+    },
+    {
+      "ar": "SIR.22.18",
+      "en": "SIR.22.15"
+    },
+    {
+      "ar": "SIR.22.19",
+      "en": "SIR.22.16"
+    },
+    {
+      "ar": "SIR.22.20",
+      "en": "SIR.22.17"
+    },
+    {
+      "ar": "SIR.22.21",
+      "en": "SIR.22.18"
+    },
+    {
+      "ar": "SIR.22.22",
+      "en": "SIR.22.18"
+    },
+    {
+      "ar": "SIR.22.23",
+      "en": null
+    },
+    {
+      "ar": "SIR.22.24",
+      "en": "SIR.22.19"
+    },
+    {
+      "ar": "SIR.22.25",
+      "en": "SIR.22.20"
+    },
+    {
+      "ar": "SIR.22.26",
+      "en": "SIR.22.21"
+    },
+    {
+      "ar": "SIR.22.27",
+      "en": "SIR.22.22"
+    },
+    {
+      "ar": "SIR.22.28",
+      "en": "SIR.22.23"
+    },
+    {
+      "ar": "SIR.22.29",
+      "en": "SIR.22.23"
+    },
+    {
+      "ar": "SIR.22.30",
+      "en": "SIR.22.24"
+    },
+    {
+      "ar": "SIR.22.31",
+      "en": "SIR.22.26"
+    },
+    {
+      "ar": "SIR.22.32",
+      "en": "SIR.22.26"
+    },
+    {
+      "ar": "SIR.22.33",
+      "en": "SIR.22.27"
+    },
+    {
+      "ar": "SIR.23.5",
+      "en": null
+    },
+    {
+      "ar": "SIR.23.10",
+      "en": null
+    },
+    {
+      "ar": "SIR.23.11",
+      "en": "SIR.23.10"
+    },
+    {
+      "ar": "SIR.23.12",
+      "en": "SIR.23.11"
+    },
+    {
+      "ar": "SIR.23.13",
+      "en": "SIR.23.11"
+    },
+    {
+      "ar": "SIR.23.14",
+      "en": "SIR.23.11"
+    },
+    {
+      "ar": "SIR.23.15",
+      "en": "SIR.23.12"
+    },
+    {
+      "ar": "SIR.23.16",
+      "en": "SIR.23.12"
+    },
+    {
+      "ar": "SIR.23.17",
+      "en": "SIR.23.13"
+    },
+    {
+      "ar": "SIR.23.18",
+      "en": "SIR.23.14"
+    },
+    {
+      "ar": "SIR.23.19",
+      "en": "SIR.23.14"
+    },
+    {
+      "ar": "SIR.23.20",
+      "en": "SIR.23.15"
+    },
+    {
+      "ar": "SIR.23.21",
+      "en": "SIR.23.16"
+    },
+    {
+      "ar": "SIR.23.22",
+      "en": "SIR.23.16"
+    },
+    {
+      "ar": "SIR.23.23",
+      "en": "SIR.23.16"
+    },
+    {
+      "ar": "SIR.23.24",
+      "en": "SIR.23.17"
+    },
+    {
+      "ar": "SIR.23.25",
+      "en": "SIR.23.18"
+    },
+    {
+      "ar": "SIR.23.26",
+      "en": "SIR.23.18"
+    },
+    {
+      "ar": "SIR.23.27",
+      "en": "SIR.23.19"
+    },
+    {
+      "ar": "SIR.23.28",
+      "en": "SIR.23.19"
+    },
+    {
+      "ar": "SIR.23.29",
+      "en": "SIR.23.20"
+    },
+    {
+      "ar": "SIR.23.30",
+      "en": "SIR.23.21"
+    },
+    {
+      "ar": "SIR.23.31",
+      "en": null
+    },
+    {
+      "ar": "SIR.23.32",
+      "en": "SIR.23.22"
+    },
+    {
+      "ar": "SIR.23.33",
+      "en": "SIR.23.23"
+    },
+    {
+      "ar": "SIR.23.34",
+      "en": "SIR.23.24"
+    },
+    {
+      "ar": "SIR.23.35",
+      "en": "SIR.23.25"
+    },
+    {
+      "ar": "SIR.23.36",
+      "en": "SIR.23.26"
+    },
+    {
+      "ar": "SIR.23.37",
+      "en": "SIR.23.27"
+    },
+    {
+      "ar": "SIR.23.38",
+      "en": "SIR.23.28"
+    },
+    {
+      "ar": "SIR.24.3",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.4",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.5",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.6",
+      "en": "SIR.24.3"
+    },
+    {
+      "ar": "SIR.24.7",
+      "en": "SIR.24.4"
+    },
+    {
+      "ar": "SIR.24.8",
+      "en": "SIR.24.5"
+    },
+    {
+      "ar": "SIR.24.11",
+      "en": "SIR.24.7"
+    },
+    {
+      "ar": "SIR.24.12",
+      "en": "SIR.24.8"
+    },
+    {
+      "ar": "SIR.24.13",
+      "en": "SIR.24.8"
+    },
+    {
+      "ar": "SIR.24.14",
+      "en": "SIR.24.10"
+    },
+    {
+      "ar": "SIR.24.15",
+      "en": "SIR.24.11"
+    },
+    {
+      "ar": "SIR.24.16",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.17",
+      "en": "SIR.24.13"
+    },
+    {
+      "ar": "SIR.24.18",
+      "en": "SIR.24.14"
+    },
+    {
+      "ar": "SIR.24.19",
+      "en": "SIR.24.14"
+    },
+    {
+      "ar": "SIR.24.20",
+      "en": "SIR.24.15"
+    },
+    {
+      "ar": "SIR.24.21",
+      "en": "SIR.24.15"
+    },
+    {
+      "ar": "SIR.24.22",
+      "en": "SIR.24.16"
+    },
+    {
+      "ar": "SIR.24.23",
+      "en": "SIR.24.17"
+    },
+    {
+      "ar": "SIR.24.24",
+      "en": "SIR.24.18"
+    },
+    {
+      "ar": "SIR.24.25",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.26",
+      "en": "SIR.24.19"
+    },
+    {
+      "ar": "SIR.24.27",
+      "en": "SIR.24.20"
+    },
+    {
+      "ar": "SIR.24.28",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.29",
+      "en": "SIR.24.21"
+    },
+    {
+      "ar": "SIR.24.30",
+      "en": "SIR.24.22"
+    },
+    {
+      "ar": "SIR.24.31",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.32",
+      "en": "SIR.24.23"
+    },
+    {
+      "ar": "SIR.24.33",
+      "en": "SIR.24.23"
+    },
+    {
+      "ar": "SIR.24.34",
+      "en": "SIR.24.24"
+    },
+    {
+      "ar": "SIR.24.35",
+      "en": "SIR.24.25"
+    },
+    {
+      "ar": "SIR.24.36",
+      "en": "SIR.24.26"
+    },
+    {
+      "ar": "SIR.24.37",
+      "en": "SIR.24.27"
+    },
+    {
+      "ar": "SIR.24.38",
+      "en": "SIR.24.28"
+    },
+    {
+      "ar": "SIR.24.39",
+      "en": "SIR.24.29"
+    },
+    {
+      "ar": "SIR.24.40",
+      "en": "SIR.24.30"
+    },
+    {
+      "ar": "SIR.24.41",
+      "en": "SIR.24.31"
+    },
+    {
+      "ar": "SIR.24.42",
+      "en": "SIR.24.32"
+    },
+    {
+      "ar": "SIR.24.43",
+      "en": "SIR.24.33"
+    },
+    {
+      "ar": "SIR.24.44",
+      "en": "SIR.24.34"
+    },
+    {
+      "ar": "SIR.24.45",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.46",
+      "en": null
+    },
+    {
+      "ar": "SIR.24.47",
+      "en": null
+    },
+    {
+      "ar": "SIR.25.2",
+      "en": "SIR.25.1"
+    },
+    {
+      "ar": "SIR.25.3",
+      "en": "SIR.25.2"
+    },
+    {
+      "ar": "SIR.25.4",
+      "en": "SIR.25.2"
+    },
+    {
+      "ar": "SIR.25.5",
+      "en": "SIR.25.3"
+    },
+    {
+      "ar": "SIR.25.6",
+      "en": "SIR.25.4"
+    },
+    {
+      "ar": "SIR.25.7",
+      "en": "SIR.25.5"
+    },
+    {
+      "ar": "SIR.25.8",
+      "en": "SIR.25.6"
+    },
+    {
+      "ar": "SIR.25.9",
+      "en": "SIR.25.7"
+    },
+    {
+      "ar": "SIR.25.10",
+      "en": "SIR.25.7"
+    },
+    {
+      "ar": "SIR.25.11",
+      "en": "SIR.25.8"
+    },
+    {
+      "ar": "SIR.25.12",
+      "en": "SIR.25.9"
+    },
+    {
+      "ar": "SIR.25.13",
+      "en": "SIR.25.10"
+    },
+    {
+      "ar": "SIR.25.14",
+      "en": "SIR.25.11"
+    },
+    {
+      "ar": "SIR.25.15",
+      "en": "SIR.25.11"
+    },
+    {
+      "ar": "SIR.25.16",
+      "en": null
+    },
+    {
+      "ar": "SIR.25.17",
+      "en": null
+    },
+    {
+      "ar": "SIR.25.18",
+      "en": "SIR.25.13"
+    },
+    {
+      "ar": "SIR.25.19",
+      "en": "SIR.25.13"
+    },
+    {
+      "ar": "SIR.25.20",
+      "en": "SIR.25.14"
+    },
+    {
+      "ar": "SIR.25.21",
+      "en": "SIR.25.14"
+    },
+    {
+      "ar": "SIR.25.22",
+      "en": "SIR.25.15"
+    },
+    {
+      "ar": "SIR.25.23",
+      "en": "SIR.25.16"
+    },
+    {
+      "ar": "SIR.25.24",
+      "en": "SIR.25.18"
+    },
+    {
+      "ar": "SIR.25.25",
+      "en": "SIR.25.18"
+    },
+    {
+      "ar": "SIR.25.26",
+      "en": "SIR.25.19"
+    },
+    {
+      "ar": "SIR.25.27",
+      "en": "SIR.25.20"
+    },
+    {
+      "ar": "SIR.25.28",
+      "en": null
+    },
+    {
+      "ar": "SIR.25.29",
+      "en": "SIR.25.22"
+    },
+    {
+      "ar": "SIR.25.30",
+      "en": "SIR.25.22"
+    },
+    {
+      "ar": "SIR.25.31",
+      "en": "SIR.25.23"
+    },
+    {
+      "ar": "SIR.25.32",
+      "en": "SIR.25.23"
+    },
+    {
+      "ar": "SIR.25.33",
+      "en": "SIR.25.24"
+    },
+    {
+      "ar": "SIR.25.34",
+      "en": "SIR.25.25"
+    },
+    {
+      "ar": "SIR.25.35",
+      "en": null
+    },
+    {
+      "ar": "SIR.25.36",
+      "en": "SIR.25.26"
+    },
+    {
+      "ar": "SIR.26.6",
+      "en": "SIR.26.5"
+    },
+    {
+      "ar": "SIR.26.7",
+      "en": "SIR.26.5"
+    },
+    {
+      "ar": "SIR.26.8",
+      "en": "SIR.26.6"
+    },
+    {
+      "ar": "SIR.26.9",
+      "en": "SIR.26.6"
+    },
+    {
+      "ar": "SIR.26.10",
+      "en": "SIR.26.7"
+    },
+    {
+      "ar": "SIR.26.11",
+      "en": "SIR.26.8"
+    },
+    {
+      "ar": "SIR.26.12",
+      "en": "SIR.26.9"
+    },
+    {
+      "ar": "SIR.26.13",
+      "en": "SIR.26.10"
+    },
+    {
+      "ar": "SIR.26.14",
+      "en": "SIR.26.11"
+    },
+    {
+      "ar": "SIR.26.15",
+      "en": "SIR.26.12"
+    },
+    {
+      "ar": "SIR.26.16",
+      "en": "SIR.26.13"
+    },
+    {
+      "ar": "SIR.26.17",
+      "en": "SIR.26.14"
+    },
+    {
+      "ar": "SIR.26.18",
+      "en": "SIR.26.14"
+    },
+    {
+      "ar": "SIR.26.19",
+      "en": "SIR.26.15"
+    },
+    {
+      "ar": "SIR.26.20",
+      "en": "SIR.26.15"
+    },
+    {
+      "ar": "SIR.26.21",
+      "en": "SIR.26.16"
+    },
+    {
+      "ar": "SIR.26.22",
+      "en": "SIR.26.17"
+    },
+    {
+      "ar": "SIR.26.23",
+      "en": "SIR.26.18"
+    },
+    {
+      "ar": "SIR.26.24",
+      "en": null
+    },
+    {
+      "ar": "SIR.26.25",
+      "en": "SIR.26.28"
+    },
+    {
+      "ar": "SIR.26.26",
+      "en": "SIR.26.28"
+    },
+    {
+      "ar": "SIR.26.27",
+      "en": "SIR.26.28"
+    },
+    {
+      "ar": "SIR.26.28",
+      "en": "SIR.26.29"
+    },
+    {
+      "ar": "SIR.27.3",
+      "en": null
+    },
+    {
+      "ar": "SIR.27.4",
+      "en": "SIR.27.3"
+    },
+    {
+      "ar": "SIR.27.5",
+      "en": "SIR.27.4"
+    },
+    {
+      "ar": "SIR.27.6",
+      "en": "SIR.27.5"
+    },
+    {
+      "ar": "SIR.27.7",
+      "en": "SIR.27.6"
+    },
+    {
+      "ar": "SIR.27.8",
+      "en": "SIR.27.7"
+    },
+    {
+      "ar": "SIR.27.9",
+      "en": "SIR.27.8"
+    },
+    {
+      "ar": "SIR.27.10",
+      "en": "SIR.27.9"
+    },
+    {
+      "ar": "SIR.27.11",
+      "en": "SIR.27.10"
+    },
+    {
+      "ar": "SIR.27.12",
+      "en": "SIR.27.11"
+    },
+    {
+      "ar": "SIR.27.13",
+      "en": "SIR.27.12"
+    },
+    {
+      "ar": "SIR.27.14",
+      "en": "SIR.27.13"
+    },
+    {
+      "ar": "SIR.27.15",
+      "en": "SIR.27.14"
+    },
+    {
+      "ar": "SIR.27.16",
+      "en": "SIR.27.15"
+    },
+    {
+      "ar": "SIR.27.17",
+      "en": "SIR.27.16"
+    },
+    {
+      "ar": "SIR.27.18",
+      "en": "SIR.27.17"
+    },
+    {
+      "ar": "SIR.27.19",
+      "en": "SIR.27.17"
+    },
+    {
+      "ar": "SIR.27.20",
+      "en": "SIR.27.18"
+    },
+    {
+      "ar": "SIR.27.21",
+      "en": "SIR.27.19"
+    },
+    {
+      "ar": "SIR.27.22",
+      "en": null
+    },
+    {
+      "ar": "SIR.27.23",
+      "en": "SIR.27.21"
+    },
+    {
+      "ar": "SIR.27.24",
+      "en": "SIR.27.21"
+    },
+    {
+      "ar": "SIR.27.25",
+      "en": "SIR.27.22"
+    },
+    {
+      "ar": "SIR.27.26",
+      "en": "SIR.27.23"
+    },
+    {
+      "ar": "SIR.27.27",
+      "en": "SIR.27.24"
+    },
+    {
+      "ar": "SIR.27.28",
+      "en": "SIR.27.25"
+    },
+    {
+      "ar": "SIR.27.29",
+      "en": "SIR.27.26"
+    },
+    {
+      "ar": "SIR.27.30",
+      "en": "SIR.27.27"
+    },
+    {
+      "ar": "SIR.27.31",
+      "en": "SIR.27.28"
+    },
+    {
+      "ar": "SIR.27.32",
+      "en": "SIR.27.29"
+    },
+    {
+      "ar": "SIR.27.33",
+      "en": "SIR.27.30"
+    },
+    {
+      "ar": "SIR.28.7",
+      "en": "SIR.28.6"
+    },
+    {
+      "ar": "SIR.28.8",
+      "en": "SIR.28.7"
+    },
+    {
+      "ar": "SIR.28.9",
+      "en": "SIR.28.7"
+    },
+    {
+      "ar": "SIR.28.10",
+      "en": "SIR.28.8"
+    },
+    {
+      "ar": "SIR.28.11",
+      "en": "SIR.28.9"
+    },
+    {
+      "ar": "SIR.28.12",
+      "en": "SIR.28.10"
+    },
+    {
+      "ar": "SIR.28.13",
+      "en": null
+    },
+    {
+      "ar": "SIR.28.14",
+      "en": "SIR.28.12"
+    },
+    {
+      "ar": "SIR.28.15",
+      "en": "SIR.28.13"
+    },
+    {
+      "ar": "SIR.28.16",
+      "en": "SIR.28.14"
+    },
+    {
+      "ar": "SIR.28.17",
+      "en": "SIR.28.14"
+    },
+    {
+      "ar": "SIR.28.18",
+      "en": null
+    },
+    {
+      "ar": "SIR.28.19",
+      "en": "SIR.28.15"
+    },
+    {
+      "ar": "SIR.28.20",
+      "en": "SIR.28.16"
+    },
+    {
+      "ar": "SIR.28.21",
+      "en": "SIR.28.17"
+    },
+    {
+      "ar": "SIR.28.22",
+      "en": "SIR.28.18"
+    },
+    {
+      "ar": "SIR.28.23",
+      "en": "SIR.28.19"
+    },
+    {
+      "ar": "SIR.28.24",
+      "en": "SIR.28.20"
+    },
+    {
+      "ar": "SIR.28.25",
+      "en": "SIR.28.21"
+    },
+    {
+      "ar": "SIR.28.26",
+      "en": "SIR.28.22"
+    },
+    {
+      "ar": "SIR.28.27",
+      "en": "SIR.28.23"
+    },
+    {
+      "ar": "SIR.28.28",
+      "en": "SIR.28.25"
+    },
+    {
+      "ar": "SIR.28.29",
+      "en": null
+    },
+    {
+      "ar": "SIR.28.30",
+      "en": null
+    },
+    {
+      "ar": "SIR.29.6",
+      "en": "SIR.29.5"
+    },
+    {
+      "ar": "SIR.29.7",
+      "en": "SIR.29.6"
+    },
+    {
+      "ar": "SIR.29.8",
+      "en": "SIR.29.6"
+    },
+    {
+      "ar": "SIR.29.9",
+      "en": "SIR.29.6"
+    },
+    {
+      "ar": "SIR.29.10",
+      "en": "SIR.29.7"
+    },
+    {
+      "ar": "SIR.29.11",
+      "en": "SIR.29.8"
+    },
+    {
+      "ar": "SIR.29.12",
+      "en": "SIR.29.9"
+    },
+    {
+      "ar": "SIR.29.13",
+      "en": "SIR.29.10"
+    },
+    {
+      "ar": "SIR.29.14",
+      "en": "SIR.29.11"
+    },
+    {
+      "ar": "SIR.29.15",
+      "en": "SIR.29.12"
+    },
+    {
+      "ar": "SIR.29.16",
+      "en": "SIR.29.13"
+    },
+    {
+      "ar": "SIR.29.17",
+      "en": "SIR.29.13"
+    },
+    {
+      "ar": "SIR.29.18",
+      "en": "SIR.29.13"
+    },
+    {
+      "ar": "SIR.29.19",
+      "en": "SIR.29.14"
+    },
+    {
+      "ar": "SIR.29.20",
+      "en": "SIR.29.15"
+    },
+    {
+      "ar": "SIR.29.21",
+      "en": null
+    },
+    {
+      "ar": "SIR.29.22",
+      "en": "SIR.29.17"
+    },
+    {
+      "ar": "SIR.29.23",
+      "en": "SIR.29.14"
+    },
+    {
+      "ar": "SIR.29.24",
+      "en": "SIR.29.18"
+    },
+    {
+      "ar": "SIR.29.25",
+      "en": "SIR.29.18"
+    },
+    {
+      "ar": "SIR.29.26",
+      "en": "SIR.29.19"
+    },
+    {
+      "ar": "SIR.29.27",
+      "en": "SIR.29.20"
+    },
+    {
+      "ar": "SIR.29.28",
+      "en": "SIR.29.21"
+    },
+    {
+      "ar": "SIR.29.29",
+      "en": "SIR.29.22"
+    },
+    {
+      "ar": "SIR.29.30",
+      "en": "SIR.29.23"
+    },
+    {
+      "ar": "SIR.29.31",
+      "en": "SIR.29.24"
+    },
+    {
+      "ar": "SIR.29.32",
+      "en": "SIR.29.25"
+    },
+    {
+      "ar": "SIR.29.33",
+      "en": "SIR.29.26"
+    },
+    {
+      "ar": "SIR.29.34",
+      "en": "SIR.29.27"
+    },
+    {
+      "ar": "SIR.29.35",
+      "en": "SIR.29.28"
+    },
+    {
+      "ar": "SIR.30.5",
+      "en": null
+    },
+    {
+      "ar": "SIR.30.20",
+      "en": "SIR.30.19"
+    },
+    {
+      "ar": "SIR.30.21",
+      "en": "SIR.30.20"
+    },
+    {
+      "ar": "SIR.30.22",
+      "en": "SIR.30.21"
+    },
+    {
+      "ar": "SIR.30.23",
+      "en": "SIR.30.22"
+    },
+    {
+      "ar": "SIR.30.24",
+      "en": "SIR.30.23"
+    },
+    {
+      "ar": "SIR.30.25",
+      "en": "SIR.30.23"
+    },
+    {
+      "ar": "SIR.30.26",
+      "en": "SIR.30.24"
+    },
+    {
+      "ar": "SIR.30.27",
+      "en": "SIR.30.25"
+    },
+    {
+      "ar": "SIR.31.7",
+      "en": null
+    },
+    {
+      "ar": "SIR.31.8",
+      "en": null
+    },
+    {
+      "ar": "SIR.31.13",
+      "en": "SIR.31.12"
+    },
+    {
+      "ar": "SIR.31.14",
+      "en": "SIR.31.13"
+    },
+    {
+      "ar": "SIR.31.16",
+      "en": null
+    },
+    {
+      "ar": "SIR.31.17",
+      "en": "SIR.31.14"
+    },
+    {
+      "ar": "SIR.31.18",
+      "en": "SIR.31.15"
+    },
+    {
+      "ar": "SIR.31.19",
+      "en": "SIR.31.16"
+    },
+    {
+      "ar": "SIR.31.20",
+      "en": "SIR.31.17"
+    },
+    {
+      "ar": "SIR.31.21",
+      "en": "SIR.31.18"
+    },
+    {
+      "ar": "SIR.31.22",
+      "en": null
+    },
+    {
+      "ar": "SIR.31.23",
+      "en": "SIR.31.20"
+    },
+    {
+      "ar": "SIR.31.24",
+      "en": "SIR.31.20"
+    },
+    {
+      "ar": "SIR.31.25",
+      "en": null
+    },
+    {
+      "ar": "SIR.31.26",
+      "en": "SIR.31.22"
+    },
+    {
+      "ar": "SIR.31.27",
+      "en": "SIR.31.22"
+    },
+    {
+      "ar": "SIR.31.28",
+      "en": "SIR.31.23"
+    },
+    {
+      "ar": "SIR.31.29",
+      "en": "SIR.31.24"
+    },
+    {
+      "ar": "SIR.31.30",
+      "en": "SIR.31.25"
+    },
+    {
+      "ar": "SIR.31.31",
+      "en": "SIR.31.26"
+    },
+    {
+      "ar": "SIR.31.32",
+      "en": "SIR.31.27"
+    },
+    {
+      "ar": "SIR.31.33",
+      "en": "SIR.31.27"
+    },
+    {
+      "ar": "SIR.31.34",
+      "en": null
+    },
+    {
+      "ar": "SIR.31.35",
+      "en": null
+    },
+    {
+      "ar": "SIR.31.36",
+      "en": "SIR.31.28"
+    },
+    {
+      "ar": "SIR.31.37",
+      "en": "SIR.31.28"
+    },
+    {
+      "ar": "SIR.31.38",
+      "en": "SIR.31.29"
+    },
+    {
+      "ar": "SIR.32.2",
+      "en": "SIR.32.1"
+    },
+    {
+      "ar": "SIR.32.3",
+      "en": null
+    },
+    {
+      "ar": "SIR.32.4",
+      "en": "SIR.32.3"
+    },
+    {
+      "ar": "SIR.32.5",
+      "en": "SIR.32.3"
+    },
+    {
+      "ar": "SIR.32.6",
+      "en": "SIR.32.4"
+    },
+    {
+      "ar": "SIR.32.7",
+      "en": "SIR.32.5"
+    },
+    {
+      "ar": "SIR.32.8",
+      "en": "SIR.32.6"
+    },
+    {
+      "ar": "SIR.32.9",
+      "en": null
+    },
+    {
+      "ar": "SIR.32.10",
+      "en": "SIR.32.7"
+    },
+    {
+      "ar": "SIR.32.11",
+      "en": "SIR.32.7"
+    },
+    {
+      "ar": "SIR.32.12",
+      "en": "SIR.32.8"
+    },
+    {
+      "ar": "SIR.32.13",
+      "en": "SIR.32.9"
+    },
+    {
+      "ar": "SIR.32.14",
+      "en": "SIR.32.10"
+    },
+    {
+      "ar": "SIR.32.15",
+      "en": "SIR.32.11"
+    },
+    {
+      "ar": "SIR.32.16",
+      "en": "SIR.32.12"
+    },
+    {
+      "ar": "SIR.32.17",
+      "en": "SIR.32.13"
+    },
+    {
+      "ar": "SIR.32.18",
+      "en": "SIR.32.14"
+    },
+    {
+      "ar": "SIR.32.19",
+      "en": "SIR.32.15"
+    },
+    {
+      "ar": "SIR.32.20",
+      "en": "SIR.32.16"
+    },
+    {
+      "ar": "SIR.32.21",
+      "en": "SIR.32.17"
+    },
+    {
+      "ar": "SIR.32.22",
+      "en": "SIR.32.18"
+    },
+    {
+      "ar": "SIR.32.23",
+      "en": "SIR.32.18"
+    },
+    {
+      "ar": "SIR.32.24",
+      "en": "SIR.32.19"
+    },
+    {
+      "ar": "SIR.32.25",
+      "en": null
+    },
+    {
+      "ar": "SIR.32.26",
+      "en": "SIR.32.22"
+    },
+    {
+      "ar": "SIR.32.27",
+      "en": "SIR.32.23"
+    },
+    {
+      "ar": "SIR.32.28",
+      "en": "SIR.32.24"
+    },
+    {
+      "ar": "SIR.33.8",
+      "en": null
+    },
+    {
+      "ar": "SIR.33.9",
+      "en": null
+    },
+    {
+      "ar": "SIR.33.10",
+      "en": "SIR.33.9"
+    },
+    {
+      "ar": "SIR.33.14",
+      "en": "SIR.33.13"
+    },
+    {
+      "ar": "SIR.33.15",
+      "en": "SIR.33.14"
+    },
+    {
+      "ar": "SIR.33.24",
+      "en": "SIR.33.23"
+    },
+    {
+      "ar": "SIR.33.27",
+      "en": null
+    },
+    {
+      "ar": "SIR.33.28",
+      "en": "SIR.33.27"
+    },
+    {
+      "ar": "SIR.33.33",
+      "en": null
+    },
+    {
+      "ar": "SIR.34.6",
+      "en": "SIR.34.5"
+    },
+    {
+      "ar": "SIR.34.9",
+      "en": null
+    },
+    {
+      "ar": "SIR.34.10",
+      "en": "SIR.34.11"
+    },
+    {
+      "ar": "SIR.34.11",
+      "en": null
+    },
+    {
+      "ar": "SIR.34.14",
+      "en": null
+    },
+    {
+      "ar": "SIR.34.15",
+      "en": "SIR.34.19"
+    },
+    {
+      "ar": "SIR.34.20",
+      "en": "SIR.34.19"
+    },
+    {
+      "ar": "SIR.34.21",
+      "en": "SIR.34.22"
+    },
+    {
+      "ar": "SIR.34.22",
+      "en": null
+    },
+    {
+      "ar": "SIR.35.2",
+      "en": "SIR.35.5"
+    },
+    {
+      "ar": "SIR.35.3",
+      "en": "SIR.35.5"
+    },
+    {
+      "ar": "SIR.35.4",
+      "en": "SIR.35.3"
+    },
+    {
+      "ar": "SIR.35.5",
+      "en": "SIR.35.4"
+    },
+    {
+      "ar": "SIR.36.1",
+      "en": null
+    },
+    {
+      "ar": "SIR.36.2",
+      "en": null
+    },
+    {
+      "ar": "SIR.36.13",
+      "en": "SIR.36.16"
+    },
+    {
+      "ar": "SIR.36.14",
+      "en": "SIR.36.17"
+    },
+    {
+      "ar": "SIR.36.15",
+      "en": "SIR.36.18"
+    },
+    {
+      "ar": "SIR.36.16",
+      "en": "SIR.36.19"
+    },
+    {
+      "ar": "SIR.36.17",
+      "en": "SIR.36.20"
+    },
+    {
+      "ar": "SIR.36.18",
+      "en": "SIR.36.21"
+    },
+    {
+      "ar": "SIR.36.19",
+      "en": "SIR.36.22"
+    },
+    {
+      "ar": "SIR.36.20",
+      "en": "SIR.36.23"
+    },
+    {
+      "ar": "SIR.36.21",
+      "en": "SIR.36.24"
+    },
+    {
+      "ar": "SIR.36.22",
+      "en": "SIR.36.25"
+    },
+    {
+      "ar": "SIR.36.23",
+      "en": "SIR.36.26"
+    },
+    {
+      "ar": "SIR.36.24",
+      "en": "SIR.36.27"
+    },
+    {
+      "ar": "SIR.36.25",
+      "en": "SIR.36.28"
+    },
+    {
+      "ar": "SIR.36.26",
+      "en": "SIR.36.29"
+    },
+    {
+      "ar": "SIR.36.27",
+      "en": "SIR.36.30"
+    },
+    {
+      "ar": "SIR.36.28",
+      "en": "SIR.36.31"
+    },
+    {
+      "ar": "SIR.37.1",
+      "en": "SIR.37.2"
+    },
+    {
+      "ar": "SIR.37.7",
+      "en": null
+    },
+    {
+      "ar": "SIR.37.8",
+      "en": "SIR.37.7"
+    },
+    {
+      "ar": "SIR.37.9",
+      "en": "SIR.37.8"
+    },
+    {
+      "ar": "SIR.37.10",
+      "en": "SIR.37.8"
+    },
+    {
+      "ar": "SIR.37.12",
+      "en": "SIR.37.10"
+    },
+    {
+      "ar": "SIR.37.13",
+      "en": "SIR.37.11"
+    },
+    {
+      "ar": "SIR.37.14",
+      "en": null
+    },
+    {
+      "ar": "SIR.37.15",
+      "en": "SIR.37.12"
+    },
+    {
+      "ar": "SIR.37.16",
+      "en": "SIR.37.12"
+    },
+    {
+      "ar": "SIR.37.17",
+      "en": "SIR.37.13"
+    },
+    {
+      "ar": "SIR.37.18",
+      "en": "SIR.37.14"
+    },
+    {
+      "ar": "SIR.37.19",
+      "en": "SIR.37.15"
+    },
+    {
+      "ar": "SIR.37.20",
+      "en": "SIR.37.16"
+    },
+    {
+      "ar": "SIR.37.21",
+      "en": "SIR.37.18"
+    },
+    {
+      "ar": "SIR.37.22",
+      "en": "SIR.37.19"
+    },
+    {
+      "ar": "SIR.37.23",
+      "en": "SIR.37.20"
+    },
+    {
+      "ar": "SIR.37.24",
+      "en": "SIR.37.21"
+    },
+    {
+      "ar": "SIR.37.25",
+      "en": "SIR.37.22"
+    },
+    {
+      "ar": "SIR.37.26",
+      "en": "SIR.37.23"
+    },
+    {
+      "ar": "SIR.37.27",
+      "en": "SIR.37.24"
+    },
+    {
+      "ar": "SIR.37.28",
+      "en": "SIR.37.25"
+    },
+    {
+      "ar": "SIR.37.29",
+      "en": "SIR.37.26"
+    },
+    {
+      "ar": "SIR.37.30",
+      "en": "SIR.37.27"
+    },
+    {
+      "ar": "SIR.37.31",
+      "en": "SIR.37.28"
+    },
+    {
+      "ar": "SIR.37.32",
+      "en": "SIR.37.29"
+    },
+    {
+      "ar": "SIR.37.33",
+      "en": "SIR.37.30"
+    },
+    {
+      "ar": "SIR.37.34",
+      "en": "SIR.37.31"
+    },
+    {
+      "ar": "SIR.38.6",
+      "en": "SIR.38.5"
+    },
+    {
+      "ar": "SIR.38.7",
+      "en": "SIR.38.8"
+    },
+    {
+      "ar": "SIR.38.18",
+      "en": null
+    },
+    {
+      "ar": "SIR.38.19",
+      "en": null
+    },
+    {
+      "ar": "SIR.38.20",
+      "en": "SIR.38.19"
+    },
+    {
+      "ar": "SIR.38.21",
+      "en": "SIR.38.20"
+    },
+    {
+      "ar": "SIR.38.22",
+      "en": "SIR.38.21"
+    },
+    {
+      "ar": "SIR.38.23",
+      "en": "SIR.38.22"
+    },
+    {
+      "ar": "SIR.38.24",
+      "en": "SIR.38.23"
+    },
+    {
+      "ar": "SIR.38.25",
+      "en": "SIR.38.24"
+    },
+    {
+      "ar": "SIR.38.26",
+      "en": "SIR.38.25"
+    },
+    {
+      "ar": "SIR.38.27",
+      "en": "SIR.38.26"
+    },
+    {
+      "ar": "SIR.38.28",
+      "en": "SIR.38.27"
+    },
+    {
+      "ar": "SIR.38.29",
+      "en": "SIR.38.28"
+    },
+    {
+      "ar": "SIR.38.30",
+      "en": "SIR.38.28"
+    },
+    {
+      "ar": "SIR.38.31",
+      "en": "SIR.38.28"
+    },
+    {
+      "ar": "SIR.38.32",
+      "en": "SIR.38.29"
+    },
+    {
+      "ar": "SIR.38.33",
+      "en": "SIR.38.30"
+    },
+    {
+      "ar": "SIR.38.34",
+      "en": "SIR.38.30"
+    },
+    {
+      "ar": "SIR.38.35",
+      "en": "SIR.38.31"
+    },
+    {
+      "ar": "SIR.38.36",
+      "en": "SIR.38.32"
+    },
+    {
+      "ar": "SIR.38.37",
+      "en": "SIR.38.33"
+    },
+    {
+      "ar": "SIR.38.38",
+      "en": "SIR.38.33"
+    },
+    {
+      "ar": "SIR.38.39",
+      "en": "SIR.38.34"
+    },
+    {
+      "ar": "SIR.39.5",
+      "en": "SIR.39.4"
+    },
+    {
+      "ar": "SIR.39.6",
+      "en": "SIR.39.5"
+    },
+    {
+      "ar": "SIR.39.7",
+      "en": "SIR.39.5"
+    },
+    {
+      "ar": "SIR.39.8",
+      "en": "SIR.39.6"
+    },
+    {
+      "ar": "SIR.39.9",
+      "en": "SIR.39.6"
+    },
+    {
+      "ar": "SIR.39.10",
+      "en": "SIR.39.7"
+    },
+    {
+      "ar": "SIR.39.11",
+      "en": "SIR.39.8"
+    },
+    {
+      "ar": "SIR.39.12",
+      "en": "SIR.39.9"
+    },
+    {
+      "ar": "SIR.39.13",
+      "en": "SIR.39.9"
+    },
+    {
+      "ar": "SIR.39.14",
+      "en": "SIR.39.10"
+    },
+    {
+      "ar": "SIR.39.15",
+      "en": "SIR.39.11"
+    },
+    {
+      "ar": "SIR.39.16",
+      "en": "SIR.39.12"
+    },
+    {
+      "ar": "SIR.39.17",
+      "en": "SIR.39.13"
+    },
+    {
+      "ar": "SIR.39.18",
+      "en": "SIR.39.14"
+    },
+    {
+      "ar": "SIR.39.19",
+      "en": "SIR.39.14"
+    },
+    {
+      "ar": "SIR.39.20",
+      "en": "SIR.39.15"
+    },
+    {
+      "ar": "SIR.39.21",
+      "en": "SIR.39.16"
+    },
+    {
+      "ar": "SIR.39.22",
+      "en": "SIR.39.17"
+    },
+    {
+      "ar": "SIR.39.23",
+      "en": "SIR.39.18"
+    },
+    {
+      "ar": "SIR.39.24",
+      "en": "SIR.39.19"
+    },
+    {
+      "ar": "SIR.39.25",
+      "en": "SIR.39.20"
+    },
+    {
+      "ar": "SIR.39.26",
+      "en": "SIR.39.21"
+    },
+    {
+      "ar": "SIR.39.27",
+      "en": "SIR.39.22"
+    },
+    {
+      "ar": "SIR.39.28",
+      "en": "SIR.39.23"
+    },
+    {
+      "ar": "SIR.39.29",
+      "en": "SIR.39.24"
+    },
+    {
+      "ar": "SIR.39.30",
+      "en": "SIR.39.25"
+    },
+    {
+      "ar": "SIR.39.31",
+      "en": "SIR.39.26"
+    },
+    {
+      "ar": "SIR.39.32",
+      "en": "SIR.39.27"
+    },
+    {
+      "ar": "SIR.39.33",
+      "en": "SIR.39.28"
+    },
+    {
+      "ar": "SIR.39.34",
+      "en": "SIR.39.28"
+    },
+    {
+      "ar": "SIR.39.35",
+      "en": "SIR.39.29"
+    },
+    {
+      "ar": "SIR.39.36",
+      "en": "SIR.39.30"
+    },
+    {
+      "ar": "SIR.39.37",
+      "en": "SIR.39.31"
+    },
+    {
+      "ar": "SIR.39.38",
+      "en": "SIR.39.32"
+    },
+    {
+      "ar": "SIR.39.39",
+      "en": "SIR.39.33"
+    },
+    {
+      "ar": "SIR.39.40",
+      "en": "SIR.39.34"
+    },
+    {
+      "ar": "SIR.39.41",
+      "en": "SIR.39.35"
+    },
+    {
+      "ar": "SIR.40.4",
+      "en": "SIR.40.5"
+    },
+    {
+      "ar": "SIR.40.7",
+      "en": "SIR.40.6"
+    },
+    {
+      "ar": "SIR.40.27",
+      "en": "SIR.40.26"
+    },
+    {
+      "ar": "SIR.40.28",
+      "en": "SIR.40.27"
+    },
+    {
+      "ar": "SIR.40.29",
+      "en": "SIR.40.28"
+    },
+    {
+      "ar": "SIR.40.30",
+      "en": "SIR.40.29"
+    },
+    {
+      "ar": "SIR.40.31",
+      "en": "SIR.40.29"
+    },
+    {
+      "ar": "SIR.40.32",
+      "en": "SIR.40.30"
+    },
+    {
+      "ar": "SIR.41.2",
+      "en": "SIR.41.1"
+    },
+    {
+      "ar": "SIR.41.3",
+      "en": "SIR.41.2"
+    },
+    {
+      "ar": "SIR.41.4",
+      "en": "SIR.41.2"
+    },
+    {
+      "ar": "SIR.41.5",
+      "en": "SIR.41.4"
+    },
+    {
+      "ar": "SIR.41.6",
+      "en": "SIR.41.4"
+    },
+    {
+      "ar": "SIR.41.7",
+      "en": "SIR.41.4"
+    },
+    {
+      "ar": "SIR.41.8",
+      "en": "SIR.41.5"
+    },
+    {
+      "ar": "SIR.41.9",
+      "en": "SIR.41.6"
+    },
+    {
+      "ar": "SIR.41.10",
+      "en": "SIR.41.7"
+    },
+    {
+      "ar": "SIR.41.11",
+      "en": "SIR.41.8"
+    },
+    {
+      "ar": "SIR.41.12",
+      "en": "SIR.41.9"
+    },
+    {
+      "ar": "SIR.41.13",
+      "en": "SIR.41.10"
+    },
+    {
+      "ar": "SIR.41.14",
+      "en": "SIR.41.11"
+    },
+    {
+      "ar": "SIR.41.15",
+      "en": "SIR.41.12"
+    },
+    {
+      "ar": "SIR.41.16",
+      "en": "SIR.41.13"
+    },
+    {
+      "ar": "SIR.41.17",
+      "en": "SIR.41.14"
+    },
+    {
+      "ar": "SIR.41.18",
+      "en": "SIR.41.15"
+    },
+    {
+      "ar": "SIR.41.19",
+      "en": "SIR.41.16"
+    },
+    {
+      "ar": "SIR.41.20",
+      "en": "SIR.41.16"
+    },
+    {
+      "ar": "SIR.41.21",
+      "en": "SIR.41.17"
+    },
+    {
+      "ar": "SIR.41.22",
+      "en": "SIR.41.18"
+    },
+    {
+      "ar": "SIR.41.23",
+      "en": "SIR.41.19"
+    },
+    {
+      "ar": "SIR.41.24",
+      "en": "SIR.41.19"
+    },
+    {
+      "ar": "SIR.41.25",
+      "en": "SIR.41.21"
+    },
+    {
+      "ar": "SIR.41.26",
+      "en": "SIR.41.21"
+    },
+    {
+      "ar": "SIR.41.27",
+      "en": "SIR.41.22"
+    },
+    {
+      "ar": "SIR.41.28",
+      "en": "SIR.41.22"
+    },
+    {
+      "ar": "SIR.42.7",
+      "en": "SIR.42.6"
+    },
+    {
+      "ar": "SIR.42.19",
+      "en": "SIR.42.18"
+    },
+    {
+      "ar": "SIR.42.22",
+      "en": "SIR.42.21"
+    },
+    {
+      "ar": "SIR.42.23",
+      "en": "SIR.42.22"
+    },
+    {
+      "ar": "SIR.42.24",
+      "en": "SIR.42.23"
+    },
+    {
+      "ar": "SIR.42.25",
+      "en": "SIR.42.24"
+    },
+    {
+      "ar": "SIR.42.26",
+      "en": "SIR.42.25"
+    },
+    {
+      "ar": "SIR.43.3",
+      "en": "SIR.43.4"
+    },
+    {
+      "ar": "SIR.43.9",
+      "en": "SIR.43.8"
+    },
+    {
+      "ar": "SIR.43.10",
+      "en": "SIR.43.9"
+    },
+    {
+      "ar": "SIR.43.11",
+      "en": "SIR.43.10"
+    },
+    {
+      "ar": "SIR.43.12",
+      "en": "SIR.43.11"
+    },
+    {
+      "ar": "SIR.43.13",
+      "en": "SIR.43.12"
+    },
+    {
+      "ar": "SIR.43.14",
+      "en": "SIR.43.13"
+    },
+    {
+      "ar": "SIR.43.15",
+      "en": "SIR.43.14"
+    },
+    {
+      "ar": "SIR.43.16",
+      "en": "SIR.43.15"
+    },
+    {
+      "ar": "SIR.43.17",
+      "en": "SIR.43.16"
+    },
+    {
+      "ar": "SIR.43.18",
+      "en": "SIR.43.17"
+    },
+    {
+      "ar": "SIR.43.19",
+      "en": "SIR.43.17"
+    },
+    {
+      "ar": "SIR.43.20",
+      "en": "SIR.43.18"
+    },
+    {
+      "ar": "SIR.43.21",
+      "en": "SIR.43.19"
+    },
+    {
+      "ar": "SIR.43.22",
+      "en": "SIR.43.20"
+    },
+    {
+      "ar": "SIR.43.23",
+      "en": "SIR.43.21"
+    },
+    {
+      "ar": "SIR.43.24",
+      "en": "SIR.43.22"
+    },
+    {
+      "ar": "SIR.43.25",
+      "en": "SIR.43.23"
+    },
+    {
+      "ar": "SIR.43.26",
+      "en": "SIR.43.24"
+    },
+    {
+      "ar": "SIR.43.27",
+      "en": "SIR.43.25"
+    },
+    {
+      "ar": "SIR.43.28",
+      "en": "SIR.43.26"
+    },
+    {
+      "ar": "SIR.43.29",
+      "en": "SIR.43.27"
+    },
+    {
+      "ar": "SIR.43.30",
+      "en": "SIR.43.28"
+    },
+    {
+      "ar": "SIR.43.31",
+      "en": "SIR.43.29"
+    },
+    {
+      "ar": "SIR.43.32",
+      "en": "SIR.43.30"
+    },
+    {
+      "ar": "SIR.43.33",
+      "en": "SIR.43.30"
+    },
+    {
+      "ar": "SIR.43.34",
+      "en": "SIR.43.30"
+    },
+    {
+      "ar": "SIR.43.35",
+      "en": "SIR.43.31"
+    },
+    {
+      "ar": "SIR.43.36",
+      "en": "SIR.43.32"
+    },
+    {
+      "ar": "SIR.43.37",
+      "en": "SIR.43.33"
+    },
+    {
+      "ar": "SIR.44.12",
+      "en": "SIR.44.11"
+    },
+    {
+      "ar": "SIR.44.13",
+      "en": "SIR.44.12"
+    },
+    {
+      "ar": "SIR.44.18",
+      "en": "SIR.44.17"
+    },
+    {
+      "ar": "SIR.44.19",
+      "en": "SIR.44.18"
+    },
+    {
+      "ar": "SIR.44.20",
+      "en": "SIR.44.19"
+    },
+    {
+      "ar": "SIR.44.21",
+      "en": "SIR.44.20"
+    },
+    {
+      "ar": "SIR.44.22",
+      "en": "SIR.44.21"
+    },
+    {
+      "ar": "SIR.44.23",
+      "en": "SIR.44.21"
+    },
+    {
+      "ar": "SIR.44.24",
+      "en": "SIR.44.22"
+    },
+    {
+      "ar": "SIR.44.25",
+      "en": "SIR.44.23"
+    },
+    {
+      "ar": "SIR.44.26",
+      "en": "SIR.44.23"
+    },
+    {
+      "ar": "SIR.44.27",
+      "en": "SIR.44.23"
+    },
+    {
+      "ar": "SIR.45.2",
+      "en": "SIR.45.3"
+    },
+    {
+      "ar": "SIR.45.6",
+      "en": "SIR.45.5"
+    },
+    {
+      "ar": "SIR.45.7",
+      "en": "SIR.45.6"
+    },
+    {
+      "ar": "SIR.45.8",
+      "en": "SIR.45.7"
+    },
+    {
+      "ar": "SIR.45.9",
+      "en": "SIR.45.8"
+    },
+    {
+      "ar": "SIR.45.10",
+      "en": "SIR.45.9"
+    },
+    {
+      "ar": "SIR.45.11",
+      "en": "SIR.45.9"
+    },
+    {
+      "ar": "SIR.45.12",
+      "en": "SIR.45.10"
+    },
+    {
+      "ar": "SIR.45.13",
+      "en": "SIR.45.11"
+    },
+    {
+      "ar": "SIR.45.14",
+      "en": "SIR.45.12"
+    },
+    {
+      "ar": "SIR.45.15",
+      "en": "SIR.45.13"
+    },
+    {
+      "ar": "SIR.45.16",
+      "en": "SIR.45.13"
+    },
+    {
+      "ar": "SIR.45.17",
+      "en": "SIR.45.14"
+    },
+    {
+      "ar": "SIR.45.18",
+      "en": "SIR.45.15"
+    },
+    {
+      "ar": "SIR.45.19",
+      "en": "SIR.45.15"
+    },
+    {
+      "ar": "SIR.45.20",
+      "en": "SIR.45.16"
+    },
+    {
+      "ar": "SIR.45.21",
+      "en": "SIR.45.17"
+    },
+    {
+      "ar": "SIR.45.22",
+      "en": "SIR.45.18"
+    },
+    {
+      "ar": "SIR.45.23",
+      "en": "SIR.45.19"
+    },
+    {
+      "ar": "SIR.45.24",
+      "en": "SIR.45.19"
+    },
+    {
+      "ar": "SIR.45.25",
+      "en": "SIR.45.20"
+    },
+    {
+      "ar": "SIR.45.26",
+      "en": "SIR.45.21"
+    },
+    {
+      "ar": "SIR.45.27",
+      "en": "SIR.45.22"
+    },
+    {
+      "ar": "SIR.45.28",
+      "en": "SIR.45.23"
+    },
+    {
+      "ar": "SIR.45.29",
+      "en": "SIR.45.33"
+    },
+    {
+      "ar": "SIR.45.30",
+      "en": "SIR.45.24"
+    },
+    {
+      "ar": "SIR.45.31",
+      "en": "SIR.45.26"
+    },
+    {
+      "ar": "SIR.46.2",
+      "en": "SIR.46.1"
+    },
+    {
+      "ar": "SIR.46.3",
+      "en": "SIR.46.2"
+    },
+    {
+      "ar": "SIR.46.4",
+      "en": "SIR.46.3"
+    },
+    {
+      "ar": "SIR.46.5",
+      "en": "SIR.46.4"
+    },
+    {
+      "ar": "SIR.46.6",
+      "en": "SIR.46.5"
+    },
+    {
+      "ar": "SIR.46.7",
+      "en": "SIR.46.6"
+    },
+    {
+      "ar": "SIR.46.8",
+      "en": "SIR.46.6"
+    },
+    {
+      "ar": "SIR.46.9",
+      "en": "SIR.46.7"
+    },
+    {
+      "ar": "SIR.46.10",
+      "en": "SIR.46.8"
+    },
+    {
+      "ar": "SIR.46.11",
+      "en": "SIR.46.9"
+    },
+    {
+      "ar": "SIR.46.12",
+      "en": "SIR.46.10"
+    },
+    {
+      "ar": "SIR.46.13",
+      "en": "SIR.46.11"
+    },
+    {
+      "ar": "SIR.46.14",
+      "en": "SIR.46.12"
+    },
+    {
+      "ar": "SIR.46.15",
+      "en": "SIR.46.12"
+    },
+    {
+      "ar": "SIR.46.16",
+      "en": "SIR.46.13"
+    },
+    {
+      "ar": "SIR.46.17",
+      "en": "SIR.46.15"
+    },
+    {
+      "ar": "SIR.46.18",
+      "en": "SIR.46.15"
+    },
+    {
+      "ar": "SIR.46.19",
+      "en": "SIR.46.16"
+    },
+    {
+      "ar": "SIR.46.20",
+      "en": "SIR.46.17"
+    },
+    {
+      "ar": "SIR.46.21",
+      "en": "SIR.46.18"
+    },
+    {
+      "ar": "SIR.46.22",
+      "en": "SIR.46.19"
+    },
+    {
+      "ar": "SIR.46.23",
+      "en": "SIR.46.20"
+    },
+    {
+      "ar": "SIR.47.5",
+      "en": "SIR.47.4"
+    },
+    {
+      "ar": "SIR.47.6",
+      "en": "SIR.47.5"
+    },
+    {
+      "ar": "SIR.47.7",
+      "en": "SIR.47.6"
+    },
+    {
+      "ar": "SIR.47.8",
+      "en": "SIR.47.7"
+    },
+    {
+      "ar": "SIR.47.9",
+      "en": "SIR.47.8"
+    },
+    {
+      "ar": "SIR.47.10",
+      "en": null
+    },
+    {
+      "ar": "SIR.47.11",
+      "en": "SIR.47.9"
+    },
+    {
+      "ar": "SIR.47.12",
+      "en": "SIR.47.10"
+    },
+    {
+      "ar": "SIR.47.13",
+      "en": "SIR.47.11"
+    },
+    {
+      "ar": "SIR.47.14",
+      "en": "SIR.47.12"
+    },
+    {
+      "ar": "SIR.47.15",
+      "en": "SIR.47.14"
+    },
+    {
+      "ar": "SIR.47.16",
+      "en": "SIR.47.15"
+    },
+    {
+      "ar": "SIR.47.17",
+      "en": "SIR.47.16"
+    },
+    {
+      "ar": "SIR.47.18",
+      "en": "SIR.47.17"
+    },
+    {
+      "ar": "SIR.47.19",
+      "en": "SIR.47.18"
+    },
+    {
+      "ar": "SIR.47.20",
+      "en": "SIR.47.18"
+    },
+    {
+      "ar": "SIR.47.21",
+      "en": "SIR.47.19"
+    },
+    {
+      "ar": "SIR.47.22",
+      "en": "SIR.47.20"
+    },
+    {
+      "ar": "SIR.47.23",
+      "en": "SIR.47.21"
+    },
+    {
+      "ar": "SIR.47.24",
+      "en": "SIR.47.22"
+    },
+    {
+      "ar": "SIR.47.25",
+      "en": "SIR.47.22"
+    },
+    {
+      "ar": "SIR.47.26",
+      "en": "SIR.47.23"
+    },
+    {
+      "ar": "SIR.47.27",
+      "en": "SIR.47.23"
+    },
+    {
+      "ar": "SIR.47.28",
+      "en": "SIR.47.23"
+    },
+    {
+      "ar": "SIR.47.29",
+      "en": "SIR.47.24"
+    },
+    {
+      "ar": "SIR.47.30",
+      "en": "SIR.47.24"
+    },
+    {
+      "ar": "SIR.47.31",
+      "en": null
+    },
+    {
+      "ar": "SIR.48.12",
+      "en": null
+    },
+    {
+      "ar": "SIR.48.13",
+      "en": "SIR.48.12"
+    },
+    {
+      "ar": "SIR.48.14",
+      "en": "SIR.48.13"
+    },
+    {
+      "ar": "SIR.48.15",
+      "en": "SIR.48.14"
+    },
+    {
+      "ar": "SIR.48.16",
+      "en": "SIR.48.15"
+    },
+    {
+      "ar": "SIR.48.17",
+      "en": "SIR.48.15"
+    },
+    {
+      "ar": "SIR.48.18",
+      "en": "SIR.48.16"
+    },
+    {
+      "ar": "SIR.48.19",
+      "en": "SIR.48.17"
+    },
+    {
+      "ar": "SIR.48.20",
+      "en": "SIR.48.18"
+    },
+    {
+      "ar": "SIR.48.21",
+      "en": "SIR.48.19"
+    },
+    {
+      "ar": "SIR.48.22",
+      "en": "SIR.48.20"
+    },
+    {
+      "ar": "SIR.48.23",
+      "en": "SIR.48.20"
+    },
+    {
+      "ar": "SIR.48.24",
+      "en": "SIR.48.21"
+    },
+    {
+      "ar": "SIR.48.25",
+      "en": "SIR.48.22"
+    },
+    {
+      "ar": "SIR.48.26",
+      "en": "SIR.48.23"
+    },
+    {
+      "ar": "SIR.48.27",
+      "en": "SIR.48.24"
+    },
+    {
+      "ar": "SIR.48.28",
+      "en": "SIR.48.25"
+    },
+    {
+      "ar": "SIR.49.2",
+      "en": "SIR.49.1"
+    },
+    {
+      "ar": "SIR.49.3",
+      "en": "SIR.49.2"
+    },
+    {
+      "ar": "SIR.49.4",
+      "en": "SIR.49.3"
+    },
+    {
+      "ar": "SIR.49.5",
+      "en": "SIR.49.4"
+    },
+    {
+      "ar": "SIR.49.6",
+      "en": "SIR.49.4"
+    },
+    {
+      "ar": "SIR.49.7",
+      "en": "SIR.49.5"
+    },
+    {
+      "ar": "SIR.49.8",
+      "en": "SIR.49.6"
+    },
+    {
+      "ar": "SIR.49.9",
+      "en": "SIR.49.7"
+    },
+    {
+      "ar": "SIR.49.10",
+      "en": "SIR.49.8"
+    },
+    {
+      "ar": "SIR.49.11",
+      "en": "SIR.49.9"
+    },
+    {
+      "ar": "SIR.49.12",
+      "en": "SIR.49.10"
+    },
+    {
+      "ar": "SIR.49.13",
+      "en": "SIR.49.11"
+    },
+    {
+      "ar": "SIR.49.14",
+      "en": "SIR.49.12"
+    },
+    {
+      "ar": "SIR.49.15",
+      "en": "SIR.49.13"
+    },
+    {
+      "ar": "SIR.49.16",
+      "en": "SIR.49.14"
+    },
+    {
+      "ar": "SIR.49.17",
+      "en": "SIR.49.15"
+    },
+    {
+      "ar": "SIR.49.18",
+      "en": null
+    },
+    {
+      "ar": "SIR.49.19",
+      "en": "SIR.49.16"
+    },
+    {
+      "ar": "SIR.50.5",
+      "en": "SIR.50.4"
+    },
+    {
+      "ar": "SIR.50.8",
+      "en": "SIR.50.7"
+    },
+    {
+      "ar": "SIR.50.10",
+      "en": "SIR.50.9"
+    },
+    {
+      "ar": "SIR.50.11",
+      "en": "SIR.50.10"
+    },
+    {
+      "ar": "SIR.50.12",
+      "en": "SIR.50.11"
+    },
+    {
+      "ar": "SIR.50.13",
+      "en": "SIR.50.12"
+    },
+    {
+      "ar": "SIR.50.14",
+      "en": "SIR.50.13"
+    },
+    {
+      "ar": "SIR.50.15",
+      "en": "SIR.50.14"
+    },
+    {
+      "ar": "SIR.50.16",
+      "en": "SIR.50.15"
+    },
+    {
+      "ar": "SIR.50.17",
+      "en": "SIR.50.15"
+    },
+    {
+      "ar": "SIR.50.18",
+      "en": "SIR.50.16"
+    },
+    {
+      "ar": "SIR.50.19",
+      "en": "SIR.50.17"
+    },
+    {
+      "ar": "SIR.50.20",
+      "en": "SIR.50.18"
+    },
+    {
+      "ar": "SIR.50.21",
+      "en": "SIR.50.19"
+    },
+    {
+      "ar": "SIR.50.22",
+      "en": "SIR.50.20"
+    },
+    {
+      "ar": "SIR.50.23",
+      "en": "SIR.50.21"
+    },
+    {
+      "ar": "SIR.50.24",
+      "en": "SIR.50.22"
+    },
+    {
+      "ar": "SIR.50.25",
+      "en": "SIR.50.23"
+    },
+    {
+      "ar": "SIR.50.26",
+      "en": "SIR.50.24"
+    },
+    {
+      "ar": "SIR.50.27",
+      "en": "SIR.50.25"
+    },
+    {
+      "ar": "SIR.50.28",
+      "en": "SIR.50.26"
+    },
+    {
+      "ar": "SIR.50.29",
+      "en": "SIR.50.27"
+    },
+    {
+      "ar": "SIR.50.30",
+      "en": "SIR.50.28"
+    },
+    {
+      "ar": "SIR.50.31",
+      "en": "SIR.50.29"
+    },
+    {
+      "ar": "SIR.51.2",
+      "en": "SIR.51.1"
+    },
+    {
+      "ar": "SIR.51.3",
+      "en": "SIR.51.2"
+    },
+    {
+      "ar": "SIR.51.4",
+      "en": "SIR.51.3"
+    },
+    {
+      "ar": "SIR.51.5",
+      "en": "SIR.51.3"
+    },
+    {
+      "ar": "SIR.51.6",
+      "en": "SIR.51.4"
+    },
+    {
+      "ar": "SIR.51.7",
+      "en": "SIR.51.6"
+    },
+    {
+      "ar": "SIR.51.8",
+      "en": "SIR.51.6"
+    },
+    {
+      "ar": "SIR.51.9",
+      "en": "SIR.51.6"
+    },
+    {
+      "ar": "SIR.51.10",
+      "en": "SIR.51.7"
+    },
+    {
+      "ar": "SIR.51.11",
+      "en": "SIR.51.8"
+    },
+    {
+      "ar": "SIR.51.12",
+      "en": "SIR.51.8"
+    },
+    {
+      "ar": "SIR.51.13",
+      "en": "SIR.51.9"
+    },
+    {
+      "ar": "SIR.51.14",
+      "en": "SIR.51.10"
+    },
+    {
+      "ar": "SIR.51.15",
+      "en": "SIR.51.11"
+    },
+    {
+      "ar": "SIR.51.16",
+      "en": "SIR.51.12"
+    },
+    {
+      "ar": "SIR.51.17",
+      "en": "SIR.51.12"
+    },
+    {
+      "ar": "SIR.51.18",
+      "en": "SIR.51.13"
+    },
+    {
+      "ar": "SIR.51.19",
+      "en": "SIR.51.15"
+    },
+    {
+      "ar": "SIR.51.20",
+      "en": "SIR.51.15"
+    },
+    {
+      "ar": "SIR.51.21",
+      "en": "SIR.51.16"
+    },
+    {
+      "ar": "SIR.51.22",
+      "en": "SIR.51.17"
+    },
+    {
+      "ar": "SIR.51.23",
+      "en": "SIR.51.17"
+    },
+    {
+      "ar": "SIR.51.24",
+      "en": "SIR.51.18"
+    },
+    {
+      "ar": "SIR.51.25",
+      "en": "SIR.51.19"
+    },
+    {
+      "ar": "SIR.51.26",
+      "en": "SIR.51.19"
+    },
+    {
+      "ar": "SIR.51.27",
+      "en": "SIR.51.20"
+    },
+    {
+      "ar": "SIR.51.28",
+      "en": "SIR.51.20"
+    },
+    {
+      "ar": "SIR.51.29",
+      "en": "SIR.51.21"
+    },
+    {
+      "ar": "SIR.51.30",
+      "en": "SIR.51.22"
+    },
+    {
+      "ar": "SIR.51.31",
+      "en": "SIR.51.23"
+    },
+    {
+      "ar": "SIR.51.32",
+      "en": "SIR.51.24"
+    },
+    {
+      "ar": "SIR.51.33",
+      "en": "SIR.51.25"
+    },
+    {
+      "ar": "SIR.51.34",
+      "en": "SIR.51.26"
+    },
+    {
+      "ar": "SIR.51.35",
+      "en": "SIR.51.27"
+    },
+    {
+      "ar": "SIR.51.36",
+      "en": "SIR.51.28"
+    },
+    {
+      "ar": "SIR.51.37",
+      "en": "SIR.51.29"
+    },
+    {
+      "ar": "SIR.51.38",
+      "en": "SIR.51.30"
+    }
+  ]
+}

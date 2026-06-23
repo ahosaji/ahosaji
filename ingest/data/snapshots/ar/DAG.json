@@ -1,0 +1,2259 @@
+{
+  "usfm": "DAG",
+  "source": "arabic",
+  "_provenance": {
+    "title": "تتمة دانيال — سوسنة وبيل والتنين (Daniel Additions: Susanna and Bel and the Dragon)",
+    "url_pattern": "https://coptic-treasures.com/chapter/daniel-ending-NNN-svd/",
+    "publisher": "مشروع الكنوز القبطية (Coptic Treasures Project)",
+    "translation_basis": "Arabic source Arabic Bible (SVD), as published in the Coptic Treasures interactive verse-by-verse interface (chapter 13 = Susanna; chapter 14 = Bel and the Dragon).",
+    "note": "Sourced because Arabic source's structured Bible search has Daniel limited to 12 chapters and does not include the Greek Septuagint additions (Susanna, Bel and the Dragon, Song of Three Youths). Coptic Treasures publishes the SVD-translated additions under the URL slug 'daniel-ending'. The Song of Three Youths is omitted here because English integrates it inline in Daniel 3:24-90; our en/DAG.json contains only Susanna (DAG.1) and Bel (DAG.2)."
+  },
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "DAG",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "DAG.1.1",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 1,
+          "text": "وكان في بابل رجل اسمه يوياقيم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان في بابل رجل اسمه يوياقيم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.2",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 2,
+          "text": "وكان متزوجا امراة اسمها سوسنة ابنة حلقيا جميلة جدا ومتقية للرب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان متزوجا امراة اسمها سوسنة ابنة حلقيا جميلة جدا ومتقية للرب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.3",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 3,
+          "text": "وكان ابواها صديقين فادبا ابنتهما على حسب شريعة موسى.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان ابواها صديقين فادبا ابنتهما على حسب شريعة موسى.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.4",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 4,
+          "text": "وكان يواقيم غنيا جدا وكانت له حديقة تلي داره وكان اليهود يجتمعون اليه لانه كان اوجههم جميعا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان يواقيم غنيا جدا وكانت له حديقة تلي داره وكان اليهود يجتمعون اليه لانه كان اوجههم جميعا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.5",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 5,
+          "text": "وكان قد اقيم شيخان من الشعب للقضاء في تلك السنة وهما من الذين قال الرب فيهم ان الاثم قد صدر من بابل من شيوخ قضاة يحسبون مدبري الشعب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان قد اقيم شيخان من الشعب للقضاء في تلك السنة وهما من الذين قال الرب فيهم ان الاثم قد صدر من بابل من شيوخ قضاة يحسبون مدبري الشعب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.6",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 6,
+          "text": "وكانا يترددان الى دار يوياقيم فياتيهما كل ذي دعوى.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانا يترددان الى دار يوياقيم فياتيهما كل ذي دعوى.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.7",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 7,
+          "text": "وكانت سوسنة متى انصرف الشعب عند الظهر تدخل وتتمشى في حديقة رجلها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانت سوسنة متى انصرف الشعب عند الظهر تدخل وتتمشى في حديقة رجلها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.8",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 8,
+          "text": "فكان الشيخان يريانها كل يوم تدخل وتتمشى فكلفا بهواها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فكان الشيخان يريانها كل يوم تدخل وتتمشى فكلفا بهواها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.9",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 9,
+          "text": "واسلما عقولهما الى الفساد وصرفا اعينهما لئلا ينظرا الى السماء فيذكرا الاحكام العادلة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واسلما عقولهما الى الفساد وصرفا اعينهما لئلا ينظرا الى السماء فيذكرا الاحكام العادلة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.10",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 10,
+          "text": "وكانا كلاهما مشغوفين بها ولم يكاشف احدهما الاخر بوجده.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانا كلاهما مشغوفين بها ولم يكاشف احدهما الاخر بوجده.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.11",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 11,
+          "text": "حياء من كشف هواهما ورغبة في مضاجعتها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حياء من كشف هواهما ورغبة في مضاجعتها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.12",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 12,
+          "text": "وكانا كل يوم يجدان في الترقب لكي ينظراها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانا كل يوم يجدان في الترقب لكي ينظراها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.13",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 13,
+          "text": "وان احدهما قال للاخر لنتصرف الى بيوتنا فانها ساعة الغذاء فخرجا وتفارقا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وان احدهما قال للاخر لنتصرف الى بيوتنا فانها ساعة الغذاء فخرجا وتفارقا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.14",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 14,
+          "text": "ثم انقلبا ورجعا الى الموضع فسال بعضهما بعضا عن سبب رجوعه فاعترفا بهواهما وحينئذ اتفقا معا على وقت يمكنهما فيهان يخلوا بها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم انقلبا ورجعا الى الموضع فسال بعضهما بعضا عن سبب رجوعه فاعترفا بهواهما وحينئذ اتفقا معا على وقت يمكنهما فيهان يخلوا بها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.15",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 15,
+          "text": "وكان في بعض الايام بينما هما مترقبان اليوم الموافق انها دخلت مثل امس فما قبل ومعها جاريتان فقط وارادت ان تغتسل في الحديقة لانه كان حر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان في بعض الايام بينما هما مترقبان اليوم الموافق انها دخلت مثل امس فما قبل ومعها جاريتان فقط وارادت ان تغتسل في الحديقة لانه كان حر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.16",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 16,
+          "text": "ولم يكن هناك احد الا الشيخان وهما مختبئان يترقبانها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولم يكن هناك احد الا الشيخان وهما مختبئان يترقبانها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.17",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 17,
+          "text": "فقالت للجاريتين ائتياني بدهن وغسول واغلقا ابواب الحديقة لاغتسل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقالت للجاريتين ائتياني بدهن وغسول واغلقا ابواب الحديقة لاغتسل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.18",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 18,
+          "text": "ففعلتا كما امرتهما اغلقتا ابواب الحديقة وخرجتا من ابواب السر لتاتيا بما امرتا به ولم تعلما ان الشيخين مختبئان هناك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ففعلتا كما امرتهما اغلقتا ابواب الحديقة وخرجتا من ابواب السر لتاتيا بما امرتا به ولم تعلما ان الشيخين مختبئان هناك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.19",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 19,
+          "text": "فلما خرجت الجاريتان قام الشيخان وهجما عليها وقالا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما خرجت الجاريتان قام الشيخان وهجما عليها وقالا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.20",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 20,
+          "text": "ها ان ابواب الحديقة مغلقة ولا يرانا احد ونحن كلفان بهواك فوافقينا وكوني معنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ها ان ابواب الحديقة مغلقة ولا يرانا احد ونحن كلفان بهواك فوافقينا وكوني معنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.21",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 21,
+          "text": "والا فنشهد عليك انه كان معك شاب ولذلك صرفت الجاريتين عنك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والا فنشهد عليك انه كان معك شاب ولذلك صرفت الجاريتين عنك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.22",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 22,
+          "text": "فتنهدت سوسنة وقالت لقد ضاق بي الامر من كل جهة فاني ان فعلت هذا فهو لي موت وان لم افعل فلا انجو من ايديكما.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فتنهدت سوسنة وقالت لقد ضاق بي الامر من كل جهة فاني ان فعلت هذا فهو لي موت وان لم افعل فلا انجو من ايديكما.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.23",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 23,
+          "text": "ولكن خير لي ان لا افعل ثم اقع في ايديكما من ان اخطا امام الرب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن خير لي ان لا افعل ثم اقع في ايديكما من ان اخطا امام الرب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.24",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 24,
+          "text": "وصرخت سوسنة بصوت عظيم فصرخ الشيخان عليها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وصرخت سوسنة بصوت عظيم فصرخ الشيخان عليها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.25",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 25,
+          "text": "واسرع احدهما وفتح ابواب الحديقة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واسرع احدهما وفتح ابواب الحديقة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.26",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 26,
+          "text": "فلما سمع اهل البيت الصراخ في الحديقة وثبوا اليها من باب السر ليروا ما وقع لها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما سمع اهل البيت الصراخ في الحديقة وثبوا اليها من باب السر ليروا ما وقع لها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.27",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 27,
+          "text": "ولما تكلم الشيخان بكلامهما خجل العبيد جدا لانه لم يقل قط هذا القول على سوسنة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولما تكلم الشيخان بكلامهما خجل العبيد جدا لانه لم يقل قط هذا القول على سوسنة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.28",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 28,
+          "text": "وفي الغد لما اجتمع الشعب الى رجلها يوياقيم اتى الشيخان مضمرين نية اثيمة على سوسنة ليهلكاها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وفي الغد لما اجتمع الشعب الى رجلها يوياقيم اتى الشيخان مضمرين نية اثيمة على سوسنة ليهلكاها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.29",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 29,
+          "text": "وقالا امام الشعب ارسلوا الى سوسنة بنة حلقيا التي هي امراة يوياقيم فارسلوا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقالا امام الشعب ارسلوا الى سوسنة بنة حلقيا التي هي امراة يوياقيم فارسلوا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.30",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 30,
+          "text": "فاتت هي ووالداها وبنوها وجميع ذوي قرابتها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاتت هي ووالداها وبنوها وجميع ذوي قرابتها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.31",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 31,
+          "text": "وكانت سوسنة ترفة جدا وجميلة المنظر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانت سوسنة ترفة جدا وجميلة المنظر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.32",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 32,
+          "text": "فامر هذان الفاجران ان يكشف وجهها وكانت مبرقعة ليشبعا من جمالها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فامر هذان الفاجران ان يكشف وجهها وكانت مبرقعة ليشبعا من جمالها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.33",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 33,
+          "text": "وكان اهلها وجميع الذين يعرفونها يبكون.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان اهلها وجميع الذين يعرفونها يبكون.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.34",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 34,
+          "text": "فقام الشيخان في وسط الشعب ووضعا ايديهما على راسها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقام الشيخان في وسط الشعب ووضعا ايديهما على راسها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.35",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 35,
+          "text": "فرفعت طرفها الى السماء وهي باكية لان قلبها كان متوكلا على الرب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فرفعت طرفها الى السماء وهي باكية لان قلبها كان متوكلا على الرب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.36",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 36,
+          "text": "فقال الشيخان اننا كنا نتمشى في الحديقة وحدنا فاذا بهذه قد دخلت ومعها جاريتان واغلقت ابواب الحديقة ثم صرفت الجاريتين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال الشيخان اننا كنا نتمشى في الحديقة وحدنا فاذا بهذه قد دخلت ومعها جاريتان واغلقت ابواب الحديقة ثم صرفت الجاريتين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.37",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 37,
+          "text": "فاتاها شاب كان مختبئا ووقع عليها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاتاها شاب كان مختبئا ووقع عليها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.38",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 38,
+          "text": "وكنا نحن في زاوية من الحديقة فلما راينا الاثم اسرعنا اليهما ورايناهما متعانقين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكنا نحن في زاوية من الحديقة فلما راينا الاثم اسرعنا اليهما ورايناهما متعانقين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.39",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 39,
+          "text": "اما ذاك فلم نستطيع ان نمسكه لانه كان اقوى منا ففتح الابواب وفر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اما ذاك فلم نستطيع ان نمسكه لانه كان اقوى منا ففتح الابواب وفر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.40",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 40,
+          "text": "واما هذه فقبضنا عليها وسالناها من الشاب فابت ان تخبرنا هذا ما نشهد به.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واما هذه فقبضنا عليها وسالناها من الشاب فابت ان تخبرنا هذا ما نشهد به.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.41",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 41,
+          "text": "فصدقهما المجمع لانهما شيخان وقاضيان في الشعب وحكموا عليها بالموت.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فصدقهما المجمع لانهما شيخان وقاضيان في الشعب وحكموا عليها بالموت.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.42",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 42,
+          "text": "فصرخت سوسنة بصوت عظيم وقالت ايها الاله الازلي البصير بالخفايا العالم بكل شيء قبل ان يكون.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فصرخت سوسنة بصوت عظيم وقالت ايها الاله الازلي البصير بالخفايا العالم بكل شيء قبل ان يكون.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.43",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 43,
+          "text": "انك تعلم انهما شهدا علي بالزور وها انا اموت ولم اصنع شيئا مما افترى علي هذان.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "انك تعلم انهما شهدا علي بالزور وها انا اموت ولم اصنع شيئا مما افترى علي هذان.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.44",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 44,
+          "text": "فاستجاب الرب لصوتها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاستجاب الرب لصوتها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.45",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 45,
+          "text": "واذ كانت تساق الى الموت نبه الله روحا مقدسا لشاب حدث اسمه دانيال.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واذ كانت تساق الى الموت نبه الله روحا مقدسا لشاب حدث اسمه دانيال.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.46",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 46,
+          "text": "فصرخ بصوت عظيم انا بريء من دم هذه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فصرخ بصوت عظيم انا بريء من دم هذه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.47",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 47,
+          "text": "فالتفت اليه الشعب كله وقالوا ما هذا الكلام الذي قلته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فالتفت اليه الشعب كله وقالوا ما هذا الكلام الذي قلته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.48",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 48,
+          "text": "فوقف في وسطهم وقال اهكذا انتم اغبياء يا بني اسرائيل حتى تقضوا على بنت اسرائيل بغير ان تفحصوا وتتحققوا الامر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فوقف في وسطهم وقال اهكذا انتم اغبياء يا بني اسرائيل حتى تقضوا على بنت اسرائيل بغير ان تفحصوا وتتحققوا الامر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.49",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 49,
+          "text": "ارجعوا الى القضاء فان هذين انما شهدا عليها بالزور.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ارجعوا الى القضاء فان هذين انما شهدا عليها بالزور.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.50",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 50,
+          "text": "فاسرع الشعب كله ورجع فقال له الشيخان هلم اجلس بيننا وافدنا فقد اتاك الله مزية الشيوخ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاسرع الشعب كله ورجع فقال له الشيخان هلم اجلس بيننا وافدنا فقد اتاك الله مزية الشيوخ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.51",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 51,
+          "text": "فقال لهم دانيال فرقوهما بعضهما عن بعض فاحكم فيهما.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال لهم دانيال فرقوهما بعضهما عن بعض فاحكم فيهما.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.52",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 52,
+          "text": "فلما فرقا الواحد عن الاخر دعا احدهما وقال له يا ايها المتعتق الايام الشريرة لقد اتت عليك خطاياك التي ارتكبت من قبل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما فرقا الواحد عن الاخر دعا احدهما وقال له يا ايها المتعتق الايام الشريرة لقد اتت عليك خطاياك التي ارتكبت من قبل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.53",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 53,
+          "text": "بقضائك اقضية ظلم وحكمك على الابرياء واطلاقكك للمجرمين وقد قال الله البريء والزكي لا تقتلهما.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بقضائك اقضية ظلم وحكمك على الابرياء واطلاقكك للمجرمين وقد قال الله البريء والزكي لا تقتلهما.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.54",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 54,
+          "text": "فالان ان كنت قد رايتها فقل تحت اي شجرة رايتهما يتحدثان فقال تحت الضروة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فالان ان كنت قد رايتها فقل تحت اي شجرة رايتهما يتحدثان فقال تحت الضروة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.55",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 55,
+          "text": "فقال دانيال لقد صوبت كذبك على راسك فملاك الله قد امر من لدن الله بان يشقك شطرين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال دانيال لقد صوبت كذبك على راسك فملاك الله قد امر من لدن الله بان يشقك شطرين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.56",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 56,
+          "text": "ثم نحاه وامر باقبال الاخر فقال له يا نسل كنعان لا يهوذا قد فتنك الجمال واسلم الهوى قلبك الى الفساد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم نحاه وامر باقبال الاخر فقال له يا نسل كنعان لا يهوذا قد فتنك الجمال واسلم الهوى قلبك الى الفساد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.57",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 57,
+          "text": "هكذا كنتما تصنعان مع بنات اسرائيل وكن يحدثنكما مخافة منكما اما بنت يهوذا فلم تحتمل فجوركما.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هكذا كنتما تصنعان مع بنات اسرائيل وكن يحدثنكما مخافة منكما اما بنت يهوذا فلم تحتمل فجوركما.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.58",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 58,
+          "text": "فالان قل لي تحت اية شجرة صادفتهما يتحدثان فقال تحت السنديانة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فالان قل لي تحت اية شجرة صادفتهما يتحدثان فقال تحت السنديانة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.59",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 59,
+          "text": "فقال له دانيال وانت ايضا قد صوبت كذبك على راسك فملاك الله واقف وبيده سيف ليقطعك شطرين حتى يهلككما.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال له دانيال وانت ايضا قد صوبت كذبك على راسك فملاك الله واقف وبيده سيف ليقطعك شطرين حتى يهلككما.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.60",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 60,
+          "text": "فصرخ المجمع كله بصوت عظيم وباركوا الله مخلص الذين يرجونه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فصرخ المجمع كله بصوت عظيم وباركوا الله مخلص الذين يرجونه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.61",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 61,
+          "text": "وقاموا على الشيخين وقد اثبت دانيال من نطقهما انهما شهدا بالزور وصنعوا بهما كما نويا ان يصنعا بالقريب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقاموا على الشيخين وقد اثبت دانيال من نطقهما انهما شهدا بالزور وصنعوا بهما كما نويا ان يصنعا بالقريب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.62",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 62,
+          "text": "عملا بما في شريعة موسى فقتلوهما وخلص الدم الزكي في ذلك اليوم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عملا بما في شريعة موسى فقتلوهما وخلص الدم الزكي في ذلك اليوم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.63",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 63,
+          "text": "فسبح حلقيا وامراته لاجل ابنتهما مع يوياقيم رجلها وذوي قرابتهم لانه لم يوجد فيها شيء قبيح.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فسبح حلقيا وامراته لاجل ابنتهما مع يوياقيم رجلها وذوي قرابتهم لانه لم يوجد فيها شيء قبيح.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.1.64",
+          "book": "DAG",
+          "chapter": 1,
+          "verse": 64,
+          "text": "وعظم دانيال عند الشعب من ذلك اليوم فما بعد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وعظم دانيال عند الشعب من ذلك اليوم فما بعد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:18:44.782313+00:00"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "DAG",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "DAG.2.1",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 1,
+          "text": "وكان دانيال نديما للملك ومكرما فوق جميع اصدقائه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان دانيال نديما للملك ومكرما فوق جميع اصدقائه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.2",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 2,
+          "text": "وكان لاهل بابل صنم اسمه بال وكانوا ينفقون له كل يوم اثني عشر اردبا من السميذ واربعين شاة وستة امتار من الخمر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان لاهل بابل صنم اسمه بال وكانوا ينفقون له كل يوم اثني عشر اردبا من السميذ واربعين شاة وستة امتار من الخمر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.3",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 3,
+          "text": "وكان الملك يعبده وينطلق كل يوم فيسجد له اما دانيال فكان يسجد لالهه فقال الملك لماذا لا تسجد لبال.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان الملك يعبده وينطلق كل يوم فيسجد له اما دانيال فكان يسجد لالهه فقال الملك لماذا لا تسجد لبال.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.4",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 4,
+          "text": "فقال لاني لا اعبد اصناما صنعة الايدي بل الاله الحي خالق السماوات والارض الذي له السلطان على كل ذي جسد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال لاني لا اعبد اصناما صنعة الايدي بل الاله الحي خالق السماوات والارض الذي له السلطان على كل ذي جسد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.5",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 5,
+          "text": "فقال له الملك اتحسب ان بالا ليس باله حي او لا ترى كم ياكل ويشرب كل يوم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال له الملك اتحسب ان بالا ليس باله حي او لا ترى كم ياكل ويشرب كل يوم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.6",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 6,
+          "text": "فضحك دانيال وقال لا تضل ايها الملك فان هذا باطنه طين وظاهره نحاس فلم ياكل قط.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فضحك دانيال وقال لا تضل ايها الملك فان هذا باطنه طين وظاهره نحاس فلم ياكل قط.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.7",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 7,
+          "text": "فغضب الملك ودعا كهنته وقال لهم ان لم تقولوا لي من الذي ياكل هذه النفقة تموتون.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فغضب الملك ودعا كهنته وقال لهم ان لم تقولوا لي من الذي ياكل هذه النفقة تموتون.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.8",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 8,
+          "text": "وان بينتم ان بالا ياكل هذه يموت دانيال لانه جدف على بال فقال دانيال للملك ليفعل كما تقول.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وان بينتم ان بالا ياكل هذه يموت دانيال لانه جدف على بال فقال دانيال للملك ليفعل كما تقول.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.9",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 9,
+          "text": "وكان كهنة بال سبعين كاهنا ما خلا النساء والاولاد فاتى الملك ودانيال الى بيت بال.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان كهنة بال سبعين كاهنا ما خلا النساء والاولاد فاتى الملك ودانيال الى بيت بال.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.10",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 10,
+          "text": "فقال كهنة بال ها انا ننصرف الى الخارج وانت ايها الملك ضع الاطعمة وامزج الخمر وضعها ثم اغلق الباب واختم عليه بخاتمك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال كهنة بال ها انا ننصرف الى الخارج وانت ايها الملك ضع الاطعمة وامزج الخمر وضعها ثم اغلق الباب واختم عليه بخاتمك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.11",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 11,
+          "text": "وفي غد ارجع فان لم تجد بالا قد اكل الجميع فانا نموت والا فيموت دانيال الذي افترى علينا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وفي غد ارجع فان لم تجد بالا قد اكل الجميع فانا نموت والا فيموت دانيال الذي افترى علينا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.12",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 12,
+          "text": "وكانوا يستخفون بالامر لانهم كانوا قد صنعوا تحت المائدة مدخلا خفيا يدخلون منه كل يوم ويلتهمون الجميع.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانوا يستخفون بالامر لانهم كانوا قد صنعوا تحت المائدة مدخلا خفيا يدخلون منه كل يوم ويلتهمون الجميع.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.13",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 13,
+          "text": "فلما خرجوا وضع الملك الاطعمة لبال فامر دانيال غلمانه فاتوا برماد وذروه في الهيكل كله بحضرة الملك وحده ثم خرجوا واغلقوا الباب وختموا عليه بخاتم الملك وانصرفوا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما خرجوا وضع الملك الاطعمة لبال فامر دانيال غلمانه فاتوا برماد وذروه في الهيكل كله بحضرة الملك وحده ثم خرجوا واغلقوا الباب وختموا عليه بخاتم الملك وانصرفوا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.14",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 14,
+          "text": "فلما كان الليل دخل الكهنة كعادتهم هم ونساؤهم واولادهم واكلوا الجميع وشربوا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما كان الليل دخل الكهنة كعادتهم هم ونساؤهم واولادهم واكلوا الجميع وشربوا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.15",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 15,
+          "text": "وبكر الملك في الغد ودانيال معه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وبكر الملك في الغد ودانيال معه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.16",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 16,
+          "text": "فقال اسالمة الخواتيم يا دانيال قال سالمة ايها الملك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال اسالمة الخواتيم يا دانيال قال سالمة ايها الملك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.17",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 17,
+          "text": "ولما فتحت الابواب نظر الملك الى المائدة فهتف بصوت عال عظيم انت يا بال ولا مكر عندك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولما فتحت الابواب نظر الملك الى المائدة فهتف بصوت عال عظيم انت يا بال ولا مكر عندك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.18",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 18,
+          "text": "فضحك دانيال وامسك الملك لئلا يدخل الى داخل وقال انظر البلاط واعرف ما هذه الاثار.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فضحك دانيال وامسك الملك لئلا يدخل الى داخل وقال انظر البلاط واعرف ما هذه الاثار.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.19",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 19,
+          "text": "فقال الملك اني ارى اثار رجال ونساء واولاد وغضب الملك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال الملك اني ارى اثار رجال ونساء واولاد وغضب الملك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.20",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 20,
+          "text": "حينئذ قبض على الكهنة ونسائهم واولادهم فاروه الابواب الخفية التي يدخلون منها وياكلون ما على المائدة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حينئذ قبض على الكهنة ونسائهم واولادهم فاروه الابواب الخفية التي يدخلون منها وياكلون ما على المائدة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.21",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 21,
+          "text": "فقتلهم الملك واسلم بالا الى يد دانيال فحطمه هو وهيكله.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقتلهم الملك واسلم بالا الى يد دانيال فحطمه هو وهيكله.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.22",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 22,
+          "text": "وكان في بابل تنين عظيم وكان اهلها يعبدونه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان في بابل تنين عظيم وكان اهلها يعبدونه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.23",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 23,
+          "text": "فقال الملك لدانيال اتقول عن هذا ايضا انه نحاس ها انه حي ياكل ويشرب ولا تستطيع ان تقول انه ليس الها حيا فاسجد له.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال الملك لدانيال اتقول عن هذا ايضا انه نحاس ها انه حي ياكل ويشرب ولا تستطيع ان تقول انه ليس الها حيا فاسجد له.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.24",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 24,
+          "text": "فقال دانيال اني انما اسجد للرب الهي لانه هو الاله الحي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال دانيال اني انما اسجد للرب الهي لانه هو الاله الحي.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.25",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 25,
+          "text": "وانت ايها الملك اجعل لي سلطانا فاقتل التنين بلا سيف ولا عصا فقال الملك قد جعلت لك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وانت ايها الملك اجعل لي سلطانا فاقتل التنين بلا سيف ولا عصا فقال الملك قد جعلت لك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.26",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 26,
+          "text": "فاخذ دانيال زفتا وشحما وشعرا وطبخها معا وصنع اقراصا وجعلها في فم التنين فاكلها التنين فانشق فقال انظروا معبوداتكم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاخذ دانيال زفتا وشحما وشعرا وطبخها معا وصنع اقراصا وجعلها في فم التنين فاكلها التنين فانشق فقال انظروا معبوداتكم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.27",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 27,
+          "text": "فلما سمع بذلك اهل بابل غضبوا جدا واجتمعوا على الملك وقالوا ان الملك قد صار يهوديا فحطم بالا وقتل التنين وذبح الكهنة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما سمع بذلك اهل بابل غضبوا جدا واجتمعوا على الملك وقالوا ان الملك قد صار يهوديا فحطم بالا وقتل التنين وذبح الكهنة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.28",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 28,
+          "text": "واتوا الى الملك وقالوا له اسلم الينا دانيال والا قتلناك انت والك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واتوا الى الملك وقالوا له اسلم الينا دانيال والا قتلناك انت والك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.29",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 29,
+          "text": "فلما راهم الملك ثائرين به اضطر فاسلم دانيال اليهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما راهم الملك ثائرين به اضطر فاسلم دانيال اليهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.30",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 30,
+          "text": "فالقوه في جب الاسود فكان هناك ستة ايام.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فالقوه في جب الاسود فكان هناك ستة ايام.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.31",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 31,
+          "text": "وكان في الجب سبعة اسود يلقى لها كل يوم جثتان ونعجتان فلم يلق لها حينئذ شيء لكي تفترس دانيال.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان في الجب سبعة اسود يلقى لها كل يوم جثتان ونعجتان فلم يلق لها حينئذ شيء لكي تفترس دانيال.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.32",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 32,
+          "text": "وكان حبقوق النبي في ارض يهوذا وكان قد طبخ طبيخا وثرد خبزا في جفنة وانطلق الى الصحراء ليحمله للحصادين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان حبقوق النبي في ارض يهوذا وكان قد طبخ طبيخا وثرد خبزا في جفنة وانطلق الى الصحراء ليحمله للحصادين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.33",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 33,
+          "text": "فقال ملاك الرب لحبقوق احمل الغداء الذي معك الى بابل الى دانيال في جب الاسود.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال ملاك الرب لحبقوق احمل الغداء الذي معك الى بابل الى دانيال في جب الاسود.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.34",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 34,
+          "text": "فقال حبقوق ايها السيد اني لم ار بابل قط ولا اعرف الجب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال حبقوق ايها السيد اني لم ار بابل قط ولا اعرف الجب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.35",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 35,
+          "text": "فاخذ ملاك الرب بجمته وحمله بشعر راسه ووضعه في بابل عند الجب باندفاع روحه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاخذ ملاك الرب بجمته وحمله بشعر راسه ووضعه في بابل عند الجب باندفاع روحه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.36",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 36,
+          "text": "فنادى حبقوق قائلا يا دانيال يا دانيال خذ الغداء الذي ارسله لك الله.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فنادى حبقوق قائلا يا دانيال يا دانيال خذ الغداء الذي ارسله لك الله.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.37",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 37,
+          "text": "فقال دانيال اللهم لقد ذكرتني ولم تخذل الذين يحبونك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال دانيال اللهم لقد ذكرتني ولم تخذل الذين يحبونك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.38",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 38,
+          "text": "وقام دانيال واكل ورد ملاك الرب حبقوق من ساعته الى موضعه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقام دانيال واكل ورد ملاك الرب حبقوق من ساعته الى موضعه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.39",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 39,
+          "text": "وفي اليوم السابع اتى الملك ليبكي على دانيال فدنى من الجب ونظر فاذا بدانيال جالس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وفي اليوم السابع اتى الملك ليبكي على دانيال فدنى من الجب ونظر فاذا بدانيال جالس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.40",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 40,
+          "text": "فهتف بصوت عال وقال عظيم انت ايها الرب اله دانيال ولا اله غيرك ثم اخرجه من جب الاسود.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فهتف بصوت عال وقال عظيم انت ايها الرب اله دانيال ولا اله غيرك ثم اخرجه من جب الاسود.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.41",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 41,
+          "text": "اما الذين سعوا به للهلاك فالقاهم في الجب فافترسوا من ساعتهم امامه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اما الذين سعوا به للهلاك فالقاهم في الجب فافترسوا من ساعتهم امامه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "DAG.2.42",
+          "book": "DAG",
+          "chapter": 2,
+          "verse": 42,
+          "text": "فقال الملك ليتق جميع سكان الارض اله دانيال فانه المخلص الصانع الايات والعجائب في الارض وهو الذي انقذ دانيال من جب الاسود.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال الملك ليتق جميع سكان الارض اله دانيال فانه المخلص الصانع الايات والعجائب في الارض وهو الذي انقذ دانيال من جب الاسود.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:18:44.783521+00:00"
+    }
+  }
+}

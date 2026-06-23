@@ -1,0 +1,3402 @@
+{
+  "usfm": "1TI",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "1TI",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "1TI.1.1",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, an apostle of Jesus Christ, by the commandment of God our Savior and the Lord Jesus Christ, our hope,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Paul, an apostle of Jesus Christ, by the commandment of God our Savior and the Lord Jesus Christ, our hope,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.2",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 2,
+          "text": "To Timothy, a true son in the faith:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To Timothy, a true son in the faith:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.3",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 3,
+          "text": "As I urged you when I went into Macedonia—remain in Ephesus that you may charge some that they teach no other doctrine,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As I urged you when I went into Macedonia—remain in Ephesus that you may charge some that they teach no other doctrine,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "command"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "No Other Doctrine",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.4",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 4,
+          "text": "nor give heed to fables and endless genealogies, which cause disputes rather than godly edification which is in faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nor give heed to fables and endless genealogies, which cause disputes rather than godly edification which is in faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.5",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Now the purpose of the commandment is love from a pure heart, from a good conscience, and from sincere faith,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the purpose of the commandment is love from a pure heart, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "from",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a good conscience, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "from",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sincere faith,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. unhypocritical"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.6",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 6,
+          "text": "from which some, having strayed, have turned aside to idle talk,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "from which some, having strayed, have turned aside to idle talk,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.7",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 7,
+          "text": "desiring to be teachers of the law, understanding neither what they say nor the things which they affirm.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "desiring to be teachers of the law, understanding neither what they say nor the things which they affirm.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.8",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 8,
+          "text": "But we know that the law is good if one uses it lawfully,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But we know that the law ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good if one uses it lawfully,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.9",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 9,
+          "text": "knowing this: that the law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and for sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing this: that the law is not made for a righteous person, but for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " lawless and insubordinate, for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ungodly and for sinners, for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.10",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 10,
+          "text": "for fornicators, for sodomites, for kidnappers, for liars, for perjurers, and if there is any other thing that is contrary to sound doctrine,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for fornicators, for sodomites, for kidnappers, for liars, for perjurers, and if there is any other thing that is contrary to sound doctrine,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "opposed"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.11",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 11,
+          "text": "according to the glorious gospel of the blessed God which was committed to my trust.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "according to the glorious gospel of the blessed God which was committed to my trust.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.12",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 12,
+          "text": "And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting me into the ministry,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "me",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " into the ministry,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Glory to God for His Grace(L)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.13",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 13,
+          "text": "although I was formerly a blasphemer, a persecutor, and an insolent man; but I obtained mercy because I did it ignorantly in unbelief.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "although I was formerly a blasphemer, a persecutor, and an insolent man; but I obtained mercy because I did ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ignorantly in unbelief.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "violently arrogant"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.14",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 14,
+          "text": "And the grace of our Lord was exceedingly abundant, with faith and love which are in Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the grace of our Lord was exceedingly abundant, with faith and love which are in Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.15",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 15,
+          "text": "This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.16",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 16,
+          "text": "However, for this reason I obtained mercy, that in me first Jesus Christ might show all longsuffering, as a pattern to those who are going to believe on Him for everlasting life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "However, for this reason I obtained mercy, that in me first Jesus Christ might show all longsuffering, as a pattern to those who are going to believe on Him for everlasting life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.17",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 17,
+          "text": "Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now to the King eternal, immortal, invisible, to God who alone is wise, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " honor and glory forever and ever. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU the only God,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.18",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 18,
+          "text": "This charge I commit to you, son Timothy, according to the prophecies previously made concerning you, that by them you may wage the good warfare,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This charge I commit to you, son Timothy, according to the prophecies previously made concerning you, that by them you may wage the good warfare,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "command"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Fight the Good Fight",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.19",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 19,
+          "text": "having faith and a good conscience, which some having rejected, concerning the faith have suffered shipwreck,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having faith and a good conscience, which some having rejected, concerning the faith have suffered shipwreck,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.20",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 20,
+          "text": "of whom are Hymenaeus and Alexander, whom I delivered to Satan that they may learn not to blaspheme.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "of whom are Hymenaeus and Alexander, whom I delivered to Satan that they may learn not to blaspheme.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "No Other Doctrine",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Glory to God for His Grace(L)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Fight the Good Fight",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:23.931Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "1TI",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "1TI.2.1",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Therefore I exhort first of all that supplications, prayers, intercessions, and giving of thanks be made for all men,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I exhort first of all that supplications, prayers, intercessions, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " giving of thanks be made for all men,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "encourage"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Pray for All Men",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.2",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 2,
+          "text": "for kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "a prominent place"
+              },
+              {
+                "marker": "c",
+                "text": "dignity"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.3",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 3,
+          "text": "For this is good and acceptable in the sight of God our Savior,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good and acceptable in the sight of God our Savior,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.4",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 4,
+          "text": "who desires all men to be saved and to come to the knowledge of the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who desires all men to be saved and to come to the knowledge of the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.5",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 5,
+          "text": "For there is one God and one Mediator between God and men, the Man Christ Jesus,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " one God and one Mediator between God and men, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Man Christ Jesus,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.6",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 6,
+          "text": "who gave Himself a ransom for all, to be testified in due time,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who gave Himself a ransom for all, to be testified in due time,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.7",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 7,
+          "text": "for which I was appointed a preacher and an apostle—I am speaking the truth in Christ and not lying—a teacher of the Gentiles in faith and truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for which I was appointed a preacher and an apostle—I am speaking the truth in Christ ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not lying—a teacher of the Gentiles in faith and truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU omits in Christ"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.8",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 8,
+          "text": "I desire therefore that the men pray everywhere, lifting up holy hands, without wrath and doubting;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I desire therefore that the men pray everywhere, lifting up holy hands, without wrath and doubting;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Men and Women in the Church",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.9",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 9,
+          "text": "in like manner also, that the women adorn themselves in modest apparel, with propriety and moderation, not with braided hair or gold or pearls or costly clothing,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in like manner also, that the women adorn themselves in modest apparel, with propriety and moderation, not with braided hair or gold or pearls or costly clothing,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "discretion"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.10",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 10,
+          "text": "but, which is proper for women professing godliness, with good works.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but, which is proper for women professing godliness, with good works.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.11",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Let a woman learn in silence with all submission.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let a woman learn in silence with all submission.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.12",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 12,
+          "text": "And I do not permit a woman to teach or to have authority over a man, but to be in silence.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I do not permit a woman to teach or to have authority over a man, but to be in silence.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.13",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 13,
+          "text": "For Adam was formed first, then Eve.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For Adam was formed first, then Eve.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.14",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 14,
+          "text": "And Adam was not deceived, but the woman being deceived, fell into transgression.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Adam was not deceived, but the woman being deceived, fell into transgression.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.15",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Nevertheless she will be saved in childbearing if they continue in faith, love, and holiness, with self-control.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless she will be saved in childbearing if they continue in faith, love, and holiness, with self-control.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pray for All Men",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Men and Women in the Church",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:25.396Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "1TI",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "1TI.3.1",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 1,
+          "text": "This is a faithful saying: If a man desires the position of a bishop, he desires a good work.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a faithful saying: If a man desires the position of a bishop, he desires a good work.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. overseer"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Qualifications of Overseers",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.2",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 2,
+          "text": "A bishop then must be blameless, the husband of one wife, temperate, sober-minded, of good behavior, hospitable, able to teach;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A bishop then must be blameless, the husband of one wife, temperate, sober-minded, of good behavior, hospitable, able to teach;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.3",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 3,
+          "text": "not given to wine, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not given to wine, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "addicted"
+              },
+              {
+                "marker": "c",
+                "text": "NU omits not greedy for money"
+              },
+              {
+                "marker": "d",
+                "text": "loving money"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.4",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 4,
+          "text": "one who rules his own house well, having his children in submission with all reverence",
+          "structured": {
+            "tokens": [
+              {
+                "text": "one who rules his own house well, having ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " children in submission with all reverence",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.5",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 5,
+          "text": "(for if a man does not know how to rule his own house, how will he take care of the church of God?);",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(for if a man does not know how to rule his own house, how will he take care of the church of God?);",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.6",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 6,
+          "text": "not a novice, lest being puffed up with pride he fall into the same condemnation as the devil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not a novice, lest being puffed up with pride he fall into the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "same",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " condemnation as the devil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "new convert"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.7",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Moreover he must have a good testimony among those who are outside, lest he fall into reproach and the snare of the devil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Moreover he must have a good testimony among those who are outside, lest he fall into reproach and the snare of the devil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.8",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Likewise deacons must be reverent, not double-tongued, not given to much wine, not greedy for money,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise deacons ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "must be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " reverent, not double-tongued, not given to much wine, not greedy for money,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Qualifications of Deacons",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.9",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 9,
+          "text": "holding the mystery of the faith with a pure conscience.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "holding the mystery of the faith with a pure conscience.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "hidden truth"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.10",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 10,
+          "text": "But let these also first be tested; then let them serve as deacons, being found blameless.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But let these also first be tested; then let them serve as deacons, being ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "found",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " blameless.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.11",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Likewise, their wives must be reverent, not slanderers, temperate, faithful in all things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "their",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " wives ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "must be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " reverent, not slanderers, temperate, faithful in all things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "malicious gossips"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.12",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Let deacons be the husbands of one wife, ruling their children and their own houses well.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let deacons be the husbands of one wife, ruling ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "their",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " children and their own houses well.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.13",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 13,
+          "text": "For those who have served well as deacons obtain for themselves a good standing and great boldness in the faith which is in Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For those who have served well as deacons obtain for themselves a good standing and great boldness in the faith which is in Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.14",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 14,
+          "text": "These things I write to you, though I hope to come to you shortly;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These things I write to you, though I hope to come to you shortly;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Great Mystery",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.15",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 15,
+          "text": "but if I am delayed, I write so that you may know how you ought to conduct yourself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but if I am delayed, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "I write",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " so that you may know how you ought to conduct yourself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "foundation, mainstay"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.16",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 16,
+          "text": "And without controversy great is the mystery of godliness:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And without controversy great is the mystery of godliness:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "hidden truth"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Qualifications of Overseers",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Qualifications of Deacons",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "The Great Mystery",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:26.981Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "1TI",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "1TI.4.1",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now the Spirit expressly says that in latter times some will depart from the faith, giving heed to deceiving spirits and doctrines of demons,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the Spirit expressly says that in latter times some will depart from the faith, giving heed to deceiving spirits and doctrines of demons,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "explicitly"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Great Apostasy",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.2",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 2,
+          "text": "speaking lies in hypocrisy, having their own conscience seared with a hot iron,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "speaking lies in hypocrisy, having their own conscience seared with a hot iron,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.3",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 3,
+          "text": "forbidding to marry, and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "forbidding to marry, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and commanding",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.4",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 4,
+          "text": "For every creature of God is good, and nothing is to be refused if it is received with thanksgiving;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For every creature of God ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good, and nothing is to be refused if it is received with thanksgiving;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.5",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 5,
+          "text": "for it is sanctified by the word of God and prayer.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for it is sanctified by the word of God and prayer.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "set apart"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.6",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 6,
+          "text": "If you instruct the brethren in these things, you will be a good minister of Jesus Christ, nourished in the words of faith and of the good doctrine which you have carefully followed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you instruct the brethren in these things, you will be a good minister of Jesus Christ, nourished in the words of faith and of the good doctrine which you have carefully followed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Good Servant of Jesus Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.7",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 7,
+          "text": "But reject profane and old wives’ fables, and exercise yourself toward godliness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But reject profane and old wives’ fables, and exercise yourself toward godliness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.8",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 8,
+          "text": "For bodily exercise profits a little, but godliness is profitable for all things, having promise of the life that now is and of that which is to come.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For bodily exercise profits a little, but godliness is profitable for all things, having promise of the life that now is and of that which is to come.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.9",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 9,
+          "text": "This is a faithful saying and worthy of all acceptance.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a faithful saying and worthy of all acceptance.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.10",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 10,
+          "text": "For to this end we both labor and suffer reproach, because we trust in the living God, who is the Savior of all men, especially of those who believe.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For to this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "end",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " we both labor and suffer reproach, because we trust in the living God, who is ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Savior of all men, especially of those who believe.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU we labor and strive,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.11",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 11,
+          "text": "These things command and teach.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These things command and teach.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.12",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 12,
+          "text": "Let no one despise your youth, but be an example to the believers in word, in conduct, in love, in spirit, in faith, in purity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let no one despise your youth, but be an example to the believers in word, in conduct, in love, in spirit, in faith, in purity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "look down on your youthfulness"
+              },
+              {
+                "marker": "e",
+                "text": "NU omits in spirit"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Take Heed to Your Ministry",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.13",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 13,
+          "text": "Till I come, give attention to reading, to exhortation, to doctrine.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Till I come, give attention to reading, to exhortation, to doctrine.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "teaching"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.14",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 14,
+          "text": "Do not neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the eldership.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the eldership.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.15",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 15,
+          "text": "Meditate on these things; give yourself entirely to them, that your progress may be evident to all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Meditate on these things; give yourself entirely to them, that your progress may be evident to all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.16",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 16,
+          "text": "Take heed to yourself and to the doctrine. Continue in them, for in doing this you will save both yourself and those who hear you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Take heed to yourself and to the doctrine. Continue in them, for in doing this you will save both yourself and those who hear you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Great Apostasy",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "A Good Servant of Jesus Christ",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Take Heed to Your Ministry",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:28.442Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "1TI",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "1TI.5.1",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Do not rebuke an older man, but exhort him as a father, younger men as brothers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not rebuke an older man, but exhort ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "him",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as a father, younger men as brothers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Treatment of Church Members",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.2",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 2,
+          "text": "older women as mothers, younger women as sisters, with all purity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "older women as mothers, younger women as sisters, with all purity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.3",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 3,
+          "text": "Honor widows who are really widows.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Honor widows who are really widows.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Honor True Widows",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.4",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 4,
+          "text": "But if any widow has children or grandchildren, let them first learn to show piety at home and to repay their parents; for this is good and acceptable before God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if any widow has children or grandchildren, let them first learn to show piety at home and to repay their parents; for this is good and acceptable before God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU, M omit good and"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.5",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Now she who is really a widow, and left alone, trusts in God and continues in supplications and prayers night and day.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now she who is really a widow, and left alone, trusts in God and continues in supplications and prayers night and day.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.6",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 6,
+          "text": "But she who lives in pleasure is dead while she lives.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But she who lives in pleasure is dead while she lives.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "indulgence"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.7",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 7,
+          "text": "And these things command, that they may be blameless.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And these things command, that they may be blameless.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.8",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 8,
+          "text": "But if anyone does not provide for his own, and especially for those of his household, he has denied the faith and is worse than an unbeliever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if anyone does not provide for his own, and especially for those of his household, he has denied the faith and is worse than an unbeliever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.9",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Do not let a widow under sixty years old be taken into the number, and not unless she has been the wife of one man,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not let a widow under sixty years old be taken into the number, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and not unless",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " she has been the wife of one man,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.10",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 10,
+          "text": "well reported for good works: if she has brought up children, if she has lodged strangers, if she has washed the saints’ feet, if she has relieved the afflicted, if she has diligently followed every good work.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "well reported for good works: if she has brought up children, if she has lodged strangers, if she has washed the saints’ feet, if she has relieved the afflicted, if she has diligently followed every good work.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.11",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 11,
+          "text": "But refuse the younger widows; for when they have begun to grow wanton against Christ, they desire to marry,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But refuse ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " younger widows; for when they have begun to grow wanton against Christ, they desire to marry,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Refuse to enroll"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.12",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 12,
+          "text": "having condemnation because they have cast off their first faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having condemnation because they have cast off their first faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or solemn promise"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.13",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 13,
+          "text": "And besides they learn to be idle, wandering about from house to house, and not only idle but also gossips and busybodies, saying things which they ought not.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And besides they learn ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " idle, wandering about from house to house, and not only idle but also gossips and busybodies, saying things which they ought not.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.14",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Therefore I desire that the younger widows marry, bear children, manage the house, give no opportunity to the adversary to speak reproachfully.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I desire that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " younger ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "widows",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " marry, bear children, manage the house, give no opportunity to the adversary to speak reproachfully.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.15",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 15,
+          "text": "For some have already turned aside after Satan.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For some have already turned aside after Satan.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.16",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 16,
+          "text": "If any believing man or woman has widows, let them relieve them, and do not let the church be burdened, that it may relieve those who are really widows.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If any believing man or woman has widows, let them relieve them, and do not let the church be burdened, that it may relieve those who are really widows.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU omits man or"
+              },
+              {
+                "marker": "f",
+                "text": "give aid to"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.17",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and doctrine.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and doctrine.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Honor the Elders",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.18",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 18,
+          "text": "For the Scripture says, “You shall not muzzle an ox while it treads out the grain,” and, “The laborer is worthy of his wages.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the Scripture says, “You shall not muzzle an ox while it treads out the grain,” and, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "“The laborer ",
+                "italic": false,
+                "redLetter": true
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": true
+              },
+              {
+                "text": " worthy of his wages.”",
+                "italic": false,
+                "redLetter": true
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.19",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 19,
+          "text": "Do not receive an accusation against an elder except from two or three witnesses.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not receive an accusation against an elder except from two or three witnesses.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.20",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 20,
+          "text": "Those who are sinning rebuke in the presence of all, that the rest also may fear.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those who are sinning rebuke in the presence of all, that the rest also may fear.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.21",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 21,
+          "text": "I charge you before God and the Lord Jesus Christ and the elect angels that you observe these things without prejudice, doing nothing with partiality.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I charge ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " before God and the Lord Jesus Christ and the elect angels that you observe these things without prejudice, doing nothing with partiality.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "chosen"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.22",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 22,
+          "text": "Do not lay hands on anyone hastily, nor share in other people’s sins; keep yourself pure.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not lay hands on anyone hastily, nor share in other people’s sins; keep yourself pure.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.23",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 23,
+          "text": "No longer drink only water, but use a little wine for your stomach’s sake and your frequent infirmities.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "No longer drink only water, but use a little wine for your stomach’s sake and your frequent infirmities.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "illnesses"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.24",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 24,
+          "text": "Some men’s sins are clearly evident, preceding them to judgment, but those of some men follow later.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Some men’s sins are clearly evident, preceding ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to judgment, but those of some ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "men",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " follow later.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.25",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 25,
+          "text": "Likewise, the good works of some are clearly evident, and those that are otherwise cannot be hidden.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise, the good works ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of some",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " are clearly evident, and those that are otherwise cannot be hidden.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Treatment of Church Members",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Honor True Widows",
+          "level": 2
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Honor the Elders",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:29.903Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "1TI",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "1TI.6.1",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 1,
+          "text": "Let as many bondservants as are under the yoke count their own masters worthy of all honor, so that the name of God and His doctrine may not be blasphemed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let as many bondservants as are under the yoke count their own masters worthy of all honor, so that the name of God and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "His",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " doctrine may not be blasphemed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Honor Masters",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.2",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 2,
+          "text": "And those who have believing masters, let them not despise them because they are brethren, but rather serve them because those who are benefited are believers and beloved. Teach and exhort these things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And those who have believing masters, let them not despise ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " because they are brethren, but rather serve ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " because those who are benefited are believers and beloved. Teach and exhort these things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.3",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 3,
+          "text": "If anyone teaches otherwise and does not consent to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which accords with godliness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If anyone teaches otherwise and does not consent to wholesome words, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "even",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the words of our Lord Jesus Christ, and to the doctrine which accords with godliness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "teaching"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Error and Greed",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.4",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 4,
+          "text": "he is proud, knowing nothing, but is obsessed with disputes and arguments over words, from which come envy, strife, reviling, evil suspicions,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "he is proud, knowing nothing, but is obsessed with disputes and arguments over words, from which come envy, strife, reviling, evil suspicions,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.5",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 5,
+          "text": "useless wranglings of men of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. From such withdraw yourself.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "useless wranglings of men of corrupt minds and destitute of the truth, who suppose that godliness is a ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "means of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " gain. From such withdraw yourself.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU, M constant friction"
+              },
+              {
+                "marker": "c",
+                "text": "NU omits the rest of v. ."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.6",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 6,
+          "text": "Now godliness with contentment is great gain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now godliness with contentment is great gain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.7",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 7,
+          "text": "For we brought nothing into this world, and it is certain we can carry nothing out.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we brought nothing into ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "this",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " world, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " certain we can carry nothing out.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU omits and it is certain"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.8",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 8,
+          "text": "And having food and clothing, with these we shall be content.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And having food and clothing, with these we shall be content.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.9",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 9,
+          "text": "But those who desire to be rich fall into temptation and a snare, and into many foolish and harmful lusts which drown men in destruction and perdition.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But those who desire to be rich fall into temptation and a snare, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "into",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " many foolish and harmful lusts which drown men in destruction and perdition.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.10",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 10,
+          "text": "For the love of money is a root of all kinds of evil, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the love of money is a root of all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "kinds of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " evil, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.11",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 11,
+          "text": "But you, O man of God, flee these things and pursue righteousness, godliness, faith, love, patience, gentleness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you, O man of God, flee these things and pursue righteousness, godliness, faith, love, patience, gentleness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Good Confession",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.12",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 12,
+          "text": "Fight the good fight of faith, lay hold on eternal life, to which you were also called and have confessed the good confession in the presence of many witnesses.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Fight the good fight of faith, lay hold on eternal life, to which you were also called and have confessed the good confession in the presence of many witnesses.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.13",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 13,
+          "text": "I urge you in the sight of God who gives life to all things, and before Christ Jesus who witnessed the good confession before Pontius Pilate,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I urge you in the sight of God who gives life to all things, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "before",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Christ Jesus who witnessed the good confession before Pontius Pilate,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.14",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 14,
+          "text": "that you keep this commandment without spot, blameless until our Lord Jesus Christ’s appearing,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that you keep ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "this",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " commandment without spot, blameless until our Lord Jesus Christ’s appearing,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.15",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 15,
+          "text": "which He will manifest in His own time, He who is the blessed and only Potentate, the King of kings and Lord of lords,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "which He will manifest in His own time, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "He who is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the blessed and only Potentate, the King of kings and Lord of lords,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Sovereign"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.16",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 16,
+          "text": "who alone has immortality, dwelling in unapproachable light, whom no man has seen or can see, to whom be honor and everlasting power. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who alone has immortality, dwelling in unapproachable light, whom no man has seen or can see, to whom ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " honor and everlasting power. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.17",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 17,
+          "text": "Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Instructions to the Rich",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.18",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 18,
+          "text": "Let them do good, that they be rich in good works, ready to give, willing to share,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " do good, that they be rich in good works, ready to give, willing to share,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.19",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 19,
+          "text": "storing up for themselves a good foundation for the time to come, that they may lay hold on eternal life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "storing up for themselves a good foundation for the time to come, that they may lay hold on eternal life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.20",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 20,
+          "text": "O Timothy! Guard what was committed to your trust, avoiding the profane and idle babblings and contradictions of what is falsely called knowledge—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Timothy! Guard what was committed to your trust, avoiding the profane ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " idle babblings and contradictions of what is falsely called knowledge—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "empty chatter"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Guard the Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.21",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 21,
+          "text": "by professing it some have strayed concerning the faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "by professing it some have strayed concerning the faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Honor Masters",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Error and Greed",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "The Good Confession",
+          "level": 2
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Instructions to the Rich",
+          "level": 2
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Guard the Faith",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:31.381Z"
+    }
+  }
+}

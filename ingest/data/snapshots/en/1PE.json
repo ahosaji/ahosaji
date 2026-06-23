@@ -1,0 +1,3320 @@
+{
+  "usfm": "1PE",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "1PE",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "1PE.1.1",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Peter, an apostle of Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Peter, an apostle of Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting to the Elect Pilgrims",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.2",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 2,
+          "text": "elect according to the foreknowledge of God the Father, in sanctification of the Spirit, for obedience and sprinkling of the blood of Jesus Christ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "elect according to the foreknowledge of God the Father, in sanctification of the Spirit, for obedience and sprinkling of the blood of Jesus Christ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.3",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Heavenly Inheritance",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.4",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 4,
+          "text": "to an inheritance incorruptible and undefiled and that does not fade away, reserved in heaven for you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to an inheritance incorruptible and undefiled and that does not fade away, reserved in heaven for you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "imperishable"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.5",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 5,
+          "text": "who are kept by the power of God through faith for salvation ready to be revealed in the last time.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who are kept by the power of God through faith for salvation ready to be revealed in the last time.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.6",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 6,
+          "text": "In this you greatly rejoice, though now for a little while, if need be, you have been grieved by various trials,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In this you greatly rejoice, though now for a little while, if need be, you have been grieved by various trials,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "distressed"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.7",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 7,
+          "text": "that the genuineness of your faith, being much more precious than gold that perishes, though it is tested by fire, may be found to praise, honor, and glory at the revelation of Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that the genuineness of your faith, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "being",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " much more precious than gold that perishes, though it is tested by fire, may be found to praise, honor, and glory at the revelation of Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.8",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 8,
+          "text": "whom having not seen you love. Though now you do not see Him, yet believing, you rejoice with joy inexpressible and full of glory,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whom having not seen you love. Though now you do not see ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Him,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " yet believing, you rejoice with joy inexpressible and full of glory,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "M known"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.9",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 9,
+          "text": "receiving the end of your faith—the salvation of your souls.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "receiving the end of your faith—the salvation of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " souls.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.10",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Of this salvation the prophets have inquired and searched carefully, who prophesied of the grace that would come to you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Of this salvation the prophets have inquired and searched carefully, who prophesied of the grace ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that would come",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.11",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 11,
+          "text": "searching what, or what manner of time, the Spirit of Christ who was in them was indicating when He testified beforehand the sufferings of Christ and the glories that would follow.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "searching what, or what manner of time, the Spirit of Christ who was in them was indicating when He testified beforehand the sufferings of Christ and the glories that would follow.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.12",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 12,
+          "text": "To them it was revealed that, not to themselves, but to us they were ministering the things which now have been reported to you through those who have preached the gospel to you by the Holy Spirit sent from heaven—things which angels desire to look into.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To them it was revealed that, not to themselves, but to us they were ministering the things which now have been reported to you through those who have preached the gospel to you by the Holy Spirit sent from heaven—things which angels desire to look into.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU, M you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.13",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Therefore gird up the loins of your mind, be sober, and rest your hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore gird up the loins of your mind, be sober, and rest ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Living Before God Our Father",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.14",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 14,
+          "text": "as obedient children, not conforming yourselves to the former lusts, as in your ignorance;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as obedient children, not conforming yourselves to the former lusts, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in your ignorance;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.15",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 15,
+          "text": "but as He who called you is holy, you also be holy in all your conduct,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but as He who called you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " holy, you also be holy in all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " conduct,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.16",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 16,
+          "text": "because it is written, “Be holy, for I am holy.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "because it is written, “Be holy, for I am holy.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.17",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 17,
+          "text": "And if you call on the Father, who without partiality judges according to each one’s work, conduct yourselves throughout the time of your stay here in fear;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And if you call on the Father, who without partiality judges according to each one’s work, conduct yourselves throughout the time of your stay ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "here",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in fear;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "sojourning, dwelling as resident aliens"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.18",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 18,
+          "text": "knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing that you were not redeemed with corruptible things, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "like",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " silver or gold, from your aimless conduct ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "received",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by tradition from your fathers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "perishable"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.19",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 19,
+          "text": "but with the precious blood of Christ, as of a lamb without blemish and without spot.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but with the precious blood of Christ, as of a lamb without blemish and without spot.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.20",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 20,
+          "text": "He indeed was foreordained before the foundation of the world, but was manifest in these last times for you",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He indeed was foreordained before the foundation of the world, but was manifest in these last times for you",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "revealed"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.21",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 21,
+          "text": "who through Him believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who through Him believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.22",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 22,
+          "text": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "NU omits through the Spirit"
+              },
+              {
+                "marker": "j",
+                "text": "Lit. unhypocritical"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Enduring Word",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.23",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 23,
+          "text": "having been born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having been born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "perishable"
+              },
+              {
+                "marker": "l",
+                "text": "imperishable"
+              },
+              {
+                "marker": "m",
+                "text": "NU omits forever"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.24",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 24,
+          "text": "because",
+          "structured": {
+            "tokens": [
+              {
+                "text": "because",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.1.25",
+          "book": "1PE",
+          "chapter": 1,
+          "verse": 25,
+          "text": "But the word of the Lord endures forever.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the word of the Lord endures forever.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "o",
+                "text": "spoken word"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting to the Elect Pilgrims",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "A Heavenly Inheritance",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Living Before God Our Father",
+          "level": 2
+        },
+        {
+          "beforeVerse": 22,
+          "text": "The Enduring Word",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:10.040Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "1PE",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "1PE.2.1",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Therefore, laying aside all malice, all deceit, hypocrisy, envy, and all evil speaking,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, laying aside all malice, all deceit, hypocrisy, envy, and all evil speaking,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Our Inheritance Through Christ’s Blood",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.2",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 2,
+          "text": "as newborn babes, desire the pure milk of the word, that you may grow thereby,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as newborn babes, desire the pure milk of the word, that you may grow thereby,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU adds up to salvation"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.3",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 3,
+          "text": "if indeed you have tasted that the Lord is gracious.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "if indeed you have tasted that the Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " gracious.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.4",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Coming to Him as to a living stone, rejected indeed by men, but chosen by God and precious,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Coming to Him ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a living stone, rejected indeed by men, but chosen by God ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " precious,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Chosen Stone and His Chosen People(E)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.5",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 5,
+          "text": "you also, as living stones, are being built up a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "you also, as living stones, are being built up a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.6",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 6,
+          "text": "Therefore it is also contained in the Scripture,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore it is also contained in the Scripture,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.7",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 7,
+          "text": "Therefore, to you who believe, He is precious; but to those who are disobedient,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, to you who believe, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "He is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " precious; but to those who are disobedient,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU disbelieve"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.8",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 8,
+          "text": "and",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.9",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 9,
+          "text": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.10",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 10,
+          "text": "who once were not a people but are now the people of God, who had not obtained mercy but now have obtained mercy.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who once ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not a people but ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " now the people of God, who had not obtained mercy but now have obtained mercy.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.11",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Beloved, I beg you as sojourners and pilgrims, abstain from fleshly lusts which war against the soul,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, I beg ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as sojourners and pilgrims, abstain from fleshly lusts which war against the soul,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Living Before the World",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.12",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 12,
+          "text": "having your conduct honorable among the Gentiles, that when they speak against you as evildoers, they may, by your good works which they observe, glorify God in the day of visitation.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having your conduct honorable among the Gentiles, that when they speak against you as evildoers, they may, by ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good works which they observe, glorify God in the day of visitation.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.13",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Therefore submit yourselves to every ordinance of man for the Lord’s sake, whether to the king as supreme,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore submit yourselves to every ordinance of man for the Lord’s sake, whether to the king as supreme,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "institution"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Submission to Government(Q)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.14",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 14,
+          "text": "or to governors, as to those who are sent by him for the punishment of evildoers and for the praise of those who do good.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "or to governors, as to those who are sent by him for the punishment of evildoers and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "for the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " praise of those who do good.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.15",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 15,
+          "text": "For this is the will of God, that by doing good you may put to silence the ignorance of foolish men—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this is the will of God, that by doing good you may put to silence the ignorance of foolish men—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.16",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 16,
+          "text": "as free, yet not using liberty as a cloak for vice, but as bondservants of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as free, yet not using liberty as a cloak for vice, but as bondservants of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "wickedness"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.17",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Honor all people. Love the brotherhood. Fear God. Honor the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Honor all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "people.",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Love the brotherhood. Fear God. Honor the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.18",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Servants, be submissive to your masters with all fear, not only to the good and gentle, but also to the harsh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Servants, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " submissive to ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " masters with all fear, not only to the good and gentle, but also to the harsh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Submission to Masters(V)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.19",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 19,
+          "text": "For this is commendable, if because of conscience toward God one endures grief, suffering wrongfully.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " commendable, if because of conscience toward God one endures grief, suffering wrongfully.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.20",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 20,
+          "text": "For what credit is it if, when you are beaten for your faults, you take it patiently? But when you do good and suffer, if you take it patiently, this is commendable before God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For what credit ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " if, when you are beaten for your faults, you take it patiently? But when you do good and suffer, if you take it patiently, this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " commendable before God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.21",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 21,
+          "text": "For to this you were called, because Christ also suffered for us, leaving us an example, that you should follow His steps:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For to this you were called, because Christ also suffered for us, leaving us an example, that you should follow His steps:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU you"
+              },
+              {
+                "marker": "f",
+                "text": "NU, M you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.22",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 22,
+          "text": "“Who committed no sin,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Who committed no sin,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.23",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 23,
+          "text": "who, when He was reviled, did not revile in return; when He suffered, He did not threaten, but committed Himself to Him who judges righteously;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who, when He was reviled, did not revile in return; when He suffered, He did not threaten, but committed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Himself",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Him who judges righteously;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.24",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 24,
+          "text": "who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness—by whose stripes you were healed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness—by whose stripes you were healed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "wounds"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.2.25",
+          "book": "1PE",
+          "chapter": 2,
+          "verse": 25,
+          "text": "For you were like sheep going astray, but have now returned to the Shepherd and Overseer of your souls.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For you were like sheep going astray, but have now returned to the Shepherd and Overseer of your souls.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Gr. Episkopos"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Our Inheritance Through Christ’s Blood",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "The Chosen Stone and His Chosen People(E)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Living Before the World",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Submission to Government(Q)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Submission to Masters(V)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:11.516Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "1PE",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "1PE.3.1",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Wives, likewise, be submissive to your own husbands, that even if some do not obey the word, they, without a word, may be won by the conduct of their wives,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wives, likewise, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " submissive to your own husbands, that even if some do not obey the word, they, without a word, may be won by the conduct of their wives,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Submission to Husbands",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.2",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 2,
+          "text": "when they observe your chaste conduct accompanied by fear.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "when they observe your chaste conduct ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "accompanied",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by fear.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.3",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Do not let your adornment be merely outward—arranging the hair, wearing gold, or putting on fine apparel—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not let your adornment be ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "merely",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " outward—arranging the hair, wearing gold, or putting on ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "fine",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " apparel—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.4",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 4,
+          "text": "rather let it be the hidden person of the heart, with the incorruptible beauty of a gentle and quiet spirit, which is very precious in the sight of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "rather ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "let it be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the hidden person of the heart, with the incorruptible ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "beauty",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of a gentle and quiet spirit, which is very precious in the sight of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "imperishable"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.5",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 5,
+          "text": "For in this manner, in former times, the holy women who trusted in God also adorned themselves, being submissive to their own husbands,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For in this manner, in former times, the holy women who trusted in God also adorned themselves, being submissive to their own husbands,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.6",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 6,
+          "text": "as Sarah obeyed Abraham, calling him lord, whose daughters you are if you do good and are not afraid with any terror.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as Sarah obeyed Abraham, calling him lord, whose daughters you are if you do good and are not afraid with any terror.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.7",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Husbands, likewise, dwell with them with understanding, giving honor to the wife, as to the weaker vessel, and as being heirs together of the grace of life, that your prayers may not be hindered.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Husbands, likewise, dwell with ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with understanding, giving honor to the wife, as to the weaker vessel, and as ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "being",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " heirs together of the grace of life, that your prayers may not be hindered.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Word to Husbands",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.8",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Finally, all of you be of one mind, having compassion for one another; love as brothers, be tenderhearted, be courteous;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Finally, all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of you be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of one mind, having compassion for one another; love as brothers, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " tenderhearted, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " courteous;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU humble"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Called to Blessing",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.9",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 9,
+          "text": "not returning evil for evil or reviling for reviling, but on the contrary blessing, knowing that you were called to this, that you may inherit a blessing.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not returning evil for evil or reviling for reviling, but on the contrary blessing, knowing that you were called to this, that you may inherit a blessing.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.10",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 10,
+          "text": "For",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.11",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Let him turn away from evil and do good;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let him turn away from evil and do good;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.12",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 12,
+          "text": "For the eyes of the Lord are on the righteous,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the eyes of the Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the righteous,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.13",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 13,
+          "text": "And who is he who will harm you if you become followers of what is good?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " he who will harm you if you become followers of what is good?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Suffering for Right and Wrong",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.14",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 14,
+          "text": "But even if you should suffer for righteousness’ sake, you are blessed. “And do not be afraid of their threats, nor be troubled.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But even if you should suffer for righteousness’ sake, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " blessed. “And do not be afraid of their threats, nor be troubled.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.15",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 15,
+          "text": "But sanctify the Lord God in your hearts, and always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But sanctify the Lord God in your hearts, and always ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ready to ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "give",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "set apart"
+              },
+              {
+                "marker": "e",
+                "text": "NU Christ as Lord"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.16",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 16,
+          "text": "having a good conscience, that when they defame you as evildoers, those who revile your good conduct in Christ may be ashamed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having a good conscience, that when they defame you as evildoers, those who revile your good conduct in Christ may be ashamed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.17",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 17,
+          "text": "For it is better, if it is the will of God, to suffer for doing good than for doing evil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " better, if it is the will of God, to suffer for doing good than for doing evil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.18",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 18,
+          "text": "For Christ also suffered once for sins, the just for the unjust, that He might bring us to God, being put to death in the flesh but made alive by the Spirit,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For Christ also suffered once for sins, the just for the unjust, that He might bring us to God, being put to death in the flesh but made alive by the Spirit,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU, M you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Christ’s Suffering and Ours",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.19",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 19,
+          "text": "by whom also He went and preached to the spirits in prison,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "by whom also He went and preached to the spirits in prison,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.20",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 20,
+          "text": "who formerly were disobedient, when once the Divine longsuffering waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight souls, were saved through water.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who formerly were disobedient, when once the Divine longsuffering waited in the days of Noah, while ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ark was being prepared, in which a few, that is, eight souls, were saved through water.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "NU, M when the longsuffering of God waited patiently"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.21",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 21,
+          "text": "There is also an antitype which now saves us—baptism (not the removal of the filth of the flesh, but the answer of a good conscience toward God), through the resurrection of Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is also an antitype which now saves us—baptism (not the removal of the filth of the flesh, but the answer of a good conscience toward God), through the resurrection of Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.3.22",
+          "book": "1PE",
+          "chapter": 3,
+          "verse": 22,
+          "text": "who has gone into heaven and is at the right hand of God, angels and authorities and powers having been made subject to Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who has gone into heaven and is at the right hand of God, angels and authorities and powers having been made subject to Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Submission to Husbands",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A Word to Husbands",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Called to Blessing",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Suffering for Right and Wrong",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Christ’s Suffering and Ours",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:12.995Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "1PE",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "1PE.4.1",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU omits for us"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Christ’s Example to Be Followed",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.2",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 2,
+          "text": "that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that he no longer should live the rest of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " time in the flesh for the lusts of men, but for the will of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.3",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 3,
+          "text": "For we have spent enough of our past lifetime in doing the will of the Gentiles—when we walked in lewdness, lusts, drunkenness, revelries, drinking parties, and abominable idolatries.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "have spent",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " enough of our past lifetime in doing the will of the Gentiles—when we walked in lewdness, lusts, drunkenness, revelries, drinking parties, and abominable idolatries.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU time"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.4",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 4,
+          "text": "In regard to these, they think it strange that you do not run with them in the same flood of dissipation, speaking evil of you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In regard to these, they think it strange that you do not run with ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the same flood of dissipation, speaking evil of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.5",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 5,
+          "text": "They will give an account to Him who is ready to judge the living and the dead.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They will give an account to Him who is ready to judge the living and the dead.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.6",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 6,
+          "text": "For this reason the gospel was preached also to those who are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this reason the gospel was preached also to those who are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.7",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 7,
+          "text": "But the end of all things is at hand; therefore be serious and watchful in your prayers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the end of all things is at hand; therefore be serious and watchful in your prayers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Serving for God’s Glory",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.8",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 8,
+          "text": "And above all things have fervent love for one another, for “love will cover a multitude of sins.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And above all things have fervent love for one another, for “love will cover a multitude of sins.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.9",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 9,
+          "text": "Be hospitable to one another without grumbling.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " hospitable to one another without grumbling.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.10",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 10,
+          "text": "As each one has received a gift, minister it to one another, as good stewards of the manifold grace of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As each one has received a gift, minister it to one another, as good stewards of the manifold grace of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.11",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 11,
+          "text": "If anyone speaks, let him speak as the oracles of God. If anyone ministers, let him do it as with the ability which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If anyone speaks, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "let him speak",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as the oracles of God. If anyone ministers, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "let him do it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as with the ability which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "utterances"
+              },
+              {
+                "marker": "d",
+                "text": "sovereignty"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.12",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 12,
+          "text": "Beloved, do not think it strange concerning the fiery trial which is to try you, as though some strange thing happened to you;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, do not think it strange concerning the fiery trial which is to try you, as though some strange thing happened to you;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Suffering for God’s Glory",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.13",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 13,
+          "text": "but rejoice to the extent that you partake of Christ’s sufferings, that when His glory is revealed, you may also be glad with exceeding joy.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but rejoice to the extent that you partake of Christ’s sufferings, that when His glory is revealed, you may also be glad with exceeding joy.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.14",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 14,
+          "text": "If you are reproached for the name of Christ, blessed are you, for the Spirit of glory and of God rests upon you. On their part He is blasphemed, but on your part He is glorified.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you are reproached for the name of Christ, blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are you,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for the Spirit of glory and of God rests upon you. On their part He is blasphemed, but on your part He is glorified.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "insulted or reviled"
+              },
+              {
+                "marker": "f",
+                "text": "NU omits the rest of v. ."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.15",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 15,
+          "text": "But let none of you suffer as a murderer, a thief, an evildoer, or as a busybody in other people’s matters.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But let none of you suffer as a murderer, a thief, an evildoer, or as a busybody in other people’s matters.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "meddler"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.16",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 16,
+          "text": "Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet if ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "anyone suffers",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as a Christian, let him not be ashamed, but let him glorify God in this matter.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "NU name"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.17",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 17,
+          "text": "For the time has come for judgment to begin at the house of God; and if it begins with us first, what will be the end of those who do not obey the gospel of God?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the time ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "has come",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for judgment to begin at the house of God; and if ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it begins",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with us first, what will ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the end of those who do not obey the gospel of God?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.18",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 18,
+          "text": "Now",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.4.19",
+          "book": "1PE",
+          "chapter": 4,
+          "verse": 19,
+          "text": "Therefore let those who suffer according to the will of God commit their souls to Him in doing good, as to a faithful Creator.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore let those who suffer according to the will of God commit their souls ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to Him",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in doing good, as to a faithful Creator.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Christ’s Example to Be Followed",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Serving for God’s Glory",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Suffering for God’s Glory",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:14.503Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "1PE",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "1PE.5.1",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 1,
+          "text": "The elders who are among you I exhort, I who am a fellow elder and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The elders who are among you I exhort, I who am a fellow elder and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Shepherd the Flock",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.2",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Shepherd the flock of God which is among you, serving as overseers, not by compulsion but willingly, not for dishonest gain but eagerly;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Shepherd the flock of God which is among you, serving as overseers, not by compulsion but willingly, not for dishonest gain but eagerly;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU adds according to God"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.3",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 3,
+          "text": "nor as being lords over those entrusted to you, but being examples to the flock;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nor as being lords over those entrusted to you, but being examples to the flock;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "masters"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.4",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 4,
+          "text": "and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.5",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Likewise you younger people, submit yourselves to your elders. Yes, all of you be submissive to one another, and be clothed with humility, for",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise you younger people, submit yourselves to ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " elders. Yes, all of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " be submissive to one another, and be clothed with humility, for",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Submit to God, Resist the Devil",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.6",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Therefore humble yourselves under the mighty hand of God, that He may exalt you in due time,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore humble yourselves under the mighty hand of God, that He may exalt you in due time,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.7",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 7,
+          "text": "casting all your care upon Him, for He cares for you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "casting all your care upon Him, for He cares for you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.8",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 8,
+          "text": "Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "self-controlled"
+              },
+              {
+                "marker": "d",
+                "text": "watchful"
+              },
+              {
+                "marker": "e",
+                "text": "NU, M omit because"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.9",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Resist him, steadfast in the faith, knowing that the same sufferings are experienced by your brotherhood in the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Resist him, steadfast in the faith, knowing that the same sufferings are experienced by your brotherhood in the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.10",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 10,
+          "text": "But may the God of all grace, who called us to His eternal glory by Christ Jesus, after you have suffered a while, perfect, establish, strengthen, and settle you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But may the God of all grace, who called us to His eternal glory by Christ Jesus, after you have suffered a while, perfect, establish, strengthen, and settle ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU the God of all grace,"
+              },
+              {
+                "marker": "g",
+                "text": "NU, M you"
+              },
+              {
+                "marker": "h",
+                "text": "NU will perfect"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.11",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 11,
+          "text": "To Him be the glory and the dominion forever and ever. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To Him ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the glory and the dominion forever and ever. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.12",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 12,
+          "text": "By Silvanus, our faithful brother as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God in which you stand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "By Silvanus, our faithful brother as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God in which you stand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Farewell and Peace",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.13",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 13,
+          "text": "She who is in Babylon, elect together with you, greets you; and so does Mark my son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She who is in Babylon, elect together with ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " greets you; and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "so does",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Mark my son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1PE.5.14",
+          "book": "1PE",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Greet one another with a kiss of love.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Greet one another with a kiss of love.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Shepherd the Flock",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Submit to God, Resist the Devil",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Farewell and Peace",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:15.972Z"
+    }
+  }
+}

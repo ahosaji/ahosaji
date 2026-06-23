@@ -1,0 +1,20 @@
+{
+  "book": "2MA",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "vulgate",
+    "en": "rahlfs-lxx"
+  },
+  "scope": "comprehensive-overflow-v1",
+  "notes": [
+    "After the English extraction fix that recovered 2MA ch7 v10-42 + ch8 v3-36 from study-note contamination, 2 Maccabees aligns very cleanly: only 3 of 15 chapters diverge, each by exactly +1 ar verse where Vulgate split a single LXX verse into two for narrative clarity.",
+    "ch2 v32-33 split — narrator's transition from preface to main narrative.",
+    "ch12 v45-46 split — Judas's offering for the dead and theological reasoning. (This is the locus classicus for Catholic doctrine on prayers for the dead, hence Vulgate's emphasis-driven split.)",
+    "ch15 v39-40 split — the narrator's closing wine-and-water analogy."
+  ],
+  "mappings": [
+    { "ar": "2MA.2.33", "en": "2MA.2.32" },
+    { "ar": "2MA.12.46", "en": "2MA.12.45" },
+    { "ar": "2MA.15.40", "en": "2MA.15.39" }
+  ]
+}

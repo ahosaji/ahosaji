@@ -1,0 +1,81 @@
+{
+  "book": "TOB",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "vulgate",
+    "en": "rahlfs-lxx"
+  },
+  "scope": "comprehensive-overflow-v1",
+  "notes": [
+    "Arabic source Arabic Tobit follows the Vulgate (Latin → Arabic) recension; English English follows Rahlfs Greek Septuagint. They are different recensions of the same book — narrative voice (3rd-person vs 1st-person), event ordering, and verse boundaries diverge.",
+    "This table covers OVERFLOW MAPPINGS — verses that exist in one translation past the other's end-of-chapter, plus a handful of well-attested mid-chapter shifts. Where both translations have a verse number with overlapping content (even if textually different), we let identity stand and the response shows the divergence honestly.",
+    "Mid-chapter Vulgate additions where en HAS the verse-number with different content are not flagged as `null` — adding null mappings there would silently strip out en's actual content. Instead, callers comparing ar-Vulgate-additions to en should consult this table directly.",
+    "All ar-only Vulgate insertions documented here as `null` are within the OVERFLOW range (ar v# > en chapter max), so the API correctly reports `present:false` with the `mapping_note` annotation rather than misaligning content."
+  ],
+  "mappings": [
+    { "ar": "TOB.1.22", "en": ["TOB.1.19", "TOB.1.20"] },
+    { "ar": "TOB.1.23", "en": null },
+    { "ar": "TOB.1.24", "en": "TOB.1.21" },
+    { "ar": "TOB.1.25", "en": "TOB.1.22" },
+
+    { "ar": "TOB.2.15", "en": null },
+    { "ar": "TOB.2.16", "en": null },
+    { "ar": "TOB.2.17", "en": null },
+    { "ar": "TOB.2.18", "en": null },
+    { "ar": "TOB.2.19", "en": "TOB.2.11" },
+    { "ar": "TOB.2.20", "en": "TOB.2.12" },
+    { "ar": "TOB.2.21", "en": "TOB.2.13" },
+    { "ar": "TOB.2.22", "en": "TOB.2.14" },
+
+    { "ar": "TOB.3.18", "en": null },
+    { "ar": "TOB.3.19", "en": null },
+    { "ar": "TOB.3.20", "en": null },
+    { "ar": "TOB.3.21", "en": null },
+    { "ar": "TOB.3.22", "en": null },
+    { "ar": "TOB.3.23", "en": null },
+    { "ar": "TOB.3.24", "en": "TOB.3.16" },
+    { "ar": "TOB.3.25", "en": "TOB.3.17" },
+
+    { "ar": "TOB.4.22", "en": "TOB.4.20" },
+    { "ar": "TOB.4.23", "en": "TOB.4.21" },
+
+    { "ar": "TOB.5.24", "en": null },
+    { "ar": "TOB.5.25", "en": null },
+    { "ar": "TOB.5.26", "en": "TOB.5.21" },
+    { "ar": "TOB.5.27", "en": "TOB.5.22" },
+    { "ar": "TOB.5.28", "en": "TOB.5.23" },
+
+    { "ar": "TOB.6.20", "en": null },
+    { "ar": "TOB.6.21", "en": null },
+    { "ar": "TOB.6.22", "en": null },
+
+    { "ar": "TOB.7.18", "en": "TOB.7.15" },
+    { "ar": "TOB.7.19", "en": "TOB.7.16" },
+    { "ar": "TOB.7.20", "en": "TOB.7.17" },
+
+    { "ar": "TOB.8.22", "en": null },
+    { "ar": "TOB.8.23", "en": "TOB.8.20" },
+    { "ar": "TOB.8.24", "en": "TOB.8.21" },
+
+    { "ar": "TOB.9.7", "en": "TOB.9.6" },
+    { "ar": "TOB.9.8", "en": null },
+    { "ar": "TOB.9.9", "en": null },
+    { "ar": "TOB.9.10", "en": null },
+    { "ar": "TOB.9.11", "en": null },
+    { "ar": "TOB.9.12", "en": null },
+
+    { "en": "TOB.10.14", "ar": null },
+
+    { "ar": "TOB.11.20", "en": "TOB.11.19" },
+    { "ar": "TOB.11.21", "en": "TOB.11.19" },
+
+    { "ar": "TOB.13.19", "en": null },
+    { "ar": "TOB.13.20", "en": null },
+    { "ar": "TOB.13.21", "en": "TOB.13.17" },
+    { "ar": "TOB.13.22", "en": ["TOB.13.17", "TOB.13.18"] },
+    { "ar": "TOB.13.23", "en": "TOB.13.18" },
+
+    { "ar": "TOB.14.16", "en": "TOB.14.14" },
+    { "ar": "TOB.14.17", "en": null }
+  ]
+}

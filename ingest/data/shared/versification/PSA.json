@@ -1,0 +1,19 @@
+{
+  "book": "PSA",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "vulgate",
+    "en": "masoretic"
+  },
+  "scope": "comprehensive",
+  "notes": [
+    "Both translations use the modern 150-Psalm numbering — Arabic source Arabic and English English do NOT use the Greek Septuagint Psalm numbering (which would split Pss 9 and 10, etc.). 148 of 150 Psalms align verse-for-verse.",
+    "Psalm 72: en v20 (the editorial colophon \"The prayers of David the son of Jesse are ended\") is merged with v19's doxology into a single ar v19 in the Vulgate-derived Arabic source — so en v20 has no standalone ar equivalent.",
+    "Psalm 150: ar collapses en's v5 + v6 (the cymbals-and-everything-that-has-breath couplet) into a single ar v5. This is a Vulgate convention — Jerome treated it as one closing verse rather than two."
+  ],
+  "mappings": [
+    { "en": "PSA.72.20", "ar": "PSA.72.19" },
+
+    { "en": "PSA.150.6", "ar": "PSA.150.5" }
+  ]
+}

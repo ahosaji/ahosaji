@@ -1,0 +1,609 @@
+openapi: 3.1.0
+info:
+  title: Ahosaji
+  version: 0.0.0
+  description: |
+    **Treasure of the Word** (ⲁϩⲟ ⲥⲁϫⲓ) — Coptic Orthodox content API.
+
+    Bible (Arabic + English), Lectionary, Synaxarium, Agpeya — exposed via REST, GraphQL, and MCP.
+
+    ## Auth
+
+    Discovery endpoints (`/v1/healthz`, `/v1/info`, `/v1/translations`, `/v1/translations/{code}`,
+    `/v1/translations/{code}/books`) are **public**. Everything else requires
+    `Authorization: Bearer <api-key>`.
+
+    ## Other transports
+
+    The same data is also exposed via:
+    - **GraphQL**: `POST /v1/graphql` (auth required, GraphiQL UI)
+    - **MCP** (Model Context Protocol): `POST /v1/mcp` (Streamable HTTP, for AI agents)
+
+    ## Client SDKs
+
+    A typed **TypeScript SDK** ships in this monorepo at `packages/sdk-ts/`
+    (package `@ahosaji/sdk`), auto-generated from this OpenAPI spec. It
+    exposes `AhosajiClient` with one method per route and full types for
+    every model — including the recently added versification-mapping
+    annotations on `ParallelEntry` (`mapped_to`, `mapping_note`).
+
+    - Hosted SDK reference (TypeDoc): [`/docs/sdk/`](./sdk/)
+    - Quickstart + usage examples: `packages/sdk-ts/README.md`
+
+    **For other languages** (Python, Go, Ruby, Java, C#, Rust, Swift,
+    Kotlin, PHP, etc.), generate a client from this spec with
+    [openapi-generator](https://openapi-generator.tech/):
+
+    ```
+    openapi-generator-cli generate \
+      -i https://api.ahosaji.example/docs/openapi.yaml \
+      -g python \
+      -o ./ahosaji-python
+    ```
+
+    50+ language targets are supported. We do not currently maintain
+    pre-built SDKs in those languages; the in-page client snippets above
+    (Shell / Ruby / Node.js / PHP / Python / ...) are inline request
+    examples using each language's stock HTTP library, not full SDKs.
+
+  contact:
+    name: Ahosaji
+    url: https://github.com/yourname/ahosaji
+  license:
+    name: TBD
+    url: https://example.com/license
+
+servers:
+  - url: http://localhost:3001
+    description: Local dev
+  - url: https://api.ahosaji.example
+    description: Production (placeholder)
+
+tags:
+  - name: Discovery
+    description: Public discovery endpoints (no auth)
+  - name: Bible
+    description: Bible reading routes
+  - name: Search
+    description: Full-text search
+
+security:
+  - bearerAuth: []
+
+paths:
+  /v1/healthz:
+    get:
+      tags: [Discovery]
+      summary: Liveness check
+      security: []
+      responses:
+        '200':
+          description: Service is alive
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status: { type: string, example: ok }
+                  db: { type: string, example: ok }
+
+  /v1/info:
+    get:
+      tags: [Discovery]
+      summary: Build info & supported domains/transports
+      security: []
+      responses:
+        '200':
+          description: Service info
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name: { type: string }
+                  version: { type: string }
+                  domains: { type: array, items: { type: string } }
+                  transports: { type: array, items: { type: string } }
+
+  /v1/translations:
+    get:
+      tags: [Discovery]
+      summary: List all translations
+      security: []
+      responses:
+        '200':
+          description: Available translations
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  translations:
+                    type: array
+                    items: { $ref: '#/components/schemas/Translation' }
+
+  /v1/translations/{code}:
+    get:
+      tags: [Discovery]
+      summary: Get a single translation by code
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/TranslationCode'
+      responses:
+        '200':
+          description: Translation details
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Translation' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /v1/translations/{code}/books:
+    get:
+      tags: [Discovery]
+      summary: List books in a translation
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/TranslationCode'
+      responses:
+        '200':
+          description: Books list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  translation: { type: string }
+                  books:
+                    type: array
+                    items: { $ref: '#/components/schemas/Book' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /v1/bible/translations/{code}/books/{usfm}/chapters/{n}:
+    get:
+      tags: [Bible]
+      summary: Get a whole chapter (verses + headings)
+      parameters:
+        - $ref: '#/components/parameters/TranslationCode'
+        - $ref: '#/components/parameters/UsfmCode'
+        - name: n
+          in: path
+          required: true
+          schema: { type: integer, minimum: 1 }
+      responses:
+        '200':
+          description: Chapter contents
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Chapter' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
+
+  /v1/bible/translations/{code}/books/{usfm}/chapters/{n}/verses:
+    get:
+      tags: [Bible]
+      summary: Verse range within a chapter
+      parameters:
+        - $ref: '#/components/parameters/TranslationCode'
+        - $ref: '#/components/parameters/UsfmCode'
+        - name: n
+          in: path
+          required: true
+          schema: { type: integer, minimum: 1 }
+        - name: from
+          in: query
+          required: true
+          schema: { type: integer, minimum: 1 }
+        - name: to
+          in: query
+          required: true
+          schema: { type: integer, minimum: 1 }
+      responses:
+        '200':
+          description: Verse range
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  translation: { type: string }
+                  book: { type: string }
+                  chapter: { type: integer }
+                  from: { type: integer }
+                  to: { type: integer }
+                  verses:
+                    type: array
+                    items: { $ref: '#/components/schemas/Verse' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+
+  /v1/bible/translations/{code}/books/{usfm}/chapters/{n}/verses/{v}:
+    get:
+      tags: [Bible]
+      summary: Single verse with cross-references
+      parameters:
+        - $ref: '#/components/parameters/TranslationCode'
+        - $ref: '#/components/parameters/UsfmCode'
+        - name: n
+          in: path
+          required: true
+          schema: { type: integer, minimum: 1 }
+        - name: v
+          in: path
+          required: true
+          schema: { type: integer, minimum: 1 }
+      responses:
+        '200':
+          description: Single verse
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Verse' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
+
+  /v1/bible/passages:
+    get:
+      tags: [Bible]
+      summary: Cross-chapter passage range (single book)
+      parameters:
+        - name: translation
+          in: query
+          required: true
+          schema: { type: string }
+        - name: start
+          in: query
+          required: true
+          description: USFM ref (e.g. JHN.3.16)
+          schema: { type: string }
+        - name: end
+          in: query
+          required: true
+          description: USFM ref (same book)
+          schema: { type: string }
+      responses:
+        '200':
+          description: Passage
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Passage' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+
+  /v1/parallel:
+    get:
+      tags: [Bible]
+      summary: Cross-translation parallel query (signature feature)
+      description: |
+        Returns the same verse(s) across multiple translations side-by-side. Each
+        per-translation entry has `present: bool` so missing-in-one-tradition
+        verses (Tobit Vulgate vs Rahlfs LXX divergence) are explicit, not 404s.
+
+        **Versification-aware mode** (`prefer_aligned=1`): the FIRST translation
+        in `translations` becomes the anchor, and other translations show their
+        semantic equivalent of the anchor's verse per the versification mapping
+        tables — even when both translations have the queried ref directly.
+        This surfaces renumbering shifts (e.g. ar:SIR.1.20 = en:SIR.1.16) and
+        Vulgate-only verses (no Greek-LXX equivalent → `present:false +
+        mapping_note`). When the table has no entry for the queried ref,
+        falls back to identity matching transparently.
+      parameters:
+        - name: translations
+          in: query
+          required: true
+          description: Comma-separated codes (e.g. en,ar)
+          schema: { type: string }
+        - name: ref
+          in: query
+          schema: { type: string }
+        - name: start
+          in: query
+          schema: { type: string }
+        - name: end
+          in: query
+          schema: { type: string }
+        - name: prefer_aligned
+          in: query
+          description: |
+            When set ("1", "true", "yes"), apply versification mapping with the
+            first listed translation as the anchor. See description above.
+          schema: { type: string }
+      responses:
+        '200':
+          description: Parallel result
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ParallelResult' }
+
+  /v1/search:
+    get:
+      tags: [Search]
+      summary: Full-text search across one translation
+      description: |
+        Arabic queries normalized server-side (tashkeel stripped, alif unified).
+        Supports `limit`/`offset` (estimated total) or `page`/`pageSize` (exact total).
+        Response includes `next`/`prev` URLs.
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema: { type: string }
+        - name: translation
+          in: query
+          required: true
+          schema: { type: string, enum: [en, ar] }
+        - name: book
+          in: query
+          schema: { type: string }
+        - name: testament
+          in: query
+          schema: { type: string, enum: [OT, NT] }
+        - name: canon
+          in: query
+          schema: { type: string, enum: [protocanonical, deuterocanonical] }
+        - name: bookGroup
+          in: query
+          schema: { type: string }
+        - name: limit
+          in: query
+          schema: { type: integer, minimum: 1, maximum: 100, default: 20 }
+        - name: offset
+          in: query
+          schema: { type: integer, minimum: 0, default: 0 }
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+        - name: pageSize
+          in: query
+          schema: { type: integer, minimum: 1, maximum: 100 }
+      responses:
+        '200':
+          description: Search hits
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/SearchResult' }
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: ahk_<base64url>
+
+  parameters:
+    TranslationCode:
+      name: code
+      in: path
+      required: true
+      schema: { type: string, enum: [en, ar] }
+    UsfmCode:
+      name: usfm
+      in: path
+      required: true
+      description: USFM 3-letter book code (e.g. JHN, TOB)
+      schema: { type: string, pattern: '^[A-Z0-9]{3}$' }
+
+  responses:
+    BadRequest:
+      description: Bad request
+      content:
+        application/problem+json:
+          schema: { $ref: '#/components/schemas/ProblemDetails' }
+    Unauthorized:
+      description: Missing or invalid Authorization
+      content:
+        application/problem+json:
+          schema: { $ref: '#/components/schemas/ProblemDetails' }
+    NotFound:
+      description: Resource not found
+      content:
+        application/problem+json:
+          schema: { $ref: '#/components/schemas/ProblemDetails' }
+
+  schemas:
+    ProblemDetails:
+      type: object
+      properties:
+        type: { type: string, format: uri, default: 'about:blank' }
+        title: { type: string }
+        status: { type: integer }
+        detail: { type: string }
+
+    Translation:
+      type: object
+      properties:
+        code: { type: string, example: en }
+        name: { type: string }
+        language: { type: string }
+        source: { type: string }
+        copyright: { type: string, nullable: true }
+        versification: { type: string }
+        bookCount: { type: integer, nullable: true }
+        verseCount: { type: integer, nullable: true }
+
+    Book:
+      type: object
+      properties:
+        usfm: { type: string }
+        name_en: { type: string }
+        name_ar: { type: string }
+        testament: { type: string, enum: [OT, NT] }
+        canon: { type: string, enum: [protocanonical, deuterocanonical] }
+        book_order: { type: integer }
+        chapter_count: { type: integer }
+        book_group: { type: string, nullable: true }
+        verse_count: { type: integer, nullable: true }
+
+    Token:
+      type: object
+      properties:
+        text: { type: string }
+        italic: { type: boolean }
+        redLetter: { type: boolean }
+
+    Footnote:
+      type: object
+      properties:
+        marker: { type: string }
+        text: { type: string }
+
+    VerseStructured:
+      type: object
+      properties:
+        tokens:
+          type: array
+          items: { $ref: '#/components/schemas/Token' }
+        footnotes:
+          type: array
+          items: { $ref: '#/components/schemas/Footnote' }
+        crossRefs:
+          type: array
+          items: { type: string }
+        heading: { type: string, nullable: true }
+        paragraphStart: { type: boolean }
+        poetic: { type: boolean }
+        poeticLines:
+          type: array
+          nullable: true
+          items: { type: string }
+
+    Verse:
+      type: object
+      properties:
+        ref: { type: string, example: JHN.3.16 }
+        book: { type: string }
+        chapter: { type: integer }
+        verse: { type: integer }
+        text: { type: string }
+        structured: { $ref: '#/components/schemas/VerseStructured' }
+
+    Heading:
+      type: object
+      properties:
+        beforeVerse: { type: integer }
+        text: { type: string }
+        level: { type: integer }
+
+    Chapter:
+      type: object
+      properties:
+        translation: { type: string }
+        book: { type: string }
+        chapter: { type: integer }
+        verses:
+          type: array
+          items: { $ref: '#/components/schemas/Verse' }
+        headings:
+          type: array
+          items: { $ref: '#/components/schemas/Heading' }
+        meta:
+          type: object
+          properties:
+            count: { type: integer }
+            headings: { type: integer }
+
+    Passage:
+      type: object
+      properties:
+        translation: { type: string }
+        book: { type: string }
+        start:
+          type: object
+          properties: { chapter: { type: integer }, verse: { type: integer } }
+        end:
+          type: object
+          properties: { chapter: { type: integer }, verse: { type: integer } }
+        verses:
+          type: array
+          items: { $ref: '#/components/schemas/Verse' }
+        meta:
+          type: object
+          properties: { count: { type: integer } }
+
+    ParallelEntry:
+      type: object
+      properties:
+        translation: { type: string }
+        present: { type: boolean }
+        text: { type: string, nullable: true }
+        structured:
+          allOf:
+            - $ref: '#/components/schemas/VerseStructured'
+          nullable: true
+        mapped_to:
+          type: array
+          items: { type: string }
+          nullable: true
+          description: |
+            Set when the verse was resolved via versification mapping rather
+            than identity. Lists the source ref(s) in this translation whose
+            content was returned. Absent when identity matched directly.
+        mapping_note:
+          type: string
+          nullable: true
+          description: |
+            Set when the versification mapping table marks this verse as
+            having no equivalent in this translation (e.g. a Vulgate-only
+            verse with no Greek-LXX counterpart). Co-occurs with
+            `present: false` and `mapped_to: []`.
+
+    ParallelVerse:
+      type: object
+      properties:
+        ref: { type: string }
+        translations:
+          type: array
+          items: { $ref: '#/components/schemas/ParallelEntry' }
+
+    ParallelResult:
+      type: object
+      properties:
+        refs:
+          type: array
+          items: { $ref: '#/components/schemas/ParallelVerse' }
+        meta:
+          type: object
+          properties:
+            count: { type: integer }
+            translations:
+              type: array
+              items: { type: string }
+
+    SearchHit:
+      type: object
+      properties:
+        ref: { type: string }
+        book: { type: string }
+        chapter: { type: integer }
+        verse: { type: integer }
+        book_name: { type: string }
+        testament: { type: string }
+        canon: { type: string }
+        text: { type: string }
+        heading: { type: string, nullable: true }
+        formatted: { type: string }
+
+    SearchResult:
+      type: object
+      properties:
+        query: { type: string }
+        translation: { type: string }
+        filters:
+          type: object
+          additionalProperties: { type: string }
+        hits:
+          type: array
+          items: { $ref: '#/components/schemas/SearchHit' }
+        meta:
+          type: object
+          properties:
+            count: { type: integer }
+            total: { type: integer, nullable: true }
+            limit: { type: integer }
+            offset: { type: integer }
+            page: { type: integer }
+            pageSize: { type: integer }
+            totalPages: { type: integer, nullable: true }
+            next: { type: string, nullable: true }
+            prev: { type: string, nullable: true }
+            mode: { type: string, enum: [page, offset] }
+            processingTimeMs: { type: integer }

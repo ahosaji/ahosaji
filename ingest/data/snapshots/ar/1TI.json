@@ -1,0 +1,2635 @@
+{
+  "usfm": "1TI",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "1TI",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "1TI.1.1",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 1,
+          "text": "بُولُسُ، رَسُولُ يَسُوعَ الْمَسِيحِ، بِحَسَبِ أَمْرِ اللهِ مُخَلِّصِنَا، وَرَبِّنَا يَسُوعَ الْمَسِيحِ، رَجَائِنَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بُولُسُ، رَسُولُ يَسُوعَ الْمَسِيحِ، بِحَسَبِ أَمْرِ اللهِ مُخَلِّصِنَا، وَرَبِّنَا يَسُوعَ الْمَسِيحِ، رَجَائِنَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "مقدمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.2",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 2,
+          "text": "إِلَى تِيمُوثَاوُسَ، الابْنِ الصَّرِيحِ فِي الإِيمَانِ: نِعْمَةٌ وَرَحْمَةٌ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالْمَسِيحِ يَسُوعَ رَبِّنَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِلَى تِيمُوثَاوُسَ، الابْنِ الصَّرِيحِ فِي الإِيمَانِ: نِعْمَةٌ وَرَحْمَةٌ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالْمَسِيحِ يَسُوعَ رَبِّنَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.3",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 3,
+          "text": "كَمَا طَلَبْتُ إِلَيْكَ أَنْ تَمْكُثَ فِي أَفَسُسَ، إِذْ كُنْتُ أَنَا ذَاهِبًا إِلَى مَكِدُونِيَّةَ، لِكَيْ تُوصِيَ قَوْمًا أَنْ لَا يُعَلِّمُوا تَعْلِيمًا آخَرَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَمَا طَلَبْتُ إِلَيْكَ أَنْ تَمْكُثَ فِي أَفَسُسَ، إِذْ كُنْتُ أَنَا ذَاهِبًا إِلَى مَكِدُونِيَّةَ، لِكَيْ تُوصِيَ قَوْمًا أَنْ لَا يُعَلِّمُوا تَعْلِيمًا آخَرَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تحذير من معلمي الناموس الكذبة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.4",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 4,
+          "text": "وَلَا يُصْغُوا إِلَى خُرَافَاتٍ وَأَنْسَابٍ لَا حَدَّ لَهَا، تُسَبِّبُ مُبَاحَثَاتٍ دُونَ بُنْيَانِ اللهِ الَّذِي فِي الإِيمَانِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلَا يُصْغُوا إِلَى خُرَافَاتٍ وَأَنْسَابٍ لَا حَدَّ لَهَا، تُسَبِّبُ مُبَاحَثَاتٍ دُونَ بُنْيَانِ اللهِ الَّذِي فِي الإِيمَانِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.5",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 5,
+          "text": "وَأَمَّا غَايَةُ الْوَصِيَّةِ فَهِيَ الْمَحَبَّةُ مِنْ قَلْبٍ طَاهِرٍ، وَضَمِيرٍ صَالِحٍ، وَإِيمَانٍ بِلاَ رِيَاءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا غَايَةُ الْوَصِيَّةِ فَهِيَ الْمَحَبَّةُ مِنْ قَلْبٍ طَاهِرٍ، وَضَمِيرٍ صَالِحٍ، وَإِيمَانٍ بِلاَ رِيَاءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.6",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 6,
+          "text": "الأُمُورُ الَّتِي إِذْ زَاغَ قَوْمٌ عَنْهَا، انْحَرَفُوا إِلَى كَلاَمٍ بَاطِلٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الأُمُورُ الَّتِي إِذْ زَاغَ قَوْمٌ عَنْهَا، انْحَرَفُوا إِلَى كَلاَمٍ بَاطِلٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.7",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 7,
+          "text": "يُرِيدُونَ أَنْ يَكُونُوا مُعَلِّمِي النَّامُوسِ، وَهُمْ لَا يَفْهَمُونَ مَا يَقُولُونَ، وَلَا مَا يُقَرِّرُونَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُرِيدُونَ أَنْ يَكُونُوا مُعَلِّمِي النَّامُوسِ، وَهُمْ لَا يَفْهَمُونَ مَا يَقُولُونَ، وَلَا مَا يُقَرِّرُونَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.8",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 8,
+          "text": "وَلكِنَّنَا نَعْلَمُ أَنَّ النَّامُوسَ صَالِحٌ، إِنْ كَانَ أَحَدٌ يَسْتَعْمِلُهُ نَامُوسِيًّا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنَّنَا نَعْلَمُ أَنَّ النَّامُوسَ صَالِحٌ، إِنْ كَانَ أَحَدٌ يَسْتَعْمِلُهُ نَامُوسِيًّا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.9",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 9,
+          "text": "عَالِمًا هَذَا: أَنَّ النَّامُوسَ لَمْ يُوضَعْ لِلْبَارِّ، بَلْ لِلأَثَمَةِ وَالْمُتَمَرِّدِينَ، لِلْفُجَّارِ وَالْخُطَاةِ، لِلدَّنِسِينَ وَالْمُسْتَبِيحِينَ، لِقَاتِلِي الآبَاءِ وَقَاتِلِي الأُمَّهَاتِ، لِقَاتِلِي النَّاسِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عَالِمًا هَذَا: أَنَّ النَّامُوسَ لَمْ يُوضَعْ لِلْبَارِّ، بَلْ لِلأَثَمَةِ وَالْمُتَمَرِّدِينَ، لِلْفُجَّارِ وَالْخُطَاةِ، لِلدَّنِسِينَ وَالْمُسْتَبِيحِينَ، لِقَاتِلِي الآبَاءِ وَقَاتِلِي الأُمَّهَاتِ، لِقَاتِلِي النَّاسِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.10",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 10,
+          "text": "لِلزُّنَاةِ، لِمُضَاجِعِي الذُّكُورِ، لِسَارِقِي النَّاسِ، لِلْكَذَّابِينَ، لِلْحَانِثِينَ، وَإِنْ كَانَ شَيْءٌ آخَرُ يُقَاوِمُ التَّعْلِيمَ الصَّحِيحَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِلزُّنَاةِ، لِمُضَاجِعِي الذُّكُورِ، لِسَارِقِي النَّاسِ، لِلْكَذَّابِينَ، لِلْحَانِثِينَ، وَإِنْ كَانَ شَيْءٌ آخَرُ يُقَاوِمُ التَّعْلِيمَ الصَّحِيحَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.11",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 11,
+          "text": "حَسَبَ إِنْجِيلِ مَجْدِ اللهِ الْمُبَارَكِ الَّذِي اؤْتُمِنْتُ أَنَا عَلَيْهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَسَبَ إِنْجِيلِ مَجْدِ اللهِ الْمُبَارَكِ الَّذِي اؤْتُمِنْتُ أَنَا عَلَيْهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.12",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 12,
+          "text": "وَأَنَا أَشْكُرُ الْمَسِيحَ يَسُوعَ رَبَّنَا الَّذِي قَوَّانِي، أَنَّهُ حَسِبَنِي أَمِينًا، إِذْ جَعَلَنِي لِلْخِدْمَةِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَنَا أَشْكُرُ الْمَسِيحَ يَسُوعَ رَبَّنَا الَّذِي قَوَّانِي، أَنَّهُ حَسِبَنِي أَمِينًا، إِذْ جَعَلَنِي لِلْخِدْمَةِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "شكر بولس لله على نعمته",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.13",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 13,
+          "text": "أَنَا الَّذِي كُنْتُ قَبْلًا مُجَدِّفًا وَمُضْطَهِدًا وَمُفْتَرِيًا. وَلكِنَّنِي رُحِمْتُ، لأَنِّي فَعَلْتُ بِجَهْلٍ فِي عَدَمِ إِيمَانٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنَا الَّذِي كُنْتُ قَبْلًا مُجَدِّفًا وَمُضْطَهِدًا وَمُفْتَرِيًا. وَلكِنَّنِي رُحِمْتُ، لأَنِّي فَعَلْتُ بِجَهْلٍ فِي عَدَمِ إِيمَانٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.14",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 14,
+          "text": "وَتَفَاضَلَتْ نِعْمَةُ رَبِّنَا جِدًّا مَعَ الإِيمَانِ وَالْمَحَبَّةِ الَّتِي فِي الْمَسِيحِ يَسُوعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَتَفَاضَلَتْ نِعْمَةُ رَبِّنَا جِدًّا مَعَ الإِيمَانِ وَالْمَحَبَّةِ الَّتِي فِي الْمَسِيحِ يَسُوعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.15",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 15,
+          "text": "صَادِقَةٌ هِيَ الْكَلِمَةُ وَمُسْتَحِقَّةٌ كُلَّ قُبُولٍ: أَنَّ الْمَسِيحَ يَسُوعَ جَاءَ إِلَى الْعَالَمِ لِيُخَلِّصَ الْخُطَاةَ الَّذِينَ أَوَّلُهُمْ أَنَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "صَادِقَةٌ هِيَ الْكَلِمَةُ وَمُسْتَحِقَّةٌ كُلَّ قُبُولٍ: أَنَّ الْمَسِيحَ يَسُوعَ جَاءَ إِلَى الْعَالَمِ لِيُخَلِّصَ الْخُطَاةَ الَّذِينَ أَوَّلُهُمْ أَنَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.16",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 16,
+          "text": "لكِنَّنِي لِهَذَا رُحِمْتُ: لِيُظْهِرَ يَسُوعُ الْمَسِيحُ فِيَّ أَنَا أَوَّلًا كُلَّ أَنَاةٍ، مِثَالًا لِلْعَتِيدِينَ أَنْ يُؤْمِنُوا بِهِ لِلْحَيَاةِ الأَبَدِيَّةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لكِنَّنِي لِهَذَا رُحِمْتُ: لِيُظْهِرَ يَسُوعُ الْمَسِيحُ فِيَّ أَنَا أَوَّلًا كُلَّ أَنَاةٍ، مِثَالًا لِلْعَتِيدِينَ أَنْ يُؤْمِنُوا بِهِ لِلْحَيَاةِ الأَبَدِيَّةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.17",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 17,
+          "text": "وَمَلِكُ الدُّهُورِ الَّذِي لَا يَفْنَى وَلَا يُرَى، الإِلَهُ الْحَكِيمُ وَحْدَهُ، لَهُ الْكَرَامَةُ وَالْمَجْدُ إِلَى دَهْرِ الدُّهُورِ. آمِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَلِكُ الدُّهُورِ الَّذِي لَا يَفْنَى وَلَا يُرَى، الإِلَهُ الْحَكِيمُ وَحْدَهُ، لَهُ الْكَرَامَةُ وَالْمَجْدُ إِلَى دَهْرِ الدُّهُورِ. آمِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.18",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 18,
+          "text": "هَذِهِ الْوَصِيَّةُ أَيُّهَا الابْنُ تِيمُوثَاوُسُ أَسْتَوْدِعُكَ إِيَّاهَا حَسَبَ النُّبُوَّاتِ الَّتِي سَبَقَتْ عَلَيْكَ، لِكَيْ تُحَارِبَ فِيهَا الْمُحَارَبَةَ الْحَسَنَةَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَذِهِ الْوَصِيَّةُ أَيُّهَا الابْنُ تِيمُوثَاوُسُ أَسْتَوْدِعُكَ إِيَّاهَا حَسَبَ النُّبُوَّاتِ الَّتِي سَبَقَتْ عَلَيْكَ، لِكَيْ تُحَارِبَ فِيهَا الْمُحَارَبَةَ الْحَسَنَةَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.19",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 19,
+          "text": "وَلَكَ إِيمَانٌ وَضَمِيرٌ صَالِحٌ، الَّذِي إِذْ رَفَضَهُ قَوْمٌ، انْكَسَرَتْ بِهِمِ السَّفِينَةُ مِنْ جِهَةِ الإِيمَانِ أَيْضًا،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلَكَ إِيمَانٌ وَضَمِيرٌ صَالِحٌ، الَّذِي إِذْ رَفَضَهُ قَوْمٌ، انْكَسَرَتْ بِهِمِ السَّفِينَةُ مِنْ جِهَةِ الإِيمَانِ أَيْضًا،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.1.20",
+          "book": "1TI",
+          "chapter": 1,
+          "verse": 20,
+          "text": "الَّذِينَ مِنْهُمْ هِيمِينَايُسُ وَالإِسْكَنْدَرُ، اللَّذَانِ أَسْلَمْتُهُمَا لِلشَّيْطَانِ لِكَيْ يُؤَدَّبَا حَتَّى لَا يُجَدِّفَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِينَ مِنْهُمْ هِيمِينَايُسُ وَالإِسْكَنْدَرُ، اللَّذَانِ أَسْلَمْتُهُمَا لِلشَّيْطَانِ لِكَيْ يُؤَدَّبَا حَتَّى لَا يُجَدِّفَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "مقدمة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "تحذير من معلمي الناموس الكذبة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "شكر بولس لله على نعمته",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:07.152Z"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "1TI",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "1TI.2.1",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 1,
+          "text": "فَأَطْلُبُ أَوَّلَ كُلِّ شَيْءٍ، أَنْ تُقَامَ طَلِبَاتٌ وَصَلَوَاتٌ وَابْتِهَالاَتٌ وَتَشَكُّرَاتٌ لأَجْلِ جَمِيعِ النَّاسِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَأَطْلُبُ أَوَّلَ كُلِّ شَيْءٍ، أَنْ تُقَامَ طَلِبَاتٌ وَصَلَوَاتٌ وَابْتِهَالاَتٌ وَتَشَكُّرَاتٌ لأَجْلِ جَمِيعِ النَّاسِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "توجيهات خاصة بالعبادة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.2",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 2,
+          "text": "لأَجْلِ الْمُلُوكِ وَجَمِيعِ الَّذِينَ هُمْ فِي مَنْصِبٍ، لِكَيْ نَقْضِيَ حَيَاةً مُطْمَئِنَّةً هَادِئَةً فِي كُلِّ تَقْوَى وَوَقَارٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَجْلِ الْمُلُوكِ وَجَمِيعِ الَّذِينَ هُمْ فِي مَنْصِبٍ، لِكَيْ نَقْضِيَ حَيَاةً مُطْمَئِنَّةً هَادِئَةً فِي كُلِّ تَقْوَى وَوَقَارٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.3",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 3,
+          "text": "لأَنَّ هَذَا حَسَنٌ وَمَقْبُولٌ لَدَى مُخَلِّصِنَا اللهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ هَذَا حَسَنٌ وَمَقْبُولٌ لَدَى مُخَلِّصِنَا اللهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.4",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 4,
+          "text": "الَّذِي يُرِيدُ أَنَّ جَمِيعَ النَّاسِ يَخْلُصُونَ، وَإِلَى مَعْرِفَةِ الْحَقِّ يُقْبِلُونَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي يُرِيدُ أَنَّ جَمِيعَ النَّاسِ يَخْلُصُونَ، وَإِلَى مَعْرِفَةِ الْحَقِّ يُقْبِلُونَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.5",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 5,
+          "text": "لأَنَّهُ يُوجَدُ إِلَهٌ وَاحِدٌ وَوَسِيطٌ وَاحِدٌ بَيْنَ اللهِ وَالنَّاسِ: الإِنْسَانُ يَسُوعُ الْمَسِيحُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ يُوجَدُ إِلَهٌ وَاحِدٌ وَوَسِيطٌ وَاحِدٌ بَيْنَ اللهِ وَالنَّاسِ: الإِنْسَانُ يَسُوعُ الْمَسِيحُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.6",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 6,
+          "text": "الَّذِي بَذَلَ نَفْسَهُ فِدْيَةً لأَجْلِ الْجَمِيعِ، الشَّهَادَةُ فِي أَوْقَاتِهَا الْخَاصَّةِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي بَذَلَ نَفْسَهُ فِدْيَةً لأَجْلِ الْجَمِيعِ، الشَّهَادَةُ فِي أَوْقَاتِهَا الْخَاصَّةِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.7",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 7,
+          "text": "الَّتِي جُعِلْتُ أَنَا لَهَا كَارِزًا وَرَسُولًا. اَلْحَقَّ أَقُولُ فِي الْمَسِيحِ وَلَا أَكْذِبُ، مُعَلِّمًا لِلأُمَمِ فِي الإِيمَانِ وَالْحَقِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّتِي جُعِلْتُ أَنَا لَهَا كَارِزًا وَرَسُولًا. اَلْحَقَّ أَقُولُ فِي الْمَسِيحِ وَلَا أَكْذِبُ، مُعَلِّمًا لِلأُمَمِ فِي الإِيمَانِ وَالْحَقِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.8",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 8,
+          "text": "فَأُرِيدُ أَنْ يُصَلِّيَ الرِّجَالُ فِي كُلِّ مَكَانٍ، رَافِعِينَ أَيَادِيَ طَاهِرَةً، بِدُونِ غَضَبٍ وَلَا جِدَالٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَأُرِيدُ أَنْ يُصَلِّيَ الرِّجَالُ فِي كُلِّ مَكَانٍ، رَافِعِينَ أَيَادِيَ طَاهِرَةً، بِدُونِ غَضَبٍ وَلَا جِدَالٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.9",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 9,
+          "text": "وَكَذَلِكَ أَنَّ النِّسَاءَ يُزَيِّنَّ ذَوَاتِهِنَّ بِلِبَاسِ الْحِشْمَةِ، مَعَ وَرَعٍ وَتَعَقُّلٍ، لَا بِضَفَائِرَ أَوْ ذَهَبٍ أَوْ لآلِئَ أَوْ مَلاَبِسَ كَثِيرَةِ الثَّمَنِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَكَذَلِكَ أَنَّ النِّسَاءَ يُزَيِّنَّ ذَوَاتِهِنَّ بِلِبَاسِ الْحِشْمَةِ، مَعَ وَرَعٍ وَتَعَقُّلٍ، لَا بِضَفَائِرَ أَوْ ذَهَبٍ أَوْ لآلِئَ أَوْ مَلاَبِسَ كَثِيرَةِ الثَّمَنِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.10",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 10,
+          "text": "بَلْ كَمَا يَلِيقُ بِنِسَاءٍ مُتَعَاهِدَاتٍ بِتَقْوَى اللهِ بِأَعْمَالٍ صَالِحَةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بَلْ كَمَا يَلِيقُ بِنِسَاءٍ مُتَعَاهِدَاتٍ بِتَقْوَى اللهِ بِأَعْمَالٍ صَالِحَةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.11",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 11,
+          "text": "لِتَتَعَلَّمِ الْمَرْأَةُ بِسُكُوتٍ فِي كُلِّ خُضُوعٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِتَتَعَلَّمِ الْمَرْأَةُ بِسُكُوتٍ فِي كُلِّ خُضُوعٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.12",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 12,
+          "text": "وَلكِنْ لَسْتُ آذَنُ لِلْمَرْأَةِ أَنْ تُعَلِّمَ وَلَا تَتَسَلَّطَ عَلَى الرَّجُلِ، بَلْ تَكُونُ فِي سُكُوتٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ لَسْتُ آذَنُ لِلْمَرْأَةِ أَنْ تُعَلِّمَ وَلَا تَتَسَلَّطَ عَلَى الرَّجُلِ، بَلْ تَكُونُ فِي سُكُوتٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.13",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 13,
+          "text": "لأَنَّ آدَمَ جُبِلَ أَوَّلًا ثُمَّ حَوَّاءُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ آدَمَ جُبِلَ أَوَّلًا ثُمَّ حَوَّاءُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.14",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 14,
+          "text": "وَآدَمُ لَمْ يُغْوَ، لكِنَّ الْمَرْأَةَ أُغْوِيَتْ فَحَصَلَتْ فِي التَّعَدِّي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَآدَمُ لَمْ يُغْوَ، لكِنَّ الْمَرْأَةَ أُغْوِيَتْ فَحَصَلَتْ فِي التَّعَدِّي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.2.15",
+          "book": "1TI",
+          "chapter": 2,
+          "verse": 15,
+          "text": "وَلكِنَّهَا سَتَخْلُصُ بِوِلاَدَةِ الأَوْلاَدِ، إِنْ ثَبَتْنَ فِي الإِيمَانِ وَالْمَحَبَّةِ وَالْقَدَاسَةِ مَعَ التَّعَقُّلِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنَّهَا سَتَخْلُصُ بِوِلاَدَةِ الأَوْلاَدِ، إِنْ ثَبَتْنَ فِي الإِيمَانِ وَالْمَحَبَّةِ وَالْقَدَاسَةِ مَعَ التَّعَقُّلِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "توجيهات خاصة بالعبادة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:07.973Z"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "1TI",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "1TI.3.1",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 1,
+          "text": "صَادِقَةٌ هِيَ الْكَلِمَةُ: إِنِ ابْتَغَى أَحَدٌ الأُسْقُفِيَّةَ، فَيَشْتَهِي عَمَلًا صَالِحًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "صَادِقَةٌ هِيَ الْكَلِمَةُ: إِنِ ابْتَغَى أَحَدٌ الأُسْقُفِيَّةَ، فَيَشْتَهِي عَمَلًا صَالِحًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الأساقفة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.2",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 2,
+          "text": "فَيَجِبُ أَنْ يَكُونَ الأُسْقُفُ بِلاَ لَوْمٍ، بَعْلَ امْرَأَةٍ وَاحِدَةٍ، صَاحِيًا، عَاقِلًا، مُحْتَشِمًا، مُضِيفًا لِلْغُرَبَاءِ، صَالِحًا لِلتَّعْلِيمِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَيَجِبُ أَنْ يَكُونَ الأُسْقُفُ بِلاَ لَوْمٍ، بَعْلَ امْرَأَةٍ وَاحِدَةٍ، صَاحِيًا، عَاقِلًا، مُحْتَشِمًا، مُضِيفًا لِلْغُرَبَاءِ، صَالِحًا لِلتَّعْلِيمِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.3",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 3,
+          "text": "غَيْرَ مُدْمِنِ الْخَمْرِ، وَلَا ضَرَّابٍ، وَلَا طَامِعٍ بِالرِّبْحِ الْقَبِيحِ، بَلْ حَلِيمًا، غَيْرَ مُخَاصِمٍ، وَلَا مُحِبٍّ لِلْمَالِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غَيْرَ مُدْمِنِ الْخَمْرِ، وَلَا ضَرَّابٍ، وَلَا طَامِعٍ بِالرِّبْحِ الْقَبِيحِ، بَلْ حَلِيمًا، غَيْرَ مُخَاصِمٍ، وَلَا مُحِبٍّ لِلْمَالِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.4",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 4,
+          "text": "يُدَبِّرُ بَيْتَهُ حَسَنًا، لَهُ أَوْلاَدٌ فِي الْخُضُوعِ بِكُلِّ وَقَارٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُدَبِّرُ بَيْتَهُ حَسَنًا، لَهُ أَوْلاَدٌ فِي الْخُضُوعِ بِكُلِّ وَقَارٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.5",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 5,
+          "text": "وَإِنَّمَا إِنْ كَانَ أَحَدٌ لَا يَعْرِفُ أَنْ يُدَبِّرَ بَيْتَهُ، فَكَيْفَ يَعْتَنِي بِكَنِيسَةِ اللهِ؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِنَّمَا إِنْ كَانَ أَحَدٌ لَا يَعْرِفُ أَنْ يُدَبِّرَ بَيْتَهُ، فَكَيْفَ يَعْتَنِي بِكَنِيسَةِ اللهِ؟",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.6",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 6,
+          "text": "غَيْرَ حَدِيثِ الإِيمَانِ لِئَلاَّ يَتَصَلَّفَ فَيَسْقُطَ فِي دَيْنُونَةِ إِبْلِيسَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غَيْرَ حَدِيثِ الإِيمَانِ لِئَلاَّ يَتَصَلَّفَ فَيَسْقُطَ فِي دَيْنُونَةِ إِبْلِيسَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.7",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 7,
+          "text": "وَيَجِبُ أَيْضًا أَنْ تَكُونَ لَهُ شَهَادَةٌ حَسَنَةٌ مِنَ الَّذِينَ هُمْ مِنْ خَارِجٍ، لِئَلاَّ يَسْقُطَ فِي تَعْيِيرٍ وَفَخِّ إِبْلِيسَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَيَجِبُ أَيْضًا أَنْ تَكُونَ لَهُ شَهَادَةٌ حَسَنَةٌ مِنَ الَّذِينَ هُمْ مِنْ خَارِجٍ، لِئَلاَّ يَسْقُطَ فِي تَعْيِيرٍ وَفَخِّ إِبْلِيسَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.8",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 8,
+          "text": "كَذَلِكَ يَجِبُ أَنْ يَكُونَ الشَّمَامِسَةُ ذَوِي وَقَارٍ، لَا ذَوِي لِسَانَيْنِ، غَيْرَ مُولَعِينَ بِالْخَمْرِ الْكَثِيرِ، وَلَا طَامِعِينَ بِالرِّبْحِ الْقَبِيحِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَذَلِكَ يَجِبُ أَنْ يَكُونَ الشَّمَامِسَةُ ذَوِي وَقَارٍ، لَا ذَوِي لِسَانَيْنِ، غَيْرَ مُولَعِينَ بِالْخَمْرِ الْكَثِيرِ، وَلَا طَامِعِينَ بِالرِّبْحِ الْقَبِيحِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الشمامسة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.9",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 9,
+          "text": "وَلَهُمْ سِرُّ الإِيمَانِ بِضَمِيرٍ طَاهِرٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلَهُمْ سِرُّ الإِيمَانِ بِضَمِيرٍ طَاهِرٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.10",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 10,
+          "text": "وَإِنَّمَا هَؤُلاَءِ أَيْضًا لِيُخْتَبَرُوا أَوَّلًا، ثُمَّ يَتَشَمَّسُوا إِنْ كَانُوا بِلاَ لَوْمٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِنَّمَا هَؤُلاَءِ أَيْضًا لِيُخْتَبَرُوا أَوَّلًا، ثُمَّ يَتَشَمَّسُوا إِنْ كَانُوا بِلاَ لَوْمٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.11",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 11,
+          "text": "كَذَلِكَ يَجِبُ أَنْ تَكُونَ النِّسَاءُ ذَوَاتِ وَقَارٍ، غَيْرَ ثَالِبَاتٍ، صَاحِيَاتٍ، أَمِينَاتٍ فِي كُلِّ شَيْءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَذَلِكَ يَجِبُ أَنْ تَكُونَ النِّسَاءُ ذَوَاتِ وَقَارٍ، غَيْرَ ثَالِبَاتٍ، صَاحِيَاتٍ، أَمِينَاتٍ فِي كُلِّ شَيْءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.12",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 12,
+          "text": "لِيَكُنِ الشَّمَامِسَةُ كُلٌ بَعْلَ امْرَأَةٍ وَاحِدَةٍ، مُدَبِّرِينَ أَوْلاَدَهُمْ وَبُيُوتَهُمْ حَسَنًا،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِيَكُنِ الشَّمَامِسَةُ كُلٌ بَعْلَ امْرَأَةٍ وَاحِدَةٍ، مُدَبِّرِينَ أَوْلاَدَهُمْ وَبُيُوتَهُمْ حَسَنًا،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.13",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 13,
+          "text": "لأَنَّ الَّذِينَ تَشَمَّسُوا حَسَنًا، يَقْتَنُونَ لأَنْفُسِهِمْ دَرَجَةً حَسَنَةً وَثِقَةً كَثِيرَةً فِي الإِيمَانِ الَّذِي بِالْمَسِيحِ يَسُوعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الَّذِينَ تَشَمَّسُوا حَسَنًا، يَقْتَنُونَ لأَنْفُسِهِمْ دَرَجَةً حَسَنَةً وَثِقَةً كَثِيرَةً فِي الإِيمَانِ الَّذِي بِالْمَسِيحِ يَسُوعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.14",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 14,
+          "text": "هَذَا أَكْتُبُهُ إِلَيْكَ رَاجِيًا أَنْ آتِيَ إِلَيْكَ عَنْ قَرِيبٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَذَا أَكْتُبُهُ إِلَيْكَ رَاجِيًا أَنْ آتِيَ إِلَيْكَ عَنْ قَرِيبٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.15",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 15,
+          "text": "وَلكِنْ إِنْ كُنْتُ أُبْطِئُ، فَلِكَيْ تَعْلَمَ كَيْفَ يَجِبُ أَنْ تَتَصَرَّفَ فِي بَيْتِ اللهِ، الَّذِي هُوَ كَنِيسَةُ اللهِ الْحَيِّ، عَمُودُ الْحَقِّ وَقَاعِدَتُهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ إِنْ كُنْتُ أُبْطِئُ، فَلِكَيْ تَعْلَمَ كَيْفَ يَجِبُ أَنْ تَتَصَرَّفَ فِي بَيْتِ اللهِ، الَّذِي هُوَ كَنِيسَةُ اللهِ الْحَيِّ، عَمُودُ الْحَقِّ وَقَاعِدَتُهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.3.16",
+          "book": "1TI",
+          "chapter": 3,
+          "verse": 16,
+          "text": "وَبِالإِجْمَاعِ عَظِيمٌ هُوَ سِرُّ التَّقْوَى: اللهُ ظَهَرَ فِي الْجَسَدِ، تَبَرَّرَ فِي الرُّوحِ، تَرَاءَى لِمَلاَئِكَةٍ، كُرِزَ بِهِ بَيْنَ الأُمَمِ، أُومِنَ بِهِ فِي الْعَالَمِ، رُفِعَ فِي الْمَجْدِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَبِالإِجْمَاعِ عَظِيمٌ هُوَ سِرُّ التَّقْوَى: اللهُ ظَهَرَ فِي الْجَسَدِ، تَبَرَّرَ فِي الرُّوحِ، تَرَاءَى لِمَلاَئِكَةٍ، كُرِزَ بِهِ بَيْنَ الأُمَمِ، أُومِنَ بِهِ فِي الْعَالَمِ، رُفِعَ فِي الْمَجْدِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "الأساقفة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "الشمامسة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:08.789Z"
+    },
+    "4": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "1TI",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "1TI.4.1",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 1,
+          "text": "وَلكِنَّ الرُّوحَ يَقُولُ صَرِيحًا: إِنَّهُ فِي الأَزْمِنَةِ الأَخِيرَةِ يَرْتَدُّ قَوْمٌ عَنِ الإِيمَانِ، تَابِعِينَ أَرْوَاحًا مُضِلَّةً وَتَعَالِيمَ شَيَاطِينَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنَّ الرُّوحَ يَقُولُ صَرِيحًا: إِنَّهُ فِي الأَزْمِنَةِ الأَخِيرَةِ يَرْتَدُّ قَوْمٌ عَنِ الإِيمَانِ، تَابِعِينَ أَرْوَاحًا مُضِلَّةً وَتَعَالِيمَ شَيَاطِينَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "توجيهات لتيموثاوس",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.2",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 2,
+          "text": "فِي رِيَاءِ أَقْوَالٍ كَاذِبَةٍ، مَوْسُومَةً ضَمَائِرُهُمْ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فِي رِيَاءِ أَقْوَالٍ كَاذِبَةٍ، مَوْسُومَةً ضَمَائِرُهُمْ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.3",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 3,
+          "text": "مَانِعِينَ عَنِ الزِّوَاجِ، وَآمِرِينَ أَنْ يُمْتَنَعَ عَنْ أَطْعِمَةٍ قَدْ خَلَقَهَا اللهُ لِتُتَنَاوَلَ بِالشُّكْرِ مِنَ الْمُؤْمِنِينَ وَعَارِفِي الْحَقِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَانِعِينَ عَنِ الزِّوَاجِ، وَآمِرِينَ أَنْ يُمْتَنَعَ عَنْ أَطْعِمَةٍ قَدْ خَلَقَهَا اللهُ لِتُتَنَاوَلَ بِالشُّكْرِ مِنَ الْمُؤْمِنِينَ وَعَارِفِي الْحَقِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.4",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 4,
+          "text": "لأَنَّ كُلَّ خَلِيقَةِ اللهِ جَيِّدَةٌ، وَلَا يُرْفَضُ شَيْءٌ إِذَا أُخِذَ مَعَ الشُّكْرِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ كُلَّ خَلِيقَةِ اللهِ جَيِّدَةٌ، وَلَا يُرْفَضُ شَيْءٌ إِذَا أُخِذَ مَعَ الشُّكْرِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.5",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 5,
+          "text": "لأَنَّهُ يُقَدَّسُ بِكَلِمَةِ اللهِ وَالصَّلاَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ يُقَدَّسُ بِكَلِمَةِ اللهِ وَالصَّلاَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.6",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 6,
+          "text": "إِنْ فَكَّرْتَ الإِخْوَةَ بِهَذَا، تَكُونُ خَادِمًا صَالِحًا لِيَسُوعَ الْمَسِيحِ، مُتَرَبِّيًا بِكَلَامِ الإِيمَانِ وَالتَّعْلِيمِ الْحَسَنِ الَّذِي تَتَبَّعْتَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ فَكَّرْتَ الإِخْوَةَ بِهَذَا، تَكُونُ خَادِمًا صَالِحًا لِيَسُوعَ الْمَسِيحِ، مُتَرَبِّيًا بِكَلَامِ الإِيمَانِ وَالتَّعْلِيمِ الْحَسَنِ الَّذِي تَتَبَّعْتَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.7",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 7,
+          "text": "وَأَمَّا الْخُرَافَاتُ الدَّنِسَةُ الْعَجَائِزِيَّةُ فَارْفُضْهَا، وَرَوِّضْ نَفْسَكَ لِلتَّقْوَى.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الْخُرَافَاتُ الدَّنِسَةُ الْعَجَائِزِيَّةُ فَارْفُضْهَا، وَرَوِّضْ نَفْسَكَ لِلتَّقْوَى.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.8",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 8,
+          "text": "لأَنَّ الرِّيَاضَةَ الْجَسَدِيَّةَ نَافِعَةٌ لِقَلِيلٍ، وَلكِنَّ التَّقْوَى نَافِعَةٌ لِكُلِّ شَيْءٍ، إِذْ لَهَا مَوْعِدُ الْحَيَاةِ الْحَاضِرَةِ وَالْعَتِيدَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الرِّيَاضَةَ الْجَسَدِيَّةَ نَافِعَةٌ لِقَلِيلٍ، وَلكِنَّ التَّقْوَى نَافِعَةٌ لِكُلِّ شَيْءٍ، إِذْ لَهَا مَوْعِدُ الْحَيَاةِ الْحَاضِرَةِ وَالْعَتِيدَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.9",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 9,
+          "text": "صَادِقَةٌ هِيَ الْكَلِمَةُ وَمُسْتَحِقَّةٌ كُلَّ قُبُولٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "صَادِقَةٌ هِيَ الْكَلِمَةُ وَمُسْتَحِقَّةٌ كُلَّ قُبُولٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.10",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 10,
+          "text": "لأَنَّنَا لِهَذَا نَتْعَبُ وَنُعَيَّرُ، لأَنَّنَا قَدْ أَلْقَيْنَا رَجَاءَنَا عَلَى اللهِ الْحَيِّ، الَّذِي هُوَ مُخَلِّصُ جَمِيعِ النَّاسِ، وَلَا سِيَّمَا الْمُؤْمِنِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّنَا لِهَذَا نَتْعَبُ وَنُعَيَّرُ، لأَنَّنَا قَدْ أَلْقَيْنَا رَجَاءَنَا عَلَى اللهِ الْحَيِّ، الَّذِي هُوَ مُخَلِّصُ جَمِيعِ النَّاسِ، وَلَا سِيَّمَا الْمُؤْمِنِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.11",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 11,
+          "text": "أَوْصِ بِهَذَا وَعَلِّمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَوْصِ بِهَذَا وَعَلِّمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.12",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 12,
+          "text": "لَا يَسْتَهِنْ أَحَدٌ بِحَدَاثَتِكَ، بَلْ كُنْ قُدْوَةً لِلْمُؤْمِنِينَ فِي الْكَلاَمِ، فِي التَّصَرُّفِ، فِي الْمَحَبَّةِ، فِي الرُّوحِ، فِي الإِيمَانِ، فِي الطَّهَارَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا يَسْتَهِنْ أَحَدٌ بِحَدَاثَتِكَ، بَلْ كُنْ قُدْوَةً لِلْمُؤْمِنِينَ فِي الْكَلاَمِ، فِي التَّصَرُّفِ، فِي الْمَحَبَّةِ، فِي الرُّوحِ، فِي الإِيمَانِ، فِي الطَّهَارَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.13",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 13,
+          "text": "إِلَى أَنْ أَجِيءَ اعْكُفْ عَلَى الْقِرَاءَةِ وَالْوَعْظِ وَالتَّعْلِيمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِلَى أَنْ أَجِيءَ اعْكُفْ عَلَى الْقِرَاءَةِ وَالْوَعْظِ وَالتَّعْلِيمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.14",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 14,
+          "text": "لَا تُهْمِلِ الْمَوْهِبَةَ الَّتِي فِيكَ، الْمُعْطَاةَ لَكَ بِالنُّبُوَّةِ مَعَ وَضْعِ أَيْدِي الْمَشْيَخَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تُهْمِلِ الْمَوْهِبَةَ الَّتِي فِيكَ، الْمُعْطَاةَ لَكَ بِالنُّبُوَّةِ مَعَ وَضْعِ أَيْدِي الْمَشْيَخَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.15",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 15,
+          "text": "اهْتَمَّ بِهَذَا. كُنْ فِيهِ، لِكَيْ يَكُونَ تَقَدُّمُكَ ظَاهِرًا فِي كُلِّ شَيْءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اهْتَمَّ بِهَذَا. كُنْ فِيهِ، لِكَيْ يَكُونَ تَقَدُّمُكَ ظَاهِرًا فِي كُلِّ شَيْءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.4.16",
+          "book": "1TI",
+          "chapter": 4,
+          "verse": 16,
+          "text": "لاَحِظْ نَفْسَكَ وَالتَّعْلِيمَ وَدَاوِمْ عَلَى ذَلِكَ، لأَنَّكَ إِذَا فَعَلْتَ هَذَا، تُخَلِّصُ نَفْسَكَ وَالَّذِينَ يَسْمَعُونَكَ أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لاَحِظْ نَفْسَكَ وَالتَّعْلِيمَ وَدَاوِمْ عَلَى ذَلِكَ، لأَنَّكَ إِذَا فَعَلْتَ هَذَا، تُخَلِّصُ نَفْسَكَ وَالَّذِينَ يَسْمَعُونَكَ أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "توجيهات لتيموثاوس",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:10.678Z"
+    },
+    "5": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "1TI",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "1TI.5.1",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 1,
+          "text": "لَا تَزْجُرْ شَيْخًا بَلْ عِظْهُ كَأَبٍ، وَالأَحْدَاثَ كَإِخْوَةٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَزْجُرْ شَيْخًا بَلْ عِظْهُ كَأَبٍ، وَالأَحْدَاثَ كَإِخْوَةٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "وصايا بشأن الأرامل والشيوخ والعبيد",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.2",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 2,
+          "text": "وَالْعَجَائِزَ كَأُمَّهَاتٍ، وَالْحَدَثَاتِ كَأَخَوَاتٍ، بِكُلِّ طَهَارَةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَالْعَجَائِزَ كَأُمَّهَاتٍ، وَالْحَدَثَاتِ كَأَخَوَاتٍ، بِكُلِّ طَهَارَةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.3",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 3,
+          "text": "أَكْرِمِ الأَرَامِلَ اللَّوَاتِي هُنَّ بِالْحَقِيقَةِ أَرَامِلُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَكْرِمِ الأَرَامِلَ اللَّوَاتِي هُنَّ بِالْحَقِيقَةِ أَرَامِلُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.4",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 4,
+          "text": "وَلكِنْ إِنْ كَانَتْ أَرْمَلَةٌ لَهَا أَوْلاَدٌ أَوْ حَفَدَةٌ، فَلْيَتَعَلَّمُوا أَوَّلًا أَنْ يُوَقِّرُوا أَهْلَ بَيْتِهِمْ وَيُوفُوا وَالِدِيهِمِ الْمُكَافَأَةَ، لأَنَّ هَذَا صَالِحٌ وَمَقْبُولٌ أَمَامَ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ إِنْ كَانَتْ أَرْمَلَةٌ لَهَا أَوْلاَدٌ أَوْ حَفَدَةٌ، فَلْيَتَعَلَّمُوا أَوَّلًا أَنْ يُوَقِّرُوا أَهْلَ بَيْتِهِمْ وَيُوفُوا وَالِدِيهِمِ الْمُكَافَأَةَ، لأَنَّ هَذَا صَالِحٌ وَمَقْبُولٌ أَمَامَ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.5",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 5,
+          "text": "وَلكِنَّ الَّتِي هِيَ بِالْحَقِيقَةِ أَرْمَلَةٌ وَوَحِيدَةٌ، فَقَدْ أَلْقَتْ رَجَاءَهَا عَلَى اللهِ، وَهِيَ تُواظِبُ الطِّلِبَاتِ وَالصَّلَوَاتِ لَيْلًا وَنَهَارًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنَّ الَّتِي هِيَ بِالْحَقِيقَةِ أَرْمَلَةٌ وَوَحِيدَةٌ، فَقَدْ أَلْقَتْ رَجَاءَهَا عَلَى اللهِ، وَهِيَ تُواظِبُ الطِّلِبَاتِ وَالصَّلَوَاتِ لَيْلًا وَنَهَارًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.6",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 6,
+          "text": "وَأَمَّا الْمُتَنَعِّمَةُ فَقَدْ مَاتَتْ وَهِيَ حَيَّةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الْمُتَنَعِّمَةُ فَقَدْ مَاتَتْ وَهِيَ حَيَّةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.7",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 7,
+          "text": "فَأَوْصِ بِهَذَا لِكَيْ يَكُنَّ بِلاَ لَوْمٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَأَوْصِ بِهَذَا لِكَيْ يَكُنَّ بِلاَ لَوْمٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.8",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 8,
+          "text": "وَإِنْ كَانَ أَحَدٌ لَا يَعْتَنِي بِخَاصَّتِهِ، وَلَا سِيَّمَا أَهْلُ بَيْتِهِ، فَقَدْ أَنْكَرَ الإِيمَانَ، وَهُوَ شَرٌّ مِنْ غَيْرِ الْمُؤْمِنِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِنْ كَانَ أَحَدٌ لَا يَعْتَنِي بِخَاصَّتِهِ، وَلَا سِيَّمَا أَهْلُ بَيْتِهِ، فَقَدْ أَنْكَرَ الإِيمَانَ، وَهُوَ شَرٌّ مِنْ غَيْرِ الْمُؤْمِنِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.9",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 9,
+          "text": "لِتُكْتَتَبْ أَرْمَلَةٌ، إِنْ لَمْ يَكُنْ عُمْرُهَا أَقَلَّ مِنْ سِتِّينَ سَنَةً، امْرَأَةَ رَجُلٍ وَاحِدٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِتُكْتَتَبْ أَرْمَلَةٌ، إِنْ لَمْ يَكُنْ عُمْرُهَا أَقَلَّ مِنْ سِتِّينَ سَنَةً، امْرَأَةَ رَجُلٍ وَاحِدٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.10",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 10,
+          "text": "مَشْهُودًا لَهَا فِي أَعْمَالٍ صَالِحَةٍ، إِنْ تَكُنْ قَدْ رَبَّتِ الأَوْلاَدَ، أَضَافَتِ الْغُرَبَاءَ، غَسَّلَتْ أَرْجُلَ الْقِدِّيسِينَ، سَاعَدَتِ الْمُتَضَايِقِينَ، اتَّبَعَتْ كُلَّ عَمَلٍ صَالِحٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَشْهُودًا لَهَا فِي أَعْمَالٍ صَالِحَةٍ، إِنْ تَكُنْ قَدْ رَبَّتِ الأَوْلاَدَ، أَضَافَتِ الْغُرَبَاءَ، غَسَّلَتْ أَرْجُلَ الْقِدِّيسِينَ، سَاعَدَتِ الْمُتَضَايِقِينَ، اتَّبَعَتْ كُلَّ عَمَلٍ صَالِحٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.11",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 11,
+          "text": "أَمَّا الأَرَامِلُ الْحَدَثَاتُ فَارْفُضْهُنَّ، لأَنَّهُنَّ مَتَى بَطِرْنَ عَلَى الْمَسِيحِ، يُرِدْنَ أَنْ يَتَزَوَّجْنَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَمَّا الأَرَامِلُ الْحَدَثَاتُ فَارْفُضْهُنَّ، لأَنَّهُنَّ مَتَى بَطِرْنَ عَلَى الْمَسِيحِ، يُرِدْنَ أَنْ يَتَزَوَّجْنَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.12",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 12,
+          "text": "وَلَهُنَّ دَيْنُونَةٌ لأَنَّهُنَّ رَفَضْنَ الإِيمَانَ الأَوَّلَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلَهُنَّ دَيْنُونَةٌ لأَنَّهُنَّ رَفَضْنَ الإِيمَانَ الأَوَّلَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.13",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 13,
+          "text": "وَمَعَ ذَلِكَ أَيْضًا يَتَعَلَّمْنَ أَنْ يَكُنَّ بَطَّالاَتٍ، يَطُفْنَ فِي الْبُيُوتِ. وَلَسْنَ بَطَّالاَتٍ فَقَطْ بَلْ مِهْذَارَاتٌ أَيْضًا، وَفُضُولِيَّاتٌ، يَتَكَلَّمْنَ بِمَا لَا يَجِبُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَعَ ذَلِكَ أَيْضًا يَتَعَلَّمْنَ أَنْ يَكُنَّ بَطَّالاَتٍ، يَطُفْنَ فِي الْبُيُوتِ. وَلَسْنَ بَطَّالاَتٍ فَقَطْ بَلْ مِهْذَارَاتٌ أَيْضًا، وَفُضُولِيَّاتٌ، يَتَكَلَّمْنَ بِمَا لَا يَجِبُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.14",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 14,
+          "text": "فَأُرِيدُ أَنَّ الْحَدَثَاتِ يَتَزَوَّجْنَ وَيَلِدْنَ الأَوْلاَدَ وَيُدَبِّرْنَ الْبُيُوتَ، وَلَا يُعْطِينَ عِلَّةً لِلْمُقَاوِمِ مِنْ أَجْلِ الشَّتْمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَأُرِيدُ أَنَّ الْحَدَثَاتِ يَتَزَوَّجْنَ وَيَلِدْنَ الأَوْلاَدَ وَيُدَبِّرْنَ الْبُيُوتَ، وَلَا يُعْطِينَ عِلَّةً لِلْمُقَاوِمِ مِنْ أَجْلِ الشَّتْمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.15",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 15,
+          "text": "فَإِنَّ بَعْضَهُنَّ قَدِ انْحَرَفْنَ وَرَاءَ الشَّيْطَانِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّ بَعْضَهُنَّ قَدِ انْحَرَفْنَ وَرَاءَ الشَّيْطَانِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.16",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 16,
+          "text": "إِنْ كَانَ لِمُؤْمِنٍ أَوْ مُؤْمِنَةٍ أَرَامِلُ، فَلْيُسَاعِدْهُنَّ وَلَا يُثَقَّلْ عَلَى الْكَنِيسَةِ، لِكَيْ تُسَاعِدَ هِيَ اللَّوَاتِي هُنَّ بِالْحَقِيقَةِ أَرَامِلُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ كَانَ لِمُؤْمِنٍ أَوْ مُؤْمِنَةٍ أَرَامِلُ، فَلْيُسَاعِدْهُنَّ وَلَا يُثَقَّلْ عَلَى الْكَنِيسَةِ، لِكَيْ تُسَاعِدَ هِيَ اللَّوَاتِي هُنَّ بِالْحَقِيقَةِ أَرَامِلُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.17",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 17,
+          "text": "أَمَّا الشُّيُوخُ الْمُدَبِّرُونَ حَسَنًا فَلْيُحْسَبُوا أَهْلًا لِكَرَامَةٍ مُضَاعَفَةٍ، وَلَا سِيَّمَا الَّذِينَ يَتْعَبُونَ فِي الْكَلِمَةِ وَالتَّعْلِيمِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَمَّا الشُّيُوخُ الْمُدَبِّرُونَ حَسَنًا فَلْيُحْسَبُوا أَهْلًا لِكَرَامَةٍ مُضَاعَفَةٍ، وَلَا سِيَّمَا الَّذِينَ يَتْعَبُونَ فِي الْكَلِمَةِ وَالتَّعْلِيمِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.18",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 18,
+          "text": "لأَنَّ الْكِتَابَ يَقُولُ: «لاَ تَكُمَّ ثَوْرًا دَارِسًا»، وَ«الْفَاعِلُ مُسْتَحِقٌ أُجْرَتَهُ».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ الْكِتَابَ يَقُولُ: «لاَ تَكُمَّ ثَوْرًا دَارِسًا»، وَ«الْفَاعِلُ مُسْتَحِقٌ أُجْرَتَهُ».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.19",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 19,
+          "text": "لَا تَقْبَلْ شِكَايَةً عَلَى شَيْخٍ إِلاَّ عَلَى شَاهِدَيْنِ أَوْ ثَلاَثَةِ شُهُودٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَقْبَلْ شِكَايَةً عَلَى شَيْخٍ إِلاَّ عَلَى شَاهِدَيْنِ أَوْ ثَلاَثَةِ شُهُودٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.20",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 20,
+          "text": "اَلَّذِينَ يُخْطِئُونَ وَبِّخْهُمْ أَمَامَ الْجَمِيعِ، لِكَيْ يَكُونَ عِنْدَ الْبَاقِينَ خَوْفٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلَّذِينَ يُخْطِئُونَ وَبِّخْهُمْ أَمَامَ الْجَمِيعِ، لِكَيْ يَكُونَ عِنْدَ الْبَاقِينَ خَوْفٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.21",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 21,
+          "text": "أُنَاشِدُكَ أَمَامَ اللهِ وَالرَّبِّ يَسُوعَ الْمَسِيحِ وَالْمَلاَئِكَةِ الْمُخْتَارِينَ، أَنْ تَحْفَظَ هَذَا بِدُونِ غَرَضٍ، وَلَا تَعْمَلَ شَيْئًا بِمُحَابَاةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أُنَاشِدُكَ أَمَامَ اللهِ وَالرَّبِّ يَسُوعَ الْمَسِيحِ وَالْمَلاَئِكَةِ الْمُخْتَارِينَ، أَنْ تَحْفَظَ هَذَا بِدُونِ غَرَضٍ، وَلَا تَعْمَلَ شَيْئًا بِمُحَابَاةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.22",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 22,
+          "text": "لَا تَضَعْ يَدًا عَلَى أَحَدٍ بِالْعَجَلَةِ، وَلَا تَشْتَرِكْ فِي خَطَايَا الآخَرِينَ. اِحْفَظْ نَفْسَكَ طَاهِرًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَضَعْ يَدًا عَلَى أَحَدٍ بِالْعَجَلَةِ، وَلَا تَشْتَرِكْ فِي خَطَايَا الآخَرِينَ. اِحْفَظْ نَفْسَكَ طَاهِرًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.23",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 23,
+          "text": "لَا تَكُنْ فِي مَا بَعْدُ شَرَّابَ مَاءٍ، بَلِ اسْتَعْمِلْ خَمْرًا قَلِيلًا مِنْ أَجْلِ مَعِدَتِكَ وَأَسْقَامِكَ الْكَثِيرَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَكُنْ فِي مَا بَعْدُ شَرَّابَ مَاءٍ، بَلِ اسْتَعْمِلْ خَمْرًا قَلِيلًا مِنْ أَجْلِ مَعِدَتِكَ وَأَسْقَامِكَ الْكَثِيرَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.24",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 24,
+          "text": "خَطَايَا بَعْضِ النَّاسِ وَاضِحَةٌ تَتَقَدَّمُ إِلَى الْقَضَاءِ، وَأَمَّا الْبَعْضُ فَتَتْبَعُهُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "خَطَايَا بَعْضِ النَّاسِ وَاضِحَةٌ تَتَقَدَّمُ إِلَى الْقَضَاءِ، وَأَمَّا الْبَعْضُ فَتَتْبَعُهُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.5.25",
+          "book": "1TI",
+          "chapter": 5,
+          "verse": 25,
+          "text": "كَذَلِكَ أَيْضًا الأَعْمَالُ الصَّالِحَةُ وَاضِحَةٌ، وَالَّتِي هِيَ خِلاَفُ ذَلِكَ لَا يُمْكِنُ أَنْ تُخْفَى.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَذَلِكَ أَيْضًا الأَعْمَالُ الصَّالِحَةُ وَاضِحَةٌ، وَالَّتِي هِيَ خِلاَفُ ذَلِكَ لَا يُمْكِنُ أَنْ تُخْفَى.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "وصايا بشأن الأرامل والشيوخ والعبيد",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:11.479Z"
+    },
+    "6": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "1TI",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "1TI.6.1",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 1,
+          "text": "جَمِيعُ الَّذِينَ هُمْ عَبِيدٌ تَحْتَ نِيرٍ فَلْيَحْسِبُوا سَادَتَهُمْ مُسْتَحِقِّينَ كُلَّ إِكْرَامٍ، لِئَلاَّ يُفْتَرَى عَلَى اسْمِ اللهِ وَتَعْلِيمِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "جَمِيعُ الَّذِينَ هُمْ عَبِيدٌ تَحْتَ نِيرٍ فَلْيَحْسِبُوا سَادَتَهُمْ مُسْتَحِقِّينَ كُلَّ إِكْرَامٍ، لِئَلاَّ يُفْتَرَى عَلَى اسْمِ اللهِ وَتَعْلِيمِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: وصايا بشأن الأرامل والشيوخ والعبيد",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.2",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 2,
+          "text": "وَالَّذِينَ لَهُمْ سَادَةٌ مُؤْمِنُونَ، لَا يَسْتَهِينُوا بِهِمْ لأَنَّهُمْ إِخْوَةٌ، بَلْ لِيَخْدِمُوهُمْ أَكْثَرَ، لأَنَّ الَّذِينَ يَتَشَارَكُونَ فِي الْفَائِدَةِ، هُمْ مُؤْمِنُونَ وَمَحْبُوبُونَ. عَلِّمْ وَعِظْ بِهَذَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَالَّذِينَ لَهُمْ سَادَةٌ مُؤْمِنُونَ، لَا يَسْتَهِينُوا بِهِمْ لأَنَّهُمْ إِخْوَةٌ، بَلْ لِيَخْدِمُوهُمْ أَكْثَرَ، لأَنَّ الَّذِينَ يَتَشَارَكُونَ فِي الْفَائِدَةِ، هُمْ مُؤْمِنُونَ وَمَحْبُوبُونَ. عَلِّمْ وَعِظْ بِهَذَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.3",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 3,
+          "text": "إِنْ كَانَ أَحَدٌ يُعَلِّمُ تَعْلِيمًا آخَرَ، وَلَا يُوافِقُ كَلِمَاتِ رَبِّنَا يَسُوعَ الْمَسِيحِ الصَّحِيحَةَ، وَالتَّعْلِيمَ الَّذِي هُوَ حَسَبَ التَّقْوَى،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ كَانَ أَحَدٌ يُعَلِّمُ تَعْلِيمًا آخَرَ، وَلَا يُوافِقُ كَلِمَاتِ رَبِّنَا يَسُوعَ الْمَسِيحِ الصَّحِيحَةَ، وَالتَّعْلِيمَ الَّذِي هُوَ حَسَبَ التَّقْوَى،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "محبة المال",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.4",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 4,
+          "text": "فَقَدْ تَصَلَّفَ، وَهُوَ لَا يَفْهَمُ شَيْئًا، بَلْ هُوَ مُتَعَلِّلٌ بِمُبَاحَثَاتٍ وَمُمَاحَكَاتِ الْكَلاَمِ، الَّتِي مِنْهَا يَحْصُلُ الْحَسَدُ وَالْخِصَامُ وَالافْتِرَاءُ وَالظُّنُونُ الرَّدِيَّةُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَقَدْ تَصَلَّفَ، وَهُوَ لَا يَفْهَمُ شَيْئًا، بَلْ هُوَ مُتَعَلِّلٌ بِمُبَاحَثَاتٍ وَمُمَاحَكَاتِ الْكَلاَمِ، الَّتِي مِنْهَا يَحْصُلُ الْحَسَدُ وَالْخِصَامُ وَالافْتِرَاءُ وَالظُّنُونُ الرَّدِيَّةُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.5",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 5,
+          "text": "وَمُنَازَعَاتُ أُنَاسٍ فَاسِدِي الذِّهْنِ وَعَادِمِي الْحَقِّ، يَظُنُّونَ أَنَّ التَّقْوَى تِجَارَةٌ. تَجَنَّبْ مِثْلَ هَؤُلاَءِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمُنَازَعَاتُ أُنَاسٍ فَاسِدِي الذِّهْنِ وَعَادِمِي الْحَقِّ، يَظُنُّونَ أَنَّ التَّقْوَى تِجَارَةٌ. تَجَنَّبْ مِثْلَ هَؤُلاَءِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.6",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 6,
+          "text": "وَأَمَّا التَّقْوَى مَعَ الْقَنَاعَةِ فَهِيَ تِجَارَةٌ عَظِيمَةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا التَّقْوَى مَعَ الْقَنَاعَةِ فَهِيَ تِجَارَةٌ عَظِيمَةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.7",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 7,
+          "text": "لأَنَّنَا لَمْ نَدْخُلِ الْعَالَمَ بِشَيْءٍ، وَوَاضِحٌ أَنَّنَا لَا نَقْدِرُ أَنْ نَخْرُجَ مِنْهُ بِشَيْءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّنَا لَمْ نَدْخُلِ الْعَالَمَ بِشَيْءٍ، وَوَاضِحٌ أَنَّنَا لَا نَقْدِرُ أَنْ نَخْرُجَ مِنْهُ بِشَيْءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.8",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 8,
+          "text": "فَإِنْ كَانَ لَنَا قُوتٌ وَكِسْوَةٌ، فَلْنَكْتَفِ بِهِمَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنْ كَانَ لَنَا قُوتٌ وَكِسْوَةٌ، فَلْنَكْتَفِ بِهِمَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.9",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 9,
+          "text": "وَأَمَّا الَّذِينَ يُرِيدُونَ أَنْ يَكُونُوا أَغْنِيَاءَ، فَيَسْقُطُونَ فِي تَجْرِبَةٍ وَفَخٍّ وَشَهَوَاتٍ كَثِيرَةٍ غَبِيَّةٍ وَمُضِرَّةٍ، تُغَرِّقُ النَّاسَ فِي الْعَطَبِ وَالْهَلاَكِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الَّذِينَ يُرِيدُونَ أَنْ يَكُونُوا أَغْنِيَاءَ، فَيَسْقُطُونَ فِي تَجْرِبَةٍ وَفَخٍّ وَشَهَوَاتٍ كَثِيرَةٍ غَبِيَّةٍ وَمُضِرَّةٍ، تُغَرِّقُ النَّاسَ فِي الْعَطَبِ وَالْهَلاَكِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.10",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 10,
+          "text": "لأَنَّ مَحَبَّةَ الْمَالِ أَصْلٌ لِكُلِّ الشُّرُورِ، الَّذِي إِذِ ابْتَغَاهُ قَوْمٌ ضَلُّوا عَنِ الإِيمَانِ، وَطَعَنُوا أَنْفُسَهُمْ بِأَوْجَاعٍ كَثِيرَةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ مَحَبَّةَ الْمَالِ أَصْلٌ لِكُلِّ الشُّرُورِ، الَّذِي إِذِ ابْتَغَاهُ قَوْمٌ ضَلُّوا عَنِ الإِيمَانِ، وَطَعَنُوا أَنْفُسَهُمْ بِأَوْجَاعٍ كَثِيرَةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.11",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 11,
+          "text": "وَأَمَّا أَنْتَ يَا إِنْسَانَ اللهِ فَاهْرُبْ مِنْ هَذَا، وَاتْبَعِ الْبِرَّ وَالتَّقْوَى وَالإِيمَانَ وَالْمَحَبَّةَ وَالصَّبْرَ وَالْوَدَاعَةَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا أَنْتَ يَا إِنْسَانَ اللهِ فَاهْرُبْ مِنْ هَذَا، وَاتْبَعِ الْبِرَّ وَالتَّقْوَى وَالإِيمَانَ وَالْمَحَبَّةَ وَالصَّبْرَ وَالْوَدَاعَةَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الجهاد الحسن",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.12",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 12,
+          "text": "جَاهِدْ جِهَادَ الإِيمَانِ الْحَسَنَ، وَأَمْسِكْ بِالْحَيَاةِ الأَبَدِيَّةِ الَّتِي إِلَيْهَا دُعِيتَ أَيْضًا، وَاعْتَرَفْتَ الاعْتِرَافَ الْحَسَنَ أَمَامَ شُهُودٍ كَثِيرِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "جَاهِدْ جِهَادَ الإِيمَانِ الْحَسَنَ، وَأَمْسِكْ بِالْحَيَاةِ الأَبَدِيَّةِ الَّتِي إِلَيْهَا دُعِيتَ أَيْضًا، وَاعْتَرَفْتَ الاعْتِرَافَ الْحَسَنَ أَمَامَ شُهُودٍ كَثِيرِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.13",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 13,
+          "text": "أُوصِيكَ أَمَامَ اللهِ الَّذِي يُحْيِي الْكُلَّ، وَالْمَسِيحِ يَسُوعَ الَّذِي شَهِدَ لَدَى بِيلاَطُسَ الْبُنْطِيِّ بِالاعْتِرَافِ الْحَسَنِ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أُوصِيكَ أَمَامَ اللهِ الَّذِي يُحْيِي الْكُلَّ، وَالْمَسِيحِ يَسُوعَ الَّذِي شَهِدَ لَدَى بِيلاَطُسَ الْبُنْطِيِّ بِالاعْتِرَافِ الْحَسَنِ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.14",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 14,
+          "text": "أَنْ تَحْفَظَ الْوَصِيَّةَ بِلاَ دَنَسٍ وَلَا لَوْمٍ إِلَى ظُهُورِ رَبِّنَا يَسُوعَ الْمَسِيحِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنْ تَحْفَظَ الْوَصِيَّةَ بِلاَ دَنَسٍ وَلَا لَوْمٍ إِلَى ظُهُورِ رَبِّنَا يَسُوعَ الْمَسِيحِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.15",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 15,
+          "text": "الَّذِي سَيُبَيِّنُهُ فِي أَوْقَاتِهِ الْمُبَارَكُ الْعَزِيزُ الْوَحِيدُ: مَلِكُ الْمُلُوكِ وَرَبُّ الأَرْبَابِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي سَيُبَيِّنُهُ فِي أَوْقَاتِهِ الْمُبَارَكُ الْعَزِيزُ الْوَحِيدُ: مَلِكُ الْمُلُوكِ وَرَبُّ الأَرْبَابِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.16",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 16,
+          "text": "الَّذِي وَحْدَهُ لَهُ عَدَمُ الْمَوْتِ، سَاكِنًا فِي نُورٍ لَا يُدْنَى مِنْهُ، الَّذِي لَمْ يَرَهُ أَحَدٌ مِنَ النَّاسِ وَلَا يَقْدِرُ أَنْ يَرَاهُ، الَّذِي لَهُ الْكَرَامَةُ وَالْقُدْرَةُ الأَبَدِيَّةُ. آمِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي وَحْدَهُ لَهُ عَدَمُ الْمَوْتِ، سَاكِنًا فِي نُورٍ لَا يُدْنَى مِنْهُ، الَّذِي لَمْ يَرَهُ أَحَدٌ مِنَ النَّاسِ وَلَا يَقْدِرُ أَنْ يَرَاهُ، الَّذِي لَهُ الْكَرَامَةُ وَالْقُدْرَةُ الأَبَدِيَّةُ. آمِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.17",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 17,
+          "text": "أَوْصِ الأَغْنِيَاءَ فِي الدَّهْرِ الْحَاضِرِ أَنْ لَا يَسْتَكْبِرُوا، وَلَا يُلْقُوا رَجَاءَهُمْ عَلَى غَيْرِ يَقِينِيَّةِ الْغِنَى، بَلْ عَلَى اللهِ الْحَيِّ الَّذِي يَمْنَحُنَا كُلَّ شَيْءٍ بِغِنًى لِلتَّمَتُّعِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَوْصِ الأَغْنِيَاءَ فِي الدَّهْرِ الْحَاضِرِ أَنْ لَا يَسْتَكْبِرُوا، وَلَا يُلْقُوا رَجَاءَهُمْ عَلَى غَيْرِ يَقِينِيَّةِ الْغِنَى، بَلْ عَلَى اللهِ الْحَيِّ الَّذِي يَمْنَحُنَا كُلَّ شَيْءٍ بِغِنًى لِلتَّمَتُّعِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.18",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 18,
+          "text": "وَأَنْ يَصْنَعُوا صَلاَحًا، وَأَنْ يَكُونُوا أَغْنِيَاءَ فِي أَعْمَالٍ صَالِحَةٍ، وَأَنْ يَكُونُوا أَسْخِيَاءَ فِي الْعَطَاءِ، كُرَمَاءَ فِي التَّوْزِيعِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَنْ يَصْنَعُوا صَلاَحًا، وَأَنْ يَكُونُوا أَغْنِيَاءَ فِي أَعْمَالٍ صَالِحَةٍ، وَأَنْ يَكُونُوا أَسْخِيَاءَ فِي الْعَطَاءِ، كُرَمَاءَ فِي التَّوْزِيعِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.19",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 19,
+          "text": "مُدَّخِرِينَ لأَنْفُسِهِمْ أَسَاسًا حَسَنًا لِلْمُسْتَقْبِلِ، لِكَيْ يُمْسِكُوا بِالْحَيَاةِ الأَبَدِيَّةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مُدَّخِرِينَ لأَنْفُسِهِمْ أَسَاسًا حَسَنًا لِلْمُسْتَقْبِلِ، لِكَيْ يُمْسِكُوا بِالْحَيَاةِ الأَبَدِيَّةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.20",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 20,
+          "text": "يَا تِيمُوثَاوُسُ، احْفَظِ الْوَدِيعَةَ، مُعْرِضًا عَنِ الْكَلَامِ الْبَاطِلِ الدَّنِسِ، وَمُخَالَفَاتِ الْعِلْمِ الْكَاذِبِ الاسْمِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يَا تِيمُوثَاوُسُ، احْفَظِ الْوَدِيعَةَ، مُعْرِضًا عَنِ الْكَلَامِ الْبَاطِلِ الدَّنِسِ، وَمُخَالَفَاتِ الْعِلْمِ الْكَاذِبِ الاسْمِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.21",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 21,
+          "text": "الَّذِي إِذْ تَظَاهَرَ بِهِ قَوْمٌ زَاغُوا مِنْ جِهَةِ الإِيمَانِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي إِذْ تَظَاهَرَ بِهِ قَوْمٌ زَاغُوا مِنْ جِهَةِ الإِيمَانِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "1TI.6.22",
+          "book": "1TI",
+          "chapter": 6,
+          "verse": 22,
+          "text": "اَلنِّعْمَةُ مَعَكَ. آمِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلنِّعْمَةُ مَعَكَ. آمِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: وصايا بشأن الأرامل والشيوخ والعبيد",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "محبة المال",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "الجهاد الحسن",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:50:12.347Z"
+    }
+  }
+}

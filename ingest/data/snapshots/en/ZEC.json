@@ -1,0 +1,6100 @@
+{
+  "usfm": "ZEC",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "ZEC.1.1",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 1,
+          "text": "In the eighth month of the second year of Darius, the word of the Lord came to Zechariah the son of Berechiah, the son of Iddo the prophet, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the eighth month of the second year of Darius, the word of the Lord came to Zechariah the son of Berechiah, the son of Iddo the prophet, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Call to Repentance(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.2",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 2,
+          "text": "“The Lord has been very angry with your fathers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The Lord has been very angry with your fathers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.3",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Therefore say to them, ‘Thus says the Lord of hosts: “Return to Me,” says the Lord of hosts, “and I will return to you,” says the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore say to them, ‘Thus says the Lord of hosts: “Return to Me,” says the Lord of hosts, “and I will return to you,” says the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.4",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 4,
+          "text": "“Do not be like your fathers, to whom the former prophets preached, saying, ‘Thus says the Lord of hosts: “Turn now from your evil ways and your evil deeds.” ’ But they did not hear nor heed Me,” says the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Do not be like your fathers, to whom the former prophets preached, saying, ‘Thus says the Lord of hosts: “Turn now from your evil ways and your evil deeds.” ’ But they did not hear nor heed Me,” says the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.5",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 5,
+          "text": "“Your fathers, where are they?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Your fathers, where ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " they?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.6",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Yet surely My words and My statutes,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet surely My words and My statutes,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.7",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 7,
+          "text": "On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius, the word of the Lord came to Zechariah the son of Berechiah, the son of Iddo the prophet:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius, the word of the Lord came to Zechariah the son of Berechiah, the son of Iddo the prophet:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Horses",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.8",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 8,
+          "text": "I saw by night, and behold, a man riding on a red horse, and it stood among the myrtle trees in the hollow; and behind him were horses: red, sorrel, and white.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I saw by night, and behold, a man riding on a red horse, and it stood among the myrtle trees in the hollow; and behind him ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " horses: red, sorrel, and white.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.9",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Then I said, “My lord, what are these?” So the angel who talked with me said to me, “I will show you what they are.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I said, “My lord, what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " these?” So the angel who talked with me said to me, “I will show you what they ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are.",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": "”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.10",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 10,
+          "text": "And the man who stood among the myrtle trees answered and said, “These are the ones whom the Lord has sent to walk to and fro throughout the earth.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the man who stood among the myrtle trees answered and said, “These ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are the ones",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " whom the Lord has sent to walk to and fro throughout the earth.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.11",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 11,
+          "text": "So they answered the Angel of the Lord, who stood among the myrtle trees, and said, “We have walked to and fro throughout the earth, and behold, all the earth is resting quietly.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So they answered the Angel of the Lord, who stood among the myrtle trees, and said, “We have walked to and fro throughout the earth, and behold, all the earth is resting quietly.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. sitting and quiet"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.12",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Then the Angel of the Lord answered and said, “O Lord of hosts, how long will You not have mercy on Jerusalem and on the cities of Judah, against which You were angry these seventy years?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Angel of the Lord answered and said, “O Lord of hosts, how long will You not have mercy on Jerusalem and on the cities of Judah, against which You were angry these seventy years?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Lord Will Comfort Zion",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.13",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 13,
+          "text": "And the Lord answered the angel who talked to me, with good and comforting words.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord answered the angel who talked to me, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "with",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " comforting words.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.14",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 14,
+          "text": "So the angel who spoke with me said to me, “Proclaim, saying, ‘Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the angel who spoke with me said to me, “Proclaim, saying, ‘Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. Cry out"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.15",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 15,
+          "text": "I am exceedingly angry with the nations at ease;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I am exceedingly angry with the nations at ease;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.16",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 16,
+          "text": "‘Therefore thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘Therefore thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.17",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 17,
+          "text": "“Again proclaim, saying, ‘Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Again proclaim, saying, ‘Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.18",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 18,
+          "text": "Then I raised my eyes and looked, and there were four horns.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I raised my eyes and looked, and there ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " four horns.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Horns",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.19",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 19,
+          "text": "And I said to the angel who talked with me, “What are these?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I said to the angel who talked with me, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " these?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.20",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 20,
+          "text": "Then the Lord showed me four craftsmen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord showed me four craftsmen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.1.21",
+          "book": "ZEC",
+          "chapter": 1,
+          "verse": 21,
+          "text": "And I said, “What are these coming to do?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I said, “What are these coming to do?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Call to Repentance(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Vision of the Horses",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "The Lord Will Comfort Zion",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Vision of the Horns",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:24.716Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "ZEC.2.1",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Then I raised my eyes and looked, and behold, a man with a measuring line in his hand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I raised my eyes and looked, and behold, a man with a measuring line in his hand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Measuring Line",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.2",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 2,
+          "text": "So I said, “Where are you going?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I said, “Where are you going?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.3",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 3,
+          "text": "And there was the angel who talked with me, going out; and another angel was coming out to meet him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And there ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the angel who talked with me, going out; and another angel was coming out to meet him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.4",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 4,
+          "text": "who said to him, “Run, speak to this young man, saying: ‘Jerusalem shall be inhabited as towns without walls, because of the multitude of men and livestock in it.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who said to him, “Run, speak to this young man, saying: ‘Jerusalem shall be inhabited ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " towns without walls, because of the multitude of men and livestock in it.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.5",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 5,
+          "text": "For I,’ says the Lord, ‘will be a wall of fire all around her, and I will be the glory in her midst.’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I,’ says the Lord, ‘will be a wall of fire all around her, and I will be the glory in her midst.’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.6",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 6,
+          "text": "“Up, up! Flee from the land of the north,” says the Lord; “for I have spread you abroad like the four winds of heaven,” says the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Up, up! Flee from the land of the north,” says the Lord; “for I have spread you abroad like the four winds of heaven,” says the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Future Joy of Zion and Many Nations",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.7",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 7,
+          "text": "“Up, Zion! Escape, you who dwell with the daughter of Babylon.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Up, Zion! Escape, you who dwell with the daughter of Babylon.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.8",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 8,
+          "text": "For thus says the Lord of hosts: “He sent Me after glory, to the nations which plunder you; for he who touches you touches the apple of His eye.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For thus says the Lord of hosts: “He sent Me after glory, to the nations which plunder you; for he who touches you touches the apple of His eye.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. pupil"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.9",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 9,
+          "text": "For surely I will shake My hand against them, and they shall become spoil for their servants. Then you will know that the Lord of hosts has sent Me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For surely I will shake My hand against them, and they shall become spoil for their servants. Then you will know that the Lord of hosts has sent Me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "booty or plunder"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.10",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 10,
+          "text": "“Sing and rejoice, O daughter of Zion! For behold, I am coming and I will dwell in your midst,” says the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Sing and rejoice, O daughter of Zion! For behold, I am coming and I will dwell in your midst,” says the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.11",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 11,
+          "text": "“Many nations shall be joined to the Lord in that day, and they shall become My people. And I will dwell in your midst. Then you will know that the Lord of hosts has sent Me to you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Many nations shall be joined to the Lord in that day, and they shall become My people. And I will dwell in your midst. Then you will know that the Lord of hosts has sent Me to you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.12",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 12,
+          "text": "And the Lord will take possession of Judah as His inheritance in the Holy Land, and will again choose Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord will take possession of Judah as His inheritance in the Holy Land, and will again choose Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.2.13",
+          "book": "ZEC",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Be silent, all flesh, before the Lord, for He is aroused from His holy habitation!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be silent, all flesh, before the Lord, for He is aroused from His holy habitation!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vision of the Measuring Line",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Future Joy of Zion and Many Nations",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:26.235Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "ZEC.3.1",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Then he showed me Joshua the high priest standing before the Angel of the Lord, and Satan standing at his right hand to oppose him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he showed me Joshua the high priest standing before the Angel of the Lord, and Satan standing at his right hand to oppose him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. the Adversary"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Vision of the High Priest",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.2",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 2,
+          "text": "And the Lord said to Satan, “The Lord rebuke you, Satan! The Lord who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord said to Satan, “The Lord rebuke you, Satan! The Lord who has chosen Jerusalem rebuke you! ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " this not a brand plucked from the fire?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.3",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Now Joshua was clothed with filthy garments, and was standing before the Angel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Joshua was clothed with filthy garments, and was standing before the Angel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.4",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Then He answered and spoke to those who stood before Him, saying, “Take away the filthy garments from him.” And to him He said, “See, I have removed your iniquity from you, and I will clothe you with rich robes.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then He answered and spoke to those who stood before Him, saying, “Take away the filthy garments from him.” And to him He said, “See, I have removed your iniquity from you, and I will clothe you with rich robes.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.5",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 5,
+          "text": "And I said, “Let them put a clean turban on his head.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I said, “Let them put a clean turban on his head.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.6",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 6,
+          "text": "Then the Angel of the Lord admonished Joshua, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Angel of the Lord admonished Joshua, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Coming Branch",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.7",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 7,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.8",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 8,
+          "text": "‘Hear, O Joshua, the high priest,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘Hear, O Joshua, the high priest,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.9",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 9,
+          "text": "For behold, the stone",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For behold, the stone",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.3.10",
+          "book": "ZEC",
+          "chapter": 3,
+          "verse": 10,
+          "text": "In that day,’ says the Lord of hosts,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day,’ says the Lord of hosts,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vision of the High Priest",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "The Coming Branch",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:27.727Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "ZEC.4.1",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now the angel who talked with me came back and wakened me, as a man who is wakened out of his sleep.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the angel who talked with me came back and wakened me, as a man who is wakened out of his sleep.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Lampstand and Olive Trees",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.2",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 2,
+          "text": "And he said to me, “What do you see?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he said to me, “What do you see?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.3",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Two olive trees are by it, one at the right of the bowl and the other at its left.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Two olive trees ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by it, one at the right of the bowl and the other at its left.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.4",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 4,
+          "text": "So I answered and spoke to the angel who talked with me, saying, “What are these, my lord?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I answered and spoke to the angel who talked with me, saying, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " these, my lord?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.5",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Then the angel who talked with me answered and said to me, “Do you not know what these are?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the angel who talked with me answered and said to me, “Do you not know what these are?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.6",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 6,
+          "text": "So he answered and said to me:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So he answered and said to me:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.7",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 7,
+          "text": "‘Who are you, O great mountain?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you, O great mountain?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.8",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 8,
+          "text": "Moreover the word of the Lord came to me, saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Moreover the word of the Lord came to me, saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.9",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 9,
+          "text": "“The hands of Zerubbabel",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The hands of Zerubbabel",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.10",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 10,
+          "text": "For who has despised the day of small things?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For who has despised the day of small things?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.11",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Then I answered and said to him, “What are these two olive trees—at the right of the lampstand and at its left?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I answered and said to him, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " these two olive trees—at the right of the lampstand and at its left?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.12",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 12,
+          "text": "And I further answered and said to him, “What are these two olive branches that drip into the receptacles of the two gold pipes from which the golden oil drains?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I further answered and said to him, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are these",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " two olive branches that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "drip",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " into the receptacles of the two gold pipes from which the golden ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "oil",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " drains?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. into the hands of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.13",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 13,
+          "text": "Then he answered me and said, “Do you not know what these are?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he answered me and said, “Do you not know what these ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are?",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": "”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.4.14",
+          "book": "ZEC",
+          "chapter": 4,
+          "verse": 14,
+          "text": "So he said, “These are the two anointed ones, who stand beside the Lord of the whole earth.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So he said, “These ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the two anointed ones, who stand beside the Lord of the whole earth.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. sons of fresh oil"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vision of the Lampstand and Olive Trees",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:29.467Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "ZEC.5.1",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Then I turned and raised my eyes, and saw there a flying scroll.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I turned and raised my eyes, and saw there a flying scroll.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Flying Scroll",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.2",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 2,
+          "text": "And he said to me, “What do you see?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he said to me, “What do you see?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.3",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 3,
+          "text": "Then he said to me, “This is the curse that goes out over the face of the whole earth: ‘Every thief shall be expelled,’ according to this side of the scroll; and, ‘Every perjurer shall be expelled,’ according to that side of it.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he said to me, “This ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the curse that goes out over the face of the whole earth: ‘Every thief shall be expelled,’ according ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " this side of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the scroll;",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and, ‘Every perjurer shall be expelled,’ according ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that side of it.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.4",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 4,
+          "text": "“I will send out the curse,” says the Lord of hosts;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will send out ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the curse,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": "” says the Lord of hosts;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.5",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Then the angel who talked with me came out and said to me, “Lift your eyes now, and see what this is that goes forth.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the angel who talked with me came out and said to me, “Lift your eyes now, and see what this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that goes forth.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Woman in a Basket",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.6",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 6,
+          "text": "So I asked, “What is it?” And he said, “It is a basket that is going forth.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I asked, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " it?” And he said, “It ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a basket that is going forth.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Heb. ephah, a measuring container, and so elsewhere"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.7",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Here is a lead disc lifted up, and this is a woman sitting inside the basket”;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Here ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a lead disc lifted up, and this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a woman sitting inside the basket”;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.8",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 8,
+          "text": "then he said, “This is Wickedness!” And he thrust her down into the basket, and threw the lead cover over its mouth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "then he said, “This ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Wickedness!” And he thrust her down into the basket, and threw the lead cover over its mouth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. stone"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.9",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then I raised my eyes and looked, and there were two women, coming with the wind in their wings; for they had wings like the wings of a stork, and they lifted up the basket between earth and heaven.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I raised my eyes and looked, and there ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " two women, coming with the wind in their wings; for they had wings like the wings of a stork, and they lifted up the basket between earth and heaven.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.10",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 10,
+          "text": "So I said to the angel who talked with me, “Where are they carrying the basket?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I said to the angel who talked with me, “Where are they carrying the basket?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.5.11",
+          "book": "ZEC",
+          "chapter": 5,
+          "verse": 11,
+          "text": "And he said to me, “To build a house for it in the land of Shinar; when it is ready, the basket will be set there on its base.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he said to me, “To build a house for it in the land of Shinar; when it is ready, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the basket",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " will be set there on its base.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Babylon"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vision of the Flying Scroll",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Vision of the Woman in a Basket",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:31.043Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "ZEC.6.1",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 1,
+          "text": "Then I turned and raised my eyes and looked, and behold, four chariots were coming from between two mountains, and the mountains were mountains of bronze.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I turned and raised my eyes and looked, and behold, four chariots ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " coming from between two mountains, and the mountains ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " mountains of bronze.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Four Chariots",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.2",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 2,
+          "text": "With the first chariot were red horses, with the second chariot black horses,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "With the first chariot ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " red horses, with the second chariot black horses,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.3",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 3,
+          "text": "with the third chariot white horses, and with the fourth chariot dappled horses—strong steeds.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "with the third chariot white horses, and with the fourth chariot dappled horses—strong ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "steeds.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.4",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 4,
+          "text": "Then I answered and said to the angel who talked with me, “What are these, my lord?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I answered and said to the angel who talked with me, “What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " these, my lord?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.5",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 5,
+          "text": "And the angel answered and said to me, “These are four spirits of heaven, who go out from their station before the Lord of all the earth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the angel answered and said to me, “These ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " four spirits of heaven, who go out from ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "their",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " station before the Lord of all the earth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.6",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 6,
+          "text": "The one with the black horses is going to the north country, the white are going after them, and the dappled are going toward the south country.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The one with the black horses is going to the north country, the white are going after them, and the dappled are going toward the south country.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "The chariot"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.7",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 7,
+          "text": "Then the strong steeds went out, eager to go, that they might walk to and fro throughout the earth. And He said, “Go, walk to and fro throughout the earth.” So they walked to and fro throughout the earth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the strong ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "steeds",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " went out, eager to go, that they might walk to and fro throughout the earth. And He said, “Go, walk to and fro throughout the earth.” So they walked to and fro throughout the earth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.8",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 8,
+          "text": "And He called to me, and spoke to me, saying, “See, those who go toward the north country have given rest to My Spirit in the north country.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He called to me, and spoke to me, saying, “See, those who go toward the north country have given rest to My Spirit in the north country.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.9",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 9,
+          "text": "Then the word of the Lord came to me, saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the word of the Lord came to me, saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Command to Crown Joshua",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.10",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 10,
+          "text": "“Receive the gift from the captives—from Heldai, Tobijah, and Jedaiah, who have come from Babylon—and go the same day and enter the house of Josiah the son of Zephaniah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Receive ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the gift",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from the captives—from Heldai, Tobijah, and Jedaiah, who have come from Babylon—and go the same day and enter the house of Josiah the son of Zephaniah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.11",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 11,
+          "text": "Take the silver and gold, make an elaborate crown, and set it on the head of Joshua the son of Jehozadak, the high priest.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Take the silver and gold, make an elaborate crown, and set ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the head of Joshua the son of Jehozadak, the high priest.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. crowns"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.12",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 12,
+          "text": "Then speak to him, saying, ‘Thus says the Lord of hosts, saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then speak to him, saying, ‘Thus says the Lord of hosts, saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.13",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 13,
+          "text": "Yes, He shall build the temple of the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, He shall build the temple of the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.14",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 14,
+          "text": "“Now the elaborate crown shall be for a memorial in the temple of the Lord for Helem, Tobijah, Jedaiah, and Hen the son of Zephaniah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Now the elaborate crown shall be for a memorial in the temple of the Lord for Helem, Tobijah, Jedaiah, and Hen the son of Zephaniah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. crowns"
+              },
+              {
+                "marker": "f",
+                "text": "So with MT, Tg., Vg.; Syr. for Heldai (cf. v. ); LXX for the patient ones"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.6.15",
+          "book": "ZEC",
+          "chapter": 6,
+          "verse": 15,
+          "text": "Even those from afar shall come and build the temple of the Lord. Then you shall know that the Lord of hosts has sent Me to you. And this shall come to pass if you diligently obey the voice of the Lord your God.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even those from afar shall come and build the temple of the Lord. Then you shall know that the Lord of hosts has sent Me to you. And ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "this",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " shall come to pass if you diligently obey the voice of the Lord your God.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vision of the Four Chariots",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "The Command to Crown Joshua",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:32.562Z"
+    },
+    "7": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "ZEC.7.1",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 1,
+          "text": "Now in the fourth year of King Darius it came to pass that the word of the Lord came to Zechariah, on the fourth day of the ninth month, Chislev,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now in the fourth year of King Darius it came to pass ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the word of the Lord came to Zechariah, on the fourth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "day",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the ninth month, Chislev,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Obedience Better than Fasting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.2",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 2,
+          "text": "when the people sent Sherezer, with Regem-Melech and his men, to the house of God, to pray before the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "when ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the people",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sent Sherezer, with Regem-Melech and his men, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the house of God, to pray before the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. they, cf. v."
+              },
+              {
+                "marker": "b",
+                "text": "Or Sar-Ezer"
+              },
+              {
+                "marker": "c",
+                "text": "Heb. Bethel"
+              },
+              {
+                "marker": "d",
+                "text": "Or to entreat the favor of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.3",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 3,
+          "text": "and to ask the priests who were in the house of the Lord of hosts, and the prophets, saying, “Should I weep in the fifth month and fast as I have done for so many years?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to ask the priests who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the house of the Lord of hosts, and the prophets, saying, “Should I weep in the fifth month and fast as I have done for so many years?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. consecrate myself"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.4",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 4,
+          "text": "Then the word of the Lord of hosts came to me, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the word of the Lord of hosts came to me, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.5",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 5,
+          "text": "“Say to all the people of the land, and to the priests: ‘When you fasted and mourned in the fifth and seventh months during those seventy years, did you really fast for Me—for Me?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Say to all the people of the land, and to the priests: ‘When you fasted and mourned in the fifth and seventh ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "months",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " during those seventy years, did you really fast for Me—for Me?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.6",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 6,
+          "text": "When you eat and when you drink, do you not eat and drink for yourselves?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When you eat and when you drink, do you not eat and drink ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "for yourselves?",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.7",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 7,
+          "text": "Should you not have obeyed the words which the Lord proclaimed through the former prophets when Jerusalem and the cities around it were inhabited and prosperous, and the South and the Lowland were inhabited?’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Should you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "have obeyed",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the words which the Lord proclaimed through the former prophets when Jerusalem and the cities around it were inhabited and prosperous, and the South and the Lowland were inhabited?’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Heb. Negev"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.8",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 8,
+          "text": "Then the word of the Lord came to Zechariah, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the word of the Lord came to Zechariah, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Disobedience Resulted in Captivity",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.9",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 9,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.10",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 10,
+          "text": "Do not oppress the widow or the fatherless,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not oppress the widow or the fatherless,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.11",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 11,
+          "text": "“But they refused to heed, shrugged their shoulders, and stopped their ears so that they could not hear.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But they refused to heed, shrugged their shoulders, and stopped their ears so that they could not hear.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. gave a stubborn or rebellious shoulder"
+              },
+              {
+                "marker": "i",
+                "text": "Lit. made their ears heavy"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.12",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 12,
+          "text": "Yes, they made their hearts like flint, refusing to hear the law and the words which the Lord of hosts had sent by His Spirit through the former prophets. Thus great wrath came from the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, they made their hearts like flint, refusing to hear the law and the words which the Lord of hosts had sent by His Spirit through the former prophets. Thus great wrath came from the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.13",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 13,
+          "text": "Therefore it happened, that just as He proclaimed and they would not hear, so they called out and I would not listen,” says the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore it happened, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " just as He proclaimed and they would not hear, so they called out and I would not listen,” says the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.7.14",
+          "book": "ZEC",
+          "chapter": 7,
+          "verse": 14,
+          "text": "“But I scattered them with a whirlwind among all the nations which they had not known. Thus the land became desolate after them, so that no one passed through or returned; for they made the pleasant land desolate.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But I scattered them with a whirlwind among all the nations which they had not known. Thus the land became desolate after them, so that no one passed through or returned; for they made the pleasant land desolate.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Obedience Better than Fasting",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Disobedience Resulted in Captivity",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:34.070Z"
+    },
+    "8": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 8,
+      "verses": [
+        {
+          "ref": "ZEC.8.1",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 1,
+          "text": "Again the word of the Lord of hosts came, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Again the word of the Lord of hosts came, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Jerusalem, Holy City of the Future",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.2",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 2,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.3",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 3,
+          "text": "“Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.4",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 4,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.5",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 5,
+          "text": "The streets of the city",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The streets of the city",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.6",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 6,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.7",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 7,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.8",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 8,
+          "text": "I will bring them back,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will bring them ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "back,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.9",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 9,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.10",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 10,
+          "text": "For before these days",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For before these days",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.11",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 11,
+          "text": "But now I will not treat the remnant of this people as in the former days,’ says the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But now I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "treat",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the remnant of this people as in the former days,’ says the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.12",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 12,
+          "text": "‘For the seed shall be prosperous,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘For the seed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "shall be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " prosperous,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. seed of peace"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.13",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 13,
+          "text": "And it shall come to pass",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it shall come to pass",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.14",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 14,
+          "text": "“For thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.15",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 15,
+          "text": "So again in these days",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So again in these days",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.16",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 16,
+          "text": "These are the things you shall do:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the things you shall do:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.17",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 17,
+          "text": "Let none of you think evil in your heart against your neighbor;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let none of you think evil in your heart against your neighbor;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Lit. his"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.18",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 18,
+          "text": "Then the word of the Lord of hosts came to me, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the word of the Lord of hosts came to me, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.19",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 19,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.20",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 20,
+          "text": "“Thus says the Lord of hosts:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.21",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 21,
+          "text": "The inhabitants of one city shall go to another, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The inhabitants of one ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "city",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " shall go to another, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.22",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 22,
+          "text": "Yes, many peoples and strong nations",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, many peoples and strong nations",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.8.23",
+          "book": "ZEC",
+          "chapter": 8,
+          "verse": 23,
+          "text": "“Thus says the Lord of hosts: ‘In those days ten men from every language of the nations shall grasp the sleeve of a Jewish man, saying, “Let us go with you, for we have heard that God is with you.” ’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts: ‘In those days ten men from every language of the nations shall grasp the sleeve of a Jewish man, saying, “Let us go with you, for we have heard ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " God ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with you.” ’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "Lit. wing, corner of a garment"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jerusalem, Holy City of the Future",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:35.558Z"
+    },
+    "9": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 9,
+      "verses": [
+        {
+          "ref": "ZEC.9.1",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 1,
+          "text": "The burden of the word of the Lord",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The burden of the word of the Lord",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "oracle, prophecy"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Israel Defended Against Enemies",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.2",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 2,
+          "text": "Also against Hamath, which borders on it,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "against",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Hamath, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " borders on it,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.3",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 3,
+          "text": "For Tyre built herself a tower,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For Tyre built herself a tower,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.4",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 4,
+          "text": "Behold, the Lord will cast her out;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, the Lord will cast her out;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.5",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 5,
+          "text": "Ashkelon shall see it and fear;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ashkelon shall see ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and fear;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.6",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 6,
+          "text": "“A mixed race shall settle in Ashdod,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“A mixed race shall settle in Ashdod,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. An illegitimate one"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.7",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 7,
+          "text": "I will take away the blood from his mouth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will take away the blood from his mouth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.8",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 8,
+          "text": "I will camp around My house",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will camp around My house",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.9",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 9,
+          "text": "“Rejoice greatly, O daughter of Zion!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Rejoice greatly, O daughter of Zion!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Coming King(M)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.10",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 10,
+          "text": "I will cut off the chariot from Ephraim",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will cut off the chariot from Ephraim",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.11",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 11,
+          "text": "“As for you also,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“As for you also,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God Will Save His People",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.12",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 12,
+          "text": "Return to the stronghold,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Return to the stronghold,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.13",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 13,
+          "text": "For I have bent Judah, My bow,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I have bent Judah, My ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "bow,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.14",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 14,
+          "text": "Then the Lord will be seen over them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord will be seen over them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.15",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 15,
+          "text": "The Lord of hosts will defend them;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord of hosts will defend them;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.16",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 16,
+          "text": "The Lord their God will save them in that day,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord their God will save them in that day,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.9.17",
+          "book": "ZEC",
+          "chapter": 9,
+          "verse": 17,
+          "text": "For how great is its goodness",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For how great is its goodness",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. His"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Israel Defended Against Enemies",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "The Coming King(M)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "God Will Save His People",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:37.055Z"
+    },
+    "10": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 10,
+      "verses": [
+        {
+          "ref": "ZEC.10.1",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 1,
+          "text": "Ask the Lord for rain",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ask the Lord for rain",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Restoration of Judah and Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.2",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 2,
+          "text": "For the idols speak delusion;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the idols speak delusion;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Heb. teraphim"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.3",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 3,
+          "text": "“My anger is kindled against the shepherds,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“My anger is kindled against the shepherds,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.4",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 4,
+          "text": "From him comes the cornerstone,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "From him comes the cornerstone,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.5",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 5,
+          "text": "They shall be like mighty men,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They shall be like mighty men,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.6",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 6,
+          "text": "“I will strengthen the house of Judah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will strengthen the house of Judah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.7",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 7,
+          "text": "Those of Ephraim shall be like a mighty man,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Ephraim shall be like a mighty man,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.8",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 8,
+          "text": "I will whistle for them and gather them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will whistle for them and gather them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.9",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 9,
+          "text": "“I will sow them among the peoples,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I will sow them among the peoples,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Or scatter"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.10",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 10,
+          "text": "I will also bring them back from the land of Egypt,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will also bring them back from the land of Egypt,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.11",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 11,
+          "text": "He shall pass through the sea with affliction,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He shall pass through the sea with affliction,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.10.12",
+          "book": "ZEC",
+          "chapter": 10,
+          "verse": 12,
+          "text": "“So I will strengthen them in the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“So I will strengthen them in the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Restoration of Judah and Israel",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:38.605Z"
+    },
+    "11": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 11,
+      "verses": [
+        {
+          "ref": "ZEC.11.1",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 1,
+          "text": "Open your doors, O Lebanon,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Open your doors, O Lebanon,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Desolation of Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.2",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 2,
+          "text": "Wail, O cypress, for the cedar has fallen,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wail, O cypress, for the cedar has fallen,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.3",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 3,
+          "text": "There is the sound of wailing shepherds!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the sound of wailing shepherds!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.4",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 4,
+          "text": "Thus says the Lord my God, “Feed the flock for slaughter,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord my God, “Feed the flock for slaughter,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Prophecy of the Shepherds",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.5",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 5,
+          "text": "whose owners slaughter them and feel no guilt; those who sell them say, ‘Blessed be the Lord, for I am rich’; and their shepherds do not pity them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whose owners slaughter them and feel no guilt; those who sell them say, ‘Blessed be the Lord, for I am rich’; and their shepherds do not pity them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.6",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 6,
+          "text": "For I will no longer pity the inhabitants of the land,” says the Lord. “But indeed I will give everyone into his neighbor’s hand and into the hand of his king. They shall attack the land, and I will not deliver them from their hand.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I will no longer pity the inhabitants of the land,” says the Lord. “But indeed I will give everyone into his neighbor’s hand and into the hand of his king. They shall attack the land, and I will not deliver ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from their hand.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. strike"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.7",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 7,
+          "text": "So I fed the flock for slaughter, in particular the poor of the flock. I took for myself two staffs: the one I called Beauty, and the other I called Bonds; and I fed the flock.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So I fed the flock for slaughter, in particular the poor of the flock. I took for myself two staffs: the one I called Beauty, and the other I called Bonds; and I fed the flock.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "So with MT, Tg., Vg.; LXX for the Canaanites"
+              },
+              {
+                "marker": "d",
+                "text": "Or Grace"
+              },
+              {
+                "marker": "e",
+                "text": "Or Unity"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.8",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 8,
+          "text": "I dismissed the three shepherds in one month. My soul loathed them, and their soul also abhorred me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I dismissed the three shepherds in one month. My soul loathed them, and their soul also abhorred me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Or destroyed, lit. cut off"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.9",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 9,
+          "text": "Then I said, “I will not feed you. Let what is dying die, and what is perishing perish. Let those that are left eat each other’s flesh.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I said, “I will not feed you. Let what is dying die, and what is perishing perish. Let those that are left eat each other’s flesh.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.10",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 10,
+          "text": "And I took my staff, Beauty, and cut it in two, that I might break the covenant which I had made with all the peoples.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I took my staff, Beauty, and cut it in two, that I might break the covenant which I had made with all the peoples.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Or Grace"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.11",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 11,
+          "text": "So it was broken on that day. Thus the poor of the flock, who were watching me, knew that it was the word of the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So it was broken on that day. Thus the poor of the flock, who were watching me, knew that it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the word of the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "So with MT, Tg., Vg.; LXX the Canaanites"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.12",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 12,
+          "text": "Then I said to them, “If it is agreeable to you, give me my wages; and if not, refrain.” So they weighed out for my wages thirty pieces of silver.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I said to them, “If it is agreeable to you, give ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "me",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " my wages; and if not, refrain.” So they weighed out for my wages thirty ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "pieces",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of silver.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "good in your sight"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.13",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 13,
+          "text": "And the Lord said to me, “Throw it to the potter”—that princely price they set on me. So I took the thirty pieces of silver and threw them into the house of the Lord for the potter.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord said to me, “Throw it to the potter”—that princely price they set on me. So I took the thirty ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "pieces",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of silver and threw them into the house of the Lord for the potter.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.14",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 14,
+          "text": "Then I cut in two my other staff, Bonds, that I might break the brotherhood between Judah and Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I cut in two my other staff, Bonds, that I might break the brotherhood between Judah and Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Or Unity"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.15",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 15,
+          "text": "And the Lord said to me, “Next, take for yourself the implements of a foolish shepherd.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord said to me, “Next, take for yourself the implements of a foolish shepherd.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.16",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 16,
+          "text": "For indeed I will raise up a shepherd in the land who will not care for those who are cut off, nor seek the young, nor heal those that are broken, nor feed those that still stand. But he will eat the flesh of the fat and tear their hooves in pieces.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For indeed I will raise up a shepherd in the land ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " will not care for those who are cut off, nor seek the young, nor heal those that are broken, nor feed those that still stand. But he will eat the flesh of the fat and tear their hooves in pieces.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.11.17",
+          "book": "ZEC",
+          "chapter": 11,
+          "verse": 17,
+          "text": "“Woe to the worthless shepherd,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Woe to the worthless shepherd,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Desolation of Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Prophecy of the Shepherds",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:40.120Z"
+    },
+    "12": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 12,
+      "verses": [
+        {
+          "ref": "ZEC.12.1",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 1,
+          "text": "The burden of the word of the Lord against Israel. Thus says the Lord, who stretches out the heavens, lays the foundation of the earth, and forms the spirit of man within him:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The burden of the word of the Lord against Israel. Thus says the Lord, who stretches out the heavens, lays the foundation of the earth, and forms the spirit of man within him:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "oracle, prophecy"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Coming Deliverance of Judah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.2",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 2,
+          "text": "“Behold, I will make Jerusalem a cup of drunkenness to all the surrounding peoples, when they lay siege against Judah and Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, I will make Jerusalem a cup of drunkenness to all the surrounding peoples, when they lay siege against Judah and Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. reeling"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.3",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 3,
+          "text": "And it shall happen in that day that I will make Jerusalem a very heavy stone for all peoples; all who would heave it away will surely be cut in pieces, though all nations of the earth are gathered against it.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it shall happen in that day that I will make Jerusalem a very heavy stone for all peoples; all who would heave it away will surely be cut in pieces, though all nations of the earth are gathered against it.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.4",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 4,
+          "text": "In that day,” says the Lord, “I will strike every horse with confusion, and its rider with madness; I will open My eyes on the house of Judah, and will strike every horse of the peoples with blindness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day,” says the Lord, “I will strike every horse with confusion, and its rider with madness; I will open My eyes on the house of Judah, and will strike every horse of the peoples with blindness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.5",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 5,
+          "text": "And the governors of Judah shall say in their heart, ‘The inhabitants of Jerusalem are my strength in the Lord of hosts, their God.’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the governors of Judah shall say in their heart, ‘The inhabitants of Jerusalem ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " my strength in the Lord of hosts, their God.’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.6",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 6,
+          "text": "In that day I will make the governors of Judah like a firepan in the woodpile, and like a fiery torch in the sheaves; they shall devour all the surrounding peoples on the right hand and on the left, but Jerusalem shall be inhabited again in her own place—Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day I will make the governors of Judah like a firepan in the woodpile, and like a fiery torch in the sheaves; they shall devour all the surrounding peoples on the right hand and on the left, but Jerusalem shall be inhabited again in her own place—Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.7",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 7,
+          "text": "“The Lord will save the tents of Judah first, so that the glory of the house of David and the glory of the inhabitants of Jerusalem shall not become greater than that of Judah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The Lord will save the tents of Judah first, so that the glory of the house of David and the glory of the inhabitants of Jerusalem shall not become greater than that of Judah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.8",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 8,
+          "text": "In that day the Lord will defend the inhabitants of Jerusalem; the one who is feeble among them in that day shall be like David, and the house of David shall be like God, like the Angel of the Lord before them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day the Lord will defend the inhabitants of Jerusalem; the one who is feeble among them in that day shall be like David, and the house of David ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "shall be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like God, like the Angel of the Lord before them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.9",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 9,
+          "text": "It shall be in that day that I will seek to destroy all the nations that come against Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It shall be in that day ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I will seek to destroy all the nations that come against Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.10",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 10,
+          "text": "“And I will pour on the house of David and on the inhabitants of Jerusalem the Spirit of grace and supplication; then they will look on Me whom they pierced. Yes, they will mourn for Him as one mourns for his only son, and grieve for Him as one grieves for a firstborn.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And I will pour on the house of David and on the inhabitants of Jerusalem the Spirit of grace and supplication; then they will look on Me whom they pierced. Yes, they will mourn for Him as one mourns for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " only ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "son,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and grieve for Him as one grieves for a firstborn.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Mourning for the Pierced One",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.11",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 11,
+          "text": "In that day there shall be a great mourning in Jerusalem, like the mourning at Hadad Rimmon in the plain of Megiddo.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day there shall be a great mourning in Jerusalem, like the mourning at Hadad Rimmon in the plain of Megiddo.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Heb. Megiddon"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.12",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 12,
+          "text": "And the land shall mourn, every family by itself: the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the land shall mourn, every family by itself: the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.13",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 13,
+          "text": "the family of the house of Levi by itself, and their wives by themselves; the family of Shimei by itself, and their wives by themselves;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the family of the house of Levi by itself, and their wives by themselves; the family of Shimei by itself, and their wives by themselves;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.12.14",
+          "book": "ZEC",
+          "chapter": 12,
+          "verse": 14,
+          "text": "all the families that remain, every family by itself, and their wives by themselves.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "all the families that remain, every family by itself, and their wives by themselves.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Coming Deliverance of Judah",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Mourning for the Pierced One",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:41.611Z"
+    },
+    "13": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 13,
+      "verses": [
+        {
+          "ref": "ZEC.13.1",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 1,
+          "text": "“In that day a fountain shall be opened for the house of David and for the inhabitants of Jerusalem, for sin and for uncleanness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“In that day a fountain shall be opened for the house of David and for the inhabitants of Jerusalem, for sin and for uncleanness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Idolatry Cut Off",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.2",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 2,
+          "text": "“It shall be in that day,” says the Lord of hosts, “that I will cut off the names of the idols from the land, and they shall no longer be remembered. I will also cause the prophets and the unclean spirit to depart from the land.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“It shall be in that day,” says the Lord of hosts, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I will cut off the names of the idols from the land, and they shall no longer be remembered. I will also cause the prophets and the unclean spirit to depart from the land.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.3",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 3,
+          "text": "It shall come to pass that if anyone still prophesies, then his father and mother who begot him will say to him, ‘You shall not live, because you have spoken lies in the name of the Lord.’ And his father and mother who begot him shall thrust him through when he prophesies.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It shall come to pass ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " if anyone still prophesies, then his father and mother who begot him will say to him, ‘You shall not live, because you have spoken lies in the name of the Lord.’ And his father and mother who begot him shall thrust him through when he prophesies.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.4",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 4,
+          "text": "“And it shall be in that day that every prophet will be ashamed of his vision when he prophesies; they will not wear a robe of coarse hair to deceive.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And it shall be in that day ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " every prophet will be ashamed of his vision when he prophesies; they will not wear a robe of coarse hair to deceive.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.5",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 5,
+          "text": "But he will say, ‘I am no prophet, I am a farmer; for a man taught me to keep cattle from my youth.’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But he will say, ‘I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no prophet, I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a farmer; for a man taught me to keep cattle from my youth.’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.6",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 6,
+          "text": "And one will say to him, ‘What are these wounds between your arms?’ Then he will answer, ‘Those with which I was wounded in the house of my friends.’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " will say to him, ‘What are these wounds between your arms?’ Then he will answer, ‘",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Those",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with which I was wounded in the house of my friends.’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or hands"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.7",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 7,
+          "text": "“Awake, O sword, against My Shepherd,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Awake, O sword, against My Shepherd,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Shepherd Savior",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.8",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 8,
+          "text": "And it shall come to pass in all the land,”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it shall come to pass in all the land,”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.13.9",
+          "book": "ZEC",
+          "chapter": 13,
+          "verse": 9,
+          "text": "I will bring the one-third through the fire,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will bring the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": "-third through the fire,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Idolatry Cut Off",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "The Shepherd Savior",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:43.169Z"
+    },
+    "14": {
+      "translation": "en",
+      "source": "english",
+      "book": "ZEC",
+      "chapter": 14,
+      "verses": [
+        {
+          "ref": "ZEC.14.1",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 1,
+          "text": "Behold, the day of the Lord is coming,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, the day of the Lord is coming,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Day of the Lord(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.2",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 2,
+          "text": "For I will gather all the nations to battle against Jerusalem;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I will gather all the nations to battle against Jerusalem;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.3",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 3,
+          "text": "Then the Lord will go forth",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord will go forth",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.4",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 4,
+          "text": "And in that day His feet will stand on the Mount of Olives,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And in that day His feet will stand on the Mount of Olives,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.5",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 5,
+          "text": "Then you shall flee through My mountain valley,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then you shall flee ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "through",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " My mountain valley,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.6",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 6,
+          "text": "It shall come to pass in that day",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It shall come to pass in that day",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.7",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 7,
+          "text": "It shall be one day",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It shall be one day",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.8",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 8,
+          "text": "And in that day it shall be",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And in that day it shall be",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.9",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 9,
+          "text": "And the Lord shall be King over all the earth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord shall be King over all the earth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.10",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 10,
+          "text": "All the land shall be turned into a plain from Geba to Rimmon south of Jerusalem. Jerusalem shall be raised up and inhabited in her place from Benjamin’s Gate to the place of the First Gate and the Corner Gate, and from the Tower of Hananel to the king’s winepresses.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All the land shall be turned into a plain from Geba to Rimmon south of Jerusalem. ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Jerusalem",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " shall be raised up and inhabited in her place from Benjamin’s Gate to the place of the First Gate and the Corner Gate, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "from",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Tower of Hananel to the king’s winepresses.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Lit. She"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.11",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 11,
+          "text": "The people shall dwell in it;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The people",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " shall dwell in it;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.12",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 12,
+          "text": "And this shall be the plague with which the Lord will strike all the people who fought against Jerusalem:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this shall be the plague with which the Lord will strike all the people who fought against Jerusalem:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.13",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 13,
+          "text": "It shall come to pass in that day",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It shall come to pass in that day",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.14",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 14,
+          "text": "Judah also will fight at Jerusalem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Judah also will fight at Jerusalem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.15",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 15,
+          "text": "Such also shall be the plague",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Such also shall be the plague",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.16",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 16,
+          "text": "And it shall come to pass that everyone who is left of all the nations which came against Jerusalem shall go up from year to year to worship the King, the Lord of hosts, and to keep the Feast of Tabernacles.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it shall come to pass ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " everyone who is left of all the nations which came against Jerusalem shall go up from year to year to worship the King, the Lord of hosts, and to keep the Feast of Tabernacles.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Nations Worship the King",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.17",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 17,
+          "text": "And it shall be that whichever of the families of the earth do not come up to Jerusalem to worship the King, the Lord of hosts, on them there will be no rain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it shall be ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " whichever of the families of the earth do not come up to Jerusalem to worship the King, the Lord of hosts, on them there will be no rain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.18",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 18,
+          "text": "If the family of Egypt will not come up and enter in, they shall have no rain; they shall receive the plague with which the Lord strikes the nations who do not come up to keep the Feast of Tabernacles.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If the family of Egypt will not come up and enter in, they ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "shall have",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "rain;",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " they shall receive the plague with which the Lord strikes the nations who do not come up to keep the Feast of Tabernacles.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.19",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 19,
+          "text": "This shall be the punishment of Egypt and the punishment of all the nations that do not come up to keep the Feast of Tabernacles.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This shall be the punishment of Egypt and the punishment of all the nations that do not come up to keep the Feast of Tabernacles.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Lit. sin"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.20",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 20,
+          "text": "In that day “HOLINESS TO THE LORD” shall be engraved on the bells of the horses. The pots in the Lord’s house shall be like the bowls before the altar.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In that day “HOLINESS TO THE LORD” shall be ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "engraved",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the bells of the horses. The pots in the Lord’s house shall be like the bowls before the altar.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ZEC.14.21",
+          "book": "ZEC",
+          "chapter": 14,
+          "verse": 21,
+          "text": "Yes, every pot in Jerusalem and Judah shall be holiness to the Lord of hosts. Everyone who sacrifices shall come and take them and cook in them. In that day there shall no longer be a Canaanite in the house of the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yes, every pot in Jerusalem and Judah shall be holiness to the Lord of hosts. Everyone who sacrifices shall come and take them and cook in them. In that day there shall no longer be a Canaanite in the house of the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Or on every pot . . . shall be engraved “HOLINESS TO THE LORD OF HOSTS”"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Day of the Lord(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "The Nations Worship the King",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:44.649Z"
+    }
+  }
+}

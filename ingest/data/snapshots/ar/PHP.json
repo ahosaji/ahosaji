@@ -1,0 +1,2398 @@
+{
+  "usfm": "PHP",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "PHP",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "PHP.1.1",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 1,
+          "text": "بُولُسُ وَتِيمُوثَاوُسُ عَبْدَا يَسُوعَ الْمَسِيحِ، إِلَى جَمِيعِ الْقِدِّيسِينَ فِي الْمَسِيحِ يَسُوعَ، الَّذِينَ فِي فِيلِبِّي، مَعَ أَسَاقِفَةٍ وَشَمَامِسَةٍ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بُولُسُ وَتِيمُوثَاوُسُ عَبْدَا يَسُوعَ الْمَسِيحِ، إِلَى جَمِيعِ الْقِدِّيسِينَ فِي الْمَسِيحِ يَسُوعَ، الَّذِينَ فِي فِيلِبِّي، مَعَ أَسَاقِفَةٍ وَشَمَامِسَةٍ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "مقدمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.2",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 2,
+          "text": "نِعْمَةٌ لَكُمْ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالرَّبِّ يَسُوعَ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نِعْمَةٌ لَكُمْ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالرَّبِّ يَسُوعَ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.3",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 3,
+          "text": "أَشْكُرُ إِلَهِي عِنْدَ كُلِّ ذِكْرِي إِيَّاكُمْ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَشْكُرُ إِلَهِي عِنْدَ كُلِّ ذِكْرِي إِيَّاكُمْ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "شكر وصلاة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.4",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 4,
+          "text": "دَائِمًا فِي كُلِّ أَدْعِيَتِي، مُقَدِّمًا الطَّلْبَةَ لأَجْلِ جَمِيعِكُمْ بِفَرَحٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "دَائِمًا فِي كُلِّ أَدْعِيَتِي، مُقَدِّمًا الطَّلْبَةَ لأَجْلِ جَمِيعِكُمْ بِفَرَحٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.5",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 5,
+          "text": "لِسَبَبِ مُشَارَكَتِكُمْ فِي الإِنْجِيلِ مِنْ أَوَّلِ يَوْمٍ إِلَى الآنَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِسَبَبِ مُشَارَكَتِكُمْ فِي الإِنْجِيلِ مِنْ أَوَّلِ يَوْمٍ إِلَى الآنَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.6",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 6,
+          "text": "وَاثِقًا بِهَذَا عَيْنِهِ أَنَّ الَّذِي ابْتَدَأَ فِيكُمْ عَمَلًا صَالِحًا يُكَمِّلُ إِلَى يَوْمِ يَسُوعَ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَاثِقًا بِهَذَا عَيْنِهِ أَنَّ الَّذِي ابْتَدَأَ فِيكُمْ عَمَلًا صَالِحًا يُكَمِّلُ إِلَى يَوْمِ يَسُوعَ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.7",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 7,
+          "text": "كَمَا يَحِقُّ لِي أَنْ أَفْتَكِرَ هَذَا مِنْ جِهَةِ جَمِيعِكُمْ، لأَنِّي حَافِظُكُمْ فِي قَلْبِي، فِي وُثُقِي، وَفِي الْمُحَامَاةِ عَنِ الإِنْجِيلِ وَتَثْبِيتِهِ، أَنْتُمُ الَّذِينَ جَمِيعُكُمْ شُرَكَائِي فِي النِّعْمَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَمَا يَحِقُّ لِي أَنْ أَفْتَكِرَ هَذَا مِنْ جِهَةِ جَمِيعِكُمْ، لأَنِّي حَافِظُكُمْ فِي قَلْبِي، فِي وُثُقِي، وَفِي الْمُحَامَاةِ عَنِ الإِنْجِيلِ وَتَثْبِيتِهِ، أَنْتُمُ الَّذِينَ جَمِيعُكُمْ شُرَكَائِي فِي النِّعْمَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.8",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 8,
+          "text": "فَإِنَّ اللهَ شَاهِدٌ لِي كَيْفَ أَشْتَاقُ إِلَى جَمِيعِكُمْ فِي أَحْشَاءِ يَسُوعَ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّ اللهَ شَاهِدٌ لِي كَيْفَ أَشْتَاقُ إِلَى جَمِيعِكُمْ فِي أَحْشَاءِ يَسُوعَ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.9",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 9,
+          "text": "وَهَذَا أُصَلِّيهِ: أَنْ تَزْدَادَ مَحَبَّتُكُمْ أَيْضًا أَكْثَرَ فَأَكْثَرَ فِي الْمَعْرِفَةِ وَفِي كُلِّ فَهْمٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَهَذَا أُصَلِّيهِ: أَنْ تَزْدَادَ مَحَبَّتُكُمْ أَيْضًا أَكْثَرَ فَأَكْثَرَ فِي الْمَعْرِفَةِ وَفِي كُلِّ فَهْمٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.10",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 10,
+          "text": "حَتَّى تُمَيِّزُوا الأُمُورَ الْمُتَخَالِفَةَ، لِكَيْ تَكُونُوا مُخْلِصِينَ وَبِلاَ عَثْرَةٍ إِلَى يَوْمِ الْمَسِيحِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَتَّى تُمَيِّزُوا الأُمُورَ الْمُتَخَالِفَةَ، لِكَيْ تَكُونُوا مُخْلِصِينَ وَبِلاَ عَثْرَةٍ إِلَى يَوْمِ الْمَسِيحِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.11",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 11,
+          "text": "مَمْلُوئِينَ مِنْ ثَمَرِ الْبِرِّ الَّذِي بِيَسُوعَ الْمَسِيحِ لِمَجْدِ اللهِ وَحَمْدِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَمْلُوئِينَ مِنْ ثَمَرِ الْبِرِّ الَّذِي بِيَسُوعَ الْمَسِيحِ لِمَجْدِ اللهِ وَحَمْدِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.12",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 12,
+          "text": "ثُمَّ أُرِيدُ أَنْ تَعْلَمُوا أَيُّهَا الإِخْوَةُ أَنَّ أُمُورِي قَدْ آلَتْ أَكْثَرَ إِلَى تَقَدُّمِ الإِنْجِيلِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ أُرِيدُ أَنْ تَعْلَمُوا أَيُّهَا الإِخْوَةُ أَنَّ أُمُورِي قَدْ آلَتْ أَكْثَرَ إِلَى تَقَدُّمِ الإِنْجِيلِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "قيود بولس أدت إلى نشر الإنجيل",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.13",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 13,
+          "text": "حَتَّى إِنَّ وُثُقِي صَارَتْ ظَاهِرَةً فِي الْمَسِيحِ فِي كُلِّ دَارِ الْوِلاَيَةِ وَفِي بَاقِي الأَمَاكِنِ أَجْمَعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَتَّى إِنَّ وُثُقِي صَارَتْ ظَاهِرَةً فِي الْمَسِيحِ فِي كُلِّ دَارِ الْوِلاَيَةِ وَفِي بَاقِي الأَمَاكِنِ أَجْمَعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.14",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 14,
+          "text": "وَأَكْثَرُ الإِخْوَةِ، وَهُمْ وَاثِقُونَ فِي الرَّبِّ بِوُثُقِي، يَجْتَرِئُونَ أَكْثَرَ عَلَى التَّكَلُّمِ بِالْكَلِمَةِ بِلاَ خَوْفٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَكْثَرُ الإِخْوَةِ، وَهُمْ وَاثِقُونَ فِي الرَّبِّ بِوُثُقِي، يَجْتَرِئُونَ أَكْثَرَ عَلَى التَّكَلُّمِ بِالْكَلِمَةِ بِلاَ خَوْفٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.15",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 15,
+          "text": "أَمَّا قَوْمٌ فَعَنْ حَسَدٍ وَخِصَامٍ يَكْرِزُونَ بِالْمَسِيحِ، وَأَمَّا قَوْمٌ فَعَنْ مَسَرَّةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَمَّا قَوْمٌ فَعَنْ حَسَدٍ وَخِصَامٍ يَكْرِزُونَ بِالْمَسِيحِ، وَأَمَّا قَوْمٌ فَعَنْ مَسَرَّةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.16",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 16,
+          "text": "فَهَؤُلاَءِ عَنْ تَحَزُّبٍ يُنَادُونَ بِالْمَسِيحِ لَا عَنْ إِخْلاَصٍ، ظَانِّينَ أَنَّهُمْ يُضِيفُونَ إِلَى وُثُقِي ضِيقًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَهَؤُلاَءِ عَنْ تَحَزُّبٍ يُنَادُونَ بِالْمَسِيحِ لَا عَنْ إِخْلاَصٍ، ظَانِّينَ أَنَّهُمْ يُضِيفُونَ إِلَى وُثُقِي ضِيقًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.17",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 17,
+          "text": "وَأُولئِكَ عَنْ مَحَبَّةٍ، عَالِمِينَ أَنِّي مَوْضُوعٌ لِحِمَايَةِ الإِنْجِيلِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأُولئِكَ عَنْ مَحَبَّةٍ، عَالِمِينَ أَنِّي مَوْضُوعٌ لِحِمَايَةِ الإِنْجِيلِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.18",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 18,
+          "text": "فَمَاذَا؟ غَيْرَ أَنَّهُ عَلَى كُلِّ وَجْهٍ سَوَاءٌ كَانَ بِعِلَّةٍ أَمْ بِحَقٍّ يُنَادَى بِالْمَسِيحِ، وَبِهَذَا أَنَا أَفْرَحُ. بَلْ سَأَفْرَحُ أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَمَاذَا؟ غَيْرَ أَنَّهُ عَلَى كُلِّ وَجْهٍ سَوَاءٌ كَانَ بِعِلَّةٍ أَمْ بِحَقٍّ يُنَادَى بِالْمَسِيحِ، وَبِهَذَا أَنَا أَفْرَحُ. بَلْ سَأَفْرَحُ أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.19",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 19,
+          "text": "لأَنِّي أَعْلَمُ أَنَّ هَذَا يَؤُولُ لِي إِلَى خَلاَصٍ بِطَلْبَتِكُمْ وَمُؤَازَرَةِ رُوحِ يَسُوعَ الْمَسِيحِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنِّي أَعْلَمُ أَنَّ هَذَا يَؤُولُ لِي إِلَى خَلاَصٍ بِطَلْبَتِكُمْ وَمُؤَازَرَةِ رُوحِ يَسُوعَ الْمَسِيحِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.20",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 20,
+          "text": "حَسَبَ انْتِظَارِي وَرَجَائِي أَنِّي لَا أُخْزَى فِي شَيْءٍ، بَلْ بِكُلِّ مُجَاهَرَةٍ كَمَا فِي كُلِّ حِينٍ، كَذَلِكَ الآنَ، يَتَعَظَّمُ الْمَسِيحُ فِي جَسَدِي، سَوَاءٌ كَانَ بِحَيَاةٍ أَمْ بِمَوْتٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَسَبَ انْتِظَارِي وَرَجَائِي أَنِّي لَا أُخْزَى فِي شَيْءٍ، بَلْ بِكُلِّ مُجَاهَرَةٍ كَمَا فِي كُلِّ حِينٍ، كَذَلِكَ الآنَ، يَتَعَظَّمُ الْمَسِيحُ فِي جَسَدِي، سَوَاءٌ كَانَ بِحَيَاةٍ أَمْ بِمَوْتٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.21",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 21,
+          "text": "لأَنَّ لِيَ الْحَيَاةَ هِيَ الْمَسِيحُ وَالْمَوْتُ هُوَ رِبْحٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ لِيَ الْحَيَاةَ هِيَ الْمَسِيحُ وَالْمَوْتُ هُوَ رِبْحٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.22",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 22,
+          "text": "وَلكِنْ إِنْ كَانَتِ الْحَيَاةُ فِي الْجَسَدِ هِيَ لِي ثَمَرُ عَمَلِي، فَمَاذَا أَخْتَارُ؟ لَسْتُ أَدْرِي!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ إِنْ كَانَتِ الْحَيَاةُ فِي الْجَسَدِ هِيَ لِي ثَمَرُ عَمَلِي، فَمَاذَا أَخْتَارُ؟ لَسْتُ أَدْرِي!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.23",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 23,
+          "text": "فَإِنِّي مَحْصُورٌ مِنْ الاثْنَيْنِ: لِيَ اشْتِهَاءٌ أَنْ أَنْطَلِقَ وَأَكُونَ مَعَ الْمَسِيحِ، ذَاكَ أَفْضَلُ جِدًّا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنِّي مَحْصُورٌ مِنْ الاثْنَيْنِ: لِيَ اشْتِهَاءٌ أَنْ أَنْطَلِقَ وَأَكُونَ مَعَ الْمَسِيحِ، ذَاكَ أَفْضَلُ جِدًّا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.24",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 24,
+          "text": "وَلكِنْ أَنْ أَبْقَى فِي الْجَسَدِ أَلْزَمُ مِنْ أَجْلِكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ أَنْ أَبْقَى فِي الْجَسَدِ أَلْزَمُ مِنْ أَجْلِكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.25",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 25,
+          "text": "فَإِذْ أَنَا وَاثِقٌ بِهَذَا أَعْلَمُ أَنِّي أَمْكُثُ وَأَبْقَى مَعَ جَمِيعِكُمْ لأَجْلِ تَقَدُّمِكُمْ وَفَرَحِكُمْ فِي الإِيمَانِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِذْ أَنَا وَاثِقٌ بِهَذَا أَعْلَمُ أَنِّي أَمْكُثُ وَأَبْقَى مَعَ جَمِيعِكُمْ لأَجْلِ تَقَدُّمِكُمْ وَفَرَحِكُمْ فِي الإِيمَانِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.26",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 26,
+          "text": "لِكَيْ يَزْدَادَ افْتِخَارُكُمْ فِي الْمَسِيحِ يَسُوعَ فِيَّ، بِوَاسِطَةِ حُضُورِي أَيْضًا عِنْدَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِكَيْ يَزْدَادَ افْتِخَارُكُمْ فِي الْمَسِيحِ يَسُوعَ فِيَّ، بِوَاسِطَةِ حُضُورِي أَيْضًا عِنْدَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.27",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 27,
+          "text": "فَقَطْ عِيشُوا كَمَا يَحِقُّ لإِنْجِيلِ الْمَسِيحِ، حَتَّى إِذَا جِئْتُ وَرَأَيْتُكُمْ، أَوْ كُنْتُ غَائِبًا أَسْمَعُ أُمُورَكُمْ أَنَّكُمْ تَثْبُتُونَ فِي رُوحٍ وَاحِدٍ، مُجَاهِدِينَ مَعًا بِنَفْسٍ وَاحِدَةٍ لإِيمَانِ الإِنْجِيلِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَقَطْ عِيشُوا كَمَا يَحِقُّ لإِنْجِيلِ الْمَسِيحِ، حَتَّى إِذَا جِئْتُ وَرَأَيْتُكُمْ، أَوْ كُنْتُ غَائِبًا أَسْمَعُ أُمُورَكُمْ أَنَّكُمْ تَثْبُتُونَ فِي رُوحٍ وَاحِدٍ، مُجَاهِدِينَ مَعًا بِنَفْسٍ وَاحِدَةٍ لإِيمَانِ الإِنْجِيلِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.28",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 28,
+          "text": "غَيْرَ مُخَوَّفِينَ بِشَيْءٍ مِنَ الْمُقَاوِمِينَ، الأَمْرُ الَّذِي هُوَ لَهُمْ بَيِّنَةٌ لِلْهَلاَكِ، وَأَمَّا لَكُمْ فَلِلْخَلاَصِ، وَذَلِكَ مِنَ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غَيْرَ مُخَوَّفِينَ بِشَيْءٍ مِنَ الْمُقَاوِمِينَ، الأَمْرُ الَّذِي هُوَ لَهُمْ بَيِّنَةٌ لِلْهَلاَكِ، وَأَمَّا لَكُمْ فَلِلْخَلاَصِ، وَذَلِكَ مِنَ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.29",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 29,
+          "text": "لأَنَّهُ قَدْ وُهِبَ لَكُمْ لأَجْلِ الْمَسِيحِ لَا أَنْ تُؤْمِنُوا بِهِ فَقَطْ، بَلْ أَيْضًا أَنْ تَتَأَلَّمُوا لأَجْلِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ قَدْ وُهِبَ لَكُمْ لأَجْلِ الْمَسِيحِ لَا أَنْ تُؤْمِنُوا بِهِ فَقَطْ، بَلْ أَيْضًا أَنْ تَتَأَلَّمُوا لأَجْلِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.1.30",
+          "book": "PHP",
+          "chapter": 1,
+          "verse": 30,
+          "text": "إِذْ لَكُمُ الْجِهَادُ عَيْنُهُ الَّذِي رَأَيْتُمُوهُ فِيَّ، وَالآنَ تَسْمَعُونَ فِيَّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذْ لَكُمُ الْجِهَادُ عَيْنُهُ الَّذِي رَأَيْتُمُوهُ فِيَّ، وَالآنَ تَسْمَعُونَ فِيَّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "مقدمة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "شكر وصلاة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "قيود بولس أدت إلى نشر الإنجيل",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:52.369Z"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "PHP",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "PHP.2.1",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 1,
+          "text": "فَإِنْ كَانَ وَعْظٌ مَا فِي الْمَسِيحِ. إِنْ كَانَتْ تَسْلِيَةٌ مَا لِلْمَحَبَّةِ. إِنْ كَانَتْ شَرِكَةٌ مَا فِي الرُّوحِ. إِنْ كَانَتْ أَحْشَاءٌ وَرَأْفَةٌ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنْ كَانَ وَعْظٌ مَا فِي الْمَسِيحِ. إِنْ كَانَتْ تَسْلِيَةٌ مَا لِلْمَحَبَّةِ. إِنْ كَانَتْ شَرِكَةٌ مَا فِي الرُّوحِ. إِنْ كَانَتْ أَحْشَاءٌ وَرَأْفَةٌ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "اتضاع المسيح",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.2",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 2,
+          "text": "فَتَمِّمُوا فَرَحِي حَتَّى تَفْتَكِرُوا فِكْرًا وَاحِدًا وَلَكُمْ مَحَبَّةٌ وَاحِدَةٌ بِنَفْسٍ وَاحِدَةٍ، مُفْتَكِرِينَ شَيْئًا وَاحِدًا،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَتَمِّمُوا فَرَحِي حَتَّى تَفْتَكِرُوا فِكْرًا وَاحِدًا وَلَكُمْ مَحَبَّةٌ وَاحِدَةٌ بِنَفْسٍ وَاحِدَةٍ، مُفْتَكِرِينَ شَيْئًا وَاحِدًا،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.3",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 3,
+          "text": "لَا شَيْئًا بِتَحَزُّبٍ أَوْ بِعُجْبٍ، بَلْ بِتَوَاضُعٍ، حَاسِبِينَ بَعْضُكُمُ الْبَعْضَ أَفْضَلَ مِنْ أَنْفُسِهِمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا شَيْئًا بِتَحَزُّبٍ أَوْ بِعُجْبٍ، بَلْ بِتَوَاضُعٍ، حَاسِبِينَ بَعْضُكُمُ الْبَعْضَ أَفْضَلَ مِنْ أَنْفُسِهِمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.4",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 4,
+          "text": "لَا تَنْظُرُوا كُلُّ وَاحِدٍ إِلَى مَا هُوَ لِنَفْسِهِ، بَلْ كُلُّ وَاحِدٍ إِلَى مَا هُوَ لآخَرِينَ أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَنْظُرُوا كُلُّ وَاحِدٍ إِلَى مَا هُوَ لِنَفْسِهِ، بَلْ كُلُّ وَاحِدٍ إِلَى مَا هُوَ لآخَرِينَ أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.5",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 5,
+          "text": "فَلْيَكُنْ فِيكُمْ هَذَا الْفِكْرُ الَّذِي فِي الْمَسِيحِ يَسُوعَ أَيْضًا:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَلْيَكُنْ فِيكُمْ هَذَا الْفِكْرُ الَّذِي فِي الْمَسِيحِ يَسُوعَ أَيْضًا:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.6",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 6,
+          "text": "الَّذِي إِذْ كَانَ فِي صُورَةِ اللهِ، لَمْ يَحْسِبْ خُلْسَةً أَنْ يَكُونَ مُعَادِلًا للهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي إِذْ كَانَ فِي صُورَةِ اللهِ، لَمْ يَحْسِبْ خُلْسَةً أَنْ يَكُونَ مُعَادِلًا للهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.7",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 7,
+          "text": "لكِنَّهُ أَخْلَى نَفْسَهُ، آخِذًا صُورَةَ عَبْدٍ، صَائِرًا فِي شِبْهِ النَّاسِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لكِنَّهُ أَخْلَى نَفْسَهُ، آخِذًا صُورَةَ عَبْدٍ، صَائِرًا فِي شِبْهِ النَّاسِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.8",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 8,
+          "text": "وَإِذْ وُجِدَ فِي الْهَيْئَةِ كَإِنْسَانٍ، وَضَعَ نَفْسَهُ وَأَطَاعَ حَتَّى الْمَوْتَ مَوْتَ الصَّلِيبِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِذْ وُجِدَ فِي الْهَيْئَةِ كَإِنْسَانٍ، وَضَعَ نَفْسَهُ وَأَطَاعَ حَتَّى الْمَوْتَ مَوْتَ الصَّلِيبِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.9",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 9,
+          "text": "لِذَلِكَ رَفَّعَهُ اللهُ أَيْضًا، وَأَعْطَاهُ اسْمًا فَوْقَ كُلِّ اسْمٍ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِذَلِكَ رَفَّعَهُ اللهُ أَيْضًا، وَأَعْطَاهُ اسْمًا فَوْقَ كُلِّ اسْمٍ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.10",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 10,
+          "text": "لِكَيْ تَجْثُوَ بِاسْمِ يَسُوعَ كُلُّ رُكْبَةٍ مِمَّنْ فِي السَّمَاءِ وَمَنْ عَلَى الأَرْضِ وَمَنْ تَحْتَ الأَرْضِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِكَيْ تَجْثُوَ بِاسْمِ يَسُوعَ كُلُّ رُكْبَةٍ مِمَّنْ فِي السَّمَاءِ وَمَنْ عَلَى الأَرْضِ وَمَنْ تَحْتَ الأَرْضِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.11",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 11,
+          "text": "وَيَعْتَرِفَ كُلُّ لِسَانٍ أَنَّ يَسُوعَ الْمَسِيحَ هُوَ رَبٌّ لِمَجْدِ اللهِ الآبِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَيَعْتَرِفَ كُلُّ لِسَانٍ أَنَّ يَسُوعَ الْمَسِيحَ هُوَ رَبٌّ لِمَجْدِ اللهِ الآبِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.12",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 12,
+          "text": "إِذًا يَا أَحِبَّائِي، كَمَا أَطَعْتُمْ كُلَّ حِينٍ، لَيْسَ كَمَا فِي حُضُورِي فَقَطْ، بَلِ الآنَ بِالأَوْلَى جِدًّا فِي غِيَابِي، تَمِّمُوا خَلاَصَكُمْ بِخَوْفٍ وَرِعْدَةٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذًا يَا أَحِبَّائِي، كَمَا أَطَعْتُمْ كُلَّ حِينٍ، لَيْسَ كَمَا فِي حُضُورِي فَقَطْ، بَلِ الآنَ بِالأَوْلَى جِدًّا فِي غِيَابِي، تَمِّمُوا خَلاَصَكُمْ بِخَوْفٍ وَرِعْدَةٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "أضيئوا في العالم",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.13",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 13,
+          "text": "لأَنَّ اللهَ هُوَ الْعَامِلُ فِيكُمْ أَنْ تُرِيدُوا وَأَنْ تَعْمَلُوا مِنْ أَجْلِ الْمَسَرَّةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ اللهَ هُوَ الْعَامِلُ فِيكُمْ أَنْ تُرِيدُوا وَأَنْ تَعْمَلُوا مِنْ أَجْلِ الْمَسَرَّةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.14",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 14,
+          "text": "اِفْعَلُوا كُلَّ شَيْءٍ بِلاَ دَمْدَمَةٍ وَلَا مُجَادَلَةٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِفْعَلُوا كُلَّ شَيْءٍ بِلاَ دَمْدَمَةٍ وَلَا مُجَادَلَةٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.15",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 15,
+          "text": "لِكَيْ تَكُونُوا بِلاَ لَوْمٍ، وَبُسَطَاءَ، أَوْلاَدًا للهِ بِلاَ عَيْبٍ فِي وَسَطِ جِيلٍ مُعَوَّجٍ وَمُلْتَوٍ، تُضِيئُونَ بَيْنَهُمْ كَأَنْوَارٍ فِي الْعَالَمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِكَيْ تَكُونُوا بِلاَ لَوْمٍ، وَبُسَطَاءَ، أَوْلاَدًا للهِ بِلاَ عَيْبٍ فِي وَسَطِ جِيلٍ مُعَوَّجٍ وَمُلْتَوٍ، تُضِيئُونَ بَيْنَهُمْ كَأَنْوَارٍ فِي الْعَالَمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.16",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 16,
+          "text": "مُتَمَسِّكِينَ بِكَلِمَةِ الْحَيَاةِ لافْتِخَارِي فِي يَوْمِ الْمَسِيحِ، بِأَنِّي لَمْ أَسْعَ بَاطِلًا وَلَا تَعِبْتُ بَاطِلًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مُتَمَسِّكِينَ بِكَلِمَةِ الْحَيَاةِ لافْتِخَارِي فِي يَوْمِ الْمَسِيحِ، بِأَنِّي لَمْ أَسْعَ بَاطِلًا وَلَا تَعِبْتُ بَاطِلًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.17",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 17,
+          "text": "لكِنَّنِي وَإِنْ كُنْتُ أَنْسَكِبُ أَيْضًا عَلَى ذَبِيحَةِ إِيمَانِكُمْ وَخِدْمَتِهِ، أُسَرُّ وَأَفْرَحُ مَعَكُمْ أَجْمَعِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لكِنَّنِي وَإِنْ كُنْتُ أَنْسَكِبُ أَيْضًا عَلَى ذَبِيحَةِ إِيمَانِكُمْ وَخِدْمَتِهِ، أُسَرُّ وَأَفْرَحُ مَعَكُمْ أَجْمَعِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.18",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 18,
+          "text": "وَبِهَذَا عَيْنِهِ كُونُوا أَنْتُمْ مَسْرُورِينَ أَيْضًا وَافْرَحُوا مَعِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَبِهَذَا عَيْنِهِ كُونُوا أَنْتُمْ مَسْرُورِينَ أَيْضًا وَافْرَحُوا مَعِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.19",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 19,
+          "text": "عَلَى أَنِّي أَرْجُو فِي الرَّبِّ يَسُوعَ أَنْ أُرْسِلَ إِلَيْكُمْ سَرِيعًا تِيمُوثَاوُسَ لِكَيْ تَطِيبَ نَفْسِي إِذَا عَرَفْتُ أَحْوَالَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عَلَى أَنِّي أَرْجُو فِي الرَّبِّ يَسُوعَ أَنْ أُرْسِلَ إِلَيْكُمْ سَرِيعًا تِيمُوثَاوُسَ لِكَيْ تَطِيبَ نَفْسِي إِذَا عَرَفْتُ أَحْوَالَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تيموثاوس وأبفرودتس",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.20",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 20,
+          "text": "لأَنْ لَيْسَ لِي أَحَدٌ آخَرُ نَظِيرُ نَفْسِي يَهْتَمُّ بِأَحْوَالِكُمْ بِإِخْلاَصٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنْ لَيْسَ لِي أَحَدٌ آخَرُ نَظِيرُ نَفْسِي يَهْتَمُّ بِأَحْوَالِكُمْ بِإِخْلاَصٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.21",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 21,
+          "text": "إِذِ الْجَمِيعُ يَطْلُبُونَ مَا هُوَ لأَنْفُسِهِمْ لَا مَا هُوَ لِيَسُوعَ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذِ الْجَمِيعُ يَطْلُبُونَ مَا هُوَ لأَنْفُسِهِمْ لَا مَا هُوَ لِيَسُوعَ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.22",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 22,
+          "text": "وَأَمَّا اخْتِبَارُهُ فَأَنْتُمْ تَعْرِفُونَ أَنَّهُ كَوَلَدٍ مَعَ أَبٍ خَدَمَ مَعِي لأَجْلِ الإِنْجِيلِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا اخْتِبَارُهُ فَأَنْتُمْ تَعْرِفُونَ أَنَّهُ كَوَلَدٍ مَعَ أَبٍ خَدَمَ مَعِي لأَجْلِ الإِنْجِيلِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.23",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 23,
+          "text": "هَذَا أَرْجُو أَنْ أُرْسِلَهُ أَوَّلَ مَا أَرَى أَحْوَالِي حَالًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هَذَا أَرْجُو أَنْ أُرْسِلَهُ أَوَّلَ مَا أَرَى أَحْوَالِي حَالًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.24",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 24,
+          "text": "وَأَثِقُ بِالرَّبِّ أَنِّي أَنَا أَيْضًا سَآتِي إِلَيْكُمْ سَرِيعًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَثِقُ بِالرَّبِّ أَنِّي أَنَا أَيْضًا سَآتِي إِلَيْكُمْ سَرِيعًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.25",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 25,
+          "text": "وَلكِنِّي حَسِبْتُ مِنَ اللاَّزِمِ أَنْ أُرْسِلَ إِلَيْكُمْ أَبَفْرُودِتُسَ أَخِي، وَالْعَامِلَ مَعِي، وَالْمُتَجَنِّدَ مَعِي، وَرَسُولَكُمْ، وَالْخَادِمَ لِحَاجَتِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنِّي حَسِبْتُ مِنَ اللاَّزِمِ أَنْ أُرْسِلَ إِلَيْكُمْ أَبَفْرُودِتُسَ أَخِي، وَالْعَامِلَ مَعِي، وَالْمُتَجَنِّدَ مَعِي، وَرَسُولَكُمْ، وَالْخَادِمَ لِحَاجَتِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.26",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 26,
+          "text": "إِذْ كَانَ مُشْتَاقًا إِلَى جَمِيعِكُمْ وَمَغْمُومًا، لأَنَّكُمْ سَمِعْتُمْ أَنَّهُ كَانَ مَرِيضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذْ كَانَ مُشْتَاقًا إِلَى جَمِيعِكُمْ وَمَغْمُومًا، لأَنَّكُمْ سَمِعْتُمْ أَنَّهُ كَانَ مَرِيضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.27",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 27,
+          "text": "فَإِنَّهُ مَرِضَ قَرِيبًا مِنَ الْمَوْتِ، لكِنَّ اللهَ رَحِمَهُ. وَلَيْسَ إِيَّاهُ وَحْدَهُ بَلْ إِيَّايَ أَيْضًا لِئَلاَّ يَكُونَ لِي حُزْنٌ عَلَى حُزْنٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّهُ مَرِضَ قَرِيبًا مِنَ الْمَوْتِ، لكِنَّ اللهَ رَحِمَهُ. وَلَيْسَ إِيَّاهُ وَحْدَهُ بَلْ إِيَّايَ أَيْضًا لِئَلاَّ يَكُونَ لِي حُزْنٌ عَلَى حُزْنٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.28",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 28,
+          "text": "فَأَرْسَلْتُهُ إِلَيْكُمْ بِأَوْفَرِ سُرْعَةٍ، حَتَّى إِذَا رَأَيْتُمُوهُ تَفْرَحُونَ أَيْضًا وَأَكُونُ أَنَا أَقَلَّ حُزْنًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَأَرْسَلْتُهُ إِلَيْكُمْ بِأَوْفَرِ سُرْعَةٍ، حَتَّى إِذَا رَأَيْتُمُوهُ تَفْرَحُونَ أَيْضًا وَأَكُونُ أَنَا أَقَلَّ حُزْنًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.29",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 29,
+          "text": "فَاقْبَلُوهُ فِي الرَّبِّ بِكُلِّ فَرَحٍ، وَلْيَكُنْ مِثْلُهُ مُكَرَّمًا عِنْدَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَاقْبَلُوهُ فِي الرَّبِّ بِكُلِّ فَرَحٍ، وَلْيَكُنْ مِثْلُهُ مُكَرَّمًا عِنْدَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.2.30",
+          "book": "PHP",
+          "chapter": 2,
+          "verse": 30,
+          "text": "لأَنَّهُ مِنْ أَجْلِ عَمَلِ الْمَسِيحِ قَارَبَ الْمَوْتَ، مُخَاطِرًا بِنَفْسِهِ، لِكَيْ يَجْبُرَ نُقْصَانَ خِدْمَتِكُمْ لِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ مِنْ أَجْلِ عَمَلِ الْمَسِيحِ قَارَبَ الْمَوْتَ، مُخَاطِرًا بِنَفْسِهِ، لِكَيْ يَجْبُرَ نُقْصَانَ خِدْمَتِكُمْ لِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "اتضاع المسيح",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "أضيئوا في العالم",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "تيموثاوس وأبفرودتس",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:53.172Z"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "PHP",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "PHP.3.1",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 1,
+          "text": "أَخِيرًا يَا إِخْوَتِي افْرَحُوا فِي الرَّبِّ. كِتَابَةُ هَذِهِ الأُمُورِ إِلَيْكُمْ لَيْسَتْ عَلَيَّ ثَقِيلَةً، وَأَمَّا لَكُمْ فَهِيَ مُؤَمِّنَةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَخِيرًا يَا إِخْوَتِي افْرَحُوا فِي الرَّبِّ. كِتَابَةُ هَذِهِ الأُمُورِ إِلَيْكُمْ لَيْسَتْ عَلَيَّ ثَقِيلَةً، وَأَمَّا لَكُمْ فَهِيَ مُؤَمِّنَةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "لا اتكال على الجسد",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.2",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 2,
+          "text": "اُنْظُرُوا الْكِلَابَ. انْظُرُوا فَعَلَةَ الشَّرِّ. انْظُرُوا الْقَطْعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اُنْظُرُوا الْكِلَابَ. انْظُرُوا فَعَلَةَ الشَّرِّ. انْظُرُوا الْقَطْعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.3",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 3,
+          "text": "لأَنَّنَا نَحْنُ الْخِتَانَ، الَّذِينَ نَعْبُدُ اللهَ بِالرُّوحِ، وَنَفْتَخِرُ فِي الْمَسِيحِ يَسُوعَ، وَلَا نَتَّكِلُ عَلَى الْجَسَدِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّنَا نَحْنُ الْخِتَانَ، الَّذِينَ نَعْبُدُ اللهَ بِالرُّوحِ، وَنَفْتَخِرُ فِي الْمَسِيحِ يَسُوعَ، وَلَا نَتَّكِلُ عَلَى الْجَسَدِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.4",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 4,
+          "text": "مَعَ أَنَّ لِي أَنْ أَتَّكِلَ عَلَى الْجَسَدِ أَيْضًا. إِنْ ظَنَّ وَاحِدٌ آخَرُ أَنْ يَتَّكِلَ عَلَى الْجَسَدِ فَأَنَا بِالأَوْلَى.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَعَ أَنَّ لِي أَنْ أَتَّكِلَ عَلَى الْجَسَدِ أَيْضًا. إِنْ ظَنَّ وَاحِدٌ آخَرُ أَنْ يَتَّكِلَ عَلَى الْجَسَدِ فَأَنَا بِالأَوْلَى.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.5",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 5,
+          "text": "مِنْ جِهَةِ الْخِتَانِ مَخْتُونٌ فِي الْيَوْمِ الثَّامِنِ، مِنْ جِنْسِ إِسْرَائِيلَ، مِنْ سِبْطِ بِنْيَامِينَ، عِبْرَانِيٌّ مِنَ الْعِبْرَانِيِّينَ. مِنْ جِهَةِ النَّامُوسِ فَرِّيسِيٌّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْ جِهَةِ الْخِتَانِ مَخْتُونٌ فِي الْيَوْمِ الثَّامِنِ، مِنْ جِنْسِ إِسْرَائِيلَ، مِنْ سِبْطِ بِنْيَامِينَ، عِبْرَانِيٌّ مِنَ الْعِبْرَانِيِّينَ. مِنْ جِهَةِ النَّامُوسِ فَرِّيسِيٌّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.6",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 6,
+          "text": "مِنْ جِهَةِ الْغَيْرَةِ مُضْطَهِدُ الْكَنِيسَةِ. مِنْ جِهَةِ الْبِرِّ الَّذِي فِي النَّامُوسِ بِلاَ لَوْمٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْ جِهَةِ الْغَيْرَةِ مُضْطَهِدُ الْكَنِيسَةِ. مِنْ جِهَةِ الْبِرِّ الَّذِي فِي النَّامُوسِ بِلاَ لَوْمٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.7",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 7,
+          "text": "لكِنْ مَا كَانَ لِي رِبْحًا، فَهَذَا قَدْ حَسِبْتُهُ مِنْ أَجْلِ الْمَسِيحِ خَسَارَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لكِنْ مَا كَانَ لِي رِبْحًا، فَهَذَا قَدْ حَسِبْتُهُ مِنْ أَجْلِ الْمَسِيحِ خَسَارَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.8",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 8,
+          "text": "بَلْ إِنِّي أَحْسِبُ كُلَّ شَيْءٍ أَيْضًا خَسَارَةً مِنْ أَجْلِ فَضْلِ مَعْرِفَةِ الْمَسِيحِ يَسُوعَ رَبِّي، الَّذِي مِنْ أَجْلِهِ خَسِرْتُ كُلَّ الأَشْيَاءِ، وَأَنَا أَحْسِبُهَا نُفَايَةً لِكَيْ أَرْبَحَ الْمَسِيحَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بَلْ إِنِّي أَحْسِبُ كُلَّ شَيْءٍ أَيْضًا خَسَارَةً مِنْ أَجْلِ فَضْلِ مَعْرِفَةِ الْمَسِيحِ يَسُوعَ رَبِّي، الَّذِي مِنْ أَجْلِهِ خَسِرْتُ كُلَّ الأَشْيَاءِ، وَأَنَا أَحْسِبُهَا نُفَايَةً لِكَيْ أَرْبَحَ الْمَسِيحَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.9",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 9,
+          "text": "وَأُوجَدَ فِيهِ، وَلَيْسَ لِي بِرِّي الَّذِي مِنَ النَّامُوسِ، بَلِ الَّذِي بِإِيمَانِ الْمَسِيحِ، الْبِرُّ الَّذِي مِنَ اللهِ بِالإِيمَانِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأُوجَدَ فِيهِ، وَلَيْسَ لِي بِرِّي الَّذِي مِنَ النَّامُوسِ، بَلِ الَّذِي بِإِيمَانِ الْمَسِيحِ، الْبِرُّ الَّذِي مِنَ اللهِ بِالإِيمَانِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.10",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 10,
+          "text": "لأَعْرِفَهُ، وَقُوَّةَ قِيَامَتِهِ، وَشَرِكَةَ آلاَمِهِ، مُتَشَبِّهًا بِمَوْتِهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَعْرِفَهُ، وَقُوَّةَ قِيَامَتِهِ، وَشَرِكَةَ آلاَمِهِ، مُتَشَبِّهًا بِمَوْتِهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.11",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 11,
+          "text": "لَعَلِّي أَبْلُغُ إِلَى قِيَامَةِ الأَمْوَاتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَعَلِّي أَبْلُغُ إِلَى قِيَامَةِ الأَمْوَاتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.12",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 12,
+          "text": "لَيْسَ أَنِّي قَدْ نِلْتُ أَوْ صِرْتُ كَامِلًا، وَلكِنِّي أَسْعَى لَعَلِّي أُدْرِكُ الَّذِي لأَجْلِهِ أَدْرَكَنِي أَيْضًا الْمَسِيحُ يَسُوعُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَ أَنِّي قَدْ نِلْتُ أَوْ صِرْتُ كَامِلًا، وَلكِنِّي أَسْعَى لَعَلِّي أُدْرِكُ الَّذِي لأَجْلِهِ أَدْرَكَنِي أَيْضًا الْمَسِيحُ يَسُوعُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "السعي نحو الهدف",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.13",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 13,
+          "text": "أَيُّهَا الإِخْوَةُ، أَنَا لَسْتُ أَحْسِبُ نَفْسِي أَنِّي قَدْ أَدْرَكْتُ. وَلكِنِّي أَفْعَلُ شَيْئًا وَاحِدًا: إِذْ أَنَا أَنْسَى مَا هُوَ وَرَاءُ وَأَمْتَدُّ إِلَى مَا هُوَ قُدَّامُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا الإِخْوَةُ، أَنَا لَسْتُ أَحْسِبُ نَفْسِي أَنِّي قَدْ أَدْرَكْتُ. وَلكِنِّي أَفْعَلُ شَيْئًا وَاحِدًا: إِذْ أَنَا أَنْسَى مَا هُوَ وَرَاءُ وَأَمْتَدُّ إِلَى مَا هُوَ قُدَّامُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.14",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 14,
+          "text": "أَسْعَى نَحْوَ الْغَرَضِ لأَجْلِ جَعَالَةِ دَعْوَةِ اللهِ الْعُلْيَا فِي الْمَسِيحِ يَسُوعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَسْعَى نَحْوَ الْغَرَضِ لأَجْلِ جَعَالَةِ دَعْوَةِ اللهِ الْعُلْيَا فِي الْمَسِيحِ يَسُوعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.15",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 15,
+          "text": "فَلْيَفْتَكِرْ هَذَا جَمِيعُ الْكَامِلِينَ مِنَّا، وَإِنِ افْتَكَرْتُمْ شَيْئًا بِخِلاَفِهِ فَاللهُ سَيُعْلِنُ لَكُمْ هَذَا أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَلْيَفْتَكِرْ هَذَا جَمِيعُ الْكَامِلِينَ مِنَّا، وَإِنِ افْتَكَرْتُمْ شَيْئًا بِخِلاَفِهِ فَاللهُ سَيُعْلِنُ لَكُمْ هَذَا أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.16",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 16,
+          "text": "وَأَمَّا مَا قَدْ أَدْرَكْنَاهُ، فَلْنَسْلُكْ بِحَسَبِ ذَلِكَ الْقَانُونِ عَيْنِهِ، وَنَفْتَكِرْ ذَلِكَ عَيْنَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا مَا قَدْ أَدْرَكْنَاهُ، فَلْنَسْلُكْ بِحَسَبِ ذَلِكَ الْقَانُونِ عَيْنِهِ، وَنَفْتَكِرْ ذَلِكَ عَيْنَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.17",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 17,
+          "text": "كُونُوا مُتَمَثِّلِينَ بِي مَعًا أَيُّهَا الإِخْوَةُ، وَلاَحِظُوا الَّذِينَ يَسِيرُونَ هَكَذَا كَمَا نَحْنُ عِنْدَكُمْ قُدْوَةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كُونُوا مُتَمَثِّلِينَ بِي مَعًا أَيُّهَا الإِخْوَةُ، وَلاَحِظُوا الَّذِينَ يَسِيرُونَ هَكَذَا كَمَا نَحْنُ عِنْدَكُمْ قُدْوَةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.18",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 18,
+          "text": "لأَنَّ كَثِيرِينَ يَسِيرُونَ مِمَّنْ كُنْتُ أَذْكُرُهُمْ لَكُمْ مِرَارًا، وَالآنَ أَذْكُرُهُمْ أَيْضًا بَاكِيًا، وَهُمْ أَعْدَاءُ صَلِيبِ الْمَسِيحِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّ كَثِيرِينَ يَسِيرُونَ مِمَّنْ كُنْتُ أَذْكُرُهُمْ لَكُمْ مِرَارًا، وَالآنَ أَذْكُرُهُمْ أَيْضًا بَاكِيًا، وَهُمْ أَعْدَاءُ صَلِيبِ الْمَسِيحِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.19",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 19,
+          "text": "الَّذِينَ نِهَايَتُهُمُ الْهَلاَكُ، الَّذِينَ إِلَهُهُمْ بَطْنُهُمْ وَمَجْدُهُمْ فِي خِزْيِهِمِ، الَّذِينَ يَفْتَكِرُونَ فِي الأَرْضِيَّاتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِينَ نِهَايَتُهُمُ الْهَلاَكُ، الَّذِينَ إِلَهُهُمْ بَطْنُهُمْ وَمَجْدُهُمْ فِي خِزْيِهِمِ، الَّذِينَ يَفْتَكِرُونَ فِي الأَرْضِيَّاتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.20",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 20,
+          "text": "فَإِنَّ سِيرَتَنَا نَحْنُ هِيَ فِي السَّمَاوَاتِ، الَّتِي مِنْهَا أَيْضًا نَنْتَظِرُ مُخَلِّصًا هُوَ الرَّبُّ يَسُوعُ الْمَسِيحُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّ سِيرَتَنَا نَحْنُ هِيَ فِي السَّمَاوَاتِ، الَّتِي مِنْهَا أَيْضًا نَنْتَظِرُ مُخَلِّصًا هُوَ الرَّبُّ يَسُوعُ الْمَسِيحُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.3.21",
+          "book": "PHP",
+          "chapter": 3,
+          "verse": 21,
+          "text": "الَّذِي سَيُغَيِّرُ شَكْلَ جَسَدِ تَوَاضُعِنَا لِيَكُونَ عَلَى صُورَةِ جَسَدِ مَجْدِهِ، بِحَسَبِ عَمَلِ اسْتِطَاعَتِهِ أَنْ يُخْضِعَ لِنَفْسِهِ كُلَّ شَيْءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي سَيُغَيِّرُ شَكْلَ جَسَدِ تَوَاضُعِنَا لِيَكُونَ عَلَى صُورَةِ جَسَدِ مَجْدِهِ، بِحَسَبِ عَمَلِ اسْتِطَاعَتِهِ أَنْ يُخْضِعَ لِنَفْسِهِ كُلَّ شَيْءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "لا اتكال على الجسد",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "السعي نحو الهدف",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:53.994Z"
+    },
+    "4": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "PHP",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "PHP.4.1",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 1,
+          "text": "إِذًا يَا إِخْوَتِي الأَحِبَّاءَ وَالْمُشْتَاقَ إِلَيْهِمْ، يَا سُرُورِي وَإِكْلِيلِي، اثْبُتُوا هَكَذَا فِي الرَّبِّ أَيُّهَا الأَحِبَّاءُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذًا يَا إِخْوَتِي الأَحِبَّاءَ وَالْمُشْتَاقَ إِلَيْهِمْ، يَا سُرُورِي وَإِكْلِيلِي، اثْبُتُوا هَكَذَا فِي الرَّبِّ أَيُّهَا الأَحِبَّاءُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: السعي نحو الهدف",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.2",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 2,
+          "text": "أَطْلُبُ إِلَى أَفُودِيَةَ وَأَطْلُبُ إِلَى سِنْتِيخِي أَنْ تَفْتَكِرَا فِكْرًا وَاحِدًا فِي الرَّبِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَطْلُبُ إِلَى أَفُودِيَةَ وَأَطْلُبُ إِلَى سِنْتِيخِي أَنْ تَفْتَكِرَا فِكْرًا وَاحِدًا فِي الرَّبِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "نصائح",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.3",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 3,
+          "text": "نَعَمْ أَسْأَلُكَ أَنْتَ أَيْضًا، يَا شَرِيكِي الْمُخْلِصَ، سَاعِدْ هَاتَيْنِ اللَّتَيْنِ جَاهَدَتَا مَعِي فِي الإِنْجِيلِ، مَعَ أَكْلِيمَنْدُسَ أَيْضًا وَبَاقِي الْعَامِلِينَ مَعِي، الَّذِينَ أَسْمَاؤُهُمْ فِي سِفْرِ الْحَيَاةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نَعَمْ أَسْأَلُكَ أَنْتَ أَيْضًا، يَا شَرِيكِي الْمُخْلِصَ، سَاعِدْ هَاتَيْنِ اللَّتَيْنِ جَاهَدَتَا مَعِي فِي الإِنْجِيلِ، مَعَ أَكْلِيمَنْدُسَ أَيْضًا وَبَاقِي الْعَامِلِينَ مَعِي، الَّذِينَ أَسْمَاؤُهُمْ فِي سِفْرِ الْحَيَاةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.4",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 4,
+          "text": "اِفْرَحُوا فِي الرَّبِّ كُلَّ حِينٍ، وَأَقُولُ أَيْضًا: افْرَحُوا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اِفْرَحُوا فِي الرَّبِّ كُلَّ حِينٍ، وَأَقُولُ أَيْضًا: افْرَحُوا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.5",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 5,
+          "text": "لِيَكُنْ حِلْمُكُمْ مَعْرُوفًا عِنْدَ جَمِيعِ النَّاسِ. اَلرَّبُّ قَرِيبٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِيَكُنْ حِلْمُكُمْ مَعْرُوفًا عِنْدَ جَمِيعِ النَّاسِ. اَلرَّبُّ قَرِيبٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.6",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 6,
+          "text": "لَا تَهْتَمُّوا بِشَيْءٍ، بَلْ فِي كُلِّ شَيْءٍ بِالصَّلاَةِ وَالدُّعَاءِ مَعَ الشُّكْرِ، لِتُعْلَمْ طِلْبَاتُكُمْ لَدَى اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَهْتَمُّوا بِشَيْءٍ، بَلْ فِي كُلِّ شَيْءٍ بِالصَّلاَةِ وَالدُّعَاءِ مَعَ الشُّكْرِ، لِتُعْلَمْ طِلْبَاتُكُمْ لَدَى اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.7",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 7,
+          "text": "وَسَلاَمُ اللهِ الَّذِي يَفُوقُ كُلَّ عَقْلٍ، يَحْفَظُ قُلُوبَكُمْ وَأَفْكَارَكُمْ فِي الْمَسِيحِ يَسُوعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَسَلاَمُ اللهِ الَّذِي يَفُوقُ كُلَّ عَقْلٍ، يَحْفَظُ قُلُوبَكُمْ وَأَفْكَارَكُمْ فِي الْمَسِيحِ يَسُوعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.8",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 8,
+          "text": "أَخِيرًا أَيُّهَا الإِخْوَةُ كُلُّ مَا هُوَ حَقٌ، كُلُّ مَا هُوَ جَلِيلٌ، كُلُّ مَا هُوَ عَادِلٌ، كُلُّ مَا هُوَ طَاهِرٌ، كُلُّ مَا هُوَ مُسِرٌّ، كُلُّ مَا صِيتُهُ حَسَنٌ، إِنْ كَانَتْ فَضِيلَةٌ وَإِنْ كَانَ مَدْحٌ، فَفِي هَذِهِ افْتَكِرُوا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَخِيرًا أَيُّهَا الإِخْوَةُ كُلُّ مَا هُوَ حَقٌ، كُلُّ مَا هُوَ جَلِيلٌ، كُلُّ مَا هُوَ عَادِلٌ، كُلُّ مَا هُوَ طَاهِرٌ، كُلُّ مَا هُوَ مُسِرٌّ، كُلُّ مَا صِيتُهُ حَسَنٌ، إِنْ كَانَتْ فَضِيلَةٌ وَإِنْ كَانَ مَدْحٌ، فَفِي هَذِهِ افْتَكِرُوا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.9",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 9,
+          "text": "وَمَا تَعَلَّمْتُمُوهُ، وَتَسَلَّمْتُمُوهُ، وَسَمِعْتُمُوهُ، وَرَأَيْتُمُوهُ فِيَّ، فَهَذَا افْعَلُوا، وَإِلَهُ السَّلاَمِ يَكُونُ مَعَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَا تَعَلَّمْتُمُوهُ، وَتَسَلَّمْتُمُوهُ، وَسَمِعْتُمُوهُ، وَرَأَيْتُمُوهُ فِيَّ، فَهَذَا افْعَلُوا، وَإِلَهُ السَّلاَمِ يَكُونُ مَعَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.10",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 10,
+          "text": "ثُمَّ إِنِّي فَرِحْتُ بِالرَّبِّ جِدًّا لأَنَّكُمُ الآنَ قَدْ أَزْهَرَ أَيْضًا مَرَّةً اعْتِنَاؤُكُمْ بِي الَّذِي كُنْتُمْ تَعْتَنُونَهُ، وَلكِنْ لَمْ تَكُنْ لَكُمْ فُرْصَةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثُمَّ إِنِّي فَرِحْتُ بِالرَّبِّ جِدًّا لأَنَّكُمُ الآنَ قَدْ أَزْهَرَ أَيْضًا مَرَّةً اعْتِنَاؤُكُمْ بِي الَّذِي كُنْتُمْ تَعْتَنُونَهُ، وَلكِنْ لَمْ تَكُنْ لَكُمْ فُرْصَةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الشكر على عطاياهم",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.11",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 11,
+          "text": "لَيْسَ أَنِّي أَقُولُ مِنْ جِهَةِ احْتِيَاجٍ، فَإِنِّي قَدْ تَعَلَّمْتُ أَنْ أَكُونَ مُكْتَفِيًا بِمَا أَنَا فِيهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَ أَنِّي أَقُولُ مِنْ جِهَةِ احْتِيَاجٍ، فَإِنِّي قَدْ تَعَلَّمْتُ أَنْ أَكُونَ مُكْتَفِيًا بِمَا أَنَا فِيهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.12",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 12,
+          "text": "أَعْرِفُ أَنْ أَتَّضِعَ وَأَعْرِفُ أَيْضًا أَنْ أَسْتَفْضِلَ. فِي كُلِّ شَيْءٍ وَفِي جَمِيعِ الأَشْيَاءِ قَدْ تَدَرَّبْتُ أَنْ أَشْبَعَ وَأَنْ أَجُوعَ، وَأَنْ أَسْتَفْضِلَ وَأَنْ أَنْقُصَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَعْرِفُ أَنْ أَتَّضِعَ وَأَعْرِفُ أَيْضًا أَنْ أَسْتَفْضِلَ. فِي كُلِّ شَيْءٍ وَفِي جَمِيعِ الأَشْيَاءِ قَدْ تَدَرَّبْتُ أَنْ أَشْبَعَ وَأَنْ أَجُوعَ، وَأَنْ أَسْتَفْضِلَ وَأَنْ أَنْقُصَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.13",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 13,
+          "text": "أَسْتَطِيعُ كُلَّ شَيْءٍ فِي الْمَسِيحِ الَّذِي يُقَوِّينِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَسْتَطِيعُ كُلَّ شَيْءٍ فِي الْمَسِيحِ الَّذِي يُقَوِّينِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.14",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 14,
+          "text": "غَيْرَ أَنَّكُمْ فَعَلْتُمْ حَسَنًا إِذِ اشْتَرَكْتُمْ فِي ضِيقَتِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غَيْرَ أَنَّكُمْ فَعَلْتُمْ حَسَنًا إِذِ اشْتَرَكْتُمْ فِي ضِيقَتِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.15",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 15,
+          "text": "وَأَنْتُمْ أَيْضًا تَعْلَمُونَ أَيُّهَا الْفِيلِبِّيُّونَ أَنَّهُ فِي بَدَاءَةِ الإِنْجِيلِ، لَمَّا خَرَجْتُ مِنْ مَكِدُونِيَّةَ، لَمْ تُشَارِكْنِي كَنِيسَةٌ وَاحِدَةٌ فِي حِسَابِ الْعَطَاءِ وَالأَخْذِ إِلاَّ أَنْتُمْ وَحْدَكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَنْتُمْ أَيْضًا تَعْلَمُونَ أَيُّهَا الْفِيلِبِّيُّونَ أَنَّهُ فِي بَدَاءَةِ الإِنْجِيلِ، لَمَّا خَرَجْتُ مِنْ مَكِدُونِيَّةَ، لَمْ تُشَارِكْنِي كَنِيسَةٌ وَاحِدَةٌ فِي حِسَابِ الْعَطَاءِ وَالأَخْذِ إِلاَّ أَنْتُمْ وَحْدَكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.16",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 16,
+          "text": "فَإِنَّكُمْ فِي تَسَالُونِيكِي أَيْضًا أَرْسَلْتُمْ إِلَيَّ مَرَّةً وَمَرَّتَيْنِ لِحَاجَتِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّكُمْ فِي تَسَالُونِيكِي أَيْضًا أَرْسَلْتُمْ إِلَيَّ مَرَّةً وَمَرَّتَيْنِ لِحَاجَتِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.17",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 17,
+          "text": "لَيْسَ أَنِّي أَطْلُبُ الْعَطِيَّةَ، بَلْ أَطْلُبُ الثَّمَرَ الْمُتَكَاثِرَ لِحِسَابِكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَيْسَ أَنِّي أَطْلُبُ الْعَطِيَّةَ، بَلْ أَطْلُبُ الثَّمَرَ الْمُتَكَاثِرَ لِحِسَابِكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.18",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 18,
+          "text": "وَلكِنِّي قَدِ اسْتَوْفَيْتُ كُلَّ شَيْءٍ وَاسْتَفْضَلْتُ. قَدِ امْتَلأْتُ إِذْ قَبِلْتُ مِنْ أَبَفْرُودِتُسَ الأَشْيَاءَ الَّتِي مِنْ عِنْدِكُمْ، نَسِيمَ رَائِحَةٍ طَيِّبَةٍ، ذَبِيحَةً مَقْبُولَةً مَرْضِيَّةً عِنْدَ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنِّي قَدِ اسْتَوْفَيْتُ كُلَّ شَيْءٍ وَاسْتَفْضَلْتُ. قَدِ امْتَلأْتُ إِذْ قَبِلْتُ مِنْ أَبَفْرُودِتُسَ الأَشْيَاءَ الَّتِي مِنْ عِنْدِكُمْ، نَسِيمَ رَائِحَةٍ طَيِّبَةٍ، ذَبِيحَةً مَقْبُولَةً مَرْضِيَّةً عِنْدَ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.19",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 19,
+          "text": "فَيَمْلأُ إِلَهِي كُلَّ احْتِيَاجِكُمْ بِحَسَبِ غِنَاهُ فِي الْمَجْدِ فِي الْمَسِيحِ يَسُوعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَيَمْلأُ إِلَهِي كُلَّ احْتِيَاجِكُمْ بِحَسَبِ غِنَاهُ فِي الْمَجْدِ فِي الْمَسِيحِ يَسُوعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.20",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 20,
+          "text": "وِللهِ وَأَبِينَا الْمَجْدُ إِلَى دَهْرِ الدَّاهِرِينَ. آمِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وِللهِ وَأَبِينَا الْمَجْدُ إِلَى دَهْرِ الدَّاهِرِينَ. آمِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.21",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 21,
+          "text": "سَلِّمُوا عَلَى كُلِّ قِدِّيسٍ فِي الْمَسِيحِ يَسُوعَ. يُسَلِّمُ عَلَيْكُمُ الإِخْوَةُ الَّذِينَ مَعِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "سَلِّمُوا عَلَى كُلِّ قِدِّيسٍ فِي الْمَسِيحِ يَسُوعَ. يُسَلِّمُ عَلَيْكُمُ الإِخْوَةُ الَّذِينَ مَعِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تحيات ختامية",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.22",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 22,
+          "text": "يُسَلِّمُ عَلَيْكُمْ جَمِيعُ الْقِدِّيسِينَ وَلَا سِيَّمَا الَّذِينَ مِنْ بَيْتِ قَيْصَرَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُسَلِّمُ عَلَيْكُمْ جَمِيعُ الْقِدِّيسِينَ وَلَا سِيَّمَا الَّذِينَ مِنْ بَيْتِ قَيْصَرَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PHP.4.23",
+          "book": "PHP",
+          "chapter": 4,
+          "verse": 23,
+          "text": "نِعْمَةُ رَبِّنَا يَسُوعَ الْمَسِيحِ مَعَ جَمِيعِكُمْ. آمِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نِعْمَةُ رَبِّنَا يَسُوعَ الْمَسِيحِ مَعَ جَمِيعِكُمْ. آمِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: السعي نحو الهدف",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "نصائح",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "الشكر على عطاياهم",
+          "level": 2
+        },
+        {
+          "beforeVerse": 21,
+          "text": "تحيات ختامية",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:54.806Z"
+    }
+  }
+}

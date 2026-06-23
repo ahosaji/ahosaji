@@ -1,0 +1,35 @@
+{
+  "book": "ESG",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "vulgate-rechapter",
+    "en": "rahlfs-lxx-additions"
+  },
+  "scope": "comprehensive-overflow-v1",
+  "notes": [
+    "ESG (Esther Greek additions) sits at a point of double divergence: the Vulgate places these as Esther chapters 10-16, while English publishes them as Greek additions A-F numbered 1-6. We re-chapter the Arabic at extraction time so both translations use the additions A-F scheme — see ingest/data/snapshots/ar/ESG.json _provenance block.",
+    "After re-chaptering, only 4 of 6 chapters diverge in verse count, all with small (±1-6) deltas reflecting Vulgate prayer/letter expansions vs the LXX:",
+    "  ESG.1 (Addition A — Mordecai's dream): ar 17v vs en 18v. Vulgate compresses one verse.",
+    "  ESG.3 (Addition C — Mordecai+Esther prayers): ar 30v vs en 24v. Vulgate's prayer text is famously longer.",
+    "  ESG.4 (Addition D — Esther's audience): ar 19v vs en 22v. en/LXX expands the audience-with-the-king scene.",
+    "  ESG.5 (Addition E — second royal letter): ar 24v vs en 21v. Vulgate adds 3 verses of imperial flourish."
+  ],
+  "mappings": [
+    { "en": "ESG.1.18", "ar": null },
+
+    { "ar": "ESG.3.25", "en": null },
+    { "ar": "ESG.3.26", "en": null },
+    { "ar": "ESG.3.27", "en": null },
+    { "ar": "ESG.3.28", "en": null },
+    { "ar": "ESG.3.29", "en": null },
+    { "ar": "ESG.3.30", "en": "ESG.3.24" },
+
+    { "en": "ESG.4.20", "ar": null },
+    { "en": "ESG.4.21", "ar": null },
+    { "en": "ESG.4.22", "ar": "ESG.4.19" },
+
+    { "ar": "ESG.5.22", "en": null },
+    { "ar": "ESG.5.23", "en": null },
+    { "ar": "ESG.5.24", "en": "ESG.5.21" }
+  ]
+}

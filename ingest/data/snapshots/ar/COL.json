@@ -1,0 +1,2195 @@
+{
+  "usfm": "COL",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "COL",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "COL.1.1",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 1,
+          "text": "بُولُسُ، رَسُولُ يَسُوعَ الْمَسِيحِ بِمَشِيئَةِ اللهِ، وَتِيمُوثَاوُسُ الأَخُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بُولُسُ، رَسُولُ يَسُوعَ الْمَسِيحِ بِمَشِيئَةِ اللهِ، وَتِيمُوثَاوُسُ الأَخُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "مقدمة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.2",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 2,
+          "text": "إِلَى الْقِدِّيسِينَ فِي كُولُوسِّي، وَالإِخْوَةِ الْمُؤْمِنِينَ فِي الْمَسِيحِ: نِعْمَةٌ لَكُمْ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالرَّبِّ يَسُوعَ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِلَى الْقِدِّيسِينَ فِي كُولُوسِّي، وَالإِخْوَةِ الْمُؤْمِنِينَ فِي الْمَسِيحِ: نِعْمَةٌ لَكُمْ وَسَلاَمٌ مِنَ اللهِ أَبِينَا وَالرَّبِّ يَسُوعَ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.3",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 3,
+          "text": "نَشْكُرُ اللهَ وَأَبَا رَبِّنَا يَسُوعَ الْمَسِيحِ كُلَّ حِينٍ، مُصَلِّينَ لأَجْلِكُمْ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "نَشْكُرُ اللهَ وَأَبَا رَبِّنَا يَسُوعَ الْمَسِيحِ كُلَّ حِينٍ، مُصَلِّينَ لأَجْلِكُمْ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "شكر وصلاة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.4",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 4,
+          "text": "إِذْ سَمِعْنَا إِيمَانَكُمْ بِالْمَسِيحِ يَسُوعَ، وَمَحَبَّتَكُمْ لِجَمِيعِ الْقِدِّيسِينَ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذْ سَمِعْنَا إِيمَانَكُمْ بِالْمَسِيحِ يَسُوعَ، وَمَحَبَّتَكُمْ لِجَمِيعِ الْقِدِّيسِينَ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.5",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 5,
+          "text": "مِنْ أَجْلِ الرَّجَاءِ الْمَوْضُوعِ لَكُمْ فِي السَّمَاوَاتِ، الَّذِي سَمِعْتُمْ بِهِ قَبْلًا فِي كَلِمَةِ حَقِّ الإِنْجِيلِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْ أَجْلِ الرَّجَاءِ الْمَوْضُوعِ لَكُمْ فِي السَّمَاوَاتِ، الَّذِي سَمِعْتُمْ بِهِ قَبْلًا فِي كَلِمَةِ حَقِّ الإِنْجِيلِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.6",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 6,
+          "text": "الَّذِي قَدْ حَضَرَ إِلَيْكُمْ كَمَا فِي كُلِّ الْعَالَمِ أَيْضًا، وَهُوَ مُثْمِرٌ كَمَا فِيكُمْ أَيْضًا مُنْذُ يَوْمَ سَمِعْتُمْ وَعَرَفْتُمْ نِعْمَةَ اللهِ بِالْحَقِيقَةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي قَدْ حَضَرَ إِلَيْكُمْ كَمَا فِي كُلِّ الْعَالَمِ أَيْضًا، وَهُوَ مُثْمِرٌ كَمَا فِيكُمْ أَيْضًا مُنْذُ يَوْمَ سَمِعْتُمْ وَعَرَفْتُمْ نِعْمَةَ اللهِ بِالْحَقِيقَةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.7",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 7,
+          "text": "كَمَا تَعَلَّمْتُمْ أَيْضًا مِنْ أَبَفْرَاسَ الْعَبْدِ الْحَبِيبِ مَعَنَا، الَّذِي هُوَ خَادِمٌ أَمِينٌ لِلْمَسِيحِ لأَجْلِكُمُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَمَا تَعَلَّمْتُمْ أَيْضًا مِنْ أَبَفْرَاسَ الْعَبْدِ الْحَبِيبِ مَعَنَا، الَّذِي هُوَ خَادِمٌ أَمِينٌ لِلْمَسِيحِ لأَجْلِكُمُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.8",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 8,
+          "text": "الَّذِي أَخْبَرَنَا أَيْضًا بِمَحَبَّتِكُمْ فِي الرُّوحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي أَخْبَرَنَا أَيْضًا بِمَحَبَّتِكُمْ فِي الرُّوحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.9",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 9,
+          "text": "مِنْ أَجْلِ ذَلِكَ نَحْنُ أَيْضًا، مُنْذُ يَوْمَ سَمِعْنَا، لَمْ نَزَلْ مُصَلِّينَ وَطَالِبِينَ لأَجْلِكُمْ أَنْ تَمْتَلِئُوا مِنْ مَعْرِفَةِ مَشِيئَتِهِ، فِي كُلِّ حِكْمَةٍ وَفَهْمٍ رُوحِيٍّ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مِنْ أَجْلِ ذَلِكَ نَحْنُ أَيْضًا، مُنْذُ يَوْمَ سَمِعْنَا، لَمْ نَزَلْ مُصَلِّينَ وَطَالِبِينَ لأَجْلِكُمْ أَنْ تَمْتَلِئُوا مِنْ مَعْرِفَةِ مَشِيئَتِهِ، فِي كُلِّ حِكْمَةٍ وَفَهْمٍ رُوحِيٍّ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.10",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 10,
+          "text": "لِتَسْلُكُوا كَمَا يَحِقُّ لِلرَّبِّ، فِي كُلِّ رِضًى، مُثْمِرِينَ فِي كُلِّ عَمَلٍ صَالِحٍ، وَنَامِينَ فِي مَعْرِفَةِ اللهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِتَسْلُكُوا كَمَا يَحِقُّ لِلرَّبِّ، فِي كُلِّ رِضًى، مُثْمِرِينَ فِي كُلِّ عَمَلٍ صَالِحٍ، وَنَامِينَ فِي مَعْرِفَةِ اللهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.11",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 11,
+          "text": "مُتَقَوِّينَ بِكُلِّ قُوَّةٍ بِحَسَبِ قُدْرَةِ مَجْدِهِ، لِكُلِّ صَبْرٍ وَطُولِ أَنَاةٍ بِفَرَحٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مُتَقَوِّينَ بِكُلِّ قُوَّةٍ بِحَسَبِ قُدْرَةِ مَجْدِهِ، لِكُلِّ صَبْرٍ وَطُولِ أَنَاةٍ بِفَرَحٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.12",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 12,
+          "text": "شَاكِرِينَ الآبَ الَّذِي أَهَّلَنَا لِشَرِكَةِ مِيرَاثِ الْقِدِّيسِينَ فِي النُّورِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "شَاكِرِينَ الآبَ الَّذِي أَهَّلَنَا لِشَرِكَةِ مِيرَاثِ الْقِدِّيسِينَ فِي النُّورِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.13",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 13,
+          "text": "الَّذِي أَنْقَذَنَا مِنْ سُلْطَانِ الظُّلْمَةِ، وَنَقَلَنَا إِلَى مَلَكُوتِ ابْنِ مَحَبَّتِهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي أَنْقَذَنَا مِنْ سُلْطَانِ الظُّلْمَةِ، وَنَقَلَنَا إِلَى مَلَكُوتِ ابْنِ مَحَبَّتِهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.14",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 14,
+          "text": "الَّذِي لَنَا فِيهِ الْفِدَاءُ، بِدَمِهِ غُفْرَانُ الْخَطَايَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي لَنَا فِيهِ الْفِدَاءُ، بِدَمِهِ غُفْرَانُ الْخَطَايَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.15",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 15,
+          "text": "الَّذِي هُوَ صُورَةُ اللهِ غَيْرِ الْمَنْظُورِ، بِكْرُ كُلِّ خَلِيقَةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي هُوَ صُورَةُ اللهِ غَيْرِ الْمَنْظُورِ، بِكْرُ كُلِّ خَلِيقَةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "عظمة المسيح وسموه",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.16",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 16,
+          "text": "فَإِنَّهُ فِيهِ خُلِقَ الْكُلُّ: مَا فِي السَّمَاوَاتِ وَمَا عَلَى الأَرْضِ، مَا يُرَى وَمَا لَا يُرَى، سَوَاءٌ كَانَ عُرُوشًا أَمْ سِيَادَاتٍ أَمْ رِيَاسَاتٍ أَمْ سَلاَطِينَ. الْكُلُّ بِهِ وَلَهُ قَدْ خُلِقَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّهُ فِيهِ خُلِقَ الْكُلُّ: مَا فِي السَّمَاوَاتِ وَمَا عَلَى الأَرْضِ، مَا يُرَى وَمَا لَا يُرَى، سَوَاءٌ كَانَ عُرُوشًا أَمْ سِيَادَاتٍ أَمْ رِيَاسَاتٍ أَمْ سَلاَطِينَ. الْكُلُّ بِهِ وَلَهُ قَدْ خُلِقَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.17",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 17,
+          "text": "الَّذِي هُوَ قَبْلَ كُلِّ شَيْءٍ، وَفِيهِ يَقُومُ الْكُلُّ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي هُوَ قَبْلَ كُلِّ شَيْءٍ، وَفِيهِ يَقُومُ الْكُلُّ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.18",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 18,
+          "text": "وَهُوَ رَأْسُ الْجَسَدِ: الْكَنِيسَةِ. الَّذِي هُوَ الْبَدَاءَةُ، بِكْرٌ مِنَ الأَمْوَاتِ، لِكَيْ يَكُونَ هُوَ مُتَقَدِّمًا فِي كُلِّ شَيْءٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَهُوَ رَأْسُ الْجَسَدِ: الْكَنِيسَةِ. الَّذِي هُوَ الْبَدَاءَةُ، بِكْرٌ مِنَ الأَمْوَاتِ، لِكَيْ يَكُونَ هُوَ مُتَقَدِّمًا فِي كُلِّ شَيْءٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.19",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 19,
+          "text": "لأَنَّهُ فِيهِ سُرَّ أَنْ يَحِلَّ كُلُّ الْمِلْءِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّهُ فِيهِ سُرَّ أَنْ يَحِلَّ كُلُّ الْمِلْءِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.20",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 20,
+          "text": "وَأَنْ يُصَالِحَ بِهِ الْكُلَّ لِنَفْسِهِ، عَامِلًا الصُّلْحَ بِدَمِ صَلِيبِهِ، بِوَاسِطَتِهِ، سَوَاءٌ كَانَ: مَا عَلَى الأَرْضِ، أَمْ مَا فِي السَّمَاوَاتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَنْ يُصَالِحَ بِهِ الْكُلَّ لِنَفْسِهِ، عَامِلًا الصُّلْحَ بِدَمِ صَلِيبِهِ، بِوَاسِطَتِهِ، سَوَاءٌ كَانَ: مَا عَلَى الأَرْضِ، أَمْ مَا فِي السَّمَاوَاتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.21",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 21,
+          "text": "وَأَنْتُمُ الَّذِينَ كُنْتُمْ قَبْلًا أَجْنَبِيِّينَ وَأَعْدَاءً فِي الْفِكْرِ، فِي الأَعْمَالِ الشِّرِّيرَةِ، قَدْ صَالَحَكُمُ الآنَ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَنْتُمُ الَّذِينَ كُنْتُمْ قَبْلًا أَجْنَبِيِّينَ وَأَعْدَاءً فِي الْفِكْرِ، فِي الأَعْمَالِ الشِّرِّيرَةِ، قَدْ صَالَحَكُمُ الآنَ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.22",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 22,
+          "text": "فِي جِسْمِ بَشَرِيَّتِهِ بِالْمَوْتِ، لِيُحْضِرَكُمْ قِدِّيسِينَ وَبِلاَ لَوْمٍ وَلَا شَكْوَى أَمَامَهُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فِي جِسْمِ بَشَرِيَّتِهِ بِالْمَوْتِ، لِيُحْضِرَكُمْ قِدِّيسِينَ وَبِلاَ لَوْمٍ وَلَا شَكْوَى أَمَامَهُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.23",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 23,
+          "text": "إِنْ ثَبَتُّمْ عَلَى الإِيمَانِ، مُتَأَسِّسِينَ وَرَاسِخِينَ وَغَيْرَ مُنْتَقِلِينَ عَنْ رَجَاءِ الإِنْجِيلِ، الَّذِي سَمِعْتُمُوهُ، الْمَكْرُوزِ بِهِ فِي كُلِّ الْخَلِيقَةِ الَّتِي تَحْتَ السَّمَاءِ، الَّذِي صِرْتُ أَنَا بُولُسَ خَادِمًا لَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِنْ ثَبَتُّمْ عَلَى الإِيمَانِ، مُتَأَسِّسِينَ وَرَاسِخِينَ وَغَيْرَ مُنْتَقِلِينَ عَنْ رَجَاءِ الإِنْجِيلِ، الَّذِي سَمِعْتُمُوهُ، الْمَكْرُوزِ بِهِ فِي كُلِّ الْخَلِيقَةِ الَّتِي تَحْتَ السَّمَاءِ، الَّذِي صِرْتُ أَنَا بُولُسَ خَادِمًا لَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.24",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 24,
+          "text": "الَّذِي الآنَ أَفْرَحُ فِي آلاَمِي لأَجْلِكُمْ، وَأُكَمِّلُ نَقَائِصَ شَدَائِدِ الْمَسِيحِ فِي جِسْمِي لأَجْلِ جَسَدِهِ، الَّذِي هُوَ الْكَنِيسَةُ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي الآنَ أَفْرَحُ فِي آلاَمِي لأَجْلِكُمْ، وَأُكَمِّلُ نَقَائِصَ شَدَائِدِ الْمَسِيحِ فِي جِسْمِي لأَجْلِ جَسَدِهِ، الَّذِي هُوَ الْكَنِيسَةُ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "جهاد بولس من أجل الكنيسة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.25",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 25,
+          "text": "الَّتِي صِرْتُ أَنَا خَادِمًا لَهَا، حَسَبَ تَدْبِيرِ اللهِ الْمُعْطَى لِي لأَجْلِكُمْ، لِتَتْمِيمِ كَلِمَةِ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّتِي صِرْتُ أَنَا خَادِمًا لَهَا، حَسَبَ تَدْبِيرِ اللهِ الْمُعْطَى لِي لأَجْلِكُمْ، لِتَتْمِيمِ كَلِمَةِ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.26",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 26,
+          "text": "السِّرِّ الْمَكْتُومِ مُنْذُ الدُّهُورِ وَمُنْذُ الأَجْيَالِ، لكِنَّهُ الآنَ قَدْ أُظْهِرَ لِقِدِّيسِيهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "السِّرِّ الْمَكْتُومِ مُنْذُ الدُّهُورِ وَمُنْذُ الأَجْيَالِ، لكِنَّهُ الآنَ قَدْ أُظْهِرَ لِقِدِّيسِيهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.27",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 27,
+          "text": "الَّذِينَ أَرَادَ اللهُ أَنْ يُعَرِّفَهُمْ مَا هُوَ غِنَى مَجْدِ هَذَا السِّرِّ فِي الأُمَمِ، الَّذِي هُوَ الْمَسِيحُ فِيكُمْ رَجَاءُ الْمَجْدِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِينَ أَرَادَ اللهُ أَنْ يُعَرِّفَهُمْ مَا هُوَ غِنَى مَجْدِ هَذَا السِّرِّ فِي الأُمَمِ، الَّذِي هُوَ الْمَسِيحُ فِيكُمْ رَجَاءُ الْمَجْدِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.28",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 28,
+          "text": "الَّذِي نُنَادِي بِهِ مُنْذِرِينَ كُلَّ إِنْسَانٍ، وَمُعَلِّمِينَ كُلَّ إِنْسَانٍ، بِكُلِّ حِكْمَةٍ، لِكَيْ نُحْضِرَ كُلَّ إِنْسَانٍ كَامِلًا فِي الْمَسِيحِ يَسُوعَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي نُنَادِي بِهِ مُنْذِرِينَ كُلَّ إِنْسَانٍ، وَمُعَلِّمِينَ كُلَّ إِنْسَانٍ، بِكُلِّ حِكْمَةٍ، لِكَيْ نُحْضِرَ كُلَّ إِنْسَانٍ كَامِلًا فِي الْمَسِيحِ يَسُوعَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.1.29",
+          "book": "COL",
+          "chapter": 1,
+          "verse": 29,
+          "text": "الأَمْرُ الَّذِي لأَجْلِهِ أَتْعَبُ أَيْضًا مُجَاهِدًا، بِحَسَبِ عَمَلِهِ الَّذِي يَعْمَلُ فِيَّ بِقُوَّةٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الأَمْرُ الَّذِي لأَجْلِهِ أَتْعَبُ أَيْضًا مُجَاهِدًا، بِحَسَبِ عَمَلِهِ الَّذِي يَعْمَلُ فِيَّ بِقُوَّةٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "مقدمة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "شكر وصلاة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 15,
+          "text": "عظمة المسيح وسموه",
+          "level": 2
+        },
+        {
+          "beforeVerse": 24,
+          "text": "جهاد بولس من أجل الكنيسة",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:55.911Z"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "COL",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "COL.2.1",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 1,
+          "text": "فَإِنِّي أُرِيدُ أَنْ تَعْلَمُوا أَيُّ جِهَادٍ لِي لأَجْلِكُمْ، وَلأَجْلِ الَّذِينَ فِي لاَوُدِكِيَّةَ، وَجَمِيعِ الَّذِينَ لَمْ يَرَوْا وَجْهِي فِي الْجَسَدِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنِّي أُرِيدُ أَنْ تَعْلَمُوا أَيُّ جِهَادٍ لِي لأَجْلِكُمْ، وَلأَجْلِ الَّذِينَ فِي لاَوُدِكِيَّةَ، وَجَمِيعِ الَّذِينَ لَمْ يَرَوْا وَجْهِي فِي الْجَسَدِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: جهاد بولس من أجل الكنيسة",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.2",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 2,
+          "text": "لِكَيْ تَتَعَزَّى قُلُوبُهُمْ مُقْتَرِنَةً فِي الْمَحَبَّةِ لِكُلِّ غِنَى يَقِينِ الْفَهْمِ، لِمَعْرِفَةِ سِرِّ اللهِ الآبِ وَالْمَسِيحِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِكَيْ تَتَعَزَّى قُلُوبُهُمْ مُقْتَرِنَةً فِي الْمَحَبَّةِ لِكُلِّ غِنَى يَقِينِ الْفَهْمِ، لِمَعْرِفَةِ سِرِّ اللهِ الآبِ وَالْمَسِيحِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.3",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 3,
+          "text": "الْمُذَّخَرِ فِيهِ جَمِيعُ كُنُوزِ الْحِكْمَةِ وَالْعِلْمِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الْمُذَّخَرِ فِيهِ جَمِيعُ كُنُوزِ الْحِكْمَةِ وَالْعِلْمِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.4",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 4,
+          "text": "وَإِنَّمَا أَقُولُ هَذَا لِئَلاَّ يَخْدَعَكُمْ أَحَدٌ بِكَلاَمٍ مَلِقٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِنَّمَا أَقُولُ هَذَا لِئَلاَّ يَخْدَعَكُمْ أَحَدٌ بِكَلاَمٍ مَلِقٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.5",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 5,
+          "text": "فَإِنِّي وَإِنْ كُنْتُ غَائِبًا فِي الْجَسَدِ لكِنِّي مَعَكُمْ فِي الرُّوحِ، فَرِحًا، وَنَاظِرًا تَرْتِيبَكُمْ وَمَتَانَةَ إِيمَانِكُمْ فِي الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنِّي وَإِنْ كُنْتُ غَائِبًا فِي الْجَسَدِ لكِنِّي مَعَكُمْ فِي الرُّوحِ، فَرِحًا، وَنَاظِرًا تَرْتِيبَكُمْ وَمَتَانَةَ إِيمَانِكُمْ فِي الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.6",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 6,
+          "text": "فَكَمَا قَبِلْتُمُ الْمَسِيحَ يَسُوعَ الرَّبَّ اسْلُكُوا فِيهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَكَمَا قَبِلْتُمُ الْمَسِيحَ يَسُوعَ الرَّبَّ اسْلُكُوا فِيهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "الحياة مع المسيح",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.7",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 7,
+          "text": "مُتَأَصِّلِينَ وَمَبْنِيِّينَ فِيهِ، وَمُوَطَّدِينَ فِي الإِيمَانِ، كَمَا عُلِّمْتُمْ، مُتَفَاضِلِينَ فِيهِ بِالشُّكْرِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مُتَأَصِّلِينَ وَمَبْنِيِّينَ فِيهِ، وَمُوَطَّدِينَ فِي الإِيمَانِ، كَمَا عُلِّمْتُمْ، مُتَفَاضِلِينَ فِيهِ بِالشُّكْرِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.8",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 8,
+          "text": "اُنْظُرُوا أَنْ لَا يَكُونَ أَحَدٌ يَسْبِيكُمْ بِالْفَلْسَفَةِ وَبِغُرُورٍ بَاطِلٍ، حَسَبَ تَقْلِيدِ النَّاسِ، حَسَبَ أَرْكَانِ الْعَالَمِ، وَلَيْسَ حَسَبَ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اُنْظُرُوا أَنْ لَا يَكُونَ أَحَدٌ يَسْبِيكُمْ بِالْفَلْسَفَةِ وَبِغُرُورٍ بَاطِلٍ، حَسَبَ تَقْلِيدِ النَّاسِ، حَسَبَ أَرْكَانِ الْعَالَمِ، وَلَيْسَ حَسَبَ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.9",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 9,
+          "text": "فَإِنَّهُ فِيهِ يَحِلُّ كُلُّ مِلْءِ اللاَّهُوتِ جَسَدِيًّا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنَّهُ فِيهِ يَحِلُّ كُلُّ مِلْءِ اللاَّهُوتِ جَسَدِيًّا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.10",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 10,
+          "text": "وَأَنْتُمْ مَمْلُوؤُونَ فِيهِ، الَّذِي هُوَ رَأْسُ كُلِّ رِيَاسَةٍ وَسُلْطَانٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَنْتُمْ مَمْلُوؤُونَ فِيهِ، الَّذِي هُوَ رَأْسُ كُلِّ رِيَاسَةٍ وَسُلْطَانٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.11",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 11,
+          "text": "وَبِهِ أَيْضًا خُتِنْتُمْ خِتَانًا غَيْرَ مَصْنُوعٍ بِيَدٍ، بِخَلْعِ جِسْمِ خَطَايَا الْبَشَرِيَّةِ، بِخِتَانِ الْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَبِهِ أَيْضًا خُتِنْتُمْ خِتَانًا غَيْرَ مَصْنُوعٍ بِيَدٍ، بِخَلْعِ جِسْمِ خَطَايَا الْبَشَرِيَّةِ، بِخِتَانِ الْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.12",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 12,
+          "text": "مَدْفُونِينَ مَعَهُ فِي الْمَعْمُودِيَّةِ، الَّتِي فِيهَا أُقِمْتُمْ أَيْضًا مَعَهُ بِإِيمَانِ عَمَلِ اللهِ، الَّذِي أَقَامَهُ مِنَ الأَمْوَاتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَدْفُونِينَ مَعَهُ فِي الْمَعْمُودِيَّةِ، الَّتِي فِيهَا أُقِمْتُمْ أَيْضًا مَعَهُ بِإِيمَانِ عَمَلِ اللهِ، الَّذِي أَقَامَهُ مِنَ الأَمْوَاتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.13",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 13,
+          "text": "وَإِذْ كُنْتُمْ أَمْوَاتًا فِي الْخَطَايَا وَغَلَفِ جَسَدِكُمْ، أَحْيَاكُمْ مَعَهُ، مُسَامِحًا لَكُمْ بِجَمِيعِ الْخَطَايَا،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَإِذْ كُنْتُمْ أَمْوَاتًا فِي الْخَطَايَا وَغَلَفِ جَسَدِكُمْ، أَحْيَاكُمْ مَعَهُ، مُسَامِحًا لَكُمْ بِجَمِيعِ الْخَطَايَا،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.14",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 14,
+          "text": "إِذْ مَحَا الصَّكَّ الَّذِي عَلَيْنَا فِي الْفَرَائِضِ، الَّذِي كَانَ ضِدًّا لَنَا، وَقَدْ رَفَعَهُ مِنَ الْوَسَطِ مُسَمِّرًا إِيَّاهُ بِالصَّلِيبِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذْ مَحَا الصَّكَّ الَّذِي عَلَيْنَا فِي الْفَرَائِضِ، الَّذِي كَانَ ضِدًّا لَنَا، وَقَدْ رَفَعَهُ مِنَ الْوَسَطِ مُسَمِّرًا إِيَّاهُ بِالصَّلِيبِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.15",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 15,
+          "text": "إِذْ جَرَّدَ الرِّيَاسَاتِ وَالسَّلاَطِينَ أَشْهَرَهُمْ جِهَارًا، ظَافِرًا بِهِمْ فِيهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذْ جَرَّدَ الرِّيَاسَاتِ وَالسَّلاَطِينَ أَشْهَرَهُمْ جِهَارًا، ظَافِرًا بِهِمْ فِيهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.16",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 16,
+          "text": "فَلَا يَحْكُمْ عَلَيْكُمْ أَحَدٌ فِي أَكْلٍ أَوْ شُرْبٍ، أَوْ مِنْ جِهَةِ عِيدٍ أَوْ هِلاَلٍ أَوْ سَبْتٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَلَا يَحْكُمْ عَلَيْكُمْ أَحَدٌ فِي أَكْلٍ أَوْ شُرْبٍ، أَوْ مِنْ جِهَةِ عِيدٍ أَوْ هِلاَلٍ أَوْ سَبْتٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.17",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 17,
+          "text": "الَّتِي هِيَ ظِلُّ الأُمُورِ الْعَتِيدَةِ، وَأَمَّا الْجَسَدُ فَلِلْمَسِيحِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّتِي هِيَ ظِلُّ الأُمُورِ الْعَتِيدَةِ، وَأَمَّا الْجَسَدُ فَلِلْمَسِيحِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.18",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 18,
+          "text": "لَا يُخَسِّرْكُمْ أَحَدٌ الْجِعَالَةَ، رَاغِبًا فِي التَّوَاضُعِ وَعِبَادَةِ الْمَلاَئِكَةِ، مُتَدَاخِلًا فِي مَا لَمْ يَنْظُرْهُ، مُنْتَفِخًا بَاطِلًا مِنْ قِبَلِ ذِهْنِهِ الْجَسَدِيِّ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا يُخَسِّرْكُمْ أَحَدٌ الْجِعَالَةَ، رَاغِبًا فِي التَّوَاضُعِ وَعِبَادَةِ الْمَلاَئِكَةِ، مُتَدَاخِلًا فِي مَا لَمْ يَنْظُرْهُ، مُنْتَفِخًا بَاطِلًا مِنْ قِبَلِ ذِهْنِهِ الْجَسَدِيِّ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.19",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 19,
+          "text": "وَغَيْرَ مُتَمَسِّكٍ بِالرَّأْسِ الَّذِي مِنْهُ كُلُّ الْجَسَدِ بِمَفَاصِلَ وَرُبُطٍ، مُتَوَازِرًا وَمُقْتَرِنًا يَنْمُو نُمُوًّا مِنَ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَغَيْرَ مُتَمَسِّكٍ بِالرَّأْسِ الَّذِي مِنْهُ كُلُّ الْجَسَدِ بِمَفَاصِلَ وَرُبُطٍ، مُتَوَازِرًا وَمُقْتَرِنًا يَنْمُو نُمُوًّا مِنَ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.20",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 20,
+          "text": "إِذًا إِنْ كُنْتُمْ قَدْ مُتُّمْ مَعَ الْمَسِيحِ عَنْ أَرْكَانِ الْعَالَمِ، فَلِمَاذَا كَأَنَّكُمْ عَائِشُونَ فِي الْعَالَمِ؟ تُفْرَضُ عَلَيْكُمْ فَرَائِضُ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِذًا إِنْ كُنْتُمْ قَدْ مُتُّمْ مَعَ الْمَسِيحِ عَنْ أَرْكَانِ الْعَالَمِ، فَلِمَاذَا كَأَنَّكُمْ عَائِشُونَ فِي الْعَالَمِ؟ تُفْرَضُ عَلَيْكُمْ فَرَائِضُ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.21",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 21,
+          "text": "«لاَ تَمَسَّ! وَلَا تَذُقْ! وَلَا تَجُسَّ!»",
+          "structured": {
+            "tokens": [
+              {
+                "text": "«لاَ تَمَسَّ! وَلَا تَذُقْ! وَلَا تَجُسَّ!»",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.22",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 22,
+          "text": "الَّتِي هِيَ جَمِيعُهَا لِلْفَنَاءِ فِي الاسْتِعْمَالِ، حَسَبَ وَصَايَا وَتَعَالِيمِ النَّاسِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّتِي هِيَ جَمِيعُهَا لِلْفَنَاءِ فِي الاسْتِعْمَالِ، حَسَبَ وَصَايَا وَتَعَالِيمِ النَّاسِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.2.23",
+          "book": "COL",
+          "chapter": 2,
+          "verse": 23,
+          "text": "الَّتِي لَهَا حِكَايَةُ حِكْمَةٍ، بِعِبَادَةٍ نَافِلَةٍ، وَتَوَاضُعٍ، وَقَهْرِ الْجَسَدِ، لَيْسَ بِقِيمَةٍ مَا مِنْ جِهَةِ إِشْبَاعِ الْبَشَرِيَّةِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّتِي لَهَا حِكَايَةُ حِكْمَةٍ، بِعِبَادَةٍ نَافِلَةٍ، وَتَوَاضُعٍ، وَقَهْرِ الْجَسَدِ، لَيْسَ بِقِيمَةٍ مَا مِنْ جِهَةِ إِشْبَاعِ الْبَشَرِيَّةِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: جهاد بولس من أجل الكنيسة",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "الحياة مع المسيح",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:56.730Z"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "COL",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "COL.3.1",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 1,
+          "text": "فَإِنْ كُنْتُمْ قَدْ قُمْتُمْ مَعَ الْمَسِيحِ فَاطْلُبُوا مَا فَوْقُ، حَيْثُ الْمَسِيحُ جَالِسٌ عَنْ يَمِينِ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنْ كُنْتُمْ قَدْ قُمْتُمْ مَعَ الْمَسِيحِ فَاطْلُبُوا مَا فَوْقُ، حَيْثُ الْمَسِيحُ جَالِسٌ عَنْ يَمِينِ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "السلوك المسيحي",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.2",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 2,
+          "text": "اهْتَمُّوا بِمَا فَوْقُ لَا بِمَا عَلَى الأَرْضِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اهْتَمُّوا بِمَا فَوْقُ لَا بِمَا عَلَى الأَرْضِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.3",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 3,
+          "text": "لأَنَّكُمْ قَدْ مُتُّمْ وَحَيَاتُكُمْ مُسْتَتِرَةٌ مَعَ الْمَسِيحِ فِي اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لأَنَّكُمْ قَدْ مُتُّمْ وَحَيَاتُكُمْ مُسْتَتِرَةٌ مَعَ الْمَسِيحِ فِي اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.4",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 4,
+          "text": "مَتَى أُظْهِرَ الْمَسِيحُ حَيَاتُنَا، فَحِينَئِذٍ تُظْهَرُونَ أَنْتُمْ أَيْضًا مَعَهُ فِي الْمَجْدِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَتَى أُظْهِرَ الْمَسِيحُ حَيَاتُنَا، فَحِينَئِذٍ تُظْهَرُونَ أَنْتُمْ أَيْضًا مَعَهُ فِي الْمَجْدِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.5",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 5,
+          "text": "فَأَمِيتُوا أَعْضَاءَكُمُ الَّتِي عَلَى الأَرْضِ: الزِّنَا، النَّجَاسَةَ، الْهَوَى، الشَّهْوَةَ الرَّدِيَّةَ، الطَّمَعَ الَّذِي هُوَ عِبَادَةُ الأَوْثَانِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَأَمِيتُوا أَعْضَاءَكُمُ الَّتِي عَلَى الأَرْضِ: الزِّنَا، النَّجَاسَةَ، الْهَوَى، الشَّهْوَةَ الرَّدِيَّةَ، الطَّمَعَ الَّذِي هُوَ عِبَادَةُ الأَوْثَانِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.6",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 6,
+          "text": "الأُمُورَ الَّتِي مِنْ أَجْلِهَا يَأْتِي غَضَبُ اللهِ عَلَى أَبْنَاءِ الْمَعْصِيَةِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الأُمُورَ الَّتِي مِنْ أَجْلِهَا يَأْتِي غَضَبُ اللهِ عَلَى أَبْنَاءِ الْمَعْصِيَةِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.7",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 7,
+          "text": "الَّذِينَ بَيْنَهُمْ أَنْتُمْ أَيْضًا سَلَكْتُمْ قَبْلًا، حِينَ كُنْتُمْ تَعِيشُونَ فِيهَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِينَ بَيْنَهُمْ أَنْتُمْ أَيْضًا سَلَكْتُمْ قَبْلًا، حِينَ كُنْتُمْ تَعِيشُونَ فِيهَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.8",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 8,
+          "text": "وَأَمَّا الآنَ فَاطْرَحُوا عَنْكُمْ أَنْتُمْ أَيْضًا الْكُلَّ: الْغَضَبَ، السَّخَطَ، الْخُبْثَ، التَّجْدِيفَ، الْكَلاَمَ الْقَبِيحَ مِنْ أَفْوَاهِكُمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الآنَ فَاطْرَحُوا عَنْكُمْ أَنْتُمْ أَيْضًا الْكُلَّ: الْغَضَبَ، السَّخَطَ، الْخُبْثَ، التَّجْدِيفَ، الْكَلاَمَ الْقَبِيحَ مِنْ أَفْوَاهِكُمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.9",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 9,
+          "text": "لَا تَكْذِبُوا بَعْضُكُمْ عَلَى بَعْضٍ، إِذْ خَلَعْتُمُ الإِنْسَانَ الْعَتِيقَ مَعَ أَعْمَالِهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لَا تَكْذِبُوا بَعْضُكُمْ عَلَى بَعْضٍ، إِذْ خَلَعْتُمُ الإِنْسَانَ الْعَتِيقَ مَعَ أَعْمَالِهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.10",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 10,
+          "text": "وَلَبِسْتُمُ الْجَدِيدَ الَّذِي يَتَجَدَّدُ لِلْمَعْرِفَةِ حَسَبَ صُورَةِ خَالِقِهِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلَبِسْتُمُ الْجَدِيدَ الَّذِي يَتَجَدَّدُ لِلْمَعْرِفَةِ حَسَبَ صُورَةِ خَالِقِهِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.11",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 11,
+          "text": "حَيْثُ لَيْسَ يُونَانِيٌّ وَيَهُودِيٌّ، خِتَانٌ وَغُرْلَةٌ، بَرْبَرِيٌّ سِكِّيثِيٌّ، عَبْدٌ حُرٌّ، بَلِ الْمَسِيحُ الْكُلُّ وَفِي الْكُلِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حَيْثُ لَيْسَ يُونَانِيٌّ وَيَهُودِيٌّ، خِتَانٌ وَغُرْلَةٌ، بَرْبَرِيٌّ سِكِّيثِيٌّ، عَبْدٌ حُرٌّ، بَلِ الْمَسِيحُ الْكُلُّ وَفِي الْكُلِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.12",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 12,
+          "text": "فَالْبَسُوا كَمُخْتَارِي اللهِ الْقِدِّيسِينَ الْمَحْبُوبِينَ أَحْشَاءَ رَأْفَاتٍ، وَلُطْفًا، وَتَوَاضُعًا، وَوَدَاعَةً، وَطُولَ أَنَاةٍ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَالْبَسُوا كَمُخْتَارِي اللهِ الْقِدِّيسِينَ الْمَحْبُوبِينَ أَحْشَاءَ رَأْفَاتٍ، وَلُطْفًا، وَتَوَاضُعًا، وَوَدَاعَةً، وَطُولَ أَنَاةٍ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.13",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 13,
+          "text": "مُحْتَمِلِينَ بَعْضُكُمْ بَعْضًا، وَمُسَامِحِينَ بَعْضُكُمْ بَعْضًا إِنْ كَانَ لأَحَدٍ عَلَى أَحَدٍ شَكْوَى. كَمَا غَفَرَ لَكُمُ الْمَسِيحُ هَكَذَا أَنْتُمْ أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مُحْتَمِلِينَ بَعْضُكُمْ بَعْضًا، وَمُسَامِحِينَ بَعْضُكُمْ بَعْضًا إِنْ كَانَ لأَحَدٍ عَلَى أَحَدٍ شَكْوَى. كَمَا غَفَرَ لَكُمُ الْمَسِيحُ هَكَذَا أَنْتُمْ أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.14",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 14,
+          "text": "وَعَلَى جَمِيعِ هَذِهِ الْبَسُوا الْمَحَبَّةَ الَّتِي هِيَ رِبَاطُ الْكَمَالِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَعَلَى جَمِيعِ هَذِهِ الْبَسُوا الْمَحَبَّةَ الَّتِي هِيَ رِبَاطُ الْكَمَالِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.15",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 15,
+          "text": "وَلْيَمْلِكْ فِي قُلُوبِكُمْ سَلاَمُ اللهِ الَّذِي إِلَيْهِ دُعِيتُمْ فِي جَسَدٍ وَاحِدٍ، وَكُونُوا شَاكِرِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلْيَمْلِكْ فِي قُلُوبِكُمْ سَلاَمُ اللهِ الَّذِي إِلَيْهِ دُعِيتُمْ فِي جَسَدٍ وَاحِدٍ، وَكُونُوا شَاكِرِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.16",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 16,
+          "text": "لِتَسْكُنْ فِيكُمْ كَلِمَةُ الْمَسِيحِ بِغِنًى، وَأَنْتُمْ بِكُلِّ حِكْمَةٍ مُعَلِّمُونَ وَمُنْذِرُونَ بَعْضُكُمْ بَعْضًا، بِمَزَامِيرَ وَتَسَابِيحَ وَأَغَانِيَّ رُوحِيَّةٍ، بِنِعْمَةٍ، مُتَرَنِّمِينَ فِي قُلُوبِكُمْ لِلرَّبِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِتَسْكُنْ فِيكُمْ كَلِمَةُ الْمَسِيحِ بِغِنًى، وَأَنْتُمْ بِكُلِّ حِكْمَةٍ مُعَلِّمُونَ وَمُنْذِرُونَ بَعْضُكُمْ بَعْضًا، بِمَزَامِيرَ وَتَسَابِيحَ وَأَغَانِيَّ رُوحِيَّةٍ، بِنِعْمَةٍ، مُتَرَنِّمِينَ فِي قُلُوبِكُمْ لِلرَّبِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.17",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 17,
+          "text": "وَكُلُّ مَا عَمِلْتُمْ بِقَوْلٍ أَوْ فِعْلٍ، فَاعْمَلُوا الْكُلَّ بِاسْمِ الرَّبِّ يَسُوعَ، شَاكِرِينَ اللهَ وَالآبَ بِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَكُلُّ مَا عَمِلْتُمْ بِقَوْلٍ أَوْ فِعْلٍ، فَاعْمَلُوا الْكُلَّ بِاسْمِ الرَّبِّ يَسُوعَ، شَاكِرِينَ اللهَ وَالآبَ بِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.18",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 18,
+          "text": "أَيَّتُهَا النِّسَاءُ، اخْضَعْنَ لِرِجَالِكُنَّ كَمَا يَلِيقُ فِي الرَّبِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيَّتُهَا النِّسَاءُ، اخْضَعْنَ لِرِجَالِكُنَّ كَمَا يَلِيقُ فِي الرَّبِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "وصايا للبيت المسيحي",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.19",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 19,
+          "text": "أَيُّهَا الرِّجَالُ، أَحِبُّوا نِسَاءَكُمْ، وَلَا تَكُونُوا قُسَاةً عَلَيْهِنَّ",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا الرِّجَالُ، أَحِبُّوا نِسَاءَكُمْ، وَلَا تَكُونُوا قُسَاةً عَلَيْهِنَّ",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.20",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 20,
+          "text": "أَيُّهَا الأَوْلاَدُ، أَطِيعُوا وَالِدِيكُمْ فِي كُلِّ شَيْءٍ لأَنَّ هَذَا مَرْضِيٌّ فِي الرَّبِّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا الأَوْلاَدُ، أَطِيعُوا وَالِدِيكُمْ فِي كُلِّ شَيْءٍ لأَنَّ هَذَا مَرْضِيٌّ فِي الرَّبِّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.21",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 21,
+          "text": "أَيُّهَا الآبَاءُ، لَا تُغِيظُوا أَوْلاَدَكُمْ لِئَلاَّ يَفْشَلُوا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا الآبَاءُ، لَا تُغِيظُوا أَوْلاَدَكُمْ لِئَلاَّ يَفْشَلُوا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.22",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 22,
+          "text": "أَيُّهَا الْعَبِيدُ، أَطِيعُوا فِي كُلِّ شَيْءٍ سَادَتَكُمْ حَسَبَ الْجَسَدِ، لَا بِخِدْمَةِ الْعَيْنِ كَمَنْ يُرْضِي النَّاسَ، بَلْ بِبَسَاطَةِ الْقَلْبِ، خَائِفِينَ الرَّبَّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا الْعَبِيدُ، أَطِيعُوا فِي كُلِّ شَيْءٍ سَادَتَكُمْ حَسَبَ الْجَسَدِ، لَا بِخِدْمَةِ الْعَيْنِ كَمَنْ يُرْضِي النَّاسَ، بَلْ بِبَسَاطَةِ الْقَلْبِ، خَائِفِينَ الرَّبَّ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.23",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 23,
+          "text": "وَكُلُّ مَا فَعَلْتُمْ، فَاعْمَلُوا مِنَ الْقَلْبِ، كَمَا لِلرَّبِّ لَيْسَ لِلنَّاسِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَكُلُّ مَا فَعَلْتُمْ، فَاعْمَلُوا مِنَ الْقَلْبِ، كَمَا لِلرَّبِّ لَيْسَ لِلنَّاسِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.24",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 24,
+          "text": "عَالِمِينَ أَنَّكُمْ مِنَ الرَّبِّ سَتَأْخُذُونَ جَزَاءَ الْمِيرَاثِ، لأَنَّكُمْ تَخْدِمُونَ الرَّبَّ الْمَسِيحَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عَالِمِينَ أَنَّكُمْ مِنَ الرَّبِّ سَتَأْخُذُونَ جَزَاءَ الْمِيرَاثِ، لأَنَّكُمْ تَخْدِمُونَ الرَّبَّ الْمَسِيحَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.3.25",
+          "book": "COL",
+          "chapter": 3,
+          "verse": 25,
+          "text": "وَأَمَّا الظَّالِمُ فَسَينَالُ مَا ظَلَمَ بِهِ، وَلَيْسَ مُحَابَاةٌ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَأَمَّا الظَّالِمُ فَسَينَالُ مَا ظَلَمَ بِهِ، وَلَيْسَ مُحَابَاةٌ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "السلوك المسيحي",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "وصايا للبيت المسيحي",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:57.569Z"
+    },
+    "4": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "COL",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "COL.4.1",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 1,
+          "text": "أَيُّهَا السَّادَةُ، قَدِّمُوا لِلْعَبِيدِ الْعَدْلَ وَالْمُسَاوَاةَ، عَالِمِينَ أَنَّ لَكُمْ أَنْتُمْ أَيْضًا سَيِّدًا فِي السَّمَاوَاتِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَيُّهَا السَّادَةُ، قَدِّمُوا لِلْعَبِيدِ الْعَدْلَ وَالْمُسَاوَاةَ، عَالِمِينَ أَنَّ لَكُمْ أَنْتُمْ أَيْضًا سَيِّدًا فِي السَّمَاوَاتِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تابع: وصايا للبيت المسيحي",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.2",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 2,
+          "text": "وَاظِبُوا عَلَى الصَّلاَةِ سَاهِرِينَ فِيهَا بِالشُّكْرِ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَاظِبُوا عَلَى الصَّلاَةِ سَاهِرِينَ فِيهَا بِالشُّكْرِ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "توجيهات إضافية",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.3",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 3,
+          "text": "مُصَلِّينَ فِي ذَلِكَ لأَجْلِنَا نَحْنُ أَيْضًا، لِيَفْتَحَ الرَّبُّ لَنَا بَابًا لِلْكَلاَمِ، لِنَتَكَلَّمَ بِسِرِّ الْمَسِيحِ، الَّذِي مِنْ أَجْلِهِ أَنَا مُوثَقٌ أَيْضًا،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مُصَلِّينَ فِي ذَلِكَ لأَجْلِنَا نَحْنُ أَيْضًا، لِيَفْتَحَ الرَّبُّ لَنَا بَابًا لِلْكَلاَمِ، لِنَتَكَلَّمَ بِسِرِّ الْمَسِيحِ، الَّذِي مِنْ أَجْلِهِ أَنَا مُوثَقٌ أَيْضًا،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.4",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 4,
+          "text": "كَيْ أُظْهِرَهُ كَمَا يَجِبُ أَنْ أَتَكَلَّمَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كَيْ أُظْهِرَهُ كَمَا يَجِبُ أَنْ أَتَكَلَّمَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.5",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 5,
+          "text": "اُسْلُكُوا بِحِكْمَةٍ مِنْ جِهَةِ الَّذِينَ هُمْ مِنْ خَارِجٍ، مُفْتَدِينَ الْوَقْتَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اُسْلُكُوا بِحِكْمَةٍ مِنْ جِهَةِ الَّذِينَ هُمْ مِنْ خَارِجٍ، مُفْتَدِينَ الْوَقْتَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.6",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 6,
+          "text": "لِيَكُنْ كَلَامُكُمْ كُلَّ حِينٍ بِنِعْمَةٍ، مُصْلَحًا بِمِلْحٍ، لِتَعْلَمُوا كَيْفَ يَجِبُ أَنْ تُجَاوِبُوا كُلَّ وَاحِدٍ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لِيَكُنْ كَلَامُكُمْ كُلَّ حِينٍ بِنِعْمَةٍ، مُصْلَحًا بِمِلْحٍ، لِتَعْلَمُوا كَيْفَ يَجِبُ أَنْ تُجَاوِبُوا كُلَّ وَاحِدٍ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.7",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 7,
+          "text": "جَمِيعُ أَحْوَالِي سَيُعَرِّفُكُمْ بِهَا تِيخِيكُسُ الأَخُ الْحَبِيبُ، وَالْخَادِمُ الأَمِينُ، وَالْعَبْدُ مَعَنَا فِي الرَّبِّ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "جَمِيعُ أَحْوَالِي سَيُعَرِّفُكُمْ بِهَا تِيخِيكُسُ الأَخُ الْحَبِيبُ، وَالْخَادِمُ الأَمِينُ، وَالْعَبْدُ مَعَنَا فِي الرَّبِّ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "تحيات ختامية",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.8",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 8,
+          "text": "الَّذِي أَرْسَلْتُهُ إِلَيْكُمْ لِهَذَا عَيْنِهِ، لِيَعْرِفَ أَحْوَالَكُمْ وَيُعَزِّيَ قُلُوبَكُمْ،",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الَّذِي أَرْسَلْتُهُ إِلَيْكُمْ لِهَذَا عَيْنِهِ، لِيَعْرِفَ أَحْوَالَكُمْ وَيُعَزِّيَ قُلُوبَكُمْ،",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.9",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 9,
+          "text": "مَعَ أُنِسِيمُسَ الأَخِ الأَمِينِ الْحَبِيبِ الَّذِي هُوَ مِنْكُمْ. هُمَا سَيُعَرِّفَانِكُمْ بِكُلِّ مَا هَهُنَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَعَ أُنِسِيمُسَ الأَخِ الأَمِينِ الْحَبِيبِ الَّذِي هُوَ مِنْكُمْ. هُمَا سَيُعَرِّفَانِكُمْ بِكُلِّ مَا هَهُنَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.10",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 10,
+          "text": "يُسَلِّمُ عَلَيْكُمْ أَرِسْتَرْخُسُ الْمَأْسُورُ مَعِي، وَمَرْقُسُ ابْنُ أُخْتِ بَرْنَابَا، الَّذِي أَخَذْتُمْ لأَجْلِهِ وَصَايَا. إِنْ أَتَى إِلَيْكُمْ فَاقْبَلُوهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُسَلِّمُ عَلَيْكُمْ أَرِسْتَرْخُسُ الْمَأْسُورُ مَعِي، وَمَرْقُسُ ابْنُ أُخْتِ بَرْنَابَا، الَّذِي أَخَذْتُمْ لأَجْلِهِ وَصَايَا. إِنْ أَتَى إِلَيْكُمْ فَاقْبَلُوهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.11",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 11,
+          "text": "وَيَسُوعُ الْمَدْعُوُّ يُسْطُسَ، الَّذِينَ هُمْ مِنَ الْخِتَانِ. هَؤُلاَءِ هُمْ وَحْدَهُمُ الْعَامِلُونَ مَعِي لِمَلَكُوتِ اللهِ، الَّذِينَ صَارُوا لِي تَسْلِيَةً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَيَسُوعُ الْمَدْعُوُّ يُسْطُسَ، الَّذِينَ هُمْ مِنَ الْخِتَانِ. هَؤُلاَءِ هُمْ وَحْدَهُمُ الْعَامِلُونَ مَعِي لِمَلَكُوتِ اللهِ، الَّذِينَ صَارُوا لِي تَسْلِيَةً.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.12",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 12,
+          "text": "يُسَلِّمُ عَلَيْكُمْ أَبَفْرَاسُ، الَّذِي هُوَ مِنْكُمْ، عَبْدٌ لِلْمَسِيحِ، مُجَاهِدٌ كُلَّ حِينٍ لأَجْلِكُمْ بِالصَّلَوَاتِ، لِكَيْ تَثْبُتُوا كَامِلِينَ وَمُمْتَلِئِينَ فِي كُلِّ مَشِيئَةِ اللهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُسَلِّمُ عَلَيْكُمْ أَبَفْرَاسُ، الَّذِي هُوَ مِنْكُمْ، عَبْدٌ لِلْمَسِيحِ، مُجَاهِدٌ كُلَّ حِينٍ لأَجْلِكُمْ بِالصَّلَوَاتِ، لِكَيْ تَثْبُتُوا كَامِلِينَ وَمُمْتَلِئِينَ فِي كُلِّ مَشِيئَةِ اللهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.13",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 13,
+          "text": "فَإِنِّي أَشْهَدُ فِيهِ أَنَّ لَهُ غَيْرَةً كَثِيرَةً لأَجْلِكُمْ، وَلأَجْلِ الَّذِينَ فِي لاَوُدِكِيَّةَ، وَالَّذِينَ فِي هِيَرَابُولِيسَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فَإِنِّي أَشْهَدُ فِيهِ أَنَّ لَهُ غَيْرَةً كَثِيرَةً لأَجْلِكُمْ، وَلأَجْلِ الَّذِينَ فِي لاَوُدِكِيَّةَ، وَالَّذِينَ فِي هِيَرَابُولِيسَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.14",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 14,
+          "text": "يُسَلِّمُ عَلَيْكُمْ لُوقَا الطَّبِيبُ الْحَبِيبُ، وَدِيمَاسُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يُسَلِّمُ عَلَيْكُمْ لُوقَا الطَّبِيبُ الْحَبِيبُ، وَدِيمَاسُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.15",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 15,
+          "text": "سَلِّمُوا عَلَى الإِخْوَةِ الَّذِينَ فِي لاَوُدِكِيَّةَ، وَعَلَى نِمْفَاسَ وَعَلَى الْكَنِيسَةِ الَّتِي فِي بَيْتِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "سَلِّمُوا عَلَى الإِخْوَةِ الَّذِينَ فِي لاَوُدِكِيَّةَ، وَعَلَى نِمْفَاسَ وَعَلَى الْكَنِيسَةِ الَّتِي فِي بَيْتِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.16",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 16,
+          "text": "وَمَتَى قُرِئَتْ عِنْدَكُمْ هَذِهِ الرِّسَالَةُ فَاجْعَلُوهَا تُقْرَأُ أَيْضًا فِي كَنِيسَةِ اللَّاوُدِكِيِّينَ، وَالَّتِي مِنْ لاَوُدِكِيَّةَ تَقْرَأُونَهَا أَنْتُمْ أَيْضًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَمَتَى قُرِئَتْ عِنْدَكُمْ هَذِهِ الرِّسَالَةُ فَاجْعَلُوهَا تُقْرَأُ أَيْضًا فِي كَنِيسَةِ اللَّاوُدِكِيِّينَ، وَالَّتِي مِنْ لاَوُدِكِيَّةَ تَقْرَأُونَهَا أَنْتُمْ أَيْضًا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.17",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 17,
+          "text": "وَقُولُوا لأَرْخِبُّسَ: «انْظُرْ إِلَى الْخِدْمَةِ الَّتِي قَبِلْتَهَا فِي الرَّبِّ لِكَيْ تُتَمِّمَهَا».",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَقُولُوا لأَرْخِبُّسَ: «انْظُرْ إِلَى الْخِدْمَةِ الَّتِي قَبِلْتَهَا فِي الرَّبِّ لِكَيْ تُتَمِّمَهَا».",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "COL.4.18",
+          "book": "COL",
+          "chapter": 4,
+          "verse": 18,
+          "text": "اَلسَّلاَمُ بِيَدِي أَنَا بُولُسَ. اُذْكُرُوا وُثُقِي. اَلنِّعْمَةُ مَعَكُمْ. آمِينَ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اَلسَّلاَمُ بِيَدِي أَنَا بُولُسَ. اُذْكُرُوا وُثُقِي. اَلنِّعْمَةُ مَعَكُمْ. آمِينَ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "تابع: وصايا للبيت المسيحي",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "توجيهات إضافية",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "تحيات ختامية",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:49:58.404Z"
+    }
+  }
+}

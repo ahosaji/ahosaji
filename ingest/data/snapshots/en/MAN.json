@@ -1,0 +1,281 @@
+{
+  "usfm": "MAN",
+  "source": "english",
+  "_provenance": {
+    "title": "The Prayer of Manasseh the Wicked King (2020)",
+    "series": "Joyful and Simple Moments with the Books in the Septuagint Translation",
+    "prepared_by": "Fr. Tadros Yacoub the editor + Deacon Bishoy Boshra Behnam",
+    "translated_by": "Michael Stefanos, Mary F. A., Monica Mitri, Michael Ayob",
+    "publisher": "St. George Coptic Orthodox Church – Sporting, Alexandria",
+    "pdf_url": "https://stantony.ae/wp-content/uploads/2020/11/The-Prayer-of-Manasseh-the-wicked-king-Fr.Tadros-Y.-the editor.pdf",
+    "note": "Sourced because this English PDF edition does not include the Prayer of Manasseh. Selected as a Coptic-Orthodox-aligned English source: Coptic Orthodox priest authorship, Coptic Orthodox parish publishing, and includes a Coptic-Bright-Saturday liturgical variant (verse 7 bracketed addition) absent from Western Apocrypha editions."
+  },
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "MAN",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "MAN.1.1",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 1,
+          "text": "O Lord Almighty, the God of our fathers, of Abraham, Isaac, and Jacob, and their righteous seed;",
+          "structured": {
+            "tokens": [{ "text": "O Lord Almighty, the God of our fathers, of Abraham, Isaac, and Jacob, and their righteous seed;", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Prayer of Manasseh Son of Hezekiah",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.2",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Who made heaven and earth with all their ornamentation;",
+          "structured": {
+            "tokens": [{ "text": "Who made heaven and earth with all their ornamentation;", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.3",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Who set the bounds of the sea by the word of Your command; who closed the abyss and sealed it by Your fearful and glorious name;",
+          "structured": {
+            "tokens": [{ "text": "Who set the bounds of the sea by the word of Your command; who closed the abyss and sealed it by Your fearful and glorious name;", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.4",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Before whom all things tremble and fear because of Your power;",
+          "structured": {
+            "tokens": [{ "text": "Before whom all things tremble and fear because of Your power;", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.5",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 5,
+          "text": "For the majesty of Your glory is unbearable, and the wrath of Your threats toward sinners cannot be withstood;",
+          "structured": {
+            "tokens": [{ "text": "For the majesty of Your glory is unbearable, and the wrath of Your threats toward sinners cannot be withstood;", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.6",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Yet Your merciful promise is immeasurable and unsearchable.",
+          "structured": {
+            "tokens": [{ "text": "Yet Your merciful promise is immeasurable and unsearchable.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.7",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 7,
+          "text": "For You are the Lord Most High, and are tenderhearted, patient, very merciful, and who repent toward the evils of man. [You, O Lord according to Your great goodness have promised repentance and forgiveness to those who have sinned against You and in the multitude of Your mercies You have appointed repentance for sinners, that they may be saved.]",
+          "structured": {
+            "tokens": [
+              { "text": "For You are the Lord Most High, and are tenderhearted, patient, very merciful, and who repent toward the evils of man. ", "italic": false, "redLetter": false },
+              { "text": "[You, O Lord according to Your great goodness have promised repentance and forgiveness to those who have sinned against You and in the multitude of Your mercies You have appointed repentance for sinners, that they may be saved.]", "italic": true, "redLetter": false }
+            ],
+            "footnotes": [
+              { "marker": "a", "text": "The bracketed portion of verse 7 is from the Coptic translation of this prayer used in the readings of Bright Saturday in the Coptic Orthodox Church liturgy. Western editions (KJV Apocrypha, NRSV-CE) typically omit it." }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.8",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Therefore You, O Lord God of the righteous, have not appointed repentance for the righteous, for Abraham, Isaac, and Jacob, who have not sinned against You; but You have appointed repentance for me, a sinner,",
+          "structured": {
+            "tokens": [{ "text": "Therefore You, O Lord God of the righteous, have not appointed repentance for the righteous, for Abraham, Isaac, and Jacob, who have not sinned against You; but You have appointed repentance for me, a sinner,", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.9",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Because I have sinned more than the number of the sands on the seashore. My lawlessness, O Lord, is multiplied. Yes, my lawlessness is multiplied, and I am not worthy to fix my eyes to behold the heights of heaven because of the multitude of my wrongdoings.",
+          "structured": {
+            "tokens": [{ "text": "Because I have sinned more than the number of the sands on the seashore. My lawlessness, O Lord, is multiplied. Yes, my lawlessness is multiplied, and I am not worthy to fix my eyes to behold the heights of heaven because of the multitude of my wrongdoings.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.10",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 10,
+          "text": "I am bent down with so many iron chains that I shake my head over my sins, neither do I have any relief. For I have provoked Your anger and done evil in your sight. I have set up abominations and multiplied idols.",
+          "structured": {
+            "tokens": [{ "text": "I am bent down with so many iron chains that I shake my head over my sins, neither do I have any relief. For I have provoked Your anger and done evil in your sight. I have set up abominations and multiplied idols.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.11",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Now therefore, I bow the knee of my heart, begging goodness from You.",
+          "structured": {
+            "tokens": [{ "text": "Now therefore, I bow the knee of my heart, begging goodness from You.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.12",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 12,
+          "text": "I have sinned, O Lord, I have sinned, and I know my lawlessness.",
+          "structured": {
+            "tokens": [{ "text": "I have sinned, O Lord, I have sinned, and I know my lawlessness.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.13",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 13,
+          "text": "I ask and beg you: forgive me, O Lord, forgive me, and do not destroy me because of my lawlessness; neither reserve evils for me, nor be wrathful forever; nor condemn me to the lowest parts of the earth; for You are the Lord God of those who repent.",
+          "structured": {
+            "tokens": [{ "text": "I ask and beg you: forgive me, O Lord, forgive me, and do not destroy me because of my lawlessness; neither reserve evils for me, nor be wrathful forever; nor condemn me to the lowest parts of the earth; for You are the Lord God of those who repent.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.14",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 14,
+          "text": "And in me, though I am unworthy, You will show Your goodness, and will save me according to Your great mercy.",
+          "structured": {
+            "tokens": [{ "text": "And in me, though I am unworthy, You will show Your goodness, and will save me according to Your great mercy.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "MAN.1.15",
+          "book": "MAN",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Therefore, I shall praise You continually all the days of my life, for all the powers of the heavens praise You, and Yours is the glory unto the ages. Amen.",
+          "structured": {
+            "tokens": [{ "text": "Therefore, I shall praise You continually all the days of my life, for all the powers of the heavens praise You, and Yours is the glory unto the ages. Amen.", "italic": false, "redLetter": false }],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Prayer of Manasseh Son of Hezekiah",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Confession and Plea for Forgiveness",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T00:00:00.000Z"
+    }
+  }
+}

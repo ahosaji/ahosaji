@@ -1,0 +1,35 @@
+{
+  "name": "@ahosaji/ingest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "scrape:bg:john3": "tsx src/scripts/scrape-bg-john-3.ts",
+    "scrape:ar:john3": "tsx src/scripts/scrape-ar-john-3.ts",
+    "scrape:deutero:tobit1": "tsx src/scripts/scrape-deutero-tobit-1.ts",
+    "scrape:ar:tobit1": "tsx src/scripts/scrape-ar-tobit-1.ts",
+    "validate": "tsx src/scripts/validate-all.ts",
+    "enrich:jhn3": "tsx src/scripts/enrich-jhn-3.ts",
+    "load:postgres": "tsx src/scripts/load-postgres.ts",
+    "load:meilisearch": "tsx src/scripts/load-meilisearch.ts",
+    "scrape:book": "tsx src/scripts/scrape-book.ts",
+    "scrape:deutero:all": "tsx src/scripts/scrape-deutero-all.ts",
+    "scrape:source:all": "tsx src/scripts/scrape-source-all.ts"
+  },
+  "dependencies": {
+    "@mendable/firecrawl-js": "^1.15.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "meilisearch": "^0.45.0",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "@types/pg": "^8.11.10",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  }
+}

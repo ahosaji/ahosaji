@@ -1,0 +1,2377 @@
+{
+  "usfm": "ESG",
+  "source": "arabic",
+  "_provenance": {
+    "title": "تتمة أستير (Esther Greek Additions)",
+    "url_pattern": "https://coptic-treasures.com/chapter/esther-ending-NNN-svd/",
+    "publisher": "مشروع الكنوز القبطية (Coptic Treasures Project)",
+    "translation_basis": "Arabic source Arabic Bible (SVD), as published in the Coptic Treasures interactive verse-by-verse interface",
+    "note": "Sourced because Arabic source's structured Bible search has Esther limited to 10 chapters (the Hebrew Masoretic length) and does not separately serve the Greek additions A-F. Coptic Treasures publishes the SVD-translated additions under URL slug 'esther-ending', preserving the Vulgate chapter numbering 10-16. We RE-CHAPTER here to match en/ESG's Addition-A-through-F scheme (ch 1-6) so cross-translation queries align: Vulgate ch11+12 → ESG.1 (A), ch13:1-7 → ESG.2 (B), ch13:8-18 + ch14 → ESG.3 (C), ch15 → ESG.4 (D), ch16 → ESG.5 (E), ch10 + ch11:1 → ESG.6 (F)."
+  },
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ESG",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "ESG.1.1",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 1,
+          "text": "وكان في السنة الثانية من ملك ارتحششتا الاكبر في اليوم الاول من شهر نيسان ان مردكاي بن يائير بن شمعي بن قيش من سبط بنيامين راى حلما.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان في السنة الثانية من ملك ارتحششتا الاكبر في اليوم الاول من شهر نيسان ان مردكاي بن يائير بن شمعي بن قيش من سبط بنيامين راى حلما.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "إضافة أ — حلم مردخاي وإنقاذ الملك",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.2",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 2,
+          "text": "وهو رجل يهودي مقيم بمدينة شوشن رجل عظيم من عظماء بلاط الملك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهو رجل يهودي مقيم بمدينة شوشن رجل عظيم من عظماء بلاط الملك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.3",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 3,
+          "text": "وكان من جملة اهل الجلاء الذين اخذهم نبوكد نصر ملك من اورشليم مع يكنيا ملك يهوذا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان من جملة اهل الجلاء الذين اخذهم نبوكد نصر ملك من اورشليم مع يكنيا ملك يهوذا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.4",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 4,
+          "text": "وهذا حلمه راى كان اصواتا وضوضاء ورعودا وزلازل واضطرابا في الارض.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهذا حلمه راى كان اصواتا وضوضاء ورعودا وزلازل واضطرابا في الارض.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.5",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 5,
+          "text": "ثم اذا بتنينين عظيمين متهيئان للاقتتال.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم اذا بتنينين عظيمين متهيئان للاقتتال.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.6",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 6,
+          "text": "وقد تهيجت كل الامم باصواتهما لتقاتل شعب الابرار.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقد تهيجت كل الامم باصواتهما لتقاتل شعب الابرار.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.7",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 7,
+          "text": "وكان ذلك اليوم يوم ظلمة وهول وشدة وضنك ورعب عظيم على الارض.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان ذلك اليوم يوم ظلمة وهول وشدة وضنك ورعب عظيم على الارض.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.8",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 8,
+          "text": "فاضطرب شعب الابرار خوفا من شرورهم متوقعين الموت.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاضطرب شعب الابرار خوفا من شرورهم متوقعين الموت.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.9",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 9,
+          "text": "وصرخوا الى الله وفيما هم يصرخون اذا بينبوع صغير قد تكاثر حتى صار نهرا عظيما وفاض بمياه كثيرة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وصرخوا الى الله وفيما هم يصرخون اذا بينبوع صغير قد تكاثر حتى صار نهرا عظيما وفاض بمياه كثيرة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.10",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 10,
+          "text": "ثم اشرق النور والشمس فارتفع المتواضعون وافترسوا المتجبرين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم اشرق النور والشمس فارتفع المتواضعون وافترسوا المتجبرين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.11",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 11,
+          "text": "فلما راى مردكاي ذلك ونهض من مضجعه كان يفكر في ماذا يريد الله ان يفعل وكان ذلك لا يبرح من نفسه وهو يرغب ان يعرف ما معنى الحلم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما راى مردكاي ذلك ونهض من مضجعه كان يفكر في ماذا يريد الله ان يفعل وكان ذلك لا يبرح من نفسه وهو يرغب ان يعرف ما معنى الحلم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.12",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 12,
+          "text": "وكان حينئذ يقف بباب الملك مع بجتان وتارش خصيي الملك وهما حاجبا البلاط.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان حينئذ يقف بباب الملك مع بجتان وتارش خصيي الملك وهما حاجبا البلاط.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.13",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 13,
+          "text": "فبعد ان وقف على نواياهما وتقصى مدققا علم انهما يحاولان ان يلقيا ايديهما على الملك ارتحششتا فاطلع الملك على ذلك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فبعد ان وقف على نواياهما وتقصى مدققا علم انهما يحاولان ان يلقيا ايديهما على الملك ارتحششتا فاطلع الملك على ذلك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.14",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 14,
+          "text": "فالقاهما تحت العذاب فاقرا فامر بان يساقا الى الموت.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فالقاهما تحت العذاب فاقرا فامر بان يساقا الى الموت.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.15",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 15,
+          "text": "وكتب الملك ما وقع في سفر اخبار الايام وكذلك مردكاي كتب ذكر الامر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكتب الملك ما وقع في سفر اخبار الايام وكذلك مردكاي كتب ذكر الامر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.16",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 16,
+          "text": "ثم امره الملك ان يقيم ببيت الملك وامر له بهبات لانه اطلعه على ذلك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم امره الملك ان يقيم ببيت الملك وامر له بهبات لانه اطلعه على ذلك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.17",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 17,
+          "text": "وكان هامان بن همداتا الاجاجي له عند الملك كرامة عظيمة فاراد ان يؤذي مردكاي وشعبه بسبب خصيي الملك المقتولين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان هامان بن همداتا الاجاجي له عند الملك كرامة عظيمة فاراد ان يؤذي مردكاي وشعبه بسبب خصيي الملك المقتولين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "إضافة أ — حلم مردخاي وإنقاذ الملك",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-06T16:24:47.481590+00:00"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ESG",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "ESG.2.1",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 1,
+          "text": "من ارتحششتا الاكبر المالك من الهند الى على المئة والسبعة والعشرين اقليما الى الرؤساء والقواد الذين في طاعته سلام.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "من ارتحششتا الاكبر المالك من الهند الى على المئة والسبعة والعشرين اقليما الى الرؤساء والقواد الذين في طاعته سلام.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "إضافة ب — رسالة الملك الأولى",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.2",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 2,
+          "text": "اني مع كوني متسلطا على شعوب كثيرين وقد اخضعت المسكونة باسرها تحت يدي لم احب ان اسيء انفاذ مقدرتي العظيمة ولكني حكمت بالرحمة والحلم حتى يقضوا حياتهم بلا خوف وبسكينة ويتمتعوا بالسلام الذي يصبو اليه كل بشر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اني مع كوني متسلطا على شعوب كثيرين وقد اخضعت المسكونة باسرها تحت يدي لم احب ان اسيء انفاذ مقدرتي العظيمة ولكني حكمت بالرحمة والحلم حتى يقضوا حياتهم بلا خوف وبسكينة ويتمتعوا بالسلام الذي يصبو اليه كل بشر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.3",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 3,
+          "text": "فسالت اصحاب مشورتي كيف يتم ذلك فكان ان واحدا منهم يفوق من سواه في الحكمة والامانة وهو ثنيان الملك اسمه هامان.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فسالت اصحاب مشورتي كيف يتم ذلك فكان ان واحدا منهم يفوق من سواه في الحكمة والامانة وهو ثنيان الملك اسمه هامان.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.4",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 4,
+          "text": "قال لي ان في المسكونة شعبا متشتتا له شرائع جديدة يتصرف بخلاف عادة جميع الامم ويحتقر اوامر الملوك ويفسد نظام جميع الامم بفتنته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قال لي ان في المسكونة شعبا متشتتا له شرائع جديدة يتصرف بخلاف عادة جميع الامم ويحتقر اوامر الملوك ويفسد نظام جميع الامم بفتنته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.5",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 5,
+          "text": "فلما وقفنا على هذا وراينا ان شعبا واحدا متمرد على الناس طائفة تتبع شرائع فاسدة وتخالف اوامرنا وتقلق سلام واتفاق جميع الاقاليم الخاضعة لنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما وقفنا على هذا وراينا ان شعبا واحدا متمرد على الناس طائفة تتبع شرائع فاسدة وتخالف اوامرنا وتقلق سلام واتفاق جميع الاقاليم الخاضعة لنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.6",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 6,
+          "text": "امرنا ان كل من يشير اليهم هامان المولى على جميع الاقاليم وثنيان الملك الذي نكرمه بمنزلة اب يبادون بايدي اعدائهم هم ونساؤهم واولادهم ولا يرحمهم احد في اليوم الرابع عشر من الشهر الثاني عشر شهر اذار من هذه السنة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "امرنا ان كل من يشير اليهم هامان المولى على جميع الاقاليم وثنيان الملك الذي نكرمه بمنزلة اب يبادون بايدي اعدائهم هم ونساؤهم واولادهم ولا يرحمهم احد في اليوم الرابع عشر من الشهر الثاني عشر شهر اذار من هذه السنة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.7",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 7,
+          "text": "حتى اذا هبط اولئك الناس الخبثاء الى الجحيم في يوم واحد يرد الى مملكتنا السلام الذي اقلقوه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حتى اذا هبط اولئك الناس الخبثاء الى الجحيم في يوم واحد يرد الى مملكتنا السلام الذي اقلقوه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "إضافة ب — رسالة الملك الأولى",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-06T16:24:47.481745+00:00"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ESG",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "ESG.3.1",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 1,
+          "text": "فاما مردكاي فتضرع الى الرب متذكرا جميع اعماله.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاما مردكاي فتضرع الى الرب متذكرا جميع اعماله.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "إضافة ج — صلاتا مردخاي وأستير",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.2",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 2,
+          "text": "وقال اللهم ايها الرب الملك القادر على الكل اذ كل شيء في طاعتك وليس من يقاوم مشيئتك اذا هممت بنجاة اسرائيل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقال اللهم ايها الرب الملك القادر على الكل اذ كل شيء في طاعتك وليس من يقاوم مشيئتك اذا هممت بنجاة اسرائيل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.3",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 3,
+          "text": "انت صنعت السماء والارض وكل ما تحت السماوات.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "انت صنعت السماء والارض وكل ما تحت السماوات.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.4",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 4,
+          "text": "انت رب الجميع وليس من يقاوم عزتك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "انت رب الجميع وليس من يقاوم عزتك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.5",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 5,
+          "text": "انك تعرف كل شيء وتعلم اني لا تكبرا ولا احتقارا ولا رغبة في شيء من الكرامة فعلت هذا اني لم اسجد لهامان العاتي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "انك تعرف كل شيء وتعلم اني لا تكبرا ولا احتقارا ولا رغبة في شيء من الكرامة فعلت هذا اني لم اسجد لهامان العاتي.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.6",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 6,
+          "text": "فاني مستعد ان اقبل حتى اثار قدميه عن طيب نفس لاجل نجاة اسرائيل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاني مستعد ان اقبل حتى اثار قدميه عن طيب نفس لاجل نجاة اسرائيل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.7",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 7,
+          "text": "ولكن خفت ان احول كرامة الهي الى انسان واعبد احدا سوى الهي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن خفت ان احول كرامة الهي الى انسان واعبد احدا سوى الهي.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.8",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 8,
+          "text": "فالان ايها الرب الملك اله ابراهيم ارحم شعبك لان اعداءنا يطلبون ان يهلكونا ويستاصلوا ميراثك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فالان ايها الرب الملك اله ابراهيم ارحم شعبك لان اعداءنا يطلبون ان يهلكونا ويستاصلوا ميراثك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.9",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 9,
+          "text": "لا تهمل نصيبك الذي افتديته لك من مصر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لا تهمل نصيبك الذي افتديته لك من مصر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.10",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 10,
+          "text": "واستجب لتضرعي واعطف على نصيبك وميراثك وحول حزننا فرحا لنحيا ونسبح اسمك ايها الرب ولا تسدد افواه المرنمين لك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واستجب لتضرعي واعطف على نصيبك وميراثك وحول حزننا فرحا لنحيا ونسبح اسمك ايها الرب ولا تسدد افواه المرنمين لك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.11",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 11,
+          "text": "وكذلك جميع اسرائيل بروح واحد وتضرع واحد صرخوا الى الرب من اجل ان الموت اشرف عليهم يقينا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكذلك جميع اسرائيل بروح واحد وتضرع واحد صرخوا الى الرب من اجل ان الموت اشرف عليهم يقينا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.12",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 12,
+          "text": "وان استير الملكة ايضا التجئت الى الرب خوفا من الخطر المشرف.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وان استير الملكة ايضا التجئت الى الرب خوفا من الخطر المشرف.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.13",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 13,
+          "text": "فخلعت ثياب الملك ولبست ثيابا للحزن والبكاء وعوض الاطياب المختلفة القت على راسها رمادا وزبلا وذللت جسدها بالصوم وجميع المواضع التي كانت تفرح فيها من قبل ملاتها من نتاف شعر راسها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فخلعت ثياب الملك ولبست ثيابا للحزن والبكاء وعوض الاطياب المختلفة القت على راسها رمادا وزبلا وذللت جسدها بالصوم وجميع المواضع التي كانت تفرح فيها من قبل ملاتها من نتاف شعر راسها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.14",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 14,
+          "text": "وكانت تتضرع الى الرب اله اسرائيل قائلة ايها الرب الذي هو وحده ملكنا اعني انا المنقطعة التي ليس لها معين سواك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانت تتضرع الى الرب اله اسرائيل قائلة ايها الرب الذي هو وحده ملكنا اعني انا المنقطعة التي ليس لها معين سواك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.15",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 15,
+          "text": "فان خطري بين يدي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فان خطري بين يدي.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.16",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 16,
+          "text": "لقد سمعت من ابي انك ايها الرب اتخذت اسرائيل من جميع الامم واباءنا من جميع اسلافهم الاقدمين لتحوزهم ميراثا ابديا وصنعت معهم كما قلت.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لقد سمعت من ابي انك ايها الرب اتخذت اسرائيل من جميع الامم واباءنا من جميع اسلافهم الاقدمين لتحوزهم ميراثا ابديا وصنعت معهم كما قلت.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.17",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 17,
+          "text": "انا قد خطئنا امامك ولذلك اسلمتنا الى ايدي اعدائنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "انا قد خطئنا امامك ولذلك اسلمتنا الى ايدي اعدائنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.18",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 18,
+          "text": "لانا عبدنا الهتهم وانت عادل ايها الرب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لانا عبدنا الهتهم وانت عادل ايها الرب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.19",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 19,
+          "text": "والان لم يكفهم انهم استعبدونا عبودية شاقة جدا بل بما انهم يعزون قوة ايديهم الى اوثانهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والان لم يكفهم انهم استعبدونا عبودية شاقة جدا بل بما انهم يعزون قوة ايديهم الى اوثانهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.20",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 20,
+          "text": "يحاولون ان ينقضوا مواعيدك ويمحوا ميراثك ويسدوا افواه المسبحين لك ويطفئوا مجد هيكلك ومذبحك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يحاولون ان ينقضوا مواعيدك ويمحوا ميراثك ويسدوا افواه المسبحين لك ويطفئوا مجد هيكلك ومذبحك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.21",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 21,
+          "text": "ليفتحوا افواه الامم فيسبحوا لقوة الاوثان ويمجدوا ملكا بشريا الى الابد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ليفتحوا افواه الامم فيسبحوا لقوة الاوثان ويمجدوا ملكا بشريا الى الابد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.22",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 22,
+          "text": "لا تسلم ايها الرب صولجانك الى من ليسوا بشيء لئلا يضحكوا من هلاكنا ولكن اردد مشورتهم عليهم واهلك الذي ابتدا يشدد علينا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لا تسلم ايها الرب صولجانك الى من ليسوا بشيء لئلا يضحكوا من هلاكنا ولكن اردد مشورتهم عليهم واهلك الذي ابتدا يشدد علينا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.23",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 23,
+          "text": "اذكرنا يا رب واستعلن لنا في وقت ضنكنا وهبني ثقة ايها الرب ملك الالهة وملك كل قدرة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اذكرنا يا رب واستعلن لنا في وقت ضنكنا وهبني ثقة ايها الرب ملك الالهة وملك كل قدرة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.24",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 24,
+          "text": "الق في فمي كلاما مرصفا بحضرة ذاك الاسد وحول قلبه الى بغض عدونا لكي يهلك هو وسائر المتواطئين معه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الق في فمي كلاما مرصفا بحضرة ذاك الاسد وحول قلبه الى بغض عدونا لكي يهلك هو وسائر المتواطئين معه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.25",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 25,
+          "text": "وايانا فانقذنا بيدك واعني انا التي لا معونة لها سواك ايها الرب العالم بكل شيء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وايانا فانقذنا بيدك واعني انا التي لا معونة لها سواك ايها الرب العالم بكل شيء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.26",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 26,
+          "text": "انك تعلم اني ابغض مجد الظالمين واكره مضجع القلف وجميع الغرباء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "انك تعلم اني ابغض مجد الظالمين واكره مضجع القلف وجميع الغرباء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.27",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 27,
+          "text": "وانت عالم بضرورتي واني اكره سمة ابهتي ومجدي التي احملها على راسي ايام بروزي وامقتها كفرصة الطامث ولا احملها في ايام قراري.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وانت عالم بضرورتي واني اكره سمة ابهتي ومجدي التي احملها على راسي ايام بروزي وامقتها كفرصة الطامث ولا احملها في ايام قراري.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.28",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 28,
+          "text": "واني لم اكل على مائدة هامان ولا لذذت بوليمة الملك ولم اشرب خمر السكب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واني لم اكل على مائدة هامان ولا لذذت بوليمة الملك ولم اشرب خمر السكب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.29",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 29,
+          "text": "ولم افرح انا امتك منذ نقلت الى ههنا الى اليوم الا بك ايها الرب اله ابراهيم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولم افرح انا امتك منذ نقلت الى ههنا الى اليوم الا بك ايها الرب اله ابراهيم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.30",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 30,
+          "text": "الاله القدير على الجميع فاستجب لاصوات الذين ليس لهم رجاء غيرك ونجنا من ايدي الاثماء وانقذني من مخافتي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الاله القدير على الجميع فاستجب لاصوات الذين ليس لهم رجاء غيرك ونجنا من ايدي الاثماء وانقذني من مخافتي.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "إضافة ج — صلاتا مردخاي وأستير",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-06T16:24:47.481759+00:00"
+    },
+    "4": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ESG",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "ESG.4.1",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 1,
+          "text": "وامرها ان تدخل على الملك وتتوسل اليه لاجل شعبها وارضها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وامرها ان تدخل على الملك وتتوسل اليه لاجل شعبها وارضها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "إضافة د — مثول أستير أمام الملك",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.2",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 2,
+          "text": "وقال اذكري ايام مذلتك حيث نشات على يدي فان هامان ثنيان الملك قد تكلم في اهلاكنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقال اذكري ايام مذلتك حيث نشات على يدي فان هامان ثنيان الملك قد تكلم في اهلاكنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.3",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 3,
+          "text": "فادعي الرب وكلمي الملك في امرنا وخلصينا من الموت.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فادعي الرب وكلمي الملك في امرنا وخلصينا من الموت.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.4",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 4,
+          "text": "ثم انها في اليوم الثالث نزعت ثياب حدادها ولبست ملابس مجدها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم انها في اليوم الثالث نزعت ثياب حدادها ولبست ملابس مجدها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.5",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 5,
+          "text": "ولما تبرجت ببزة الملك ودعت مدبر ومخلص الجميع الله اتخذت لها جاريتين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولما تبرجت ببزة الملك ودعت مدبر ومخلص الجميع الله اتخذت لها جاريتين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.6",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 6,
+          "text": "فكانت تستند الى احداهما كانها لم تكن تستطيع ان تستقل لكثرة ترفها ورخوصتها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فكانت تستند الى احداهما كانها لم تكن تستطيع ان تستقل لكثرة ترفها ورخوصتها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.7",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 7,
+          "text": "والجارية الاخرى كانت تتبع مولاتها رافعا اذيالها المنسحبة على الارض.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والجارية الاخرى كانت تتبع مولاتها رافعا اذيالها المنسحبة على الارض.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.8",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 8,
+          "text": "وكان احمرار وجهها وجمال عينيها ولمعانهما يخفي كابة نفسها المنقبضة بشدة خوفها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان احمرار وجهها وجمال عينيها ولمعانهما يخفي كابة نفسها المنقبضة بشدة خوفها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.9",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 9,
+          "text": "فدخلت كل الابواب بابا بابا ثم وقفت قبالة الملك حيث كان جالسا على عرش ملكه بلباس الملك مزينا بالذهب والجواهر ومنظره رهيب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فدخلت كل الابواب بابا بابا ثم وقفت قبالة الملك حيث كان جالسا على عرش ملكه بلباس الملك مزينا بالذهب والجواهر ومنظره رهيب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.10",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 10,
+          "text": "فلما رفع وجهه ولاح من اتقاد عينيه غضب صدره سقطت الملكة واستحال لون وجهها الى صفرة واتكات راسها على الجارية استرخاء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما رفع وجهه ولاح من اتقاد عينيه غضب صدره سقطت الملكة واستحال لون وجهها الى صفرة واتكات راسها على الجارية استرخاء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.11",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 11,
+          "text": "فحول الله روح الملك الى الحلم فاسرع ونهض عن العرش مشفقا وضمها بذراعيه حتى ثابت الى نفسها وكان يلاطفها بهذاالكلام.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فحول الله روح الملك الى الحلم فاسرع ونهض عن العرش مشفقا وضمها بذراعيه حتى ثابت الى نفسها وكان يلاطفها بهذاالكلام.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.12",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 12,
+          "text": "ما لك يا استر انا اخوك لا تخافي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ما لك يا استر انا اخوك لا تخافي.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.13",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 13,
+          "text": "انك لا تموتين انما الشريعة ليست عليك ولكن على العامة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "انك لا تموتين انما الشريعة ليست عليك ولكن على العامة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.14",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 14,
+          "text": "هلمي والمسي الصولجان.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هلمي والمسي الصولجان.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.15",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 15,
+          "text": "واذ لم تزل ساكتة اخذ صولجان الذهب وجعله على عنقها وقبلها وقال لماذا لا تكلمينني.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واذ لم تزل ساكتة اخذ صولجان الذهب وجعله على عنقها وقبلها وقال لماذا لا تكلمينني.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.16",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 16,
+          "text": "فاجابت وقالت اني رايتك يا سيدي كانك ملاك الله فاضطرب قلبي هيبة من مجدك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاجابت وقالت اني رايتك يا سيدي كانك ملاك الله فاضطرب قلبي هيبة من مجدك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.17",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 17,
+          "text": "لانك عجيب جدا يا سيدي ووجهك مملوء نعمة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لانك عجيب جدا يا سيدي ووجهك مملوء نعمة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.18",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 18,
+          "text": "وفيما هي تتكلم سقطت ثانية وكاد يغشى عليها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وفيما هي تتكلم سقطت ثانية وكاد يغشى عليها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.19",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 19,
+          "text": "فاضطرب الملك وكان جميع اعوانه يلاطفونها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاضطرب الملك وكان جميع اعوانه يلاطفونها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "إضافة د — مثول أستير أمام الملك",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-06T16:24:47.481769+00:00"
+    },
+    "5": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ESG",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "ESG.5.1",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 1,
+          "text": "من ارتحششتا العظيم المالك من الهند الى الى القواد والرؤساء في المئة والسبعة والعشرين اقليما التي في طاعتنا سلام.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "من ارتحششتا العظيم المالك من الهند الى الى القواد والرؤساء في المئة والسبعة والعشرين اقليما التي في طاعتنا سلام.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "إضافة هـ — رسالة الملك الثانية",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.2",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 2,
+          "text": "ان كثيرين يسيئون اتخاذ المجد الممنوح لهم فيتكبرون.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ان كثيرين يسيئون اتخاذ المجد الممنوح لهم فيتكبرون.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.3",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 3,
+          "text": "ويجتهدون لا ان يظلموا رعية الملوك فقط ولكن اذ لا يحسنون تحمل المجد الممنوح لهم يتامرون على الذين منحوه لهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ويجتهدون لا ان يظلموا رعية الملوك فقط ولكن اذ لا يحسنون تحمل المجد الممنوح لهم يتامرون على الذين منحوه لهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.4",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 4,
+          "text": "ولا يكتفون بان لا يشكروا على الانعام وان ينابذوا الحقوق الانسانية بل يتوهمون انهم يستطيعون ان يفروا من قضاء الله المطلع على كل شيء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولا يكتفون بان لا يشكروا على الانعام وان ينابذوا الحقوق الانسانية بل يتوهمون انهم يستطيعون ان يفروا من قضاء الله المطلع على كل شيء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.5",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 5,
+          "text": "وقد بلغ من حماقتهم انهم يحاولون بمكايد اكاذيبهم ان يسقطوا الذين سلمت اليهم المناصب وهم يجرونها بالتحري ويفعلون كل مايستاهلون به شكر الجميع.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقد بلغ من حماقتهم انهم يحاولون بمكايد اكاذيبهم ان يسقطوا الذين سلمت اليهم المناصب وهم يجرونها بالتحري ويفعلون كل مايستاهلون به شكر الجميع.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.6",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 6,
+          "text": "ويخدعوا باحتيال مكرهم مسامع الرؤساء السليمة الذين يقيسون طباع غيرهم على طباعهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ويخدعوا باحتيال مكرهم مسامع الرؤساء السليمة الذين يقيسون طباع غيرهم على طباعهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.7",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 7,
+          "text": "وهذا امر مختبر من التواريخ القديمة ومما يحدث كل يوم ان دسائس البعض تفسد خواطر الملوك الصالحة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهذا امر مختبر من التواريخ القديمة ومما يحدث كل يوم ان دسائس البعض تفسد خواطر الملوك الصالحة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.8",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 8,
+          "text": "فلذلك ينبغي ان ينظر في سلم جميع الاقاليم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلذلك ينبغي ان ينظر في سلم جميع الاقاليم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.9",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 9,
+          "text": "فلا ينبغي ان يظن اننا نامر باشياء متباينة عن خفة عقل بل ذلك ناشئ عن اختلاف الازمنة وضروراتها التي حملتنا على ابراز الحكم بحسب مقتضى نفع الجميع.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلا ينبغي ان يظن اننا نامر باشياء متباينة عن خفة عقل بل ذلك ناشئ عن اختلاف الازمنة وضروراتها التي حملتنا على ابراز الحكم بحسب مقتضى نفع الجميع.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.10",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 10,
+          "text": "ولكي تفهموا كلامنا باوضح بيانا فان هامان بن همداتا الذي هو مكدوني جنسا ومشربا وهو غريب عن دم الفرس وقد فضح رحمتنا بقساوته بعد ان اويناه غريبا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكي تفهموا كلامنا باوضح بيانا فان هامان بن همداتا الذي هو مكدوني جنسا ومشربا وهو غريب عن دم الفرس وقد فضح رحمتنا بقساوته بعد ان اويناه غريبا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.11",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 11,
+          "text": "وبعدما احسنا اليه حتى كان يدعى ابا لنا وكان الجميع يسجدون له سجودهم لثنيان الملك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وبعدما احسنا اليه حتى كان يدعى ابا لنا وكان الجميع يسجدون له سجودهم لثنيان الملك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.12",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 12,
+          "text": "قد بلغ من شدة عتوه انه اجتهد ان يسلبنا الملك والحياة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قد بلغ من شدة عتوه انه اجتهد ان يسلبنا الملك والحياة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.13",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 13,
+          "text": "لانه سعى بدسائس جديدة لم تسمع باهلاك مردكاي الذي انما نحن في الحياة من امانته واحسانه وباهلاك قرينة ملكنا استير وسائر شعبها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لانه سعى بدسائس جديدة لم تسمع باهلاك مردكاي الذي انما نحن في الحياة من امانته واحسانه وباهلاك قرينة ملكنا استير وسائر شعبها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.14",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 14,
+          "text": "وكان في نفسه انه بعد قتلهم يترصد لنا في خلوتنا ويحول مملكة الفرس الى المكدونيين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكان في نفسه انه بعد قتلهم يترصد لنا في خلوتنا ويحول مملكة الفرس الى المكدونيين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.15",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 15,
+          "text": "ونحن لم نجد قط ذنبا في اليهود المقضي عليهم بالموت بقضاء اخبث البشر بل بعكس ذلك وجدنا ان لهم سننا عادلة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ونحن لم نجد قط ذنبا في اليهود المقضي عليهم بالموت بقضاء اخبث البشر بل بعكس ذلك وجدنا ان لهم سننا عادلة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.16",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 16,
+          "text": "وهم بنو الله العلي العظيم الحي الى الابد الذي باحسانه سلم الملك الى ابائنا والينا وما برح محفوظا الى اليوم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهم بنو الله العلي العظيم الحي الى الابد الذي باحسانه سلم الملك الى ابائنا والينا وما برح محفوظا الى اليوم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.17",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 17,
+          "text": "وحيث ذلك فاعلموا ان الرسائل التي وجهها باسمنا هي باطلة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحيث ذلك فاعلموا ان الرسائل التي وجهها باسمنا هي باطلة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.18",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 18,
+          "text": "وبسبب تلك الجريمة قد علق امام ابواب هذه المدينة شوشن هو صاحب تلك المؤامرة وجميع انسبائه على خشبات فنال بذلك جزاء ما استحق من قبل الله لا من قبلنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وبسبب تلك الجريمة قد علق امام ابواب هذه المدينة شوشن هو صاحب تلك المؤامرة وجميع انسبائه على خشبات فنال بذلك جزاء ما استحق من قبل الله لا من قبلنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.19",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 19,
+          "text": "فليعلن هذا الامر الذي نحن منفذوه الان في جميع المدن ليباح لليهود ان يعملوا بسننهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فليعلن هذا الامر الذي نحن منفذوه الان في جميع المدن ليباح لليهود ان يعملوا بسننهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.20",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 20,
+          "text": "وينبغي لكم ان تعضدوهم حتى يستمكنوا من قتل الذين كانوا متاهبين لقتلهم في اليوم الثالث عشر من الشهر الثاني عشر الذي يدعى اذار.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وينبغي لكم ان تعضدوهم حتى يستمكنوا من قتل الذين كانوا متاهبين لقتلهم في اليوم الثالث عشر من الشهر الثاني عشر الذي يدعى اذار.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.21",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 21,
+          "text": "فان ذلك اليوم الذي كان لهم يوم حزن ونحيب قد حوله لهم الله القدير الى فرح.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فان ذلك اليوم الذي كان لهم يوم حزن ونحيب قد حوله لهم الله القدير الى فرح.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.22",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 22,
+          "text": "وانتم ايضا فانظموا هذا اليوم بين سائر ايام الاعياد الاخرى وعيدوه بكل فرح حتى يعلم فيما بعد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وانتم ايضا فانظموا هذا اليوم بين سائر ايام الاعياد الاخرى وعيدوه بكل فرح حتى يعلم فيما بعد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.23",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 23,
+          "text": "ان كل من يطيع الفرس بامانة يثاب على امانته ثوابا وافيا ومن يرصد لملكهم يهلك بجنايته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ان كل من يطيع الفرس بامانة يثاب على امانته ثوابا وافيا ومن يرصد لملكهم يهلك بجنايته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.24",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 24,
+          "text": "وكل اقليم او مدينة يابى ان يشترك في هذا العيد فليهلك بالسيف والنار لا الناس فقط بل البهائم ايضا ليكون الى الابد عبرة للاستخفاف والعصيان.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكل اقليم او مدينة يابى ان يشترك في هذا العيد فليهلك بالسيف والنار لا الناس فقط بل البهائم ايضا ليكون الى الابد عبرة للاستخفاف والعصيان.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "إضافة هـ — رسالة الملك الثانية",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-06T16:24:47.481780+00:00"
+    },
+    "6": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "ESG",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "ESG.6.1",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 1,
+          "text": "وقال مردكاي ان هذا كله انما كان من قبل الله.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقال مردكاي ان هذا كله انما كان من قبل الله.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "إضافة و — تفسير مردخاي للحلم",
+            "paragraphStart": true,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.2",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 2,
+          "text": "وقد ذكرت حلما رايته يشير الى ذلك فلم يسقط منه شيء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقد ذكرت حلما رايته يشير الى ذلك فلم يسقط منه شيء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.3",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 3,
+          "text": "ينبوع صغير ازداد فصار نهرا ثم انقلب فصار نورا وشمسا وفاض بمياه كثيرة فهذا هو استير التي اتخذها الملك زوجة وشاء ان تكون ملكة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ينبوع صغير ازداد فصار نهرا ثم انقلب فصار نورا وشمسا وفاض بمياه كثيرة فهذا هو استير التي اتخذها الملك زوجة وشاء ان تكون ملكة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.4",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 4,
+          "text": "والتنينان انا وهامان.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والتنينان انا وهامان.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.5",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 5,
+          "text": "والامم المجتمعون هم الذين طلبوا ان يمحوا اسم اليهود.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والامم المجتمعون هم الذين طلبوا ان يمحوا اسم اليهود.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.6",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 6,
+          "text": "وشعبي هو اسرائيل الذي صرخ الى الرب فانقذ الرب شعبه وخلصنا من جميع الشرور وصنع ايات عظيمة ومعجزات في الامم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وشعبي هو اسرائيل الذي صرخ الى الرب فانقذ الرب شعبه وخلصنا من جميع الشرور وصنع ايات عظيمة ومعجزات في الامم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.7",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 7,
+          "text": "وامر ان يكون سهمان احدهما لشعب الله والاخر لجميع الامم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وامر ان يكون سهمان احدهما لشعب الله والاخر لجميع الامم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.8",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 8,
+          "text": "فبرز السهمان امام الله في اليوم المسمى منذ ذلك الزمان لجميع الامم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فبرز السهمان امام الله في اليوم المسمى منذ ذلك الزمان لجميع الامم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.9",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 9,
+          "text": "وذكر الرب شعبه ورحم ميراثه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وذكر الرب شعبه ورحم ميراثه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.10",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 10,
+          "text": "لذلك يحفظ هذان اليومان من شهر اذار اليوم الرابع عشر والخامس عشر من هذا الشهر بكل غيرة وفرح فيجتمع الشعب جماعة واحدة في كل اجيال شعب اسرائيل فيما بعد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لذلك يحفظ هذان اليومان من شهر اذار اليوم الرابع عشر والخامس عشر من هذا الشهر بكل غيرة وفرح فيجتمع الشعب جماعة واحدة في كل اجيال شعب اسرائيل فيما بعد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.11",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 11,
+          "text": "كان في السنة الرابعة من ملك تلماي وكلوبطرا ان دوسيتاوس الذي كان يقول عن نفسه انه كاهن ومن نسل لاوي وابنه تلماي اتيا برسالة فوريم هذه قائلين انها قد ترجمت في اورشليم بيد لوسيماكوس بن تلماي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كان في السنة الرابعة من ملك تلماي وكلوبطرا ان دوسيتاوس الذي كان يقول عن نفسه انه كاهن ومن نسل لاوي وابنه تلماي اتيا برسالة فوريم هذه قائلين انها قد ترجمت في اورشليم بيد لوسيماكوس بن تلماي.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "إضافة و — تفسير مردخاي للحلم",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-06T16:24:47.481786+00:00"
+    }
+  }
+}

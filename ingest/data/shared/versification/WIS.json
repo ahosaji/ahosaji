@@ -1,0 +1,30 @@
+{
+  "book": "WIS",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "vulgate",
+    "en": "rahlfs-lxx"
+  },
+  "scope": "comprehensive-overflow-v1",
+  "notes": [
+    "Wisdom of Solomon aligns more cleanly than TOB or JDT — 13 of 19 chapters are verse-count-identical between Arabic source Arabic (Vulgate) and English English (Rahlfs LXX). The 6 divergent chapters show small (±1-2) deltas, mostly Vulgate splits of single LXX verses or Vulgate closing-doxology additions.",
+    "ch6 has a clean shift-by-1 across ar v25-27 ↔ en v23-25 (Vulgate split en v23 into ar v25-26, leaving the rest shifted up).",
+    "ch11 v27 doxology in ar (\"O Lord lover of souls\") corresponds to en v26's identical content with a one-verse renumbering.",
+    "ch19 v21-22 are LXX closing reflections on the Exodus plagues that the Vulgate compressed."
+  ],
+  "mappings": [
+    { "ar": "WIS.2.25", "en": null },
+
+    { "ar": "WIS.5.24", "en": "WIS.5.23" },
+
+    { "ar": "WIS.6.26", "en": "WIS.6.24" },
+    { "ar": "WIS.6.27", "en": "WIS.6.25" },
+
+    { "ar": "WIS.9.19", "en": null },
+
+    { "ar": "WIS.11.27", "en": "WIS.11.26" },
+
+    { "en": "WIS.19.21", "ar": "WIS.19.20" },
+    { "en": "WIS.19.22", "ar": null }
+  ]
+}

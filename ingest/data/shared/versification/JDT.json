@@ -1,0 +1,95 @@
+{
+  "book": "JDT",
+  "translations": ["ar", "en"],
+  "tradition": {
+    "ar": "vulgate",
+    "en": "rahlfs-lxx"
+  },
+  "scope": "comprehensive-overflow-v1",
+  "notes": [
+    "Arabic source Arabic Judith follows Jerome's Vulgate (Latin) recension; English English follows Rahlfs Greek Septuagint. Vulgate Judith is famously a free retelling — Jerome translated it from a now-lost Aramaic source, and the result diverges substantially from the Greek both in content selection and ordering.",
+    "Unlike TOB (where ar consistently has more verses), JDT has BIDIRECTIONAL overflow:",
+    "  - en > ar in chapters 1, 2, 7, 8, 10, 11, 14: LXX gives detailed military / scene-setting narrative that Vulgate condenses.",
+    "  - ar > en in chapters 3, 4, 5, 9, 13, 15, 16: Vulgate adds extended speeches, prayers, and post-victory ceremony.",
+    "Mappings cover the overflow region (verses past the other translation's chapter max) and the well-attested mid-chapter shifts in ch9 (Judith's prayer) and the Holofernes-encounter chapters."
+  ],
+  "mappings": [
+    { "en": "JDT.1.13", "ar": null },
+    { "en": "JDT.1.14", "ar": null },
+    { "en": "JDT.1.15", "ar": null },
+    { "en": "JDT.1.16", "ar": null },
+
+    { "en": "JDT.2.19", "ar": null },
+    { "en": "JDT.2.20", "ar": null },
+    { "en": "JDT.2.21", "ar": null },
+    { "en": "JDT.2.22", "ar": null },
+    { "en": "JDT.2.23", "ar": null },
+    { "en": "JDT.2.24", "ar": null },
+    { "en": "JDT.2.25", "ar": null },
+    { "en": "JDT.2.26", "ar": "JDT.2.16" },
+    { "en": "JDT.2.27", "ar": "JDT.2.17" },
+    { "en": "JDT.2.28", "ar": "JDT.2.18" },
+
+    { "ar": "JDT.3.11", "en": null },
+    { "ar": "JDT.3.12", "en": null },
+    { "ar": "JDT.3.13", "en": "JDT.3.8" },
+    { "ar": "JDT.3.14", "en": null },
+    { "ar": "JDT.3.15", "en": "JDT.3.10" },
+
+    { "ar": "JDT.4.16", "en": "JDT.4.15" },
+    { "ar": "JDT.4.17", "en": "JDT.4.15" },
+
+    { "ar": "JDT.5.25", "en": null },
+    { "ar": "JDT.5.26", "en": "JDT.5.22" },
+    { "ar": "JDT.5.27", "en": "JDT.5.23" },
+    { "ar": "JDT.5.28", "en": "JDT.5.24" },
+    { "ar": "JDT.5.29", "en": null },
+
+    { "en": "JDT.7.26", "ar": null },
+    { "en": "JDT.7.27", "ar": null },
+    { "en": "JDT.7.28", "ar": null },
+    { "en": "JDT.7.29", "ar": null },
+    { "en": "JDT.7.30", "ar": "JDT.7.23" },
+    { "en": "JDT.7.31", "ar": "JDT.7.25" },
+    { "en": "JDT.7.32", "ar": null },
+
+    { "en": "JDT.8.35", "ar": "JDT.8.34" },
+    { "en": "JDT.8.36", "ar": null },
+
+    { "ar": "JDT.9.15", "en": null },
+    { "ar": "JDT.9.16", "en": null },
+    { "ar": "JDT.9.17", "en": "JDT.9.12" },
+    { "ar": "JDT.9.18", "en": "JDT.9.13" },
+    { "ar": "JDT.9.19", "en": "JDT.9.14" },
+
+    { "en": "JDT.10.21", "ar": "JDT.10.19" },
+    { "en": "JDT.10.22", "ar": null },
+    { "en": "JDT.10.23", "ar": "JDT.10.20" },
+
+    { "en": "JDT.11.22", "ar": "JDT.11.20" },
+    { "en": "JDT.11.23", "ar": "JDT.11.21" },
+
+    { "ar": "JDT.13.21", "en": null },
+    { "ar": "JDT.13.22", "en": null },
+    { "ar": "JDT.13.23", "en": "JDT.13.18" },
+    { "ar": "JDT.13.24", "en": "JDT.13.19" },
+    { "ar": "JDT.13.25", "en": "JDT.13.20" },
+    { "ar": "JDT.13.26", "en": null },
+    { "ar": "JDT.13.27", "en": null },
+    { "ar": "JDT.13.28", "en": null },
+    { "ar": "JDT.13.29", "en": null },
+    { "ar": "JDT.13.30", "en": null },
+    { "ar": "JDT.13.31", "en": null },
+
+    { "en": "JDT.14.19", "ar": "JDT.14.18" },
+
+    { "ar": "JDT.15.15", "en": null },
+
+    { "ar": "JDT.16.26", "en": null },
+    { "ar": "JDT.16.27", "en": null },
+    { "ar": "JDT.16.28", "en": "JDT.16.23" },
+    { "ar": "JDT.16.29", "en": "JDT.16.24" },
+    { "ar": "JDT.16.30", "en": "JDT.16.25" },
+    { "ar": "JDT.16.31", "en": null }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "entryPoints": ["src/generated/index.ts"],
+  "out": "../../docs/api/sdk",
+  "name": "@ahosaji/sdk — TypeScript client",
+  "readme": "README.md",
+  "includeVersion": true,
+  "hideGenerator": false,
+  "navigationLinks": {
+    "API reference (Scalar)": "../",
+    "GitHub": "https://github.com/yourname/ahosaji"
+  },
+  "sort": ["kind", "alphabetical"],
+  "categorizeByGroup": true,
+  "excludePrivate": true,
+  "excludeInternal": true,
+  "skipErrorChecking": true
+}

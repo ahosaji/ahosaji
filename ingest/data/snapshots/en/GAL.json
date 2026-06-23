@@ -1,0 +1,4255 @@
+{
+  "usfm": "GAL",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "GAL",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "GAL.1.1",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, an apostle (not from men nor through man, but through Jesus Christ and God the Father who raised Him from the dead),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Paul, an apostle (not from men nor through man, but through Jesus Christ and God the Father who raised Him from the dead),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.2",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 2,
+          "text": "and all the brethren who are with me,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and all the brethren who are with me,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.3",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Grace to you and peace from God the Father and our Lord Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Grace to you and peace from God the Father and our Lord Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.4",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 4,
+          "text": "who gave Himself for our sins, that He might deliver us from this present evil age, according to the will of our God and Father,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who gave Himself for our sins, that He might deliver us from this present evil age, according to the will of our God and Father,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.5",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 5,
+          "text": "to whom be glory forever and ever. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to whom ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " glory forever and ever. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.6",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 6,
+          "text": "I marvel that you are turning away so soon from Him who called you in the grace of Christ, to a different gospel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I marvel that you are turning away so soon from Him who called you in the grace of Christ, to a different gospel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Only One Gospel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.7",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 7,
+          "text": "which is not another; but there are some who trouble you and want to pervert the gospel of Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "which is not another; but there are some who trouble you and want to pervert the gospel of Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "distort"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.8",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 8,
+          "text": "But even if we, or an angel from heaven, preach any other gospel to you than what we have preached to you, let him be accursed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But even if we, or an angel from heaven, preach any other gospel to you than what we have preached to you, let him be accursed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Gr. anathema"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.9",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 9,
+          "text": "As we have said before, so now I say again, if anyone preaches any other gospel to you than what you have received, let him be accursed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As we have said before, so now I say again, if anyone preaches any other gospel to you than what you have received, let him be accursed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.10",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 10,
+          "text": "For do I now persuade men, or God? Or do I seek to please men? For if I still pleased men, I would not be a bondservant of Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For do I now persuade men, or God? Or do I seek to please men? For if I still pleased men, I would not be a bondservant of Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.11",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 11,
+          "text": "But I make known to you, brethren, that the gospel which was preached by me is not according to man.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I make known to you, brethren, that the gospel which was preached by me is not according to man.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Call to Apostleship(N)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.12",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 12,
+          "text": "For I neither received it from man, nor was I taught it, but it came through the revelation of Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I neither received it from man, nor was I taught ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " but ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it came",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " through the revelation of Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.13",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 13,
+          "text": "For you have heard of my former conduct in Judaism, how I persecuted the church of God beyond measure and tried to destroy it.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For you have heard of my former conduct in Judaism, how I persecuted the church of God beyond measure and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "tried to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " destroy it.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.14",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 14,
+          "text": "And I advanced in Judaism beyond many of my contemporaries in my own nation, being more exceedingly zealous for the traditions of my fathers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I advanced in Judaism beyond many of my contemporaries in my own nation, being more exceedingly zealous for the traditions of my fathers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.15",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 15,
+          "text": "But when it pleased God, who separated me from my mother’s womb and called me through His grace,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But when it pleased God, who separated me from my mother’s womb and called ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "me",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " through His grace,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.16",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 16,
+          "text": "to reveal His Son in me, that I might preach Him among the Gentiles, I did not immediately confer with flesh and blood,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to reveal His Son in me, that I might preach Him among the Gentiles, I did not immediately confer with flesh and blood,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.17",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 17,
+          "text": "nor did I go up to Jerusalem to those who were apostles before me; but I went to Arabia, and returned again to Damascus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nor did I go up to Jerusalem to those ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " apostles before me; but I went to Arabia, and returned again to Damascus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.18",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 18,
+          "text": "Then after three years I went up to Jerusalem to see Peter, and remained with him fifteen days.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then after three years I went up to Jerusalem to see Peter, and remained with him fifteen days.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU Cephas"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Contacts at Jerusalem(Z)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.19",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 19,
+          "text": "But I saw none of the other apostles except James, the Lord’s brother.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I saw none of the other apostles except James, the Lord’s brother.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.20",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 20,
+          "text": "(Now concerning the things which I write to you, indeed, before God, I do not lie.)",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(Now ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "concerning",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the things which I write to you, indeed, before God, I do not lie.)",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.21",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 21,
+          "text": "Afterward I went into the regions of Syria and Cilicia.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Afterward I went into the regions of Syria and Cilicia.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.22",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 22,
+          "text": "And I was unknown by face to the churches of Judea which were in Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I was unknown by face to the churches of Judea which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.23",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 23,
+          "text": "But they were hearing only, “He who formerly persecuted us now preaches the faith which he once tried to destroy.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But they were hearing only, “He who formerly persecuted us now preaches the faith which he once ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "tried to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " destroy.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.1.24",
+          "book": "GAL",
+          "chapter": 1,
+          "verse": 24,
+          "text": "And they glorified God in me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And they glorified God in me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Only One Gospel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Call to Apostleship(N)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Contacts at Jerusalem(Z)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:43.433Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "GAL",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "GAL.2.1",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Then after fourteen years I went up again to Jerusalem with Barnabas, and also took Titus with me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then after fourteen years I went up again to Jerusalem with Barnabas, and also took Titus with ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "me.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Defending the Gospel(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.2",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 2,
+          "text": "And I went up by revelation, and communicated to them that gospel which I preach among the Gentiles, but privately to those who were of reputation, lest by any means I might run, or had run, in vain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I went up by revelation, and communicated to them that gospel which I preach among the Gentiles, but privately to those who were of reputation, lest by any means I might run, or had run, in vain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "because of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.3",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Yet not even Titus who was with me, being a Greek, was compelled to be circumcised.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet not even Titus who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with me, being a Greek, was compelled to be circumcised.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.4",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 4,
+          "text": "And this occurred because of false brethren secretly brought in (who came in by stealth to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "this occurred",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " because of false brethren secretly brought in (who came in by stealth to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.5",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 5,
+          "text": "to whom we did not yield submission even for an hour, that the truth of the gospel might continue with you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to whom we did not yield submission even for an hour, that the truth of the gospel might continue with you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.6",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 6,
+          "text": "But from those who seemed to be something—whatever they were, it makes no difference to me; God shows personal favoritism to no man—for those who seemed to be something added nothing to me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But from those who seemed to be something—whatever they were, it makes no difference to me; God shows personal favoritism to no man—for those who seemed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be something",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " added nothing to me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. does not receive the face of a man"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.7",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 7,
+          "text": "But on the contrary, when they saw that the gospel for the uncircumcised had been committed to me, as the gospel for the circumcised was to Peter",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But on the contrary, when they saw that the gospel for the uncircumcised had been committed to me, as ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the gospel",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for the circumcised ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Peter",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.8",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 8,
+          "text": "(for He who worked effectively in Peter for the apostleship to the circumcised also worked effectively in me toward the Gentiles),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(for He who worked effectively in Peter for the apostleship to the circumcised also worked effectively in me toward the Gentiles),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.9",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 9,
+          "text": "and when James, Cephas, and John, who seemed to be pillars, perceived the grace that had been given to me, they gave me and Barnabas the right hand of fellowship, that we should go to the Gentiles and they to the circumcised.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and when James, Cephas, and John, who seemed to be pillars, perceived the grace that had been given to me, they gave me and Barnabas the right hand of fellowship, that we ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "should go",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to the Gentiles and they to the circumcised.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Peter"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.10",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 10,
+          "text": "They desired only that we should remember the poor, the very thing which I also was eager to do.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They desired",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " only that we should remember the poor, the very thing which I also was eager to do.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.11",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Now when Peter had come to Antioch, I withstood him to his face, because he was to be blamed;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now when Peter had come to Antioch, I withstood him to his face, because he was to be blamed;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU Cephas"
+              },
+              {
+                "marker": "e",
+                "text": "opposed"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "No Return to the Law",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.12",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 12,
+          "text": "for before certain men came from James, he would eat with the Gentiles; but when they came, he withdrew and separated himself, fearing those who were of the circumcision.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for before certain men came from James, he would eat with the Gentiles; but when they came, he withdrew and separated himself, fearing those who were of the circumcision.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Jewish Christians"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.13",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 13,
+          "text": "And the rest of the Jews also played the hypocrite with him, so that even Barnabas was carried away with their hypocrisy.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the rest of the Jews also played the hypocrite with him, so that even Barnabas was carried away with their hypocrisy.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.14",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 14,
+          "text": "But when I saw that they were not straightforward about the truth of the gospel, I said to Peter before them all, “If you, being a Jew, live in the manner of Gentiles and not as the Jews, why do you compel Gentiles to live as Jews?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But when I saw that they were not straightforward about the truth of the gospel, I said to Peter before ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " all, “If you, being a Jew, live in the manner of Gentiles and not as the Jews, why do you compel Gentiles to live as Jews?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "NU how can you"
+              },
+              {
+                "marker": "h",
+                "text": "Some interpreters stop the quotation here."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.15",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 15,
+          "text": "We who are Jews by nature, and not sinners of the Gentiles,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Jews by nature, and not sinners of the Gentiles,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.16",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 16,
+          "text": "knowing that a man is not justified by the works of the law but by faith in Jesus Christ, even we have believed in Christ Jesus, that we might be justified by faith in Christ and not by the works of the law; for by the works of the law no flesh shall be justified.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing that a man is not justified by the works of the law but by faith in Jesus Christ, even we have believed in Christ Jesus, that we might be justified by faith in Christ and not by the works of the law; for by the works of the law no flesh shall be justified.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "declared righteous"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.17",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 17,
+          "text": "“But if, while we seek to be justified by Christ, we ourselves also are found sinners, is Christ therefore a minister of sin? Certainly not!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But if, while we seek to be justified by Christ, we ourselves also are found sinners, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Christ therefore a minister of sin? Certainly not!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.18",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 18,
+          "text": "For if I build again those things which I destroyed, I make myself a transgressor.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if I build again those things which I destroyed, I make myself a transgressor.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.19",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 19,
+          "text": "For I through the law died to the law that I might live to God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I through the law died to the law that I might live to God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.20",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 20,
+          "text": "I have been crucified with Christ; it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself for me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have been crucified with Christ; it is no longer I who live, but Christ lives in me; and the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "life",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself for me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.2.21",
+          "book": "GAL",
+          "chapter": 2,
+          "verse": 21,
+          "text": "I do not set aside the grace of God; for if righteousness comes through the law, then Christ died in vain.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I do not set aside the grace of God; for if righteousness ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "comes",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " through the law, then Christ died in vain.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "for nothing"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Defending the Gospel(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "No Return to the Law",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:44.969Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "GAL",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "GAL.3.1",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 1,
+          "text": "O foolish Galatians! Who has bewitched you that you should not obey the truth, before whose eyes Jesus Christ was clearly portrayed among you as crucified?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O foolish Galatians! Who has bewitched you that you should not obey the truth, before whose eyes Jesus Christ was clearly portrayed among you as crucified?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU omits that you should not obey the truth"
+              },
+              {
+                "marker": "b",
+                "text": "NU omits among you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Justification by Faith(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.2",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 2,
+          "text": "This only I want to learn from you: Did you receive the Spirit by the works of the law, or by the hearing of faith?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This only I want to learn from you: Did you receive the Spirit by the works of the law, or by the hearing of faith?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.3",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Are you so foolish? Having begun in the Spirit, are you now being made perfect by the flesh?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Are you so foolish? Having begun in the Spirit, are you now being made perfect by the flesh?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.4",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Have you suffered so many things in vain—if indeed it was in vain?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Have you suffered so many things in vain—if indeed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in vain?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Or great"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.5",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Therefore He who supplies the Spirit to you and works miracles among you, does He do it by the works of the law, or by the hearing of faith?—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore He who supplies the Spirit to you and works miracles among you, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "does He do it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " by the works of the law, or by the hearing of faith?—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.6",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 6,
+          "text": "just as Abraham “believed God, and it was accounted to him for righteousness.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "just as Abraham “believed God, and it was accounted to him for righteousness.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.7",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Therefore know that only those who are of faith are sons of Abraham.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore know that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "only",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " those who are of faith are sons of Abraham.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.8",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 8,
+          "text": "And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham beforehand, saying, “In you all the nations shall be blessed.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham beforehand, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "saying,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " “In you all the nations shall be blessed.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.9",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 9,
+          "text": "So then those who are of faith are blessed with believing Abraham.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So then those who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of faith are blessed with believing Abraham.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.10",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 10,
+          "text": "For as many as are of the works of the law are under the curse; for it is written, “Cursed is everyone who does not continue in all things which are written in the book of the law, to do them.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For as many as are of the works of the law are under the curse; for it is written, “Cursed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " everyone who does not continue in all things which are written in the book of the law, to do them.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Law Brings a Curse",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.11",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 11,
+          "text": "But that no one is justified by the law in the sight of God is evident, for “the just shall live by faith.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But that no one is justified by the law in the sight of God ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " evident, for “the just shall live by faith.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "declared righteous"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.12",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Yet the law is not of faith, but “the man who does them shall live by them.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet the law is not of faith, but “the man who does them shall live by them.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.13",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Christ has redeemed us from the curse of the law, having become a curse for us (for it is written, “Cursed is everyone who hangs on a tree”),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Christ has redeemed us from the curse of the law, having become a curse for us (for it is written, “Cursed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " everyone who hangs on a tree”),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.14",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 14,
+          "text": "that the blessing of Abraham might come upon the Gentiles in Christ Jesus, that we might receive the promise of the Spirit through faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that the blessing of Abraham might come upon the Gentiles in Christ Jesus, that we might receive the promise of the Spirit through faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.15",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 15,
+          "text": "Brethren, I speak in the manner of men: Though it is only a man’s covenant, yet if it is confirmed, no one annuls or adds to it.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, I speak in the manner of men: Though ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " only a man’s covenant, yet ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "if it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " confirmed, no one annuls or adds to it.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Changeless Promise(S)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.16",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Now to Abraham and his Seed were the promises made. He does not say, “And to seeds,” as of many, but as of one, “And to your Seed,” who is Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now to Abraham and his Seed were the promises made. He does not say, “And to seeds,” as of many, but as of one, “And to your Seed,” who is Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.17",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 17,
+          "text": "And this I say, that the law, which was four hundred and thirty years later, cannot annul the covenant that was confirmed before by God in Christ, that it should make the promise of no effect.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this I say, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the law, which was four hundred and thirty years later, cannot annul the covenant that was confirmed before by God in Christ, that it should make the promise of no effect.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU omits in Christ"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.18",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 18,
+          "text": "For if the inheritance is of the law, it is no longer of promise; but God gave it to Abraham by promise.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if the inheritance ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the law, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no longer of promise; but God gave ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Abraham by promise.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.19",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 19,
+          "text": "What purpose then does the law serve? It was added because of transgressions, till the Seed should come to whom the promise was made; and it was appointed through angels by the hand of a mediator.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What purpose then ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "does",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the law ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "serve?",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " It was added because of transgressions, till the Seed should come to whom the promise was made; ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and it was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " appointed through angels by the hand of a mediator.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Purpose of the Law",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.20",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 20,
+          "text": "Now a mediator does not mediate for one only, but God is one.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now a mediator does not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "mediate",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for one ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "only,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " but God is one.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.21",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 21,
+          "text": "Is the law then against the promises of God? Certainly not! For if there had been a law given which could have given life, truly righteousness would have been by the law.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the law then against the promises of God? Certainly not! For if there had been a law given which could have given life, truly righteousness would have been by the law.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.22",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 22,
+          "text": "But the Scripture has confined all under sin, that the promise by faith in Jesus Christ might be given to those who believe.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the Scripture has confined all under sin, that the promise by faith in Jesus Christ might be given to those who believe.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.23",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 23,
+          "text": "But before faith came, we were kept under guard by the law, kept for the faith which would afterward be revealed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But before faith came, we were kept under guard by the law, kept for the faith which would afterward be revealed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. confined"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.24",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 24,
+          "text": "Therefore the law was our tutor to bring us to Christ, that we might be justified by faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the law was our tutor ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to bring us",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Christ, that we might be justified by faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "In a household, the guardian responsible for the care and discipline of the children"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.25",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 25,
+          "text": "But after faith has come, we are no longer under a tutor.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But after faith has come, we are no longer under a tutor.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.26",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 26,
+          "text": "For you are all sons of God through faith in Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For you are all sons of God through faith in Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Sons and Heirs",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.27",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 27,
+          "text": "For as many of you as were baptized into Christ have put on Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For as many of you as were baptized into Christ have put on Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.28",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 28,
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.3.29",
+          "book": "GAL",
+          "chapter": 3,
+          "verse": 29,
+          "text": "And if you are Christ’s, then you are Abraham’s seed, and heirs according to the promise.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And if you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Christ’s, then you are Abraham’s seed, and heirs according to the promise.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Justification by Faith(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "The Law Brings a Curse",
+          "level": 2
+        },
+        {
+          "beforeVerse": 15,
+          "text": "The Changeless Promise(S)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Purpose of the Law",
+          "level": 2
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Sons and Heirs",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:46.451Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "GAL",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "GAL.4.1",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is master of all,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now I say ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the heir, as long as he is a child, does not differ at all from a slave, though he is master of all,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Sons and Heirs Through Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.2",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 2,
+          "text": "but is under guardians and stewards until the time appointed by the father.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but is under guardians and stewards until the time appointed by the father.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.3",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Even so we, when we were children, were in bondage under the elements of the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even so we, when we were children, were in bondage under the elements of the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.4",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 4,
+          "text": "But when the fullness of the time had come, God sent forth His Son, born of a woman, born under the law,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But when the fullness of the time had come, God sent forth His Son, born of a woman, born under the law,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or made"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.5",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 5,
+          "text": "to redeem those who were under the law, that we might receive the adoption as sons.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to redeem those who were under the law, that we might receive the adoption as sons.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.6",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 6,
+          "text": "And because you are sons, God has sent forth the Spirit of His Son into your hearts, crying out, “Abba, Father!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And because you are sons, God has sent forth the Spirit of His Son into your hearts, crying out, “Abba, Father!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit., in Aram., Father"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.7",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Therefore you are no longer a slave but a son, and if a son, then an heir of God through Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore you are no longer a slave but a son, and if a son, then an heir of God through Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU through God"
+              },
+              {
+                "marker": "d",
+                "text": "NU omits through Christ"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.8",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 8,
+          "text": "But then, indeed, when you did not know God, you served those which by nature are not gods.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But then, indeed, when you did not know God, you served those which by nature are not gods.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Fears for the Church",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.9",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 9,
+          "text": "But now after you have known God, or rather are known by God, how is it that you turn again to the weak and beggarly elements, to which you desire again to be in bondage?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But now after you have known God, or rather are known by God, how ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is it that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you turn again to the weak and beggarly elements, to which you desire again to be in bondage?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.10",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 10,
+          "text": "You observe days and months and seasons and years.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You observe days and months and seasons and years.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.11",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 11,
+          "text": "I am afraid for you, lest I have labored for you in vain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I am afraid for you, lest I have labored for you in vain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.12",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 12,
+          "text": "Brethren, I urge you to become like me, for I became like you. You have not injured me at all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, I urge you to become like me, for I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "became",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " like you. You have not injured me at all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.13",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 13,
+          "text": "You know that because of physical infirmity I preached the gospel to you at the first.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You know that because of physical infirmity I preached the gospel to you at the first.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.14",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 14,
+          "text": "And my trial which was in my flesh you did not despise or reject, but you received me as an angel of God, even as Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And my trial which was in my flesh you did not despise or reject, but you received me as an angel of God, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "even",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Or messenger"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.15",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 15,
+          "text": "What then was the blessing you enjoyed? For I bear you witness that, if possible, you would have plucked out your own eyes and given them to me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What then was the blessing you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "enjoyed?",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " For I bear you witness that, if possible, you would have plucked out your own eyes and given them to me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU Where"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.16",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 16,
+          "text": "Have I therefore become your enemy because I tell you the truth?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Have I therefore become your enemy because I tell you the truth?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.17",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 17,
+          "text": "They zealously court you, but for no good; yes, they want to exclude you, that you may be zealous for them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They zealously court you, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "but",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for no good; yes, they want to exclude you, that you may be zealous for them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.18",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 18,
+          "text": "But it is good to be zealous in a good thing always, and not only when I am present with you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But it is good to be zealous in a good thing always, and not only when I am present with you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.19",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 19,
+          "text": "My little children, for whom I labor in birth again until Christ is formed in you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My little children, for whom I labor in birth again until Christ is formed in you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.20",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 20,
+          "text": "I would like to be present with you now and to change my tone; for I have doubts about you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I would like to be present with you now and to change my tone; for I have doubts about you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.21",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 21,
+          "text": "Tell me, you who desire to be under the law, do you not hear the law?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Tell me, you who desire to be under the law, do you not hear the law?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Two Covenants(W)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.22",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 22,
+          "text": "For it is written that Abraham had two sons: the one by a bondwoman, the other by a freewoman.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For it is written that Abraham had two sons: the one by a bondwoman, the other by a freewoman.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.23",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 23,
+          "text": "But he who was of the bondwoman was born according to the flesh, and he of the freewoman through promise,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But he ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the bondwoman was born according to the flesh, and he of the freewoman through promise,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.24",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 24,
+          "text": "which things are symbolic. For these are the two covenants: the one from Mount Sinai which gives birth to bondage, which is Hagar—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "which things are symbolic. For these are the two covenants: the one from Mount Sinai which gives birth to bondage, which is Hagar—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "NU, M omit the"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.25",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 25,
+          "text": "for this Hagar is Mount Sinai in Arabia, and corresponds to Jerusalem which now is, and is in bondage with her children—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for this Hagar is Mount Sinai in Arabia, and corresponds to Jerusalem which now is, and is in bondage with her children—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.26",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 26,
+          "text": "but the Jerusalem above is free, which is the mother of us all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but the Jerusalem above is free, which is the mother of us all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.27",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 27,
+          "text": "For it is written:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For it is written:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.28",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 28,
+          "text": "Now we, brethren, as Isaac was, are children of promise.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now we, brethren, as Isaac ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " are children of promise.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.29",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 29,
+          "text": "But, as he who was born according to the flesh then persecuted him who was born according to the Spirit, even so it is now.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But, as he who was born according to the flesh then persecuted him ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who was born",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " according to the Spirit, even so ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " now.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.30",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 30,
+          "text": "Nevertheless what does the Scripture say? “Cast out the bondwoman and her son, for the son of the bondwoman shall not be heir with the son of the freewoman.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless what does the Scripture say? “Cast out the bondwoman and her son, for the son of the bondwoman shall not be heir with the son of the freewoman.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.4.31",
+          "book": "GAL",
+          "chapter": 4,
+          "verse": 31,
+          "text": "So then, brethren, we are not children of the bondwoman but of the free.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So then, brethren, we are not children of the bondwoman but of the free.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sons and Heirs Through Christ",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Fears for the Church",
+          "level": 2
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Two Covenants(W)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:47.917Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "GAL",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "GAL.5.1",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Stand fast therefore in the liberty by which Christ has made us free, and do not be entangled again with a yoke of bondage.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Stand fast therefore in the liberty by which Christ has made us free, and do not be entangled again with a yoke of bondage.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU For freedom Christ has made us free; stand fast therefore, and"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Christian Liberty",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.2",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Indeed I, Paul, say to you that if you become circumcised, Christ will profit you nothing.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed I, Paul, say to you that if you become circumcised, Christ will profit you nothing.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.3",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 3,
+          "text": "And I testify again to every man who becomes circumcised that he is a debtor to keep the whole law.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I testify again to every man who becomes circumcised that he is a debtor to keep the whole law.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "obligated"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.4",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 4,
+          "text": "You have become estranged from Christ, you who attempt to be justified by law; you have fallen from grace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have become estranged from Christ, you who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "attempt to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " be justified by law; you have fallen from grace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.5",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 5,
+          "text": "For we through the Spirit eagerly wait for the hope of righteousness by faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we through the Spirit eagerly wait for the hope of righteousness by faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.6",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 6,
+          "text": "For in Christ Jesus neither circumcision nor uncircumcision avails anything, but faith working through love.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For in Christ Jesus neither circumcision nor uncircumcision avails anything, but faith working through love.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.7",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 7,
+          "text": "You ran well. Who hindered you from obeying the truth?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You ran well. Who hindered you from obeying the truth?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Love Fulfills the Law",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.8",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 8,
+          "text": "This persuasion does not come from Him who calls you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This persuasion does not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "come",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from Him who calls you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.9",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 9,
+          "text": "A little leaven leavens the whole lump.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A little leaven leavens the whole lump.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.10",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 10,
+          "text": "I have confidence in you, in the Lord, that you will have no other mind; but he who troubles you shall bear his judgment, whoever he is.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have confidence in you, in the Lord, that you will have no other mind; but he who troubles you shall bear his judgment, whoever he is.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.11",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 11,
+          "text": "And I, brethren, if I still preach circumcision, why do I still suffer persecution? Then the offense of the cross has ceased.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I, brethren, if I still preach circumcision, why do I still suffer persecution? Then the offense of the cross has ceased.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.12",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 12,
+          "text": "I could wish that those who trouble you would even cut themselves off!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I could wish that those who trouble you would even cut themselves off!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "mutilate themselves"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.13",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 13,
+          "text": "For you, brethren, have been called to liberty; only do not use liberty as an opportunity for the flesh, but through love serve one another.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For you, brethren, have been called to liberty; only do not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "use",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " liberty as an opportunity for the flesh, but through love serve one another.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.14",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 14,
+          "text": "For all the law is fulfilled in one word, even in this: “You shall love your neighbor as yourself.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For all the law is fulfilled in one word, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "even",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in this: “You shall love your neighbor as yourself.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.15",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 15,
+          "text": "But if you bite and devour one another, beware lest you be consumed by one another!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if you bite and devour one another, beware lest you be consumed by one another!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.16",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 16,
+          "text": "I say then: Walk in the Spirit, and you shall not fulfill the lust of the flesh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I say then: Walk in the Spirit, and you shall not fulfill the lust of the flesh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Walking in the Spirit",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.17",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 17,
+          "text": "For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, so that you do not do the things that you wish.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, so that you do not do the things that you wish.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.18",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 18,
+          "text": "But if you are led by the Spirit, you are not under the law.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if you are led by the Spirit, you are not under the law.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.19",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 19,
+          "text": "Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU omits adultery"
+              },
+              {
+                "marker": "e",
+                "text": "sexual immorality"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.20",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 20,
+          "text": "idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.21",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 21,
+          "text": "envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in time past, that those who practice such things will not inherit the kingdom of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU omits murders"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.22",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 22,
+          "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.23",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 23,
+          "text": "gentleness, self-control. Against such there is no law.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "gentleness, self-control. Against such there is no law.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "meekness"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.24",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 24,
+          "text": "And those who are Christ’s have crucified the flesh with its passions and desires.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And those ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Christ’s have crucified the flesh with its passions and desires.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.25",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 25,
+          "text": "If we live in the Spirit, let us also walk in the Spirit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If we live in the Spirit, let us also walk in the Spirit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.5.26",
+          "book": "GAL",
+          "chapter": 5,
+          "verse": 26,
+          "text": "Let us not become conceited, provoking one another, envying one another.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let us not become conceited, provoking one another, envying one another.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Christian Liberty",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Love Fulfills the Law",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Walking in the Spirit",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:49.438Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "GAL",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "GAL.6.1",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 1,
+          "text": "Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, if a man is overtaken in any trespass, you who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "caught"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Bear and Share Burdens",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.2",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 2,
+          "text": "Bear one another’s burdens, and so fulfill the law of Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Bear one another’s burdens, and so fulfill the law of Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.3",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 3,
+          "text": "For if anyone thinks himself to be something, when he is nothing, he deceives himself.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if anyone thinks himself to be something, when he is nothing, he deceives himself.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.4",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 4,
+          "text": "But let each one examine his own work, and then he will have rejoicing in himself alone, and not in another.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But let each one examine his own work, and then he will have rejoicing in himself alone, and not in another.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.5",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 5,
+          "text": "For each one shall bear his own load.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For each one shall bear his own load.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.6",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 6,
+          "text": "Let him who is taught the word share in all good things with him who teaches.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let him who is taught the word share in all good things with him who teaches.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Be Generous and Do Good",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.7",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 7,
+          "text": "Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.8",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 8,
+          "text": "For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.9",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 9,
+          "text": "And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.10",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.11",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 11,
+          "text": "See with what large letters I have written to you with my own hand!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "See with what large letters I have written to you with my own hand!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Glory Only in the Cross",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.12",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 12,
+          "text": "As many as desire to make a good showing in the flesh, these would compel you to be circumcised, only that they may not suffer persecution for the cross of Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "As many as desire to make a good showing in the flesh, these ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "would",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " compel you to be circumcised, only that they may not suffer persecution for the cross of Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.13",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 13,
+          "text": "For not even those who are circumcised keep the law, but they desire to have you circumcised that they may boast in your flesh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For not even those who are circumcised keep the law, but they desire to have you circumcised that they may boast in your flesh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.14",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 14,
+          "text": "But God forbid that I should boast except in the cross of our Lord Jesus Christ, by whom the world has been crucified to me, and I to the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But God forbid that I should boast except in the cross of our Lord Jesus Christ, by whom the world has been crucified to me, and I to the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or which, the cross"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.15",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 15,
+          "text": "For in Christ Jesus neither circumcision nor uncircumcision avails anything, but a new creation.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For in Christ Jesus neither circumcision nor uncircumcision avails anything, but a new creation.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.16",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 16,
+          "text": "And as many as walk according to this rule, peace and mercy be upon them, and upon the Israel of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And as many as walk according to this rule, peace and mercy ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " upon them, and upon the Israel of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Blessing and a Plea",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.17",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 17,
+          "text": "From now on let no one trouble me, for I bear in my body the marks of the Lord Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "From now on let no one trouble me, for I bear in my body the marks of the Lord Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "GAL.6.18",
+          "book": "GAL",
+          "chapter": 6,
+          "verse": 18,
+          "text": "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, the grace of our Lord Jesus Christ ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with your spirit. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Bear and Share Burdens",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Be Generous and Do Good",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Glory Only in the Cross",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Blessing and a Plea",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:50.953Z"
+    }
+  }
+}

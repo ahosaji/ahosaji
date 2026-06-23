@@ -1,0 +1,1426 @@
+{
+  "usfm": "HAB",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "HAB",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "HAB.1.1",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The burden which the prophet Habakkuk saw.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The burden which the prophet Habakkuk saw.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "oracle, prophecy"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Prophet Questions God’s Judgments",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.2",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 2,
+          "text": "O Lord, how long shall I cry,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, how long shall I cry,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Prophet’s Question",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.3",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Why do You show me iniquity,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Why do You show me iniquity,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.4",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Therefore the law is powerless,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the law is powerless,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.5",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 5,
+          "text": "“Look among the nations and watch—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Look among the nations and watch—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Lord’s Reply",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.6",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 6,
+          "text": "For indeed I am raising up the Chaldeans,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For indeed I am raising up the Chaldeans,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.7",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 7,
+          "text": "They are terrible and dreadful;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They are terrible and dreadful;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.8",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Their horses also are swifter than leopards,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Their horses also are swifter than leopards,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.9",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 9,
+          "text": "“They all come for violence;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They all come for violence;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.10",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 10,
+          "text": "They scoff at kings,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They scoff at kings,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.11",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Then his mind changes, and he transgresses;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " mind changes, and he transgresses;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. spirit or wind"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.12",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Are You not from everlasting,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Are You not from everlasting,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Prophet’s Second Question",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.13",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 13,
+          "text": "You are of purer eyes than to behold evil,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of purer eyes than to behold evil,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.14",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Why do You make men like fish of the sea,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Why",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " do You make men like fish of the sea,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.15",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 15,
+          "text": "They take up all of them with a hook,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They take up all of them with a hook,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.16",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 16,
+          "text": "Therefore they sacrifice to their net,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore they sacrifice to their net,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.1.17",
+          "book": "HAB",
+          "chapter": 1,
+          "verse": 17,
+          "text": "Shall they therefore empty their net,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Shall they therefore empty their net,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Prophet Questions God’s Judgments",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Prophet’s Question",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "The Lord’s Reply",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "The Prophet’s Second Question",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:14.131Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "HAB",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "HAB.2.1",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 1,
+          "text": "I will stand my watch",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will stand my watch",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Just Shall Live by Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.2",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 2,
+          "text": "Then the Lord answered me and said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord answered me and said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Just Live by Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.3",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 3,
+          "text": "For the vision is yet for an appointed time;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the vision ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " yet for an appointed time;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.4",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 4,
+          "text": "“Behold the proud,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold the proud,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.5",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 5,
+          "text": "“Indeed, because he transgresses by wine,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Indeed, because he transgresses by wine,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Woe to the Wicked",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.6",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 6,
+          "text": "“Will not all these take up a proverb against him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Will not all these take up a proverb against him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.7",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 7,
+          "text": "Will not your creditors rise up suddenly?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Will not your creditors rise up suddenly?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. those who bite you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.8",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 8,
+          "text": "Because you have plundered many nations,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because you have plundered many nations,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.9",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 9,
+          "text": "“Woe to him who covets evil gain for his house,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Woe to him who covets evil gain for his house,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.10",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 10,
+          "text": "You give shameful counsel to your house,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You give shameful counsel to your house,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.11",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 11,
+          "text": "For the stone will cry out from the wall,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the stone will cry out from the wall,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.12",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 12,
+          "text": "“Woe to him who builds a town with bloodshed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Woe to him who builds a town with bloodshed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.13",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Behold, is it not of the Lord of hosts",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Behold, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not of the Lord of hosts",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.14",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 14,
+          "text": "For the earth will be filled",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the earth will be filled",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.15",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 15,
+          "text": "“Woe to him who gives drink to his neighbor,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Woe to him who gives drink to his neighbor,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.16",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 16,
+          "text": "You are filled with shame instead of glory.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You are filled with shame instead of glory.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.17",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 17,
+          "text": "For the violence done to Lebanon will cover you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the violence ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "done to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Lebanon will cover you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.18",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 18,
+          "text": "“What profit is the image, that its maker should carve it,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“What profit is the image, that its maker should carve it,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.19",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 19,
+          "text": "Woe to him who says to wood, ‘Awake!’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to him who says to wood, ‘Awake!’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.2.20",
+          "book": "HAB",
+          "chapter": 2,
+          "verse": 20,
+          "text": "“But the Lord is in His holy temple.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But the Lord is in His holy temple.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Just Shall Live by Faith",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Just Live by Faith",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Woe to the Wicked",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:15.650Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "HAB",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "HAB.3.1",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 1,
+          "text": "A prayer of Habakkuk the prophet, on Shigionoth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A prayer of Habakkuk the prophet, on Shigionoth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Exact meaning unknown"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Prophet’s Prayer",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.2",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 2,
+          "text": "O Lord, I have heard Your speech and was afraid;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, I have heard Your speech ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " was afraid;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.3",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 3,
+          "text": "God came from Teman,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "God came from Teman,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.4",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 4,
+          "text": "His brightness was like the light;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "His",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " brightness was like the light;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.5",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Before Him went pestilence,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Before Him went pestilence,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.6",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 6,
+          "text": "He stood and measured the earth;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He stood and measured the earth;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.7",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 7,
+          "text": "I saw the tents of Cushan in affliction;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I saw the tents of Cushan in affliction;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.8",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 8,
+          "text": "O Lord, were You displeased with the rivers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, were ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "You",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " displeased with the rivers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.9",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Your bow was made quite ready;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your bow was made quite ready;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.10",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 10,
+          "text": "The mountains saw You and trembled;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The mountains saw You ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " trembled;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.11",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 11,
+          "text": "The sun and moon stood still in their habitation;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The sun and moon stood still in their habitation;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.12",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 12,
+          "text": "You marched through the land in indignation;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You marched through the land in indignation;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.13",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 13,
+          "text": "You went forth for the salvation of Your people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You went forth for the salvation of Your people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.14",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 14,
+          "text": "You thrust through with his own arrows",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You thrust through with his own arrows",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.15",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 15,
+          "text": "You walked through the sea with Your horses,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You walked through the sea with Your horses,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.16",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 16,
+          "text": "When I heard, my body trembled;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When I heard, my body trembled;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.17",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 17,
+          "text": "Though the fig tree may not blossom,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though the fig tree may not blossom,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Hymn of Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.18",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 18,
+          "text": "Yet I will rejoice in the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet I will rejoice in the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAB.3.19",
+          "book": "HAB",
+          "chapter": 3,
+          "verse": 19,
+          "text": "The Lord God is my strength;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord God is my strength;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Heb. YHWH Adonai"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Prophet’s Prayer",
+          "level": 2
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A Hymn of Faith",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:17.136Z"
+    }
+  }
+}

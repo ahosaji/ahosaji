@@ -1,0 +1,1208 @@
+{
+  "usfm": "HAG",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "HAG",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "HAG.1.1",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 1,
+          "text": "In the second year of King Darius, in the sixth month, on the first day of the month, the word of the Lord came by Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the second year of King Darius, in the sixth month, on the first day of the month, the word of the Lord came by Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Command to Build God’s House(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.2",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 2,
+          "text": "“Thus speaks the Lord of hosts, saying: ‘This people says, “The time has not come, the time that the Lord’s house should be built.” ’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus speaks the Lord of hosts, saying: ‘This people says, “The time has not come, the time that the Lord’s house should be built.” ’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.3",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Then the word of the Lord came by Haggai the prophet, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the word of the Lord came by Haggai the prophet, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.4",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 4,
+          "text": "“Is it time for you yourselves to dwell in your paneled houses, and this temple to lie in ruins?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Is it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " time for you yourselves to dwell in your paneled houses, and this temple ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to lie",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in ruins?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. house"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.5",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Now therefore, thus says the Lord of hosts: “Consider your ways!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now therefore, thus says the Lord of hosts: “Consider your ways!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.6",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 6,
+          "text": "“You have sown much, and bring in little;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“You have sown much, and bring in little;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.7",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 7,
+          "text": "Thus says the Lord of hosts: “Consider your ways!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord of hosts: “Consider your ways!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.8",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Go up to the mountains and bring wood and build the temple, that I may take pleasure in it and be glorified,” says the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Go up to the mountains and bring wood and build the temple, that I may take pleasure in it and be glorified,” says the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. house"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.9",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 9,
+          "text": "“You looked for much, but indeed it came to little; and when you brought it home, I blew it away. Why?” says the Lord of hosts. “Because of My house that is in ruins, while every one of you runs to his own house.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "You",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " looked for much, but indeed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it came to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " little; and when you brought it home, I blew it away. Why?” says the Lord of hosts. “Because of My house that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is in",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ruins, while every one of you runs to his own house.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.10",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Therefore the heavens above you withhold the dew, and the earth withholds its fruit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the heavens above you withhold the dew, and the earth withholds its fruit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.11",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 11,
+          "text": "For I called for a drought on the land and the mountains, on the grain and the new wine and the oil, on whatever the ground brings forth, on men and livestock, and on all the labor of your hands.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I called for a drought on the land and the mountains, on the grain and the new wine and the oil, on whatever the ground brings forth, on men and livestock, and on all the labor of ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " hands.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.12",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him; and the people feared the presence of the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him; and the people feared the presence of the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The People’s Obedience",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.13",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Then Haggai, the Lord’s messenger, spoke the Lord’s message to the people, saying, “I am with you, says the Lord.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Haggai, the Lord’s messenger, spoke the Lord’s message to the people, saying, “I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with you, says the Lord.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.14",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 14,
+          "text": "So the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and worked on the house of the Lord of hosts, their God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and worked on the house of the Lord of hosts, their God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.1.15",
+          "book": "HAG",
+          "chapter": 1,
+          "verse": 15,
+          "text": "on the twenty-fourth day of the sixth month, in the second year of King Darius.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "on the twenty-fourth day of the sixth month, in the second year of King Darius.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Command to Build God’s House(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "The People’s Obedience",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:22.204Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "HAG",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "HAG.2.1",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 1,
+          "text": "In the seventh month, on the twenty-first of the month, the word of the Lord came by Haggai the prophet, saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the seventh ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "month,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the twenty-first of the month, the word of the Lord came by Haggai the prophet, saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. by the hand of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Coming Glory of God’s House",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.2",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 2,
+          "text": "“Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to the remnant of the people, saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to the remnant of the people, saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.3",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 3,
+          "text": "‘Who is left among you who saw this temple in its former glory? And how do you see it now? In comparison with it, is this not in your eyes as nothing?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘Who is left among you who saw this temple in its former glory? And how do you see it now? In comparison with it, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is this",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not in your eyes as nothing?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. house"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.4",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Yet now be strong, Zerubbabel,’ says the Lord; ‘and be strong, Joshua, son of Jehozadak, the high priest; and be strong, all you people of the land,’ says the Lord, ‘and work; for I am with you,’ says the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet now be strong, Zerubbabel,’ says the Lord; ‘and be strong, Joshua, son of Jehozadak, the high priest; and be strong, all you people of the land,’ says the Lord, ‘and work; for I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with you,’ says the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.5",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 5,
+          "text": "‘According to the word that I covenanted with you when you came out of Egypt, so My Spirit remains among you; do not fear!’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "According to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the word that I covenanted with you when you came out of Egypt, so My Spirit remains among you; do not fear!’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.6",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 6,
+          "text": "“For thus says the Lord of hosts: ‘Once more (it is a little while) I will shake heaven and earth, the sea and dry land;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For thus says the Lord of hosts: ‘Once more (it ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a little while) I will shake heaven and earth, the sea and dry land;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.7",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 7,
+          "text": "and I will shake all nations, and they shall come to the Desire of All Nations, and I will fill this temple with glory,’ says the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and I will shake all nations, and they shall come to the Desire of All Nations, and I will fill this temple with glory,’ says the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Or desire of all nations"
+              },
+              {
+                "marker": "d",
+                "text": "Lit. house"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.8",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 8,
+          "text": "‘The silver is Mine, and the gold is Mine,’ says the Lord of hosts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘The silver ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Mine, and the gold ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Mine,’ says the Lord of hosts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.9",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 9,
+          "text": "‘The glory of this latter temple shall be greater than the former,’ says the Lord of hosts. ‘And in this place I will give peace,’ says the Lord of hosts.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘The glory of this latter temple shall be greater than the former,’ says the Lord of hosts. ‘And in this place I will give peace,’ says the Lord of hosts.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. house"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.10",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 10,
+          "text": "On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came by Haggai the prophet, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "On the twenty-fourth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "day",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the ninth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "month,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the second year of Darius, the word of the Lord came by Haggai the prophet, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The People Are Defiled",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.11",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 11,
+          "text": "“Thus says the Lord of hosts: ‘Now, ask the priests concerning the law, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Thus says the Lord of hosts: ‘Now, ask the priests ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "concerning the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " law, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.12",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 12,
+          "text": "“If one carries holy meat in the fold of his garment, and with the edge he touches bread or stew, wine or oil, or any food, will it become holy?” ’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“If one carries holy meat in the fold of his garment, and with the edge he touches bread or stew, wine or oil, or any food, will it become holy?” ’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.13",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 13,
+          "text": "And Haggai said, “If one who is unclean because of a dead body touches any of these, will it be unclean?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Haggai said, “If ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one who is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " unclean ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "because",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of a dead body touches any of these, will it be unclean?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.14",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Then Haggai answered and said, “ ‘So is this people, and so is this nation before Me,’ says the Lord, ‘and so is every work of their hands; and what they offer there is unclean.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Haggai answered and said, “ ‘So is this people, and so is this nation before Me,’ says the Lord, ‘and so is every work of their hands; and what they offer there is unclean.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.15",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 15,
+          "text": "‘And now, carefully consider from this day forward: from before stone was laid upon stone in the temple of the Lord—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘And now, carefully consider from this day forward: from before stone was laid upon stone in the temple of the Lord—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Promised Blessing",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.16",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 16,
+          "text": "since those days, when one came to a heap of twenty ephahs, there were but ten; when one came to the wine vat to draw out fifty baths from the press, there were but twenty.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "since those ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "days,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " when ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " came to a heap of twenty ephahs, there were ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "but",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " ten; when ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " came to the wine vat to draw out fifty baths from the press, there were ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "but",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " twenty.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.17",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 17,
+          "text": "I struck you with blight and mildew and hail in all the labors of your hands; yet you did not turn to Me,’ says the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I struck you with blight and mildew and hail in all the labors of your hands; yet you did not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "turn",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Me,’ says the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.18",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 18,
+          "text": "‘Consider now from this day forward, from the twenty-fourth day of the ninth month, from the day that the foundation of the Lord’s temple was laid—consider it:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘Consider now from this day forward, from the twenty-fourth day of the ninth month, from the day that the foundation of the Lord’s temple was laid—consider it:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.19",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 19,
+          "text": "Is the seed still in the barn? As yet the vine, the fig tree, the pomegranate, and the olive tree have not yielded fruit. But from this day I will bless you.’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is the seed still in the barn? As yet the vine, the fig tree, the pomegranate, and the olive tree have not yielded ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "fruit. But",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from this day I will bless ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you.",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": "’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.20",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 20,
+          "text": "And again the word of the Lord came to Haggai on the twenty-fourth day of the month, saying,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And again the word of the Lord came to Haggai on the twenty-fourth day of the month, saying,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Zerubbabel Chosen as a Signet",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.21",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 21,
+          "text": "“Speak to Zerubbabel, governor of Judah, saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Speak to Zerubbabel, governor of Judah, saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.22",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 22,
+          "text": "I will overthrow the throne of kingdoms;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will overthrow the throne of kingdoms;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "HAG.2.23",
+          "book": "HAG",
+          "chapter": 2,
+          "verse": 23,
+          "text": "‘In that day,’ says the Lord of hosts, ‘I will take you, Zerubbabel My servant, the son of Shealtiel,’ says the Lord, ‘and will make you like a signet ring; for I have chosen you,’ says the Lord of hosts.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "‘In that day,’ says the Lord of hosts, ‘I will take you, Zerubbabel My servant, the son of Shealtiel,’ says the Lord, ‘and will make you like a signet ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "ring;",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for I have chosen you,’ says the Lord of hosts.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Coming Glory of God’s House",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "The People Are Defiled",
+          "level": 2
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Promised Blessing",
+          "level": 2
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Zerubbabel Chosen as a Signet",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:56:23.708Z"
+    }
+  }
+}

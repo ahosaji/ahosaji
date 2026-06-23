@@ -1,0 +1,192 @@
+{
+  "usfm": "PS2",
+  "source": "arabic",
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "PS2",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "PS2.1.1",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 1,
+          "text": "أَنَا صَغِيرًا كُنْتُ فِي إِخْوَتِي، وَحَدَثًا فِي بَيْتِ أَبِي، كُنْتُ رَاعِيًا غَنَمَ أَبِي.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أَنَا صَغِيرًا كُنْتُ فِي إِخْوَتِي، وَحَدَثًا فِي بَيْتِ أَبِي، كُنْتُ رَاعِيًا غَنَمَ أَبِي.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.2",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "يَدَايَ صَنَعَتَا الْأُرْغُنَ، وَأَصَابِعِي أَلِفَتِ الْمِزْمَارَ. هَلِّلُويَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يَدَايَ صَنَعَتَا الْأُرْغُنَ، وَأَصَابِعِي أَلِفَتِ الْمِزْمَارَ. هَلِّلُويَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.3",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 3,
+          "text": "مَنْ هُوَ الَّذِي يُخَبِّرُ سَيِّدِي؟ هُوَ الرَّبُّ الَّذِي يَسْتَجِيبُ لِلَّذِينَ يَصْرُخُونَ إِلَيْهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مَنْ هُوَ الَّذِي يُخَبِّرُ سَيِّدِي؟ هُوَ الرَّبُّ الَّذِي يَسْتَجِيبُ لِلَّذِينَ يَصْرُخُونَ إِلَيْهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.4",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 4,
+          "text": "هُوَ أَرْسَلَ مَلاَكَهُ، وَحَمَلَنِي مِنْ غَنَمِ أَبِي وَمَسَحَنِي بِدُهْنِ مَسْحَتِهِ. هَلِّلُويَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هُوَ أَرْسَلَ مَلاَكَهُ، وَحَمَلَنِي مِنْ غَنَمِ أَبِي وَمَسَحَنِي بِدُهْنِ مَسْحَتِهِ. هَلِّلُويَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.5",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 5,
+          "text": "إِخْوَتِي حِسَانٌ وَهُمْ أَكْبَرُ مِنِّي وَالرَّبُّ لَمْ يُسَرَّ بِهِمْ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إِخْوَتِي حِسَانٌ وَهُمْ أَكْبَرُ مِنِّي وَالرَّبُّ لَمْ يُسَرَّ بِهِمْ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.6",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 6,
+          "text": "خَرَجْتُ لِلِقَاءِ الْفِلِسْطِينِيِّ فَلَعَنَنِي بِأَوْثَانِهِ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "خَرَجْتُ لِلِقَاءِ الْفِلِسْطِينِيِّ فَلَعَنَنِي بِأَوْثَانِهِ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.7",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 7,
+          "text": "وَلكِنْ أَنَا سَلَلْتُ سَيْفَهُ الَّذِي كَانَ بِيَدِهِ، وَقَطَعْتُ رَأْسَهُ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَلكِنْ أَنَا سَلَلْتُ سَيْفَهُ الَّذِي كَانَ بِيَدِهِ، وَقَطَعْتُ رَأْسَهُ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "PS2.1.8",
+          "book": "PS2",
+          "chapter": 1,
+          "verse": 8,
+          "text": "وَنَزَعْتُ الْعَارَ عَنْ بَنِي إِسْرَائِيلَ. هَلِّلُويَا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وَنَزَعْتُ الْعَارَ عَنْ بَنِي إِسْرَائِيلَ. هَلِّلُويَا.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-03T22:38:45.949Z"
+    }
+  }
+}

@@ -1,0 +1,2685 @@
+{
+  "usfm": "RUT",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "RUT",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "RUT.1.1",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Now it came to pass, in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehem, Judah, went to dwell in the country of Moab, he and his wife and his two sons.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now it came to pass, in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehem, Judah, went to dwell in the country of Moab, he and his wife and his two sons.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. judged"
+              },
+              {
+                "marker": "b",
+                "text": "As a resident alien"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Elimelech’s Family Goes to Moab",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.2",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 2,
+          "text": "The name of the man was Elimelech, the name of his wife was Naomi, and the names of his two sons were Mahlon and Chilion—Ephrathites of Bethlehem, Judah. And they went to the country of Moab and remained there.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The name of the man ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Elimelech, the name of his wife ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Naomi, and the names of his two sons ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Mahlon and Chilion—Ephrathites of Bethlehem, Judah. And they went to the country of Moab and remained there.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.3",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Then Elimelech, Naomi’s husband, died; and she was left, and her two sons.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Elimelech, Naomi’s husband, died; and she was left, and her two sons.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.4",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Now they took wives of the women of Moab: the name of the one was Orpah, and the name of the other Ruth. And they dwelt there about ten years.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now they took wives of the women of Moab: the name of the one ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Orpah, and the name of the other Ruth. And they dwelt there about ten years.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "lived"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.5",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Then both Mahlon and Chilion also died; so the woman survived her two sons and her husband.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then both Mahlon and Chilion also died; so the woman survived her two sons and her husband.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.6",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Then she arose with her daughters-in-law that she might return from the country of Moab, for she had heard in the country of Moab that the Lord had visited His people by giving them bread.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then she arose with her daughters-in-law that she might return from the country of Moab, for she had heard in the country of Moab that the Lord had visited His people by giving them bread.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "attended to"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Naomi Returns with Ruth",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.7",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 7,
+          "text": "Therefore she went out from the place where she was, and her two daughters-in-law with her; and they went on the way to return to the land of Judah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore she went out from the place where she was, and her two daughters-in-law with her; and they went on the way to return to the land of Judah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.8",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 8,
+          "text": "And Naomi said to her two daughters-in-law, “Go, return each to her mother’s house. The Lord deal kindly with you, as you have dealt with the dead and with me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Naomi said to her two daughters-in-law, “Go, return each to her mother’s house. The Lord deal kindly with you, as you have dealt with the dead and with me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.9",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 9,
+          "text": "The Lord grant that you may find rest, each in the house of her husband.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord grant that you may find rest, each in the house of her husband.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.10",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 10,
+          "text": "And they said to her, “Surely we will return with you to your people.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And they said to her, “Surely we will return with you to your people.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.11",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 11,
+          "text": "But Naomi said, “Turn back, my daughters; why will you go with me? Are there still sons in my womb, that they may be your husbands?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But Naomi said, “Turn back, my daughters; why will you go with me? ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " there still sons in my womb, that they may be your husbands?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.12",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Turn back, my daughters, go—for I am too old to have a husband. If I should say I have hope, if I should have a husband tonight and should also bear sons,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Turn back, my daughters, go—for I am too old to have a husband. If I should say I have hope, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "if",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I should have a husband tonight and should also bear sons,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.13",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 13,
+          "text": "would you wait for them till they were grown? Would you restrain yourselves from having husbands? No, my daughters; for it grieves me very much for your sakes that the hand of the Lord has gone out against me!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "would you wait for them till they were grown? Would you restrain yourselves from having husbands? No, my daughters; for it grieves me very much for your sakes that the hand of the Lord has gone out against me!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.14",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Then they lifted up their voices and wept again; and Orpah kissed her mother-in-law, but Ruth clung to her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then they lifted up their voices and wept again; and Orpah kissed her mother-in-law, but Ruth clung to her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.15",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 15,
+          "text": "And she said, “Look, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And she said, “Look, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.16",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 16,
+          "text": "But Ruth said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But Ruth said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.17",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 17,
+          "text": "Where you die, I will die,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Where you die, I will die,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.18",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 18,
+          "text": "When she saw that she was determined to go with her, she stopped speaking to her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When she saw that she was determined to go with her, she stopped speaking to her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Lit. made herself strong to go"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.19",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 19,
+          "text": "Now the two of them went until they came to Bethlehem. And it happened, when they had come to Bethlehem, that all the city was excited because of them; and the women said, “Is this Naomi?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the two of them went until they came to Bethlehem. And it happened, when they had come to Bethlehem, that all the city was excited because of them; and the women said, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " this Naomi?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.20",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 20,
+          "text": "But she said to them, “Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But she said to them, “Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Lit. Pleasant"
+              },
+              {
+                "marker": "h",
+                "text": "Lit. Bitter"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.21",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 21,
+          "text": "I went out full, and the Lord has brought me home again empty. Why do you call me Naomi, since the Lord has testified against me, and the Almighty has afflicted me?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I went out full, and the Lord has brought me home again empty. Why do you call me Naomi, since the Lord has testified against me, and the Almighty has afflicted me?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Heb. Shaddai"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.1.22",
+          "book": "RUT",
+          "chapter": 1,
+          "verse": 22,
+          "text": "So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. Now they came to Bethlehem at the beginning of barley harvest.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. Now they came to Bethlehem at the beginning of barley harvest.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Elimelech’s Family Goes to Moab",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Naomi Returns with Ruth",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:34:05.130Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "RUT",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "RUT.2.1",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 1,
+          "text": "There was a relative of Naomi’s husband, a man of great wealth, of the family of Elimelech. His name was Boaz.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There was a relative of Naomi’s husband, a man of great wealth, of the family of Elimelech. His name ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Boaz.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Ruth Meets Boaz",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.2",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 2,
+          "text": "So Ruth the Moabitess said to Naomi, “Please let me go to the field, and glean heads of grain after him in whose sight I may find favor.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Ruth the Moabitess said to Naomi, “Please let me go to the field, and glean heads of grain after ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "him",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in whose sight I may find favor.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.3",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 3,
+          "text": "Then she left, and went and gleaned in the field after the reapers. And she happened to come to the part of the field belonging to Boaz, who was of the family of Elimelech.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then she left, and went and gleaned in the field after the reapers. And she happened to come to the part of the field ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "belonging",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to Boaz, who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of the family of Elimelech.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.4",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Now behold, Boaz came from Bethlehem, and said to the reapers, “The Lord be with you!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now behold, Boaz came from Bethlehem, and said to the reapers, “The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with you!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.5",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Then Boaz said to his servant who was in charge of the reapers, “Whose young woman is this?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Boaz said to his servant who was in charge of the reapers, “Whose young woman ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " this?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.6",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 6,
+          "text": "So the servant who was in charge of the reapers answered and said, “It is the young Moabite woman who came back with Naomi from the country of Moab.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So the servant who was in charge of the reapers answered and said, “It ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the young Moabite woman who came back with Naomi from the country of Moab.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.7",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 7,
+          "text": "And she said, ‘Please let me glean and gather after the reapers among the sheaves.’ So she came and has continued from morning until now, though she rested a little in the house.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And she said, ‘Please let me glean and gather after the reapers among the sheaves.’ So she came and has continued from morning until now, though she rested a little in the house.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.8",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 8,
+          "text": "Then Boaz said to Ruth, “You will listen, my daughter, will you not? Do not go to glean in another field, nor go from here, but stay close by my young women.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Boaz said to Ruth, “You will listen, my daughter, will you not? Do not go to glean in another field, nor go from here, but stay close by my young women.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.9",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Let your eyes be on the field which they reap, and go after them. Have I not commanded the young men not to touch you? And when you are thirsty, go to the vessels and drink from what the young men have drawn.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your eyes ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the field which they reap, and go after them. Have I not commanded the young men not to touch you? And when you are thirsty, go to the vessels and drink from what the young men have drawn.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.10",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 10,
+          "text": "So she fell on her face, bowed down to the ground, and said to him, “Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So she fell on her face, bowed down to the ground, and said to him, “Why have I found favor in your eyes, that you should take notice of me, since I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a foreigner?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.11",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 11,
+          "text": "And Boaz answered and said to her, “It has been fully reported to me, all that you have done for your mother-in-law since the death of your husband, and how you have left your father and your mother and the land of your birth, and have come to a people whom you did not know before.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Boaz answered and said to her, “It has been fully reported to me, all that you have done for your mother-in-law since the death of your husband, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "how",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you have left your father and your mother and the land of your birth, and have come to a people whom you did not know before.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.12",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 12,
+          "text": "The Lord repay your work, and a full reward be given you by the Lord God of Israel, under whose wings you have come for refuge.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord repay your work, and a full reward be given you by the Lord God of Israel, under whose wings you have come for refuge.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.13",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Then she said, “Let me find favor in your sight, my lord; for you have comforted me, and have spoken kindly to your maidservant, though I am not like one of your maidservants.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then she said, “Let me find favor in your sight, my lord; for you have comforted me, and have spoken kindly to your maidservant, though I am not like one of your maidservants.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. to the heart of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.14",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Now Boaz said to her at mealtime, “Come here, and eat of the bread, and dip your piece of bread in the vinegar.” So she sat beside the reapers, and he passed parched grain to her; and she ate and was satisfied, and kept some back.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Boaz said to her at mealtime, “Come here, and eat of the bread, and dip your piece of bread in the vinegar.” So she sat beside the reapers, and he passed parched ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "grain",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to her; and she ate and was satisfied, and kept some back.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.15",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 15,
+          "text": "And when she rose up to glean, Boaz commanded his young men, saying, “Let her glean even among the sheaves, and do not reproach her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And when she rose up to glean, Boaz commanded his young men, saying, “Let her glean even among the sheaves, and do not reproach her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Gather after the reapers"
+              },
+              {
+                "marker": "c",
+                "text": "rebuke"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.16",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 16,
+          "text": "Also let grain from the bundles fall purposely for her; leave it that she may glean, and do not rebuke her.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also let ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "grain",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from the bundles fall purposely for her; leave ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that she may glean, and do not rebuke her.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.17",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 17,
+          "text": "So she gleaned in the field until evening, and beat out what she had gleaned, and it was about an ephah of barley.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So she gleaned in the field until evening, and beat out what she had gleaned, and it was about an ephah of barley.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.18",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Then she took it up and went into the city, and her mother-in-law saw what she had gleaned. So she brought out and gave to her what she had kept back after she had been satisfied.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then she took ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " up and went into the city, and her mother-in-law saw what she had gleaned. So she brought out and gave to her what she had kept back after she had been satisfied.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.19",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 19,
+          "text": "And her mother-in-law said to her, “Where have you gleaned today? And where did you work? Blessed be the one who took notice of you.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And her mother-in-law said to her, “Where have you gleaned today? And where did you work? Blessed be the one who took notice of you.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.20",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 20,
+          "text": "Then Naomi said to her daughter-in-law, “Blessed be he of the Lord, who has not forsaken His kindness to the living and the dead!” And Naomi said to her, “This man is a relation of ours, one of our close relatives.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Naomi said to her daughter-in-law, “Blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " he of the Lord, who has not forsaken His kindness to the living and the dead!” And Naomi said to her, “This man ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a relation of ours, one of our close relatives.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "our redeemers, Heb. goalenu"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.21",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 21,
+          "text": "Ruth the Moabitess said, “He also said to me, ‘You shall stay close by my young men until they have finished all my harvest.’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ruth the Moabitess said, “He also said to me, ‘You shall stay close by my young men until they have finished all my harvest.’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.22",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 22,
+          "text": "And Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go out with his young women, and that people do not meet you in any other field.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Naomi said to Ruth her daughter-in-law, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "It is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good, my daughter, that you go out with his young women, and that people do not meet you in any other field.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "encounter"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.2.23",
+          "book": "RUT",
+          "chapter": 2,
+          "verse": 23,
+          "text": "So she stayed close by the young women of Boaz, to glean until the end of barley harvest and wheat harvest; and she dwelt with her mother-in-law.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So she stayed close by the young women of Boaz, to glean until the end of barley harvest and wheat harvest; and she dwelt with her mother-in-law.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ruth Meets Boaz",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:34:06.796Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "RUT",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "RUT.3.1",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Then Naomi her mother-in-law said to her, “My daughter, shall I not seek security for you, that it may be well with you?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Naomi her mother-in-law said to her, “My daughter, shall I not seek security for you, that it may be well with you?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. rest"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Ruth’s Redemption Assured",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.2",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 2,
+          "text": "Now Boaz, whose young women you were with, is he not our relative? In fact, he is winnowing barley tonight at the threshing floor.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Boaz, whose young women you were with, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is he",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not our relative? In fact, he is winnowing barley tonight at the threshing floor.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.3",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Therefore wash yourself and anoint yourself, put on your best garment and go down to the threshing floor; but do not make yourself known to the man until he has finished eating and drinking.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore wash yourself and anoint yourself, put on your ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "best",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " garment and go down to the threshing floor; ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "but",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " do not make yourself known to the man until he has finished eating and drinking.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.4",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Then it shall be, when he lies down, that you shall notice the place where he lies; and you shall go in, uncover his feet, and lie down; and he will tell you what you should do.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then it shall be, when he lies down, that you shall notice the place where he lies; and you shall go in, uncover his feet, and lie down; and he will tell you what you should do.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.5",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 5,
+          "text": "And she said to her, “All that you say to me I will do.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And she said to her, “All that you say to me I will do.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.6",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 6,
+          "text": "So she went down to the threshing floor and did according to all that her mother-in-law instructed her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So she went down to the threshing floor and did according to all that her mother-in-law instructed her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.7",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 7,
+          "text": "And after Boaz had eaten and drunk, and his heart was cheerful, he went to lie down at the end of the heap of grain; and she came softly, uncovered his feet, and lay down.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And after Boaz had eaten and drunk, and his heart was cheerful, he went to lie down at the end of the heap of grain; and she came softly, uncovered his feet, and lay down.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.8",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Now it happened at midnight that the man was startled, and turned himself; and there, a woman was lying at his feet.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now it happened at midnight that the man was startled, and turned himself; and there, a woman was lying at his feet.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.9",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 9,
+          "text": "And he said, “Who are you?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he said, “Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.10",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Then he said, “Blessed are you of the Lord, my daughter! For you have shown more kindness at the end than at the beginning, in that you did not go after young men, whether poor or rich.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he said, “Blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you of the Lord, my daughter! For you have shown more kindness at the end than at the beginning, in that you did not go after young men, whether poor or rich.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.11",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 11,
+          "text": "And now, my daughter, do not fear. I will do for you all that you request, for all the people of my town know that you are a virtuous woman.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And now, my daughter, do not fear. I will do for you all that you request, for all the people of my town know that you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a virtuous woman.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.12",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Now it is true that I am a close relative; however, there is a relative closer than I.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now it is true that I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a close relative; however, there is a relative closer than I.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.13",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Stay this night, and in the morning it shall be that if he will perform the duty of a close relative for you—good; let him do it. But if he does not want to perform the duty for you, then I will perform the duty for you, as the Lord lives! Lie down until morning.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Stay this night, and in the morning it shall be ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " if he will perform the duty of a close relative for you—good; let him do it. But if he does not want to perform the duty for you, then I will perform the duty for you, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "as",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord lives! Lie down until morning.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.14",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 14,
+          "text": "So she lay at his feet until morning, and she arose before one could recognize another. Then he said, “Do not let it be known that the woman came to the threshing floor.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So she lay at his feet until morning, and she arose before one could recognize another. Then he said, “Do not let it be known that the woman came to the threshing floor.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.15",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 15,
+          "text": "Also he said, “Bring the shawl that is on you and hold it.” And when she held it, he measured six ephahs of barley, and laid it on her. Then she went into the city.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also he said, “Bring the shawl that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on you and hold it.” And when she held it, he measured six ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "ephahs",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of barley, and laid ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on her. Then she went into the city.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "cloak"
+              },
+              {
+                "marker": "e",
+                "text": "Many Heb. mss., Syr., Vg. she; MT, LXX, Tg. he"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.16",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 16,
+          "text": "When she came to her mother-in-law, she said, “Is that you, my daughter?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When she came to her mother-in-law, she said, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that you, my daughter?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "Or How are you,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.17",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 17,
+          "text": "And she said, “These six ephahs of barley he gave me; for he said to me, ‘Do not go empty-handed to your mother-in-law.’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And she said, “These six ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "ephahs",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of barley he gave me; for he said to me, ‘Do not go empty-handed to your mother-in-law.’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.3.18",
+          "book": "RUT",
+          "chapter": 3,
+          "verse": 18,
+          "text": "Then she said, “Sit still, my daughter, until you know how the matter will turn out; for the man will not rest until he has concluded the matter this day.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then she said, “Sit still, my daughter, until you know how the matter will turn out; for the man will not rest until he has concluded the matter this day.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ruth’s Redemption Assured",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:34:08.335Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "RUT",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "RUT.4.1",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now Boaz went up to the gate and sat down there; and behold, the close relative of whom Boaz had spoken came by. So Boaz said, “Come aside, friend, sit down here.” So he came aside and sat down.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Boaz went up to the gate and sat down there; and behold, the close relative of whom Boaz had spoken came by. So Boaz said, “Come aside, friend, sit down here.” So he came aside and sat down.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Heb. peloni almoni, lit. so and so"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Boaz Redeems Ruth",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.2",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 2,
+          "text": "And he took ten men of the elders of the city, and said, “Sit down here.” So they sat down.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he took ten men of the elders of the city, and said, “Sit down here.” So they sat down.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.3",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Then he said to the close relative, “Naomi, who has come back from the country of Moab, sold the piece of land which belonged to our brother Elimelech.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then he said to the close relative, “Naomi, who has come back from the country of Moab, sold the piece of land which ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "belonged",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to our brother Elimelech.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.4",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 4,
+          "text": "And I thought to inform you, saying, ‘Buy it back in the presence of the inhabitants and the elders of my people. If you will redeem it, redeem it; but if you will not redeem it, then tell me, that I may know; for there is no one but you to redeem it, and I am next after you.’ ”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I thought to inform you, saying, ‘Buy ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " back in the presence of the inhabitants and the elders of my people. If you will redeem ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " redeem ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it;",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " but if you will not redeem ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it, then",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " tell me, that I may know; for ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no one but you to redeem ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " next after you.’ ”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. uncover your ear"
+              },
+              {
+                "marker": "c",
+                "text": "So with many Heb. mss., LXX, Syr., Tg., Vg.; MT he"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.5",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Then Boaz said, “On the day you buy the field from the hand of Naomi, you must also buy it from Ruth the Moabitess, the wife of the dead, to perpetuate the name of the dead through his inheritance.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Boaz said, “On the day you buy the field from the hand of Naomi, you must also buy ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from Ruth the Moabitess, the wife of the dead, to perpetuate the name of the dead through his inheritance.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. raise up"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.6",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 6,
+          "text": "And the close relative said, “I cannot redeem it for myself, lest I ruin my own inheritance. You redeem my right of redemption for yourself, for I cannot redeem it.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the close relative said, “I cannot redeem ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for myself, lest I ruin my own inheritance. You redeem my right of redemption for yourself, for I cannot redeem ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it.",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": "”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.7",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Now this was the custom in former times in Israel concerning redeeming and exchanging, to confirm anything: one man took off his sandal and gave it to the other, and this was a confirmation in Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was the custom",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in former times in Israel concerning redeeming and exchanging, to confirm anything: one man took off his sandal and gave ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to the other, and this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a confirmation in Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.8",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 8,
+          "text": "Therefore the close relative said to Boaz, “Buy it for yourself.” So he took off his sandal.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the close relative said to Boaz, “Buy ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " for yourself.” So he took off his sandal.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.9",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 9,
+          "text": "And Boaz said to the elders and all the people, “You are witnesses this day that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, from the hand of Naomi.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Boaz said to the elders and all the people, “You ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " witnesses this day that I have bought all that was Elimelech’s, and all that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " Chilion’s and Mahlon’s, from the hand of Naomi.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.10",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 10,
+          "text": "Moreover, Ruth the Moabitess, the widow of Mahlon, I have acquired as my wife, to perpetuate the name of the dead through his inheritance, that the name of the dead may not be cut off from among his brethren and from his position at the gate. You are witnesses this day.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Moreover, Ruth the Moabitess, the widow of Mahlon, I have acquired as my wife, to perpetuate the name of the dead through his inheritance, that the name of the dead may not be cut off from among his brethren and from his position at the gate. You ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " witnesses this day.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Probably his civic office"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.11",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 11,
+          "text": "And all the people who were at the gate, and the elders, said, “We are witnesses. The Lord make the woman who is coming to your house like Rachel and Leah, the two who built the house of Israel; and may you prosper in Ephrathah and be famous in Bethlehem.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And all the people who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "were",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " at the gate, and the elders, said, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "We are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " witnesses. The Lord make the woman who is coming to your house like Rachel and Leah, the two who built the house of Israel; and may you prosper in Ephrathah and be famous in Bethlehem.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.12",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 12,
+          "text": "May your house be like the house of Perez, whom Tamar bore to Judah, because of the offspring which the Lord will give you from this young woman.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "May your house be like the house of Perez, whom Tamar bore to Judah, because of the offspring which the Lord will give you from this young woman.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.13",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 13,
+          "text": "So Boaz took Ruth and she became his wife; and when he went in to her, the Lord gave her conception, and she bore a son.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Boaz took Ruth and she became his wife; and when he went in to her, the Lord gave her conception, and she bore a son.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Descendants of Boaz and Ruth(R)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.14",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 14,
+          "text": "Then the women said to Naomi, “Blessed be the Lord, who has not left you this day without a close relative; and may his name be famous in Israel!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the women said to Naomi, “Blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord, who has not left you this day without a close relative; and may his name be famous in Israel!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "redeemer, Heb. goel"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.15",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 15,
+          "text": "And may he be to you a restorer of life and a nourisher of your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has borne him.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And may he be to you a restorer of life and a nourisher of your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has borne him.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "sustainer"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.16",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 16,
+          "text": "Then Naomi took the child and laid him on her bosom, and became a nurse to him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Naomi took the child and laid him on her bosom, and became a nurse to him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.17",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 17,
+          "text": "Also the neighbor women gave him a name, saying, “There is a son born to Naomi.” And they called his name Obed. He is the father of Jesse, the father of David.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also the neighbor women gave him a name, saying, “There is a son born to Naomi.” And they called his name Obed. He ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the father of Jesse, the father of David.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.18",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 18,
+          "text": "Now this is the genealogy of Perez: Perez begot Hezron;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now this ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the genealogy of Perez: Perez begot Hezron;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.19",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 19,
+          "text": "Hezron begot Ram, and Ram begot Amminadab;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hezron begot Ram, and Ram begot Amminadab;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.20",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 20,
+          "text": "Amminadab begot Nahshon, and Nahshon begot Salmon;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Amminadab begot Nahshon, and Nahshon begot Salmon;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Heb. Salmah"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.21",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 21,
+          "text": "Salmon begot Boaz, and Boaz begot Obed;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Salmon begot Boaz, and Boaz begot Obed;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "RUT.4.22",
+          "book": "RUT",
+          "chapter": 4,
+          "verse": 22,
+          "text": "Obed begot Jesse, and Jesse begot David.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Obed begot Jesse, and Jesse begot David.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Boaz Redeems Ruth",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Descendants of Boaz and Ruth(R)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:34:10.115Z"
+    }
+  }
+}

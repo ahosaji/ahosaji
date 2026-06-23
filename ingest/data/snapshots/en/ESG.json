@@ -1,0 +1,2368 @@
+{
+  "usfm": "ESG",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "ESG",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "ESG.1.1",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 1,
+          "text": "In the second year of the reign of the great King Artaxerxes, on the first day of Nisan, Mordecai, the son of Jair, son of Shimei, the son of Kish, of the tribe of Benjamin, had a dream.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the second year of the reign of the great King Artaxerxes, on the first day of Nisan, Mordecai, the son of Jair, son of Shimei, the son of Kish, of the tribe of Benjamin, had a dream.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "English label: 1a",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.2",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 2,
+          "text": "He was a Jewish man living in the city of Susa, a great man who served in the court of the king.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He was a Jewish man living in the city of Susa, a great man who served in the court of the king.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.3",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 3,
+          "text": "He was from the captives Nebuchadnezzar the king of Babylon had deported from Jerusalem with Jechoniah the king of Judah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He was from the captives Nebuchadnezzar the king of Babylon had deported from Jerusalem with Jechoniah the king of Judah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.4",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 4,
+          "text": "And this was his dream: Behold, there was noise and tumult, thunder and earthquake—confusion on the earth.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And this was his dream: Behold, there was noise and tumult, thunder and earthquake—confusion on the earth.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.5",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Two great dragons came forth, both ready for combat. A great roar came forth from them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Two great dragons came forth, both ready for combat. A great roar came forth from them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.6",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 6,
+          "text": "nd at the sound of them, every nation prepared to wage war against the nation of the just.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nd at the sound of them, every nation prepared to wage war against the nation of the just.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.7",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 7,
+          "text": "And indeed, it was a day of gloom and of darkness, tribulation and anguish, oppression and great confusion upon the earth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And indeed, it was a day of gloom and of darkness, tribulation and anguish, oppression and great confusion upon the earth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.8",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 8,
+          "text": "The entire upright nation was troubled, fearing the evils against them; they were prepared to perish, and they cried out to God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The entire upright nation was troubled, fearing the evils against them; they were prepared to perish, and they cried out to God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.9",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 9,
+          "text": "And at their cry there came forth, as it were from a small spring, a great river having abundant water.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And at their cry there came forth, as it were from a small spring, a great river having abundant water.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.10",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 10,
+          "text": "There was light, and the sun rose, and the lowly were exalted, and they devoured the esteemed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There was light, and the sun rose, and the lowly were exalted, and they devoured the esteemed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.11",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Mordecai, who had seen this vision and what God was planning to do, awoke.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Mordecai, who had seen this vision and what God was planning to do, awoke.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.12",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 12,
+          "text": "He kept it in his heart and wished to ponder it until night. A Plot against the King",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He kept it in his heart and wished to ponder it until night. A Plot against the King",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.13",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Then Mordecai rested in the courtyard with Gabatha and Tharra, the king's two eunuchs who guarded the courtyard.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Mordecai rested in the courtyard with Gabatha and Tharra, the king's two eunuchs who guarded the courtyard.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.14",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 14,
+          "text": "He overheard their words and considered their anxieties, and he realized they were preparing to lay hands upon the king, and he informed the king about them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He overheard their words and considered their anxieties, and he realized they were preparing to lay hands upon the king, and he informed the king about them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.15",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Then the king interrogated the two eunuchs, and they confessed and were led away to be executed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the king interrogated the two eunuchs, and they confessed and were led away to be executed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.16",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 16,
+          "text": "The king made a memorandum of these matters, and Mordecai also wrote about these matters.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The king made a memorandum of these matters, and Mordecai also wrote about these matters.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.17",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 17,
+          "text": "And the king commanded Mordecai to serve in the court, and he gave him gifts for this service.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the king commanded Mordecai to serve in the court, and he gave him gifts for this service.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.1.18",
+          "book": "ESG",
+          "chapter": 1,
+          "verse": 18,
+          "text": "But Haman, the son of Hamadatha the Agagthite, was held in high honor before the king, and he sought for ways to bring harm to Mordecai and his people because of the two eunuchs of the king. King Artaxerxes’ Banquet 1It came to pass, after these matters, in the days of Artaxerxes (this is the same Artaxerxes who reigned over the hundred and twenty-seven provinces, from India to Ethiopia),† 2in the days when King Artaxerxes sat on the throne in the city of Susa, 3that in the third year of his reign he gave a feast for his friends and the rest of the nations, and for the nobles of the Persians and the Medes and the chiefs of the satraps. 4And after these things, that is after he had displayed the wealth of his kingdom and the glory of the joy of his riches for one hundred",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But Haman, the son of Hamadatha the Agagthite, was held in high honor before the king, and he sought for ways to bring harm to Mordecai and his people because of the two eunuchs of the king. King Artaxerxes’ Banquet 1It came to pass, after these matters, in the days of Artaxerxes (this is the same Artaxerxes who reigned over the hundred and twenty-seven provinces, from India to Ethiopia),† 2in the days when King Artaxerxes sat on the throne in the city of Susa, 3that in the third year of his reign he gave a feast for his friends and the rest of the nations, and for the nobles of the Persians and the Medes and the chiefs of the satraps. 4And after these things, that is after he had displayed the wealth of his kingdom and the glory of the joy of his riches for one hundred",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Addition A — Mordecai's Prophetic Dream (before EST.1.1)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T14:46:52.631356+00:00"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "ESG",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "ESG.2.1",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 1,
+          "text": "The following is a copy of the letter: The great King Artaxerxes, to the rulers in the hundred twenty-seven provinces from India to Ethiopia, and who hold authority under him, thus decrees:†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The following is a copy of the letter: The great King Artaxerxes, to the rulers in the hundred twenty-seven provinces from India to Ethiopia, and who hold authority under him, thus decrees:†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "English label: 13a",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.2",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 2,
+          "text": "Ruling over many nations, and having gained dominion over all the world, not motivated by the power of authority, but ever conducting myself in moderation and unceasing gentleness, I was desiring to make the lives of my subjects continually tranquil and to maintain the kingdom calm and safe to its furthest borders, and to restore the peace desired by all men.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Ruling over many nations, and having gained dominion over all the world, not motivated by the power of authority, but ever conducting myself in moderation and unceasing gentleness, I was desiring to make the lives of my subjects continually tranquil and to maintain the kingdom calm and safe to its furthest borders, and to restore the peace desired by all men.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.3",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 3,
+          "text": "But when I inquired of my counselors how this should be done, Haman, who excels in good sense among us, and has been shown unwavering in good will and unshakeable in fidelity, and has attained the second place in the kingdom,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But when I inquired of my counselors how this should be done, Haman, who excels in good sense among us, and has been shown unwavering in good will and unshakeable in fidelity, and has attained the second place in the kingdom,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.4",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 4,
+          "text": "ade known to us that there is a race of people full of ill will who 4 are mixed in with all the other races throughout the whole world, whose laws are contrary to all the other nations, and they continually disregard the ordinances of the kings. Thus the joint administration, blamelessly administered by us, cannot be performed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ade known to us that there is a race of people full of ill will who 4 are mixed in with all the other races throughout the whole world, whose laws are contrary to all the other nations, and they continually disregard the ordinances of the kings. Thus the joint administration, blamelessly administered by us, cannot be performed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.5",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Therefore, we have determined that this people alone is in opposition to every other person, entertaining a strange code of laws, and not disposed to our affairs and perpetrating the worst evils, and thus the kingdom is not able to experience stability.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, we have determined that this people alone is in opposition to every other person, entertaining a strange code of laws, and not disposed to our affairs and perpetrating the worst evils, and thus the kingdom is not able to experience stability.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.6",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 6,
+          "text": "Therefore, we have designated all those made known to you in the letters written by Haman, who is appointed over such matters and who is our second father, to root out and destroy all of them, with their wives and children, without any mercy, sparing no one, on the fourteenth day of the twelfth month Adar of this present year—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, we have designated all those made known to you in the letters written by Haman, who is appointed over such matters and who is our second father, to root out and destroy all of them, with their wives and children, without any mercy, sparing no one, on the fourteenth day of the twelfth month Adar of this present year—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.2.7",
+          "book": "ESG",
+          "chapter": 2,
+          "verse": 7,
+          "text": "hat this race of people, both from before and until now hostile to us, violently going down to death in one day, may afterwards secure for us a time that is tranquil and an undisturbed state of affairs. 14Copies of the letters were published throughout every province, and an order was given to all nations to be ready on that day. 15The matter was quickly dispatched also in Susa. And the king and Haman were drinking, but the city was troubled. Mordecai Enlists Esther's Aid But Mordecai, learning what had happened, tore his clothes and put on sackcloth, and sprinkled ashes on himself, and running through the square of the city he cried out with a loud voice, “A people who have done no wrong are about to be destroyed!”† 2He went as far as the king's gate, and there he waited, for it was not allowed for him to enter the courtyard wearing sackcloth and covered in ashes. 3And in every province where the king's command and decree arrived, there was great mourning among the Jews, with fasting, weeping, and wailing; and many lay in sackcloth and ashes. 4The queen's maids and eunuchs came and told her, and she was deeply distressed upon hearing of this situation. Then she sent garments to clothe Mordecai and take his sackcloth away from him, but he would not accept them.† 5Then Esther called Hathach, her eunuch who attended to her, and sent him out to learn for herself the details from Mordecai. 7Mordecai made known to him what had happened, and the offer Haman had made to the king to put ten thousand talents into the treasury to destroy the Jews. 8He also gave him a copy of the decree posted in Susa concerning their destruction to show it to Esther. He told him to instruct her to go in to the king and make",
+          "structured": {
+            "tokens": [
+              {
+                "text": "hat this race of people, both from before and until now hostile to us, violently going down to death in one day, may afterwards secure for us a time that is tranquil and an undisturbed state of affairs. 14Copies of the letters were published throughout every province, and an order was given to all nations to be ready on that day. 15The matter was quickly dispatched also in Susa. And the king and Haman were drinking, but the city was troubled. Mordecai Enlists Esther's Aid But Mordecai, learning what had happened, tore his clothes and put on sackcloth, and sprinkled ashes on himself, and running through the square of the city he cried out with a loud voice, “A people who have done no wrong are about to be destroyed!”† 2He went as far as the king's gate, and there he waited, for it was not allowed for him to enter the courtyard wearing sackcloth and covered in ashes. 3And in every province where the king's command and decree arrived, there was great mourning among the Jews, with fasting, weeping, and wailing; and many lay in sackcloth and ashes. 4The queen's maids and eunuchs came and told her, and she was deeply distressed upon hearing of this situation. Then she sent garments to clothe Mordecai and take his sackcloth away from him, but he would not accept them.† 5Then Esther called Hathach, her eunuch who attended to her, and sent him out to learn for herself the details from Mordecai. 7Mordecai made known to him what had happened, and the offer Haman had made to the king to put ten thousand talents into the treasury to destroy the Jews. 8He also gave him a copy of the decree posted in Susa concerning their destruction to show it to Esther. He told him to instruct her to go in to the king and make",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Addition B — King Artaxerxes' First Letter (after EST.3.13)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T14:46:52.636204+00:00"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "ESG",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "ESG.3.1",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 1,
+          "text": "He then beseeched the Lord, remembering all the works of the Lord, and said,††",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He then beseeched the Lord, remembering all the works of the Lord, and said,††",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "English label: 17a",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.2",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 2,
+          "text": "“O Lord, Lord, almighty King, all things are under Your power, and there is no one to oppose You in Your desire to save Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O Lord, Lord, almighty King, all things are under Your power, and there is no one to oppose You in Your desire to save Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.3",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 3,
+          "text": "For You have made heaven and the earth, and every wondrous thing under heaven, and You are the Lord of all, and there is no one who shall resist You, Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For You have made heaven and the earth, and every wondrous thing under heaven, and You are the Lord of all, and there is no one who shall resist You, Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.4",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 4,
+          "text": "You know all things: You know, O Lord, that it is not out of disrespect or arrogance or love of honor that I did this, to refuse to bow down to the haughty Haman, for I would have been happy to kiss the soles of his feet for the salvation of Israel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You know all things: You know, O Lord, that it is not out of disrespect or arrogance or love of honor that I did this, to refuse to bow down to the haughty Haman, for I would have been happy to kiss the soles of his feet for the salvation of Israel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.5",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 5,
+          "text": "For I did this in order that I not place the glory of man above the glory of God. I will not bow down to anyone but You, my Lord, and I will not do these things out of arrogance.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I did this in order that I not place the glory of man above the glory of God. I will not bow down to anyone but You, my Lord, and I will not do these things out of arrogance.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.6",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 6,
+          "text": "“And now, O Lord God, King, God of Abraham, save Your people, for they look upon us for our destruction, and they desire to destroy Your inheritance from the beginning.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And now, O Lord God, King, God of Abraham, save Your people, for they look upon us for our destruction, and they desire to destroy Your inheritance from the beginning.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.7",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Do not disregard Your portion which You redeemed for Yourself out of the land of Egypt.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not disregard Your portion which You redeemed for Yourself out of the land of Egypt.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.8",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Hear my prayer and be merciful to Your inheritance. Turn our mourning into feasting so we may live and hymn Your name, O Lord. Do not destroy the mouth of those who praise You.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear my prayer and be merciful to Your inheritance. Turn our mourning into feasting so we may live and hymn Your name, O Lord. Do not destroy the mouth of those who praise You.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.9",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Then all Israel cried out with all their might, for their death was before their eyes. The Prayer of Esther",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then all Israel cried out with all their might, for their death was before their eyes. The Prayer of Esther",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.10",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 10,
+          "text": "And Queen Esther, seized with the agony of death, fled to the Lord for refuge. And removing her royal garments, she put on the garments of distress and mourning. Instead of the magnificent perfumes, she covered her head with ashes and dirt. She humbled her body exceedingly. She set aside everything of her worldly joy, and her hair was unkempt. She implored the Lord God of Israel, and said:†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Queen Esther, seized with the agony of death, fled to the Lord for refuge. And removing her royal garments, she put on the garments of distress and mourning. Instead of the magnificent perfumes, she covered her head with ashes and dirt. She humbled her body exceedingly. She set aside everything of her worldly joy, and her hair was unkempt. She implored the Lord God of Israel, and said:†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.11",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 11,
+          "text": "“O My Lord, You alone are our King. Help me, who am alone and have no help but You! For my risk of danger is in my hand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O My Lord, You alone are our King. Help me, who am alone and have no help but You! For my risk of danger is in my hand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.12",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 12,
+          "text": "I have heard from my birth in the tribe of my family that You, O Lord, chose Israel out of all the nations, and our fathers out of all their ancestors, for an everlasting inheritance, and do for them whatever You have spoken.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have heard from my birth in the tribe of my family that You, O Lord, chose Israel out of all the nations, and our fathers out of all their ancestors, for an everlasting inheritance, and do for them whatever You have spoken.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.13",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Now we sinned before You, and You have delivered us into the hands of our enemies because we have worshiped their gods. O Lord, You are righteous.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now we sinned before You, and You have delivered us into the hands of our enemies because we have worshiped their gods. O Lord, You are righteous.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.14",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 14,
+          "text": "But now they are not satisfied with the bitter state of our bondage, but they have pledged to their idols to abolish the decree You have spoken and to destroy Your inheritance, to close the mouths of those who praise You, and to extinguish the glory of Your temple and Your altar,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But now they are not satisfied with the bitter state of our bondage, but they have pledged to their idols to abolish the decree You have spoken and to destroy Your inheritance, to close the mouths of those who praise You, and to extinguish the glory of Your temple and Your altar,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.15",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 15,
+          "text": "nd to open the mouths of the heathen to proclaim the virtues of their false gods, and to extol a human king forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nd to open the mouths of the heathen to proclaim the virtues of their false gods, and to extol a human king forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.16",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 16,
+          "text": "“O Lord, do not give Your scepter over to those who are not. Do not let them laugh at our fall, but turn their counsel against themselves, and make an example of the one who rules against us.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“O Lord, do not give Your scepter over to those who are not. Do not let them laugh at our fall, but turn their counsel against themselves, and make an example of the one who rules against us.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.17",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 17,
+          "text": "Remember us, O Lord. Manifest Yourself in the time of our affliction, and encourage me, O King of gods and ruler over every power.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Remember us, O Lord. Manifest Yourself in the time of our affliction, and encourage me, O King of gods and ruler over every power.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.18",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 18,
+          "text": "Grant to my mouth proper words in the presence of the lion, to turn his heart to a hatred of our enemy, so that he and those agreeing with him may perish.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Grant to my mouth proper words in the presence of the lion, to turn his heart to a hatred of our enemy, so that he and those agreeing with him may perish.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.19",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 19,
+          "text": "Save us by Your hand, and help me who am alone and have no one but You, O Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Save us by Your hand, and help me who am alone and have no one but You, O Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.20",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 20,
+          "text": "“You know all things, and You know I hate the glory of the lawless and abhor the bed of the uncircumcised and of every foreigner.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“You know all things, and You know I hate the glory of the lawless and abhor the bed of the uncircumcised and of every foreigner.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.21",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 21,
+          "text": "You know my necessity, for I abhor the symbol 5 of my proud station which is upon my head on the days when I appear in public, as if it were a menstrual rag, and I do not wear it on the days I am alone.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You know my necessity, for I abhor the symbol 5 of my proud station which is upon my head on the days when I appear in public, as if it were a menstrual rag, and I do not wear it on the days I am alone.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.22",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 22,
+          "text": "Your handmaid has not eaten at the table of Haman, nor have I honored the banquet of the king, nor drunk the wine of libations.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your handmaid has not eaten at the table of Haman, nor have I honored the banquet of the king, nor drunk the wine of libations.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.23",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 23,
+          "text": "Neither has Your handmaid rejoiced since the day of her elevation, except in You, O Lord, God of Abraham.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Neither has Your handmaid rejoiced since the day of her elevation, except in You, O Lord, God of Abraham.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.3.24",
+          "book": "ESG",
+          "chapter": 3,
+          "verse": 24,
+          "text": "O God, who have power over all, hear the voice of us in despair, and deliver us from the hand of those acting wickedly, and deliver me from my fear.” Esther Goes before the King And it happened on the third day, when she ceased praying, she took off the garments of the solemnity, and put on her glorious apparel.† 2And having become resplendent, appealing to the all-seeing God and Savior, she took with her two of her favorite maids. Upon the one she leaned as an elegant woman and the other maid followed behind her, bearing her train.† 3She was aglow in the perfection of her beauty. Her face was as radiant as it was lovely, but her heart shrank with fear.† 4And having entered through all the doors, she stood face to face with the king. He was sitting on his royal throne, clothed in all his glorious apparel, covered with gold and precious stones. He was awesome. 5And as he looked up, resplendent in his glory, at the very edge of anger, the queen collapsed, her complexion paled, and she slumped against the head of the maid who went before her. 6But God changed the spirit of the king to gentleness. And full of great concern, he leapt from his throne and held her in his arms until she recovered. He comforted her with calming words and said to her, 7“Esther, what is it? I am your brother. Be of good cheer! You are not going to die because of this usual ordinance. Come near!” 8And lifting his golden scepter, he laid it upon her neck, and he embraced her and said, “Speak to me.” 9And she said to him, “I saw you, my lord, as an angel of God, and my heart was troubled for fear of your majesty, for you, my lord, are awesome, and your face is full of kindness.” 10But while she was speaking to him, she fainted. And the king was troubled, and all his servants comforted her. 11And the king said, “What do you want, Esther? What is your request? It shall be granted to you, even up to half my kingdom.”† 12Then Esther said, “Today is my special day. If, therefore, it pleases the king, let both you and Haman come to the banquet which I will prepare for today.”† 13And the king said, “Have Haman hasten here that we may do what Esther asks.” They both came to the banquet of which Esther spoke.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O God, who have power over all, hear the voice of us in despair, and deliver us from the hand of those acting wickedly, and deliver me from my fear.” Esther Goes before the King And it happened on the third day, when she ceased praying, she took off the garments of the solemnity, and put on her glorious apparel.† 2And having become resplendent, appealing to the all-seeing God and Savior, she took with her two of her favorite maids. Upon the one she leaned as an elegant woman and the other maid followed behind her, bearing her train.† 3She was aglow in the perfection of her beauty. Her face was as radiant as it was lovely, but her heart shrank with fear.† 4And having entered through all the doors, she stood face to face with the king. He was sitting on his royal throne, clothed in all his glorious apparel, covered with gold and precious stones. He was awesome. 5And as he looked up, resplendent in his glory, at the very edge of anger, the queen collapsed, her complexion paled, and she slumped against the head of the maid who went before her. 6But God changed the spirit of the king to gentleness. And full of great concern, he leapt from his throne and held her in his arms until she recovered. He comforted her with calming words and said to her, 7“Esther, what is it? I am your brother. Be of good cheer! You are not going to die because of this usual ordinance. Come near!” 8And lifting his golden scepter, he laid it upon her neck, and he embraced her and said, “Speak to me.” 9And she said to him, “I saw you, my lord, as an angel of God, and my heart was troubled for fear of your majesty, for you, my lord, are awesome, and your face is full of kindness.” 10But while she was speaking to him, she fainted. And the king was troubled, and all his servants comforted her. 11And the king said, “What do you want, Esther? What is your request? It shall be granted to you, even up to half my kingdom.”† 12Then Esther said, “Today is my special day. If, therefore, it pleases the king, let both you and Haman come to the banquet which I will prepare for today.”† 13And the king said, “Have Haman hasten here that we may do what Esther asks.” They both came to the banquet of which Esther spoke.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Addition C — Mordecai's & Esther's Prayers (after EST.4.17)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T14:46:52.643059+00:00"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "ESG",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "ESG.4.1",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 1,
+          "text": "she took off the garments of the solemnity, and put on her glorious apparel.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "she took off the garments of the solemnity, and put on her glorious apparel.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.2",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 2,
+          "text": "And having become resplendent, appealing to the all-seeing God and Savior, she took with her two of her favorite maids. Upon the one she leaned as an elegant woman and the other maid followed behind her, bearing her train.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And having become resplendent, appealing to the all-seeing God and Savior, she took with her two of her favorite maids. Upon the one she leaned as an elegant woman and the other maid followed behind her, bearing her train.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.3",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 3,
+          "text": "She was aglow in the perfection of her beauty. Her face was as radiant as it was lovely, but her heart shrank with fear.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She was aglow in the perfection of her beauty. Her face was as radiant as it was lovely, but her heart shrank with fear.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.4",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 4,
+          "text": "And having entered through all the doors, she stood face to face with the king. He was sitting on his royal throne, clothed in all his glorious apparel, covered with gold and precious stones. He was awesome.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And having entered through all the doors, she stood face to face with the king. He was sitting on his royal throne, clothed in all his glorious apparel, covered with gold and precious stones. He was awesome.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.5",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 5,
+          "text": "And as he looked up, resplendent in his glory, at the very edge of anger, the queen collapsed, her complexion paled, and she slumped against the head of the maid who went before her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And as he looked up, resplendent in his glory, at the very edge of anger, the queen collapsed, her complexion paled, and she slumped against the head of the maid who went before her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.6",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 6,
+          "text": "But God changed the spirit of the king to gentleness. And full of great concern, he leapt from his throne and held her in his arms until she recovered. He comforted her with calming words and said to her,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But God changed the spirit of the king to gentleness. And full of great concern, he leapt from his throne and held her in his arms until she recovered. He comforted her with calming words and said to her,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.7",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 7,
+          "text": "“Esther, what is it? I am your brother. Be of good cheer! You are not going to die because of this usual ordinance. Come near!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Esther, what is it? I am your brother. Be of good cheer! You are not going to die because of this usual ordinance. Come near!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.8",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 8,
+          "text": "And lifting his golden scepter, he laid it upon her neck, and he embraced her and said, “Speak to me.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And lifting his golden scepter, he laid it upon her neck, and he embraced her and said, “Speak to me.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.9",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 9,
+          "text": "And she said to him, “I saw you, my lord, as an angel of God, and my heart was troubled for fear of your majesty, for you, my lord, are awesome, and your face is full of kindness.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And she said to him, “I saw you, my lord, as an angel of God, and my heart was troubled for fear of your majesty, for you, my lord, are awesome, and your face is full of kindness.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.10",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 10,
+          "text": "But while she was speaking to him, she fainted. And the king was troubled, and all his servants comforted her.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But while she was speaking to him, she fainted. And the king was troubled, and all his servants comforted her.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.11",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 11,
+          "text": "And the king said, “What do you want, Esther? What is your request? It shall be granted to you, even up to half my kingdom.”†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the king said, “What do you want, Esther? What is your request? It shall be granted to you, even up to half my kingdom.”†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.12",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 12,
+          "text": "Then Esther said, “Today is my special day. If, therefore, it pleases the king, let both you and Haman come to the banquet which I will prepare for today.”†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Esther said, “Today is my special day. If, therefore, it pleases the king, let both you and Haman come to the banquet which I will prepare for today.”†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.13",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 13,
+          "text": "And the king said, “Have Haman hasten here that we may do what Esther asks.” They both came to the banquet of which Esther spoke. Esther's First Banquet",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the king said, “Have Haman hasten here that we may do what Esther asks.” They both came to the banquet of which Esther spoke. Esther's First Banquet",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.14",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 14,
+          "text": "So at the banquet, the king said to Esther, “What is it, Queen Esther? Whatever you desire will be granted to you.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So at the banquet, the king said to Esther, “What is it, Queen Esther? Whatever you desire will be granted to you.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.15",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 15,
+          "text": "And she said, “My request and my petition is this:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And she said, “My request and my petition is this:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.16",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 16,
+          "text": "If I find favor in the sight of the king, let the king and Haman also come tomorrow to the banquet which I will prepare for them, and tomorrow I will do the same.”†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If I find favor in the sight of the king, let the king and Haman also come tomorrow to the banquet which I will prepare for them, and tomorrow I will do the same.”†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.17",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 17,
+          "text": "So Haman went out from the king overjoyed and cheerful, but when Haman saw Mordecai the Jew in the court, he was enraged.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So Haman went out from the king overjoyed and cheerful, but when Haman saw Mordecai the Jew in the court, he was enraged.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.18",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 18,
+          "text": "And having entered his own home, he called his friends and his wife, Zeresh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And having entered his own home, he called his friends and his wife, Zeresh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.19",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 19,
+          "text": "And he showed them his wealth and the honor the king had bestowed upon him, how he made him to be first and chief in the kingdom.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he showed them his wealth and the honor the king had bestowed upon him, how he made him to be first and chief in the kingdom.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.20",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 20,
+          "text": "Haman added, “The queen invited no one else to be with the king at the banquet except me, and I am also invited tomorrow.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Haman added, “The queen invited no one else to be with the king at the banquet except me, and I am also invited tomorrow.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.21",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 21,
+          "text": "But these things do not please me when I see Mordecai the Jew in the courtyard.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But these things do not please me when I see Mordecai the Jew in the courtyard.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.4.22",
+          "book": "ESG",
+          "chapter": 4,
+          "verse": 22,
+          "text": "Then Zeresh his wife and friends said to him, “Have a tree cut down, fifty cubits high, and in the morning speak to the king and let Mordecai be hanged on the tree. But go with the king to the banquet and be merry.” Haman liked what they said, and the tree was made ready.† The King's Sleepless Night But the Lord made it difficult for the king to sleep that night, and the king commanded his servant to bring in the written records of notable events.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Zeresh his wife and friends said to him, “Have a tree cut down, fifty cubits high, and in the morning speak to the king and let Mordecai be hanged on the tree. But go with the king to the banquet and be merry.” Haman liked what they said, and the tree was made ready.† The King's Sleepless Night But the Lord made it difficult for the king to sleep that night, and the king commanded his servant to bring in the written records of notable events.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Addition D — Esther's Audience with the King (EST.5 in English)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T14:46:52.650332+00:00"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "ESG",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "ESG.5.1",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 1,
+          "text": "The following is a copy of the letter:†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The following is a copy of the letter:†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "English label: 12a",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.2",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 2,
+          "text": "The great King Artaxerxes, to the governors of the provinces in the hundred twenty- seven satrapies, from India to Ethiopia, and to the faithful to our interests: Greetings!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The great King Artaxerxes, to the governors of the provinces in the hundred twenty- seven satrapies, from India to Ethiopia, and to the faithful to our interests: Greetings!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.3",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 3,
+          "text": "Many of those who have been frequently honored in the great kindness of their benefactors have become high-minded; not only do they seek to do harm to our subjects, but being unable to bear such a measure, they undertake to plot against their own benefactors.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Many of those who have been frequently honored in the great kindness of their benefactors have become high-minded; not only do they seek to do harm to our subjects, but being unable to bear such a measure, they undertake to plot against their own benefactors.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.4",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 4,
+          "text": "Not only do they drive out gratitude from among men, but also being puffed up by those who are unacquainted with goodness, they suppose they will escape the vengeance of the all- seeing God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Not only do they drive out gratitude from among men, but also being puffed up by those who are unacquainted with goodness, they suppose they will escape the vengeance of the all- seeing God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.5",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 5,
+          "text": "And often, many of those who have been appointed to positions of authority, being entrusted to manage the affairs of friends and having been given a position of authority as an encouragement, have become accessories to the shedding of innocent blood;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And often, many of those who have been appointed to positions of authority, being entrusted to manage the affairs of friends and having been given a position of authority as an encouragement, have become accessories to the shedding of innocent blood;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.6",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 6,
+          "text": "nd they have involved them in circumstances without remedy by deceiving with false arguments the benign kindness of the rulers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nd they have involved them in circumstances without remedy by deceiving with false arguments the benign kindness of the rulers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.7",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 7,
+          "text": "And it is possible to observe this, not so much from examining the ancient traditions, as by your learning from the wicked deeds accomplished in your midst by the pestilential influence of those unworthy of holding power.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it is possible to observe this, not so much from examining the ancient traditions, as by your learning from the wicked deeds accomplished in your midst by the pestilential influence of those unworthy of holding power.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.8",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 8,
+          "text": "We must be on guard for the future, that we may maintain the kingdom undisturbed and peaceful for all the people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We must be on guard for the future, that we may maintain the kingdom undisturbed and peaceful for all the people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.9",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 9,
+          "text": "aking the most of changes, and always judging fairly in the matters coming to our attention.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "aking the most of changes, and always judging fairly in the matters coming to our attention.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.10",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 10,
+          "text": "Thus Haman, the son of Hammedatha, a Macedonian, certainly not of Persian blood, but differing greatly from our kindness, and having been hospitably received by us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus Haman, the son of Hammedatha, a Macedonian, certainly not of Persian blood, but differing greatly from our kindness, and having been hospitably received by us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.11",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 11,
+          "text": "eceived such a large share of the benevolence which we have for all peoples that he was even publicly proclaimed to be our father, reverenced by all; he attained the rank of second to the royal throne.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "eceived such a large share of the benevolence which we have for all peoples that he was even publicly proclaimed to be our father, reverenced by all; he attained the rank of second to the royal throne.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.12",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 12,
+          "text": "But unable to bear his dignity, he endeavored to deprive us of our kingdom and our life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But unable to bear his dignity, he endeavored to deprive us of our kingdom and our life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.13",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 13,
+          "text": "And by very twisted methods of deception, he demanded the destruction of our deliverer and constant benefactor, Mordecai, and Esther, the blameless consort of our kingdom, together with their whole race.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And by very twisted methods of deception, he demanded the destruction of our deliverer and constant benefactor, Mordecai, and Esther, the blameless consort of our kingdom, together with their whole race.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.14",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 14,
+          "text": "For through these ways, he expected to catch the nation of the Persians undefended, and to guide the Macedonians to victory.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For through these ways, he expected to catch the nation of the Persians undefended, and to guide the Macedonians to victory.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.15",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 15,
+          "text": "However, we find that the Jews, who have been consigned to destruction by this terribly wicked man, are not criminals, but live by most just laws.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "However, we find that the Jews, who have been consigned to destruction by this terribly wicked man, are not criminals, but live by most just laws.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.16",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 16,
+          "text": "We find them to be children of the Most High, Most Mighty, Living God, who has guided the kingdom both for us and our forefathers in the most excellent manner.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We find them to be children of the Most High, Most Mighty, Living God, who has guided the kingdom both for us and our forefathers in the most excellent manner.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.17",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Therefore, you will do well to disregard the letters sent by Haman the son of Hammedatha, because he who has produced these has been hanged at the gates of Susa, along with his whole household. For God Almighty, who rules over all things, swiftly rendered a just judgment on him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, you will do well to disregard the letters sent by Haman the son of Hammedatha, because he who has produced these has been hanged at the gates of Susa, along with his whole household. For God Almighty, who rules over all things, swiftly rendered a just judgment on him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.18",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Therefore, post a copy of this document publicly in every place, making it known that the Jews are to follow their own customs; and join in supporting them, so that on the day set for their destruction, the thirteenth day of the twelfth month Adar, they may defend themselves against those who would attack them.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, post a copy of this document publicly in every place, making it known that the Jews are to follow their own customs; and join in supporting them, so that on the day set for their destruction, the thirteenth day of the twelfth month Adar, they may defend themselves against those who would attack them.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.19",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 19,
+          "text": "For God, who holds power over all things, has made this a day of gladness for them instead of a day of the destruction of a chosen race.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For God, who holds power over all things, has made this a day of gladness for them instead of a day of the destruction of a chosen race.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.20",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 20,
+          "text": "Therefore, celebrate this outstanding day among your named feasts with all rejoicing, so that both now and in the future it may be deliverance for us and for the well- inclined Persians; and for those who plot destruction against us, a remembrance of destruction.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, celebrate this outstanding day among your named feasts with all rejoicing, so that both now and in the future it may be deliverance for us and for the well- inclined Persians; and for those who plot destruction against us, a remembrance of destruction.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.5.21",
+          "book": "ESG",
+          "chapter": 5,
+          "verse": 21,
+          "text": "And every city or province whatsoever which shall not act in accordance with these things shall be mercilessly destroyed with spear and fire; it shall be made impassable not only to men, but even to wild animals and birds forever. 13Let copies of the decree be posted conspicuously throughout the kingdom, and let all the Jews be ready on that day to fight against those who oppose them. The Posting of the New Decree 14So horsemen were sent out quickly to carry out the king's commands, and the decree was also posted in Susa. 15Then Mordecai went out robed in royal raiment, having a gold crown and a diadem of fine purple linen; and seeing him, the people of Susa rejoiced.† 16And there was light and gladness for the Jews.† 17In every city and province where the decree was published, where the proclamation was posted, there was joy and gladness among the Jews—feasting and good cheer. And many of the Gentiles were circumcised and lived in the Jewish way, because of fear of the Jews.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And every city or province whatsoever which shall not act in accordance with these things shall be mercilessly destroyed with spear and fire; it shall be made impassable not only to men, but even to wild animals and birds forever. 13Let copies of the decree be posted conspicuously throughout the kingdom, and let all the Jews be ready on that day to fight against those who oppose them. The Posting of the New Decree 14So horsemen were sent out quickly to carry out the king's commands, and the decree was also posted in Susa. 15Then Mordecai went out robed in royal raiment, having a gold crown and a diadem of fine purple linen; and seeing him, the people of Susa rejoiced.† 16And there was light and gladness for the Jews.† 17In every city and province where the decree was published, where the proclamation was posted, there was joy and gladness among the Jews—feasting and good cheer. And many of the Gentiles were circumcised and lived in the Jewish way, because of fear of the Jews.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Addition E — King Artaxerxes' Second Letter (after EST.8.12)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T14:46:52.654715+00:00"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "ESG",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "ESG.6.1",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 1,
+          "text": "And Mordecai said, “These things were from my God.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And Mordecai said, “These things were from my God.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "English label: 3a",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.2",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 2,
+          "text": "For I recall the dream which I had concerning these things, and not one detail of them has failed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I recall the dream which I had concerning these things, and not one detail of them has failed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.3",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 3,
+          "text": "“There was a small spring that became a river; there was light and the sun and much water. The river is Esther, whom the king married and made queen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“There was a small spring that became a river; there was light and the sun and much water. The river is Esther, whom the king married and made queen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.4",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 4,
+          "text": "The two serpents are Haman and I.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The two serpents are Haman and I.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.5",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 5,
+          "text": "The nations are the Gentiles gathering together to destroy the name of the Jews.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The nations are the Gentiles gathering together to destroy the name of the Jews.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.6",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 6,
+          "text": "And my nation, which cried out to God and was delivered, is Israel. For the Lord has saved His people, and the Lord has rescued us from all these evils. And God performed signs and great wonders, which have not happened among the Gentiles.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And my nation, which cried out to God and was delivered, is Israel. For the Lord has saved His people, and the Lord has rescued us from all these evils. And God performed signs and great wonders, which have not happened among the Gentiles.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.7",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 7,
+          "text": "“On account of this, He made two lots, one for the people of God and one for the Gentiles.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“On account of this, He made two lots, one for the people of God and one for the Gentiles.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.8",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 8,
+          "text": "And these two lots came in the hour, and in the time, and in the day of judgment before God and among all the Gentiles.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And these two lots came in the hour, and in the time, and in the day of judgment before God and among all the Gentiles.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.9",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 9,
+          "text": "And God remembered His people and vindicated His inheritance.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And God remembered His people and vindicated His inheritance.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.10",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 10,
+          "text": "And they shall observe these days in the month of Adar, the fourteenth and fifteenth day of that month. They shall gather together with joy and gladness before God throughout all generations forever among His people Israel.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And they shall observe these days in the month of Adar, the fourteenth and fifteenth day of that month. They shall gather together with joy and gladness before God throughout all generations forever among His people Israel.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "ESG.6.11",
+          "book": "ESG",
+          "chapter": 6,
+          "verse": 11,
+          "text": "In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus, who said he was a priest and a Levite, and Ptolemy his son brought in the letter of Purim, which they declared existed, and that Lysimachus, the son of Ptolemy, who was in Jerusalem, had translated it.†",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus, who said he was a priest and a Levite, and Ptolemy his son brought in the letter of Purim, which they declared existed, and that Lysimachus, the son of Ptolemy, who was in Jerusalem, had translated it.†",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Addition F — Mordecai's Interpretation of the Dream (after EST.10.3)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-04T14:46:52.658013+00:00"
+    }
+  }
+}

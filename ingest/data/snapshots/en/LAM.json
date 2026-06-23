@@ -1,0 +1,3863 @@
+{
+  "usfm": "LAM",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "LAM",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "LAM.1.1",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 1,
+          "text": "How lonely sits the city",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How lonely sits the city",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Jerusalem in Affliction",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.2",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 2,
+          "text": "She weeps bitterly in the night,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "She weeps bitterly in the night,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.3",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Judah has gone into captivity,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Judah has gone into captivity,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.4",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 4,
+          "text": "The roads to Zion mourn",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The roads to Zion mourn",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.5",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Her adversaries have become the master,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her adversaries have become the master,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Lit. her head"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.6",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 6,
+          "text": "And from the daughter of Zion",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And from the daughter of Zion",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.7",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 7,
+          "text": "In the days of her affliction and roaming,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In the days of her affliction and roaming,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.8",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Jerusalem has sinned gravely,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Jerusalem has sinned gravely,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.9",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Her uncleanness is in her skirts;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her uncleanness ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in her skirts;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.10",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 10,
+          "text": "The adversary has spread his hand",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The adversary has spread his hand",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.11",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 11,
+          "text": "All her people sigh,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All her people sigh,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.12",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 12,
+          "text": "“Is it nothing to you, all you who pass by?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Is it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " nothing to you, all you who pass by?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "l",
+                "text": "Lit. pass by this way"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.13",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 13,
+          "text": "“From above He has sent fire into my bones,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“From above He has sent fire into my bones,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.14",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 14,
+          "text": "“The yoke of my transgressions was bound;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The yoke of my transgressions was bound;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "m",
+                "text": "So with MT, Tg.; LXX, Syr., Vg. watched over"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.15",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 15,
+          "text": "“The Lord has trampled underfoot all my mighty men in my midst;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The Lord has trampled underfoot all my mighty ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "men",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in my midst;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.16",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 16,
+          "text": "“For these things I weep;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For these ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "things",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I weep;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.17",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 17,
+          "text": "Zion spreads out her hands,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Zion spreads out her hands,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "n",
+                "text": "Prays"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.18",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 18,
+          "text": "“The Lord is righteous,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The Lord is righteous,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.19",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 19,
+          "text": "“I called for my lovers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I called for my lovers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.20",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 20,
+          "text": "“See, O Lord, that I am in distress;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“See, O Lord, that I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in distress;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.21",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 21,
+          "text": "“They have heard that I sigh,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“They have heard that I sigh,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.1.22",
+          "book": "LAM",
+          "chapter": 1,
+          "verse": 22,
+          "text": "“Let all their wickedness come before You,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Let all their wickedness come before You,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jerusalem in Affliction",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:53:23.982Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "LAM",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "LAM.2.1",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 1,
+          "text": "How the Lord has covered the daughter of Zion",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How the Lord has covered the daughter of Zion",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Anger with Jerusalem",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.2",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 2,
+          "text": "The Lord has swallowed up and has not pitied",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has swallowed up and has not pitied",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.3",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 3,
+          "text": "He has cut off in fierce anger",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has cut off in fierce anger",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.4",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Standing like an enemy, He has bent His bow;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Standing like an enemy, He has bent His bow;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.5",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 5,
+          "text": "The Lord was like an enemy.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord was like an enemy.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.6",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 6,
+          "text": "He has done violence to His tabernacle,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has done violence to His tabernacle,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit. booth"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.7",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 7,
+          "text": "The Lord has spurned His altar,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has spurned His altar,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.8",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 8,
+          "text": "The Lord has purposed to destroy",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has purposed to destroy",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "determined"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.9",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Her gates have sunk into the ground;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her gates have sunk into the ground;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.10",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 10,
+          "text": "The elders of the daughter of Zion",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The elders of the daughter of Zion",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.11",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 11,
+          "text": "My eyes fail with tears,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My eyes fail with tears,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.12",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 12,
+          "text": "They say to their mothers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They say to their mothers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.13",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 13,
+          "text": "How shall I console you?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How shall I console you?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Or bear witness to"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.14",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Your prophets have seen for you",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your prophets have seen for you",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.15",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 15,
+          "text": "All who pass by clap their hands at you;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All who pass by clap ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "their",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " hands at you;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "Lit. pass by this way"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.16",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 16,
+          "text": "All your enemies have opened their mouth against you;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All your enemies have opened their mouth against you;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.17",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 17,
+          "text": "The Lord has done what He purposed;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has done what He purposed;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.18",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Their heart cried out to the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Their heart cried out to the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.19",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 19,
+          "text": "“Arise, cry out in the night,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Arise, cry out in the night,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.20",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 20,
+          "text": "“See, O Lord, and consider!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“See, O Lord, and consider!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.21",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 21,
+          "text": "“Young and old lie",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Young and old lie",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.2.22",
+          "book": "LAM",
+          "chapter": 2,
+          "verse": 22,
+          "text": "“You have invited as to a feast day",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“You have invited as to a feast day",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God’s Anger with Jerusalem",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:53:25.574Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "LAM",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "LAM.3.1",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 1,
+          "text": "I am the man who has seen affliction by the rod of His wrath.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the man ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " has seen affliction by the rod of His wrath.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Prophet’s Anguish and Hope",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.2",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 2,
+          "text": "He has led me and made me walk",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has led me and made ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "me",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " walk",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.3",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Surely He has turned His hand against me",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Surely He has turned His hand against me",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.4",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 4,
+          "text": "He has aged my flesh and my skin,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has aged my flesh and my skin,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.5",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 5,
+          "text": "He has besieged me",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has besieged me",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.6",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 6,
+          "text": "He has set me in dark places",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has set me in dark places",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.7",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 7,
+          "text": "He has hedged me in so that I cannot get out;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has hedged me in so that I cannot get out;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.8",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Even when I cry and shout,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even when I cry and shout,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.9",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 9,
+          "text": "He has blocked my ways with hewn stone;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has blocked my ways with hewn stone;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.10",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 10,
+          "text": "He has been to me a bear lying in wait,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "has been",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to me a bear lying in wait,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.11",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 11,
+          "text": "He has turned aside my ways and torn me in pieces;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has turned aside my ways and torn me in pieces;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.12",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 12,
+          "text": "He has bent His bow",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has bent His bow",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.13",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 13,
+          "text": "He has caused the arrows of His quiver",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has caused the arrows of His quiver",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. sons of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.14",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 14,
+          "text": "I have become the ridicule of all my people—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I have become the ridicule of all my people—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.15",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 15,
+          "text": "He has filled me with bitterness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has filled me with bitterness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.16",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 16,
+          "text": "He has also broken my teeth with gravel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has also broken my teeth with gravel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.17",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 17,
+          "text": "You have moved my soul far from peace;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have moved my soul far from peace;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.18",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 18,
+          "text": "And I said, “My strength and my hope",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I said, “My strength and my hope",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.19",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 19,
+          "text": "Remember my affliction and roaming,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Remember my affliction and roaming,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.20",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 20,
+          "text": "My soul still remembers",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My soul still remembers",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.21",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 21,
+          "text": "This I recall to my mind,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This I recall to my mind,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.22",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 22,
+          "text": "Through the Lord’s mercies we are not consumed,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Through",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord’s mercies we are not consumed,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.23",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 23,
+          "text": "They are new every morning;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " new every morning;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.24",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 24,
+          "text": "“The Lord is my portion,” says my soul,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " my portion,” says my soul,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.25",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 25,
+          "text": "The Lord is good to those who wait for Him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good to those who wait for Him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.26",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 26,
+          "text": "It is good that one should hope and wait quietly",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good that ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "one",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " should hope and wait quietly",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.27",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 27,
+          "text": "It is good for a man to bear",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " good for a man to bear",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.28",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 28,
+          "text": "Let him sit alone and keep silent,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let him sit alone and keep silent,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.29",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 29,
+          "text": "Let him put his mouth in the dust—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let him put his mouth in the dust—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.30",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 30,
+          "text": "Let him give his cheek to the one who strikes him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let him give ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " cheek to the one who strikes him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.31",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 31,
+          "text": "For the Lord will not cast off forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the Lord will not cast off forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.32",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 32,
+          "text": "Though He causes grief,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though He causes grief,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.33",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 33,
+          "text": "For He does not afflict willingly,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For He does not afflict willingly,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Lit. from His heart"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.34",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 34,
+          "text": "To crush under one’s feet",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To crush under one’s feet",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.35",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 35,
+          "text": "To turn aside the justice due a man",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To turn aside the justice ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "due",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a man",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.36",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 36,
+          "text": "Or subvert a man in his cause—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Or subvert a man in his cause—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.37",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 37,
+          "text": "Who is he who speaks and it comes to pass,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " he ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " speaks and it comes to pass,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.38",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 38,
+          "text": "Is it not from the mouth of the Most High",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not from the mouth of the Most High",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.39",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 39,
+          "text": "Why should a living man complain,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Why should a living man complain,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Or murmur"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.40",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 40,
+          "text": "Let us search out and examine our ways,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let us search out and examine our ways,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.41",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 41,
+          "text": "Let us lift our hearts and hands",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let us lift our hearts and hands",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.42",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 42,
+          "text": "We have transgressed and rebelled;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We have transgressed and rebelled;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.43",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 43,
+          "text": "You have covered Yourself with anger",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have covered ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Yourself",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with anger",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.44",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 44,
+          "text": "You have covered Yourself with a cloud,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have covered Yourself with a cloud,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.45",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 45,
+          "text": "You have made us an offscouring and refuse",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have made us an offscouring and refuse",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.46",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 46,
+          "text": "All our enemies",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All our enemies",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.47",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 47,
+          "text": "Fear and a snare have come upon us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Fear and a snare have come upon us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.48",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 48,
+          "text": "My eyes overflow with rivers of water",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My eyes overflow with rivers of water",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.49",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 49,
+          "text": "My eyes flow and do not cease,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My eyes flow and do not cease,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.50",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 50,
+          "text": "Till the Lord from heaven",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Till the Lord from heaven",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.51",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 51,
+          "text": "My eyes bring suffering to my soul",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My eyes bring suffering to my soul",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.52",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 52,
+          "text": "My enemies without cause",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My enemies without cause",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.53",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 53,
+          "text": "They silenced my life in the pit",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They silenced my life in the pit",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "LXX put to death"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.54",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 54,
+          "text": "The waters flowed over my head;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The waters flowed over my head;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.55",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 55,
+          "text": "I called on Your name, O Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I called on Your name, O Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.56",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 56,
+          "text": "You have heard my voice:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have heard my voice:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.57",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 57,
+          "text": "You drew near on the day I called on You,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You drew near on the day I called on You,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.58",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 58,
+          "text": "O Lord, You have pleaded the case for my soul;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, You have pleaded the case for my soul;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.59",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 59,
+          "text": "O Lord, You have seen how I am wronged;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, You have seen ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "how",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I am wronged;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "m",
+                "text": "Lit. my wrong"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.60",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 60,
+          "text": "You have seen all their vengeance,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have seen all their vengeance,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.61",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 61,
+          "text": "You have heard their reproach, O Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have heard their reproach, O Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.62",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 62,
+          "text": "The lips of my enemies",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The lips of my enemies",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.63",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 63,
+          "text": "Look at their sitting down and their rising up;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Look at their sitting down and their rising up;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.64",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 64,
+          "text": "Repay them, O Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Repay them, O Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.65",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 65,
+          "text": "Give them a veiled heart;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Give them a veiled heart;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "n",
+                "text": "A Jewish tradition sorrow of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.3.66",
+          "book": "LAM",
+          "chapter": 3,
+          "verse": 66,
+          "text": "In Your anger,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In Your anger,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Prophet’s Anguish and Hope",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:53:27.229Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "LAM",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "LAM.4.1",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 1,
+          "text": "How the gold has become dim!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How the gold has become dim!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Degradation of Zion",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.2",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 2,
+          "text": "The precious sons of Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The precious sons of Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.3",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 3,
+          "text": "Even the jackals present their breasts",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even the jackals present their breasts",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.4",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 4,
+          "text": "The tongue of the infant clings",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The tongue of the infant clings",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.5",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Those who ate delicacies",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those who ate delicacies",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.6",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 6,
+          "text": "The punishment of the iniquity of the daughter of my people",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The punishment of the iniquity of the daughter of my people",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.7",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Her Nazirites were brighter than snow",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Her Nazirites were brighter than snow",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or nobles"
+              },
+              {
+                "marker": "e",
+                "text": "Or purer"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.8",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 8,
+          "text": "Now their appearance is blacker than soot;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " their appearance is blacker than soot;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.9",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 9,
+          "text": "Those slain by the sword are better off",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " slain by the sword are better off",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.10",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 10,
+          "text": "The hands of the compassionate women",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The hands of the compassionate women",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.11",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 11,
+          "text": "The Lord has fulfilled His fury,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has fulfilled His fury,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.12",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 12,
+          "text": "The kings of the earth,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The kings of the earth,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.13",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 13,
+          "text": "Because of the sins of her prophets",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because of the sins of her prophets",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.14",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 14,
+          "text": "They wandered blind in the streets;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They wandered blind in the streets;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.15",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 15,
+          "text": "They cried out to them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They cried out to them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.16",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 16,
+          "text": "The face of the Lord scattered them;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The face of the Lord scattered them;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Tg. anger"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.17",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 17,
+          "text": "Still our eyes failed us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Still our eyes failed us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.18",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 18,
+          "text": "They tracked our steps",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They tracked our steps",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Lit. hunted"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.19",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 19,
+          "text": "Our pursuers were swifter",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Our pursuers were swifter",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.20",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 20,
+          "text": "The breath of our nostrils, the anointed of the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The breath of our nostrils, the anointed of the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.21",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 21,
+          "text": "Rejoice and be glad, O daughter of Edom,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Rejoice and be glad, O daughter of Edom,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.4.22",
+          "book": "LAM",
+          "chapter": 4,
+          "verse": 22,
+          "text": "The punishment of your iniquity is accomplished,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The punishment of",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your iniquity is accomplished,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "has been completed"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Degradation of Zion",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:53:28.828Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "LAM",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "LAM.5.1",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Remember, O Lord, what has come upon us;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Remember, O Lord, what has come upon us;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Prayer for Restoration",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.2",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Our inheritance has been turned over to aliens,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Our inheritance has been turned over to aliens,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.3",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 3,
+          "text": "We have become orphans and waifs,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We have become orphans and waifs,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.4",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 4,
+          "text": "We pay for the water we drink,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We pay for the water we drink,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.5",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 5,
+          "text": "They pursue at our heels;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " pursue at our heels;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. necks"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.6",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 6,
+          "text": "We have given our hand to the Egyptians",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We have given our hand ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Egyptians",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.7",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Our fathers sinned and are no more,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Our fathers sinned ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " no more,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.8",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 8,
+          "text": "Servants rule over us;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Servants rule over us;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.9",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 9,
+          "text": "We get our bread at the risk of our lives,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "We get our bread ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "at the risk",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of our lives,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.10",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 10,
+          "text": "Our skin is hot as an oven,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Our skin is hot as an oven,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.11",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 11,
+          "text": "They ravished the women in Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They ravished the women in Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.12",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 12,
+          "text": "Princes were hung up by their hands,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Princes were hung up by their hands,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.13",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 13,
+          "text": "Young men ground at the millstones;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Young men ground at the millstones;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.14",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 14,
+          "text": "The elders have ceased gathering at the gate,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The elders have ceased ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "gathering at",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the gate,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.15",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 15,
+          "text": "The joy of our heart has ceased;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The joy of our heart has ceased;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.16",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 16,
+          "text": "The crown has fallen from our head.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The crown has fallen ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "from",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " our head.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.17",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Because of this our heart is faint;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because of this our heart is faint;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.18",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Because of Mount Zion which is desolate,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because of Mount Zion which is desolate,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.19",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 19,
+          "text": "You, O Lord, remain forever;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You, O Lord, remain forever;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.20",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 20,
+          "text": "Why do You forget us forever,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Why do You forget us forever,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.21",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 21,
+          "text": "Turn us back to You, O Lord, and we will be restored;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Turn us back to You, O Lord, and we will be restored;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "returned"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "LAM.5.22",
+          "book": "LAM",
+          "chapter": 5,
+          "verse": 22,
+          "text": "Unless You have utterly rejected us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Unless You have utterly rejected us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prayer for Restoration",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:53:30.369Z"
+    }
+  }
+}

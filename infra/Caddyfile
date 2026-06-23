@@ -1,0 +1,46 @@
+# Caddyfile — reverse proxy + automatic TLS for the Ahosaji API.
+#
+# Caddy terminates TLS (auto-provisioned via Let's Encrypt / ZeroSSL) and
+# proxies to the Fastify app. The app should bind to 127.0.0.1:3001 (loopback
+# only) so it is NOT directly reachable from the internet — all public traffic
+# must go through Caddy. Set HOST=127.0.0.1 and PORT=3001 in the app's env when
+# running behind this config (the app defaults to 0.0.0.0 for local dev).
+#
+# Usage:
+#   caddy run --config /etc/caddy/Caddyfile
+# DNS: point an A/AAAA record for api.ahosaji.dev at this server first, or ACME
+# HTTP-01 validation will fail.
+
+api.ahosaji.dev {
+	# Forward all traffic to the Fastify app on loopback.
+	reverse_proxy 127.0.0.1:3001
+
+	# Security headers.
+	header {
+		# HSTS: force HTTPS for 1 year, include subdomains, allow preload.
+		Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+		# Disallow MIME sniffing.
+		X-Content-Type-Options "nosniff"
+		# Disallow framing (clickjacking protection).
+		X-Frame-Options "DENY"
+		# Conservative referrer policy.
+		Referrer-Policy "strict-origin-when-cross-origin"
+		# Limit powerful browser features by default.
+		Permissions-Policy "geolocation=(), microphone=(), camera=()"
+		# Do not advertise the server software.
+		-Server
+	}
+
+	# Reasonable request body cap for a JSON API (search/query payloads).
+	request_body {
+		max_size 1MB
+	}
+
+	# Structured access logs.
+	log {
+		output file /var/log/caddy/api.ahosaji.dev.access.log
+		format json
+	}
+
+	encode gzip zstd
+}

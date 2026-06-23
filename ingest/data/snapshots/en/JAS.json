@@ -1,0 +1,3151 @@
+{
+  "usfm": "JAS",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "JAS",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "JAS.1.1",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 1,
+          "text": "James, a bondservant of God and of the Lord Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "James, a bondservant of God and of the Lord Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting to the Twelve Tribes",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.2",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 2,
+          "text": "My brethren, count it all joy when you fall into various trials,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My brethren, count it all joy when you fall into various trials,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Profiting from Trials",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.3",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 3,
+          "text": "knowing that the testing of your faith produces patience.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing that the testing of your faith produces patience.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "endurance or perseverance"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.4",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 4,
+          "text": "But let patience have its perfect work, that you may be perfect and complete, lacking nothing.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But let patience have ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "its",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " perfect work, that you may be perfect and complete, lacking nothing.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "mature"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.5",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 5,
+          "text": "If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.6",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 6,
+          "text": "But let him ask in faith, with no doubting, for he who doubts is like a wave of the sea driven and tossed by the wind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But let him ask in faith, with no doubting, for he who doubts is like a wave of the sea driven and tossed by the wind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.7",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 7,
+          "text": "For let not that man suppose that he will receive anything from the Lord;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For let not that man suppose that he will receive anything from the Lord;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.8",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 8,
+          "text": "he is a double-minded man, unstable in all his ways.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "he is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a double-minded man, unstable in all his ways.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.9",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Let the lowly brother glory in his exaltation,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let the lowly brother glory in his exaltation,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Perspective of Rich and Poor",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.10",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 10,
+          "text": "but the rich in his humiliation, because as a flower of the field he will pass away.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but the rich in his humiliation, because as a flower of the field he will pass away.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.11",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 11,
+          "text": "For no sooner has the sun risen with a burning heat than it withers the grass; its flower falls, and its beautiful appearance perishes. So the rich man also will fade away in his pursuits.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For no sooner has the sun risen with a burning heat than it withers the grass; its flower falls, and its beautiful appearance perishes. So the rich man also will fade away in his pursuits.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.12",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Blessed is the man who endures temptation; for when he has been approved, he will receive the crown of life which the Lord has promised to those who love Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the man who endures temptation; for when he has been approved, he will receive the crown of life which the Lord has promised to those who love Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Loving God Under Trials",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.13",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Let no one say when he is tempted, “I am tempted by God”; for God cannot be tempted by evil, nor does He Himself tempt anyone.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let no one say when he is tempted, “I am tempted by God”; for God cannot be tempted by evil, nor does He Himself tempt anyone.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.14",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 14,
+          "text": "But each one is tempted when he is drawn away by his own desires and enticed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But each one is tempted when he is drawn away by his own desires and enticed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.15",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Then, when desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then, when desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.16",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 16,
+          "text": "Do not be deceived, my beloved brethren.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not be deceived, my beloved brethren.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.17",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 17,
+          "text": "Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom there is no variation or shadow of turning.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom there is no variation or shadow of turning.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.18",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 18,
+          "text": "Of His own will He brought us forth by the word of truth, that we might be a kind of firstfruits of His creatures.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Of His own will He brought us forth by the word of truth, that we might be a kind of firstfruits of His creatures.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.19",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 19,
+          "text": "So then, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So then, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU Know this or This you know"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Qualities Needed in Trials",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.20",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 20,
+          "text": "for the wrath of man does not produce the righteousness of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for the wrath of man does not produce the righteousness of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.21",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 21,
+          "text": "Therefore lay aside all filthiness and overflow of wickedness, and receive with meekness the implanted word, which is able to save your souls.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore lay aside all filthiness and overflow of wickedness, and receive with meekness the implanted word, which is able to save your souls.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "abundance"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Doers—Not Hearers Only",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.22",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 22,
+          "text": "But be doers of the word, and not hearers only, deceiving yourselves.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But be doers of the word, and not hearers only, deceiving yourselves.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.23",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 23,
+          "text": "For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.24",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 24,
+          "text": "for he observes himself, goes away, and immediately forgets what kind of man he was.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for he observes himself, goes away, and immediately forgets what kind of man he was.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.25",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 25,
+          "text": "But he who looks into the perfect law of liberty and continues in it, and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But he who looks into the perfect law of liberty and continues ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "in it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.26",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 26,
+          "text": "If anyone among you thinks he is religious, and does not bridle his tongue but deceives his own heart, this one’s religion is useless.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If anyone among you thinks he is religious, and does not bridle his tongue but deceives his own heart, this one’s religion ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " useless.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU omits among you"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.1.27",
+          "book": "JAS",
+          "chapter": 1,
+          "verse": 27,
+          "text": "Pure and undefiled religion before God and the Father is this: to visit orphans and widows in their trouble, and to keep oneself unspotted from the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Pure and undefiled religion before God and the Father is this: to visit orphans and widows in their trouble, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to keep oneself unspotted from the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting to the Twelve Tribes",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Profiting from Trials",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "The Perspective of Rich and Poor",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Loving God Under Trials",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Qualities Needed in Trials",
+          "level": 2
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Doers—Not Hearers Only",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:02.600Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "JAS",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "JAS.2.1",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 1,
+          "text": "My brethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with partiality.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My brethren, do not hold the faith of our Lord Jesus Christ, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the Lord",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of glory, with partiality.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Beware of Personal Favoritism",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.2",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 2,
+          "text": "For if there should come into your assembly a man with gold rings, in fine apparel, and there should also come in a poor man in filthy clothes,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For if there should come into your assembly a man with gold rings, in fine apparel, and there should also come in a poor man in filthy clothes,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "bright"
+              },
+              {
+                "marker": "b",
+                "text": "vile"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.3",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 3,
+          "text": "and you pay attention to the one wearing the fine clothes and say to him, “You sit here in a good place,” and say to the poor man, “You stand there,” or, “Sit here at my footstool,”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and you pay attention to the one wearing the fine clothes and say to him, “You sit here in a good place,” and say to the poor man, “You stand there,” or, “Sit here at my footstool,”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. look upon"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.4",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 4,
+          "text": "have you not shown partiality among yourselves, and become judges with evil thoughts?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "have you not shown partiality among yourselves, and become judges with evil thoughts?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "differentiated"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.5",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Listen, my beloved brethren: Has God not chosen the poor of this world to be rich in faith and heirs of the kingdom which He promised to those who love Him?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Listen, my beloved brethren: Has God not chosen the poor of this world ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " rich in faith and heirs of the kingdom which He promised to those who love Him?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.6",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 6,
+          "text": "But you have dishonored the poor man. Do not the rich oppress you and drag you into the courts?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you have dishonored the poor man. Do not the rich oppress you and drag you into the courts?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.7",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 7,
+          "text": "Do they not blaspheme that noble name by which you are called?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do they not blaspheme that noble name by which you are called?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.8",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 8,
+          "text": "If you really fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If you really fulfill ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.9",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 9,
+          "text": "but if you show partiality, you commit sin, and are convicted by the law as transgressors.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but if you show partiality, you commit sin, and are convicted by the law as transgressors.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. receive the face"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.10",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 10,
+          "text": "For whoever shall keep the whole law, and yet stumble in one point, he is guilty of all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For whoever shall keep the whole law, and yet stumble in one ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "point,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " he is guilty of all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.11",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 11,
+          "text": "For He who said, “Do not commit adultery,” also said, “Do not murder.” Now if you do not commit adultery, but you do murder, you have become a transgressor of the law.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For He who said, “Do not commit adultery,” also said, “Do not murder.” Now if you do not commit adultery, but you do murder, you have become a transgressor of the law.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.12",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 12,
+          "text": "So speak and so do as those who will be judged by the law of liberty.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So speak and so do as those who will be judged by the law of liberty.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.13",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 13,
+          "text": "For judgment is without mercy to the one who has shown no mercy. Mercy triumphs over judgment.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For judgment is without mercy to the one who has shown no mercy. Mercy triumphs over judgment.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.14",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 14,
+          "text": "What does it profit, my brethren, if someone says he has faith but does not have works? Can faith save him?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "does it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " profit, my brethren, if someone says he has faith but does not have works? Can faith save him?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Faith Without Works Is Dead(T)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.15",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 15,
+          "text": "If a brother or sister is naked and destitute of daily food,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If a brother or sister is naked and destitute of daily food,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.16",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 16,
+          "text": "and one of you says to them, “Depart in peace, be warmed and filled,” but you do not give them the things which are needed for the body, what does it profit?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and one of you says to them, “Depart in peace, be warmed and filled,” but you do not give them the things which are needed for the body, what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "does it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " profit?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.17",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Thus also faith by itself, if it does not have works, is dead.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus also faith by itself, if it does not have works, is dead.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.18",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 18,
+          "text": "But someone will say, “You have faith, and I have works.” Show me your faith without your works, and I will show you my faith by my works.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But someone will say, “You have faith, and I have works.” Show me your faith without your works, and I will show you my faith by my works.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU omits your"
+              },
+              {
+                "marker": "g",
+                "text": "NU omits my"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.19",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 19,
+          "text": "You believe that there is one God. You do well. Even the demons believe—and tremble!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You believe that there is one God. You do well. Even the demons believe—and tremble!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.20",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 20,
+          "text": "But do you want to know, O foolish man, that faith without works is dead?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But do you want to know, O foolish man, that faith without works is dead?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "NU useless"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.21",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 21,
+          "text": "Was not Abraham our father justified by works when he offered Isaac his son on the altar?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Was not Abraham our father justified by works when he offered Isaac his son on the altar?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.22",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 22,
+          "text": "Do you see that faith was working together with his works, and by works faith was made perfect?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do you see that faith was working together with his works, and by works faith was made perfect?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "complete"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.23",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 23,
+          "text": "And the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him for righteousness.” And he was called the friend of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him for righteousness.” And he was called the friend of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "credited"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.24",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 24,
+          "text": "You see then that a man is justified by works, and not by faith only.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You see then that a man is justified by works, and not by faith only.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.25",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 25,
+          "text": "Likewise, was not Rahab the harlot also justified by works when she received the messengers and sent them out another way?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise, was not Rahab the harlot also justified by works when she received the messengers and sent ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " out another way?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.2.26",
+          "book": "JAS",
+          "chapter": 2,
+          "verse": 26,
+          "text": "For as the body without the spirit is dead, so faith without works is dead also.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For as the body without the spirit is dead, so faith without works is dead also.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Beware of Personal Favoritism",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Faith Without Works Is Dead(T)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:04.145Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "JAS",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "JAS.3.1",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 1,
+          "text": "My brethren, let not many of you become teachers, knowing that we shall receive a stricter judgment.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My brethren, let not many of you become teachers, knowing that we shall receive a stricter judgment.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Untamable Tongue",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.2",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 2,
+          "text": "For we all stumble in many things. If anyone does not stumble in word, he is a perfect man, able also to bridle the whole body.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we all stumble in many things. If anyone does not stumble in word, he ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a perfect man, able also to bridle the whole body.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "mature"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.3",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Indeed, we put bits in horses’ mouths that they may obey us, and we turn their whole body.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed, we put bits in horses’ mouths that they may obey us, and we turn their whole body.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU Now if"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.4",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Look also at ships: although they are so large and are driven by fierce winds, they are turned by a very small rudder wherever the pilot desires.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Look also at ships: although they are so large and are driven by fierce winds, they are turned by a very small rudder wherever the pilot desires.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.5",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Even so the tongue is a little member and boasts great things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Even so the tongue is a little member and boasts great things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.6",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 6,
+          "text": "And the tongue is a fire, a world of iniquity. The tongue is so set among our members that it defiles the whole body, and sets on fire the course of nature; and it is set on fire by hell.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the tongue ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a fire, a world of iniquity. The tongue is so set among our members that it defiles the whole body, and sets on fire the course of nature; and it is set on fire by hell.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "unrighteousness"
+              },
+              {
+                "marker": "d",
+                "text": "existence"
+              },
+              {
+                "marker": "e",
+                "text": "Gr. Gehenna"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.7",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 7,
+          "text": "For every kind of beast and bird, of reptile and creature of the sea, is tamed and has been tamed by mankind.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For every kind of beast and bird, of reptile and creature of the sea, is tamed and has been tamed by mankind.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.8",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 8,
+          "text": "But no man can tame the tongue. It is an unruly evil, full of deadly poison.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But no man can tame the tongue. ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "It is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " an unruly evil, full of deadly poison.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.9",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 9,
+          "text": "With it we bless our God and Father, and with it we curse men, who have been made in the similitude of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "With it we bless our God and Father, and with it we curse men, who have been made in the similitude of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "likeness"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.10",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Out of the same mouth proceed blessing and cursing. My brethren, these things ought not to be so.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Out of the same mouth proceed blessing and cursing. My brethren, these things ought not to be so.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.11",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Does a spring send forth fresh water and bitter from the same opening?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Does a spring send forth fresh ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "water",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " and bitter from the same opening?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.12",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Can a fig tree, my brethren, bear olives, or a grapevine bear figs? Thus no spring yields both salt water and fresh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Can a fig tree, my brethren, bear olives, or a grapevine bear figs? Thus no spring yields both salt water and fresh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "NU Neither can a salty spring produce fresh water."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.13",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Who is wise and understanding among you? Let him show by good conduct that his works are done in the meekness of wisdom.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " wise and understanding among you? Let him show by good conduct ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " his works ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are done",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the meekness of wisdom.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Heavenly Versus Demonic Wisdom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.14",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 14,
+          "text": "But if you have bitter envy and self-seeking in your hearts, do not boast and lie against the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But if you have bitter envy and self-seeking in your hearts, do not boast and lie against the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "selfish ambition"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.15",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 15,
+          "text": "This wisdom does not descend from above, but is earthly, sensual, demonic.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This wisdom does not descend from above, but ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " earthly, sensual, demonic.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.16",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 16,
+          "text": "For where envy and self-seeking exist, confusion and every evil thing are there.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For where envy and self-seeking ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "exist,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " confusion and every evil thing ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " there.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.17",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 17,
+          "text": "But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.3.18",
+          "book": "JAS",
+          "chapter": 3,
+          "verse": 18,
+          "text": "Now the fruit of righteousness is sown in peace by those who make peace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now the fruit of righteousness is sown in peace by those who make peace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Untamable Tongue",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Heavenly Versus Demonic Wisdom",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:05.729Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "JAS",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "JAS.4.1",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Where do wars and fights come from among you? Do they not come from your desires for pleasure that war in your members?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Where do wars and fights ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "come",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from among you? Do ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "they",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "come",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " from your ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "desires for",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " pleasure that war in your members?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "battles"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Pride Promotes Strife",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.2",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 2,
+          "text": "You lust and do not have. You murder and covet and cannot obtain. You fight and war. Yet you do not have because you do not ask.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You lust and do not have. You murder and covet and cannot obtain. You fight and war. Yet you do not have because you do not ask.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "battle"
+              },
+              {
+                "marker": "c",
+                "text": "NU, M omit Yet"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.3",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 3,
+          "text": "You ask and do not receive, because you ask amiss, that you may spend it on your pleasures.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You ask and do not receive, because you ask amiss, that you may spend ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on your pleasures.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.4",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 4,
+          "text": "Adulterers and adulteresses! Do you not know that friendship with the world is enmity with God? Whoever therefore wants to be a friend of the world makes himself an enemy of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Adulterers and adulteresses! Do you not know that friendship with the world is enmity with God? Whoever therefore wants to be a friend of the world makes himself an enemy of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU omits Adulterers and"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.5",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Or do you think that the Scripture says in vain, “The Spirit who dwells in us yearns jealously”?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Or do you think that the Scripture says in vain, “The Spirit who dwells in us yearns jealously”?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.6",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 6,
+          "text": "But He gives more grace. Therefore He says:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But He gives more grace. Therefore He says:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.7",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Therefore submit to God. Resist the devil and he will flee from you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore submit to God. Resist the devil and he will flee from you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Humility Cures Worldliness",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.8",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 8,
+          "text": "Draw near to God and He will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Draw near to God and He will draw near to you. Cleanse ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " hands, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sinners; and purify ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " hearts, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " double-minded.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.9",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 9,
+          "text": "Lament and mourn and weep! Let your laughter be turned to mourning and your joy to gloom.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Lament and mourn and weep! Let your laughter be turned to mourning and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " joy to gloom.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.10",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 10,
+          "text": "Humble yourselves in the sight of the Lord, and He will lift you up.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Humble yourselves in the sight of the Lord, and He will lift you up.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.11",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Do not speak evil of one another, brethren. He who speaks evil of a brother and judges his brother, speaks evil of the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not speak evil of one another, brethren. He who speaks evil of a brother and judges his brother, speaks evil of the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Do Not Judge a Brother",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.12",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 12,
+          "text": "There is one Lawgiver, who is able to save and to destroy. Who are you to judge another?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is one Lawgiver, who is able to save and to destroy. Who are you to judge another?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "NU adds and Judge"
+              },
+              {
+                "marker": "f",
+                "text": "NU, M But who"
+              },
+              {
+                "marker": "g",
+                "text": "NU a neighbor"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.13",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 13,
+          "text": "Come now, you who say, “Today or tomorrow we will go to such and such a city, spend a year there, buy and sell, and make a profit”;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Come now, you who say, “Today or tomorrow we will go to such and such a city, spend a year there, buy and sell, and make a profit”;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "M let us"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Do Not Boast About Tomorrow",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.14",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 14,
+          "text": "whereas you do not know what will happen tomorrow. For what is your life? It is even a vapor that appears for a little time and then vanishes away.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whereas you do not know what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will happen",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " tomorrow. For what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " your life? It is even a vapor that appears for a little time and then vanishes away.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.15",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 15,
+          "text": "Instead you ought to say, “If the Lord wills, we shall live and do this or that.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Instead you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "ought",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to say, “If the Lord wills, we shall live and do this or that.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.16",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 16,
+          "text": "But now you boast in your arrogance. All such boasting is evil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But now you boast in your arrogance. All such boasting is evil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.4.17",
+          "book": "JAS",
+          "chapter": 4,
+          "verse": 17,
+          "text": "Therefore, to him who knows to do good and does not do it, to him it is sin.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, to him who knows to do good and does not do ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to him it is sin.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pride Promotes Strife",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Humility Cures Worldliness",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Do Not Judge a Brother",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Do Not Boast About Tomorrow",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:07.297Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "JAS",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "JAS.5.1",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Come now, you rich, weep and howl for your miseries that are coming upon you!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Come now, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " rich, weep and howl for your miseries that are coming upon ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you!",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Rich Oppressors Will Be Judged",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.2",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Your riches are corrupted, and your garments are moth-eaten.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your riches are corrupted, and your garments are moth-eaten.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "have rotted"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.3",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 3,
+          "text": "Your gold and silver are corroded, and their corrosion will be a witness against you and will eat your flesh like fire. You have heaped up treasure in the last days.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Your gold and silver are corroded, and their corrosion will be a witness against you and will eat your flesh like fire. You have heaped up treasure in the last days.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.4",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 4,
+          "text": "Indeed the wages of the laborers who mowed your fields, which you kept back by fraud, cry out; and the cries of the reapers have reached the ears of the Lord of Sabaoth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed the wages of the laborers who mowed your fields, which you kept back by fraud, cry out; and the cries of the reapers have reached the ears of the Lord of Sabaoth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Lit., in Heb., Hosts"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.5",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 5,
+          "text": "You have lived on the earth in pleasure and luxury; you have fattened your hearts as in a day of slaughter.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have lived on the earth in pleasure and luxury; you have fattened your hearts as in a day of slaughter.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "indulgence"
+              },
+              {
+                "marker": "d",
+                "text": "Lit. nourished"
+              },
+              {
+                "marker": "e",
+                "text": "NU omits as"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.6",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 6,
+          "text": "You have condemned, you have murdered the just; he does not resist you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You have condemned, you have murdered the just; he does not resist you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.7",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Therefore be patient, brethren, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, waiting patiently for it until it receives the early and latter rain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore be patient, brethren, until the coming of the Lord. See ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "how",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the farmer waits for the precious fruit of the earth, waiting patiently for it until it receives the early and latter rain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Be Patient and Persevering",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.8",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 8,
+          "text": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "has drawn near"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.9",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Do not grumble against one another, brethren, lest you be condemned. Behold, the Judge is standing at the door!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not grumble against one another, brethren, lest you be condemned. Behold, the Judge is standing at the door!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Lit. groan"
+              },
+              {
+                "marker": "h",
+                "text": "NU, M judged"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.10",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 10,
+          "text": "My brethren, take the prophets, who spoke in the name of the Lord, as an example of suffering and patience.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "My brethren, take the prophets, who spoke in the name of the Lord, as an example of suffering and patience.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.11",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 11,
+          "text": "Indeed we count them blessed who endure. You have heard of the perseverance of Job and seen the end intended by the Lord—that the Lord is very compassionate and merciful.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Indeed we count them blessed who endure. You have heard of the perseverance of Job and seen the end ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "intended by",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord—that the Lord is very compassionate and merciful.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.12",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 12,
+          "text": "But above all, my brethren, do not swear, either by heaven or by earth or with any other oath. But let your “Yes” be “Yes,” and your “No,” “No,” lest you fall into judgment.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But above all, my brethren, do not swear, either by heaven or by earth or with any other oath. But let your “Yes” be “Yes,” and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " “No,” “No,” lest you fall into judgment.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "M hypocrisy"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.13",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 13,
+          "text": "Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing psalms.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing psalms.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Meeting Specific Needs(O)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.14",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Is anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.15",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 15,
+          "text": "And the prayer of faith will save the sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the prayer of faith will save the sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.16",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 16,
+          "text": "Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Confess ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "your",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "NU Therefore confess your sins"
+              },
+              {
+                "marker": "k",
+                "text": "supplication"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.17",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Elijah was a man with a nature like ours, and he prayed earnestly that it would not rain; and it did not rain on the land for three years and six months.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Elijah was a man with a nature like ours, and he prayed earnestly that it would not rain; and it did not rain on the land for three years and six months.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.18",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 18,
+          "text": "And he prayed again, and the heaven gave rain, and the earth produced its fruit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he prayed again, and the heaven gave rain, and the earth produced its fruit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.19",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 19,
+          "text": "Brethren, if anyone among you wanders from the truth, and someone turns him back,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Brethren, if anyone among you wanders from the truth, and someone turns him back,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Bring Back the Erring One",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JAS.5.20",
+          "book": "JAS",
+          "chapter": 5,
+          "verse": 20,
+          "text": "let him know that he who turns a sinner from the error of his way will save a soul from death and cover a multitude of sins.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "let him know that he who turns a sinner from the error of his way will save a soul from death and cover a multitude of sins.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "l",
+                "text": "NU his soul"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Rich Oppressors Will Be Judged",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Be Patient and Persevering",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Meeting Specific Needs(O)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Bring Back the Erring One",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:08.772Z"
+    }
+  }
+}

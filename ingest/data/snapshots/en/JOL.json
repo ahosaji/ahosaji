@@ -1,0 +1,1765 @@
+{
+  "usfm": "JOL",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "JOL",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "JOL.1.1",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The word of the Lord that came to Joel the son of Pethuel.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The word of the Lord that came to Joel the son of Pethuel.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Locust Plague in Judah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.2",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Hear this, you elders,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear this, you elders,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Land Laid Waste(B)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.3",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Tell your children about it,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Tell your children about it,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.4",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 4,
+          "text": "What the chewing locust left, the swarming locust has eaten;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "What the chewing locust left, the swarming locust has eaten;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Exact identity of these locusts unknown"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.5",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Awake, you drunkards, and weep;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Awake, you drunkards, and weep;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.6",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 6,
+          "text": "For a nation has come up against My land,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For a nation has come up against My land,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.7",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 7,
+          "text": "He has laid waste My vine,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He has laid waste My vine,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.8",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Lament like a virgin girded with sackcloth",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Lament like a virgin girded with sackcloth",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.9",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 9,
+          "text": "The grain offering and the drink offering",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The grain offering and the drink offering",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.10",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 10,
+          "text": "The field is wasted,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The field is wasted,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.11",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Be ashamed, you farmers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be ashamed, you farmers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.12",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 12,
+          "text": "The vine has dried up,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The vine has dried up,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.13",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Gird yourselves and lament, you priests;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Gird yourselves and lament, you priests;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Mourning for the Land",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.14",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Consecrate a fast,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Consecrate a fast,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.15",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Alas for the day!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Alas for the day!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.16",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 16,
+          "text": "Is not the food cut off before our eyes,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is not the food cut off before our eyes,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.17",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 17,
+          "text": "The seed shrivels under the clods,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The seed shrivels under the clods,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.18",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 18,
+          "text": "How the animals groan!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "How the animals groan!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.19",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 19,
+          "text": "O Lord, to You I cry out;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "O Lord, to You I cry out;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.1.20",
+          "book": "JOL",
+          "chapter": 1,
+          "verse": 20,
+          "text": "The beasts of the field also cry out to You,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The beasts of the field also cry out to You,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Locust Plague in Judah",
+          "level": 2
+        },
+        {
+          "beforeVerse": 2,
+          "text": "The Land Laid Waste(B)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Mourning for the Land",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:34.673Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "JOL",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "JOL.2.1",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Blow the trumpet in Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Blow the trumpet in Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "ram’s horn"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The Day of the Lord",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.2",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 2,
+          "text": "A day of darkness and gloominess,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A day of darkness and gloominess,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.3",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 3,
+          "text": "A fire devours before them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A fire devours before them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.4",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Their appearance is like the appearance of horses;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Their appearance is like the appearance of horses;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.5",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 5,
+          "text": "With a noise like chariots",
+          "structured": {
+            "tokens": [
+              {
+                "text": "With a noise like chariots",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.6",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 6,
+          "text": "Before them the people writhe in pain;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Before them the people writhe in pain;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.7",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 7,
+          "text": "They run like mighty men,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They run like mighty men,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.8",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 8,
+          "text": "They do not push one another;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They do not push one another;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.9",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 9,
+          "text": "They run to and fro in the city,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They run to and fro in the city,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.10",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 10,
+          "text": "The earth quakes before them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The earth quakes before them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.11",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 11,
+          "text": "The Lord gives voice before His army,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord gives voice before His army,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.12",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 12,
+          "text": "“Now, therefore,” says the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Now, therefore,” says the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Call to Repentance",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.13",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 13,
+          "text": "So rend your heart, and not your garments;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So rend your heart, and not your garments;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.14",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Who knows if He will turn and relent,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who knows ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "if",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " He will turn and relent,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.15",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Blow the trumpet in Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Blow the trumpet in Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "ram’s horn"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.16",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 16,
+          "text": "Gather the people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Gather the people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.17",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Let the priests, who minister to the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let the priests, who minister to the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.18",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Then the Lord will be zealous for His land,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord will be zealous for His land,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Land Refreshed(AI)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.19",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 19,
+          "text": "The Lord will answer and say to His people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord will answer and say to His people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.20",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 20,
+          "text": "“But I will remove far from you the northern army,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But I will remove far from you the northern ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "army,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.21",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 21,
+          "text": "Fear not, O land;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Fear not, O land;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.22",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 22,
+          "text": "Do not be afraid, you beasts of the field;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do not be afraid, you beasts of the field;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.23",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 23,
+          "text": "Be glad then, you children of Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Be glad then, you children of Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.24",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 24,
+          "text": "The threshing floors shall be full of wheat,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The threshing floors shall be full of wheat,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.25",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 25,
+          "text": "“So I will restore to you the years that the swarming locust has eaten,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“So I will restore to you the years that the swarming locust has eaten,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "Exact identity of these locusts unknown"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.26",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 26,
+          "text": "You shall eat in plenty and be satisfied,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You shall eat in plenty and be satisfied,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.27",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 27,
+          "text": "Then you shall know that I am in the midst of Israel:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then you shall know that I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in the midst of Israel:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.28",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 28,
+          "text": "“And it shall come to pass afterward",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And it shall come to pass afterward",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Spirit Poured Out",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.29",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 29,
+          "text": "And also on My menservants and on My maidservants",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And also on ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "My",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " menservants and on ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "My",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " maidservants",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.30",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 30,
+          "text": "“And I will show wonders in the heavens and in the earth:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And I will show wonders in the heavens and in the earth:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.31",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 31,
+          "text": "The sun shall be turned into darkness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The sun shall be turned into darkness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.2.32",
+          "book": "JOL",
+          "chapter": 2,
+          "verse": 32,
+          "text": "And it shall come to pass",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it shall come to pass",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Day of the Lord",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A Call to Repentance",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "The Land Refreshed(AI)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 28,
+          "text": "God’s Spirit Poured Out",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:36.236Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "JOL",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "JOL.3.1",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 1,
+          "text": "“For behold, in those days and at that time,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For behold, in those days and at that time,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God Judges the Nations",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.2",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 2,
+          "text": "I will also gather all nations,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will also gather all nations,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.3",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 3,
+          "text": "They have cast lots for My people,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They have cast lots for My people,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.4",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 4,
+          "text": "“Indeed, what have you to do with Me,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Indeed, what have you to do with Me,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.5",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Because you have taken My silver and My gold,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Because you have taken My silver and My gold,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.6",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 6,
+          "text": "Also the people of Judah and the people of Jerusalem",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also the people of Judah and the people of Jerusalem",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.7",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 7,
+          "text": "“Behold, I will raise them",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, I will raise them",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.8",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 8,
+          "text": "I will sell your sons and your daughters",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will sell your sons and your daughters",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.9",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Proclaim this among the nations:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Proclaim this among the nations:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.10",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Beat your plowshares into swords",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beat your plowshares into swords",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.11",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Assemble and come, all you nations,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Assemble and come, all you nations,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.12",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 12,
+          "text": "“Let the nations be wakened, and come up to the Valley of Jehoshaphat;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Let the nations be wakened, and come up to the Valley of Jehoshaphat;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.13",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Put in the sickle, for the harvest is ripe.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Put in the sickle, for the harvest is ripe.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.14",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 14,
+          "text": "Multitudes, multitudes in the valley of decision!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Multitudes, multitudes in the valley of decision!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.15",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 15,
+          "text": "The sun and moon will grow dark,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The sun and moon will grow dark,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.16",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 16,
+          "text": "The Lord also will roar from Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord also will roar from Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.17",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 17,
+          "text": "“So you shall know that I am the Lord your God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“So you shall know that I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "am",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord your God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.18",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 18,
+          "text": "And it will come to pass in that day",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And it will come to pass in that day",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God Blesses His People",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.19",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 19,
+          "text": "“Egypt shall be a desolation,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Egypt shall be a desolation,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.20",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 20,
+          "text": "But Judah shall abide forever,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But Judah shall abide forever,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JOL.3.21",
+          "book": "JOL",
+          "chapter": 3,
+          "verse": 21,
+          "text": "For I will acquit them of the guilt of bloodshed, whom I had not acquitted;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I will acquit them of the guilt of bloodshed, whom I had not acquitted;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God Judges the Nations",
+          "level": 2
+        },
+        {
+          "beforeVerse": 18,
+          "text": "God Blesses His People",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:37.789Z"
+    }
+  }
+}

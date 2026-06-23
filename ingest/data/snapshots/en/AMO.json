@@ -1,0 +1,3779 @@
+{
+  "usfm": "AMO",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "AMO.1.1",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The words of Amos, who was among the sheepbreeders of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The words of Amos, who was among the sheepbreeders of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgments on Israel’s Neighbors",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.2",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 2,
+          "text": "And he said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And he said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.3",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment on the Nations",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.4",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 4,
+          "text": "But I will send a fire into the house of Hazael,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I will send a fire into the house of Hazael,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.5",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 5,
+          "text": "I will also break the gate bar of Damascus,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will also break the ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "gate",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " bar of Damascus,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.6",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.7",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 7,
+          "text": "But I will send a fire upon the wall of Gaza,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I will send a fire upon the wall of Gaza,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.8",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 8,
+          "text": "I will cut off the inhabitant from Ashdod,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will cut off the inhabitant from Ashdod,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.9",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.10",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 10,
+          "text": "But I will send a fire upon the wall of Tyre,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I will send a fire upon the wall of Tyre,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.11",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.12",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 12,
+          "text": "But I will send a fire upon Teman,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I will send a fire upon Teman,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.13",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.14",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 14,
+          "text": "But I will kindle a fire in the wall of Rabbah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I will kindle a fire in the wall of Rabbah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.1.15",
+          "book": "AMO",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Their king shall go into captivity,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Their king shall go into captivity,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Judgments on Israel’s Neighbors",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Judgment on the Nations",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:38.776Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "AMO.2.1",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment on Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.2",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 2,
+          "text": "But I will send a fire upon Moab,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I will send a fire upon Moab,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.3",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 3,
+          "text": "And I will cut off the judge from its midst,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And I will cut off the judge from its midst,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.4",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment on Judah",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.5",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 5,
+          "text": "But I will send a fire upon Judah,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I will send a fire upon Judah,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.6",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 6,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Judgment on Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.7",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 7,
+          "text": "They pant after the dust of the earth which is on the head of the poor,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They pant after the dust of the earth ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "which is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the head of the poor,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or trample on"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.8",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 8,
+          "text": "They lie down by every altar on clothes taken in pledge,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They lie down by every altar on clothes taken in pledge,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.9",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 9,
+          "text": "“Yet it was I who destroyed the Amorite before them,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Yet ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " destroyed the Amorite before them,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.10",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Also it was I who brought you up from the land of Egypt,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " I ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " brought you up from the land of Egypt,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.11",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 11,
+          "text": "I raised up some of your sons as prophets,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I raised up some of your sons as prophets,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.12",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 12,
+          "text": "“But you gave the Nazirites wine to drink,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But you gave the Nazirites wine to drink,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.13",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 13,
+          "text": "“Behold, I am weighed down by you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, I am weighed down by you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Or tottering under"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.14",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Therefore flight shall perish from the swift,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore flight shall perish from the swift,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Or the place of refuge"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.15",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 15,
+          "text": "He shall not stand who handles the bow,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He shall not stand who handles the bow,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.2.16",
+          "book": "AMO",
+          "chapter": 2,
+          "verse": 16,
+          "text": "The most courageous men of might",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The most courageous men of might",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "Lit. strong of his heart among the mighty"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Judgment on Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Judgment on Judah",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Judgment on Israel",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:40.306Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "AMO.3.1",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Hear this word that the Lord has spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear this word that the Lord has spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Authority of the Prophet’s Message",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.2",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 2,
+          "text": "“You only have I known of all the families of the earth;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“You only have I known of all the families of the earth;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.3",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Can two walk together, unless they are agreed?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Can two walk together, unless they are agreed?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.4",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Will a lion roar in the forest, when he has no prey?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Will a lion roar in the forest, when he has no prey?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.5",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Will a bird fall into a snare on the earth, where there is no trap for it?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Will a bird fall into a snare on the earth, where there is no trap for it?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or bait or lure"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.6",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 6,
+          "text": "If a trumpet is blown in a city, will not the people be afraid?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "If a trumpet is blown in a city, will not the people be afraid?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "ram’s horn"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.7",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Surely the Lord God does nothing,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Surely the Lord God does nothing,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.8",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 8,
+          "text": "A lion has roared!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "A lion has roared!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.9",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 9,
+          "text": "“Proclaim in the palaces at Ashdod,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Proclaim in the palaces at Ashdod,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "So with MT; LXX Assyria"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Punishment of Israel’s Sins",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.10",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 10,
+          "text": "For they do not know to do right,’",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For they do not know to do right,’",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.11",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Therefore thus says the Lord God:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore thus says the Lord God:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.12",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.13",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Hear and testify against the house of Jacob,”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear and testify against the house of Jacob,”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.14",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 14,
+          "text": "“That in the day I punish Israel for their transgressions,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“That in the day I punish Israel for their transgressions,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.3.15",
+          "book": "AMO",
+          "chapter": 3,
+          "verse": 15,
+          "text": "I will destroy the winter house along with the summer house;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will destroy the winter house along with the summer house;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "Lit. strike"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Authority of the Prophet’s Message",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Punishment of Israel’s Sins",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:41.825Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "AMO.4.1",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Hear this word, you cows of Bashan, who are on the mountain of Samaria,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear this word, you cows of Bashan, who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the mountain of Samaria,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "God’s Punishments Have Not Reformed Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.2",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 2,
+          "text": "The Lord God has sworn by His holiness:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord God has sworn by His holiness:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.3",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 3,
+          "text": "You will go out through broken walls,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You will go out ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "through",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " broken ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "walls,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.4",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 4,
+          "text": "“Come to Bethel and transgress,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Come to Bethel and transgress,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.5",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Offer a sacrifice of thanksgiving with leaven,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Offer a sacrifice of thanksgiving with leaven,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.6",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 6,
+          "text": "“Also I gave you cleanness of teeth in all your cities,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Also I gave you cleanness of teeth in all your cities,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Hunger"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Israel Did Not Accept Correction",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.7",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 7,
+          "text": "“I also withheld rain from you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I also withheld rain from you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.8",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 8,
+          "text": "So two or three cities wandered to another city to drink water,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So two ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "or",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " three cities wandered to another city to drink water,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.9",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 9,
+          "text": "“I blasted you with blight and mildew.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I blasted you with blight and mildew.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.10",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 10,
+          "text": "“I sent among you a plague after the manner of Egypt;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I sent among you a plague after the manner of Egypt;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.11",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 11,
+          "text": "“I overthrew some of you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I overthrew ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "some",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.12",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 12,
+          "text": "“Therefore thus will I do to you, O Israel;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore thus will I do to you, O Israel;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.4.13",
+          "book": "AMO",
+          "chapter": 4,
+          "verse": 13,
+          "text": "For behold,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For behold,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "God’s Punishments Have Not Reformed Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Israel Did Not Accept Correction",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:43.330Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "AMO.5.1",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Hear this word which I take up against you, a lamentation, O house of Israel:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear this word which I take up against you, a lamentation, O house of Israel:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Lament for Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.2",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 2,
+          "text": "The virgin of Israel has fallen;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The virgin of Israel has fallen;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.3",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 3,
+          "text": "For thus says the Lord God:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For thus says the Lord God:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.4",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 4,
+          "text": "For thus says the Lord to the house of Israel:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For thus says the Lord to the house of Israel:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Call to Repentance",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.5",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 5,
+          "text": "But do not seek Bethel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But do not seek Bethel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.6",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Seek the Lord and live,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Seek the Lord and live,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.7",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 7,
+          "text": "You who turn justice to wormwood,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You who turn justice to wormwood,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.8",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 8,
+          "text": "He made the Pleiades and Orion;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He made the Pleiades and Orion;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.9",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 9,
+          "text": "He rains ruin upon the strong,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He rains ruin upon the strong,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or flashes forth destruction"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.10",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 10,
+          "text": "They hate the one who rebukes in the gate,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They hate the one who rebukes in the gate,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.11",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 11,
+          "text": "Therefore, because you tread down the poor",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, because you tread down the poor",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "trample"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.12",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 12,
+          "text": "For I know your manifold transgressions",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For I know your manifold transgressions",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.13",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 13,
+          "text": "Therefore the prudent keep silent at that time,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the prudent keep silent at that time,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.14",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Seek good and not evil,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Seek good and not evil,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.15",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 15,
+          "text": "Hate evil, love good;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hate evil, love good;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.16",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 16,
+          "text": "Therefore the Lord God of hosts, the Lord, says this:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore the Lord God of hosts, the Lord, says this:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Day of the Lord",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.17",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 17,
+          "text": "In all vineyards there shall be wailing,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In all vineyards ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "there shall be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " wailing,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.18",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Woe to you who desire the day of the Lord!",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to you who desire the day of the Lord!",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.19",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 19,
+          "text": "It will be as though a man fled from a lion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "It ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "will be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " as though a man fled from a lion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.20",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 20,
+          "text": "Is not the day of the Lord darkness, and not light?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not the day of the Lord darkness, and not light?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.21",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 21,
+          "text": "“I hate, I despise your feast days,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“I hate, I despise your feast days,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.22",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 22,
+          "text": "Though you offer Me burnt offerings and your grain offerings,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though you offer Me burnt offerings and your grain offerings,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.23",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 23,
+          "text": "Take away from Me the noise of your songs,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Take away from Me the noise of your songs,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.24",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 24,
+          "text": "But let justice run down like water,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But let justice run down like water,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.25",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 25,
+          "text": "“Did you offer Me sacrifices and offerings",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Did you offer Me sacrifices and offerings",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.26",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 26,
+          "text": "You also carried Sikkuth your king",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You also carried Sikkuth your king",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "LXX, Vg. tabernacle of Moloch"
+              },
+              {
+                "marker": "f",
+                "text": "A pagan deity"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.5.27",
+          "book": "AMO",
+          "chapter": 5,
+          "verse": 27,
+          "text": "Therefore I will send you into captivity beyond Damascus,”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I will send you into captivity beyond Damascus,”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Lament for Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "A Call to Repentance",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "The Day of the Lord",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:44.930Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "AMO.6.1",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 1,
+          "text": "Woe to you who are at ease in Zion,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "who are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " at ease in Zion,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Warnings to Zion and Samaria",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.2",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 2,
+          "text": "Go over to Calneh and see;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Go over to Calneh and see;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.3",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 3,
+          "text": "Woe to you who put far off the day of doom,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you who put far off the day of doom,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.4",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 4,
+          "text": "Who lie on beds of ivory,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who lie on beds of ivory,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.5",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 5,
+          "text": "Who sing idly to the sound of stringed instruments,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who sing idly to the sound of stringed instruments,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.6",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 6,
+          "text": "Who drink wine from bowls,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Who drink wine from bowls,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.7",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 7,
+          "text": "Therefore they shall now go captive as the first of the captives,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore they shall now go captive as the first of the captives,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.8",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 8,
+          "text": "The Lord God has sworn by Himself,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord God has sworn by Himself,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.9",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 9,
+          "text": "Then it shall come to pass, that if ten men remain in one house, they shall die.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then it shall come to pass, that if ten men remain in one house, they shall die.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.10",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 10,
+          "text": "And when a relative of the dead, with one who will burn the bodies, picks up the bodies to take them out of the house, he will say to one inside the house, “Are there any more with you?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And when a relative ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of the dead,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with one who will burn ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "the bodies,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " picks up the bodies to take them out of the house, he will say to one inside the house, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Are there",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " any more with you?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. his loved one or uncle"
+              },
+              {
+                "marker": "b",
+                "text": "Lit. bones"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.11",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 11,
+          "text": "For behold, the Lord gives a command:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For behold, the Lord gives a command:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.12",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 12,
+          "text": "Do horses run on rocks?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Do horses run on rocks?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.13",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 13,
+          "text": "You who rejoice over Lo Debar,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "You who rejoice over Lo Debar,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. Nothing"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.6.14",
+          "book": "AMO",
+          "chapter": 6,
+          "verse": 14,
+          "text": "“But, behold, I will raise up a nation against you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“But, behold, I will raise up a nation against you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Warnings to Zion and Samaria",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:46.621Z"
+    },
+    "7": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "AMO.7.1",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 1,
+          "text": "Thus the Lord God showed me: Behold, He formed locust swarms at the beginning of the late crop; indeed it was the late crop after the king’s mowings.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus the Lord God showed me: Behold, He formed locust swarms at the beginning of the late crop; indeed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it was",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the late crop after the king’s mowings.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. beginning of the sprouting of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Vision of the Locusts",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.2",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 2,
+          "text": "And so it was, when they had finished eating the grass of the land, that I said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And so it was, when they had finished eating the grass of the land, that I said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.3",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 3,
+          "text": "So the Lord relented concerning this.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord relented concerning this.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.4",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 4,
+          "text": "Thus the Lord God showed me: Behold, the Lord God called for conflict by fire, and it consumed the great deep and devoured the territory.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus the Lord God showed me: Behold, the Lord God called for conflict by fire, and it consumed the great deep and devoured the territory.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "to contend"
+              },
+              {
+                "marker": "d",
+                "text": "Lit. portion"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Vision of the Fire",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.5",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 5,
+          "text": "Then I said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then I said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.6",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 6,
+          "text": "So the Lord relented concerning this.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the Lord relented concerning this.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.7",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 7,
+          "text": "Thus He showed me: Behold, the Lord stood on a wall made with a plumb line, with a plumb line in His hand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus He showed me: Behold, the Lord stood on a wall ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "made",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with a plumb line, with a plumb line in His hand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Plumb Line",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.8",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 8,
+          "text": "And the Lord said to me, “Amos, what do you see?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the Lord said to me, “Amos, what do you see?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.9",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 9,
+          "text": "The high places of Isaac shall be desolate,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The high places of Isaac shall be desolate,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Places of pagan worship"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.10",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 10,
+          "text": "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land is not able to bear all his words.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land is not able to bear all his words.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "Or endure"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Amaziah’s Complaint",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.11",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 11,
+          "text": "For thus Amos has said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For thus Amos has said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.12",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 12,
+          "text": "Then Amaziah said to Amos:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Amaziah said to Amos:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.13",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 13,
+          "text": "But never again prophesy at Bethel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But never again prophesy at Bethel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.14",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 14,
+          "text": "Then Amos answered, and said to Amaziah:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then Amos answered, and said to Amaziah:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.15",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 15,
+          "text": "Then the Lord took me as I followed the flock,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Then the Lord took me as I followed the flock,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "Lit. from behind"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.16",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 16,
+          "text": "Now therefore, hear the word of the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now therefore, hear the word of the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.7.17",
+          "book": "AMO",
+          "chapter": 7,
+          "verse": 17,
+          "text": "“Therefore thus says the Lord:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Therefore thus says the Lord:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vision of the Locusts",
+          "level": 2
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Vision of the Fire",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Vision of the Plumb Line",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Amaziah’s Complaint",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:48.182Z"
+    },
+    "8": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 8,
+      "verses": [
+        {
+          "ref": "AMO.8.1",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 1,
+          "text": "Thus the Lord God showed me: Behold, a basket of summer fruit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Thus the Lord God showed me: Behold, a basket of summer fruit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Vision of the Summer Fruit",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.2",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 2,
+          "text": "And He said, “Amos, what do you see?”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He said, “Amos, what do you see?”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.3",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 3,
+          "text": "And the songs of the temple",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the songs of the temple",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.4",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 4,
+          "text": "Hear this, you who swallow up the needy,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Hear this, you who swallow up the needy,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Or trample on,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.5",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 5,
+          "text": "Saying:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Saying:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.6",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 6,
+          "text": "That we may buy the poor for silver,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That we may buy the poor for silver,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.7",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 7,
+          "text": "The Lord has sworn by the pride of Jacob:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord has sworn by the pride of Jacob:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.8",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 8,
+          "text": "Shall the land not tremble for this,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Shall the land not tremble for this,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.9",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 9,
+          "text": "“And it shall come to pass in that day,” says the Lord God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“And it shall come to pass in that day,” says the Lord God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.10",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 10,
+          "text": "I will turn your feasts into mourning,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will turn your feasts into mourning,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.11",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 11,
+          "text": "“Behold, the days are coming,” says the Lord God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, the days are coming,” says the Lord God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.12",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 12,
+          "text": "They shall wander from sea to sea,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They shall wander from sea to sea,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.13",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 13,
+          "text": "“In that day the fair virgins",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“In that day the fair virgins",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.8.14",
+          "book": "AMO",
+          "chapter": 8,
+          "verse": 14,
+          "text": "Those who swear by the sin of Samaria,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Those who swear by the sin of Samaria,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Or Ashima, a Syrian goddess"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vision of the Summer Fruit",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:49.709Z"
+    },
+    "9": {
+      "translation": "en",
+      "source": "english",
+      "book": "AMO",
+      "chapter": 9,
+      "verses": [
+        {
+          "ref": "AMO.9.1",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 1,
+          "text": "I saw the Lord standing by the altar, and He said:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I saw the Lord standing by the altar, and He said:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Destruction of Israel",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.2",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 2,
+          "text": "“Though they dig into hell,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Though they dig into hell,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "Or Sheol"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.3",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 3,
+          "text": "And though they hide themselves on top of Carmel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And though they hide themselves on top of Carmel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.4",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 4,
+          "text": "Though they go into captivity before their enemies,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Though they go into captivity before their enemies,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.5",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 5,
+          "text": "The Lord God of hosts,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "The Lord God of hosts,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.6",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 6,
+          "text": "He who builds His layers in the sky,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who builds His layers in the sky,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "Or stairs"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.7",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 7,
+          "text": "“Are you not like the people of Ethiopia to Me,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " you not like the people of Ethiopia to Me,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "Lit. sons of the Ethiopians"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.8",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 8,
+          "text": "“Behold, the eyes of the Lord God are on the sinful kingdom,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, the eyes of the Lord God ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " on the sinful kingdom,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.9",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 9,
+          "text": "“For surely I will command,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For surely I will command,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.10",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 10,
+          "text": "All the sinners of My people shall die by the sword,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All the sinners of My people shall die by the sword,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.11",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 11,
+          "text": "“On that day I will raise up",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“On that day I will raise up",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Israel Will Be Restored",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.12",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 12,
+          "text": "That they may possess the remnant of Edom,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "That they may possess the remnant of Edom,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "LXX mankind"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.13",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 13,
+          "text": "“Behold, the days are coming,” says the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Behold, the days are coming,” says the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.14",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 14,
+          "text": "I will bring back the captives of My people Israel;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will bring back the captives of My people Israel;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "AMO.9.15",
+          "book": "AMO",
+          "chapter": 9,
+          "verse": 15,
+          "text": "I will plant them in their land,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I will plant them in their land,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Destruction of Israel",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Israel Will Be Restored",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:55:51.250Z"
+    }
+  }
+}

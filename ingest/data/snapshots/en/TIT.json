@@ -1,0 +1,1245 @@
+{
+  "usfm": "TIT",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "TIT",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "TIT.1.1",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, a bondservant of God and an apostle of Jesus Christ, according to the faith of God’s elect and the acknowledgment of the truth which accords with godliness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Paul, a bondservant of God and an apostle of Jesus Christ, according to the faith of God’s elect and the acknowledgment of the truth which accords with godliness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.2",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 2,
+          "text": "in hope of eternal life which God, who cannot lie, promised before time began,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in hope of eternal life which God, who cannot lie, promised before time began,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.3",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 3,
+          "text": "but has in due time manifested His word through preaching, which was committed to me according to the commandment of God our Savior;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but has in due time manifested His word through preaching, which was committed to me according to the commandment of God our Savior;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.4",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 4,
+          "text": "To Titus, a true son in our common faith:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To Titus, a true son in ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "our",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " common faith:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.5",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 5,
+          "text": "For this reason I left you in Crete, that you should set in order the things that are lacking, and appoint elders in every city as I commanded you—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this reason I left you in Crete, that you should set in order the things that are lacking, and appoint elders in every city as I commanded you—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Qualified Elders",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.6",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 6,
+          "text": "if a man is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "if a man is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "debauchery, lit. incorrigibility"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.7",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 7,
+          "text": "For a bishop must be blameless, as a steward of God, not self-willed, not quick-tempered, not given to wine, not violent, not greedy for money,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For a bishop must be blameless, as a steward of God, not self-willed, not quick-tempered, not given to wine, not violent, not greedy for money,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "Lit. overseer"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.8",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 8,
+          "text": "but hospitable, a lover of what is good, sober-minded, just, holy, self-controlled,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but hospitable, a lover of what is good, sober-minded, just, holy, self-controlled,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.9",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 9,
+          "text": "holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.10",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 10,
+          "text": "For there are many insubordinate, both idle talkers and deceivers, especially those of the circumcision,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For there are many insubordinate, both idle talkers and deceivers, especially those of the circumcision,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Elders’ Task",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.11",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 11,
+          "text": "whose mouths must be stopped, who subvert whole households, teaching things which they ought not, for the sake of dishonest gain.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whose mouths must be stopped, who subvert whole households, teaching things which they ought not, for the sake of dishonest gain.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.12",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 12,
+          "text": "One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "One of them, a prophet of their own, said, “Cretans ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " always liars, evil beasts, lazy gluttons.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.13",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 13,
+          "text": "This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.14",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 14,
+          "text": "not giving heed to Jewish fables and commandments of men who turn from the truth.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not giving heed to Jewish fables and commandments of men who turn from the truth.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.15",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 15,
+          "text": "To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.1.16",
+          "book": "TIT",
+          "chapter": 1,
+          "verse": 16,
+          "text": "They profess to know God, but in works they deny Him, being abominable, disobedient, and disqualified for every good work.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "They profess to know God, but in works they deny ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Him,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " being abominable, disobedient, and disqualified for every good work.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "detestable"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Qualified Elders",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "The Elders’ Task",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:38.320Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "TIT",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "TIT.2.1",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 1,
+          "text": "But as for you, speak the things which are proper for sound doctrine:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But as for you, speak the things which are proper for sound doctrine:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Qualities of a Sound Church",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.2",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 2,
+          "text": "that the older men be sober, reverent, temperate, sound in faith, in love, in patience;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that the older men be sober, reverent, temperate, sound in faith, in love, in patience;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.3",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 3,
+          "text": "the older women likewise, that they be reverent in behavior, not slanderers, not given to much wine, teachers of good things—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the older women likewise, that they be reverent in behavior, not slanderers, not given to much wine, teachers of good things—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.4",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 4,
+          "text": "that they admonish the young women to love their husbands, to love their children,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that they admonish the young women to love their husbands, to love their children,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.5",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 5,
+          "text": "to be discreet, chaste, homemakers, good, obedient to their own husbands, that the word of God may not be blasphemed.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " discreet, chaste, homemakers, good, obedient to their own husbands, that the word of God may not be blasphemed.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.6",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 6,
+          "text": "Likewise, exhort the young men to be sober-minded,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise, exhort the young men to be sober-minded,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.7",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 7,
+          "text": "in all things showing yourself to be a pattern of good works; in doctrine showing integrity, reverence, incorruptibility,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in all things showing yourself ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a pattern of good works; in doctrine ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "showing",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " integrity, reverence, incorruptibility,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU omits incorruptibility"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.8",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 8,
+          "text": "sound speech that cannot be condemned, that one who is an opponent may be ashamed, having nothing evil to say of you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "sound speech that cannot be condemned, that one who is an opponent may be ashamed, having nothing evil to say of you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU, M us"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.9",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Exhort bondservants to be obedient to their own masters, to be well pleasing in all things, not answering back,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Exhort",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " bondservants to be obedient to their own masters, to be well pleasing in all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "things,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " not answering back,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.10",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 10,
+          "text": "not pilfering, but showing all good fidelity, that they may adorn the doctrine of God our Savior in all things.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not pilfering, but showing all good fidelity, that they may adorn the doctrine of God our Savior in all things.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "thieving"
+              },
+              {
+                "marker": "d",
+                "text": "honesty"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.11",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 11,
+          "text": "For the grace of God that brings salvation has appeared to all men,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the grace of God that brings salvation has appeared to all men,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Trained by Saving Grace",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.12",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 12,
+          "text": "teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.13",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 13,
+          "text": "looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.14",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 14,
+          "text": "who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself His own special people, zealous for good works.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "His",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " own special people, zealous for good works.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.2.15",
+          "book": "TIT",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Speak these things, exhort, and rebuke with all authority. Let no one despise you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Speak these things, exhort, and rebuke with all authority. Let no one despise you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Qualities of a Sound Church",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Trained by Saving Grace",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:39.874Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "TIT",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "TIT.3.1",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Graces of the Heirs of Grace",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.2",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 2,
+          "text": "to speak evil of no one, to be peaceable, gentle, showing all humility to all men.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to speak evil of no one, to be peaceable, gentle, showing all humility to all men.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.3",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 3,
+          "text": "For we ourselves were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful and hating one another.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we ourselves were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful and hating one another.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.4",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 4,
+          "text": "But when the kindness and the love of God our Savior toward man appeared,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But when the kindness and the love of God our Savior toward man appeared,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.5",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 5,
+          "text": "not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.6",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 6,
+          "text": "whom He poured out on us abundantly through Jesus Christ our Savior,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whom He poured out on us abundantly through Jesus Christ our Savior,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.7",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 7,
+          "text": "that having been justified by His grace we should become heirs according to the hope of eternal life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that having been justified by His grace we should become heirs according to the hope of eternal life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.8",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 8,
+          "text": "This is a faithful saying, and these things I want you to affirm constantly, that those who have believed in God should be careful to maintain good works. These things are good and profitable to men.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is a faithful saying, and these things I want you to affirm constantly, that those who have believed in God should be careful to maintain good works. These things are good and profitable to men.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.9",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 9,
+          "text": "But avoid foolish disputes, genealogies, contentions, and strivings about the law; for they are unprofitable and useless.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But avoid foolish disputes, genealogies, contentions, and strivings about the law; for they are unprofitable and useless.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Avoid Dissension",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.10",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Reject a divisive man after the first and second admonition,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Reject a divisive man after the first and second admonition,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "warning"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.11",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 11,
+          "text": "knowing that such a person is warped and sinning, being self-condemned.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing that such a person is warped and sinning, being self-condemned.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.12",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 12,
+          "text": "When I send Artemas to you, or Tychicus, be diligent to come to me at Nicopolis, for I have decided to spend the winter there.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "When I send Artemas to you, or Tychicus, be diligent to come to me at Nicopolis, for I have decided to spend the winter there.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Final Messages",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.13",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Send Zenas the lawyer and Apollos on their journey with haste, that they may lack nothing.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Send Zenas the lawyer and Apollos on their journey with haste, that they may lack nothing.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.14",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 14,
+          "text": "And let our people also learn to maintain good works, to meet urgent needs, that they may not be unfruitful.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And let our ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "people",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " also learn to maintain good works, to ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "meet",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " urgent needs, that they may not be unfruitful.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "TIT.3.15",
+          "book": "TIT",
+          "chapter": 3,
+          "verse": 15,
+          "text": "All who are with me greet you. Greet those who love us in the faith.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "All who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with me greet you. Greet those who love us in the faith.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Farewell",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Graces of the Heirs of Grace",
+          "level": 2
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Avoid Dissension",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Final Messages",
+          "level": 2
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Farewell",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:00:41.371Z"
+    }
+  }
+}

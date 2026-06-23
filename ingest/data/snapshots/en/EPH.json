@@ -1,0 +1,4181 @@
+{
+  "usfm": "EPH",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "EPH",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "EPH.1.1",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, an apostle of Jesus Christ by the will of God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Paul, an apostle of Jesus Christ by the will of God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.2",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.3",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Blessed ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "places",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Redemption in Christ",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.4",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 4,
+          "text": "just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.5",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 5,
+          "text": "having predestined us to adoption as sons by Jesus Christ to Himself, according to the good pleasure of His will,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having predestined us to adoption as sons by Jesus Christ to Himself, according to the good pleasure of His will,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.6",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 6,
+          "text": "to the praise of the glory of His grace, by which He made us accepted in the Beloved.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to the praise of the glory of His grace, by which He made us accepted in the Beloved.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. bestowed grace (favor) upon us"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.7",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 7,
+          "text": "In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.8",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 8,
+          "text": "which He made to abound toward us in all wisdom and prudence,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "which He made to abound toward us in all wisdom and prudence,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "understanding"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.9",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 9,
+          "text": "having made known to us the mystery of His will, according to His good pleasure which He purposed in Himself,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having made known to us the mystery of His will, according to His good pleasure which He purposed in Himself,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.10",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 10,
+          "text": "that in the dispensation of the fullness of the times He might gather together in one all things in Christ, both which are in heaven and which are on earth—in Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that in the dispensation of the fullness of the times He might gather together in one all things in Christ, both which are in heaven and which are on earth—in Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU, M omit both"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.11",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 11,
+          "text": "In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.12",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 12,
+          "text": "that we who first trusted in Christ should be to the praise of His glory.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that we who first trusted in Christ should be to the praise of His glory.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.13",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 13,
+          "text": "In Him you also trusted, after you heard the word of truth, the gospel of your salvation; in whom also, having believed, you were sealed with the Holy Spirit of promise,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "In Him you also ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "trusted,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " after you heard the word of truth, the gospel of your salvation; in whom also, having believed, you were sealed with the Holy Spirit of promise,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.14",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 14,
+          "text": "who is the guarantee of our inheritance until the redemption of the purchased possession, to the praise of His glory.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who is the guarantee of our inheritance until the redemption of the purchased possession, to the praise of His glory.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU which"
+              },
+              {
+                "marker": "e",
+                "text": "down payment, earnest"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.15",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Therefore I also, after I heard of your faith in the Lord Jesus and your love for all the saints,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I also, after I heard of your faith in the Lord Jesus and your love for all the saints,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Prayer for Spiritual Wisdom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.16",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 16,
+          "text": "do not cease to give thanks for you, making mention of you in my prayers:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "do not cease to give thanks for you, making mention of you in my prayers:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.17",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 17,
+          "text": "that the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of wisdom and revelation in the knowledge of Him,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of wisdom and revelation in the knowledge of Him,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.18",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 18,
+          "text": "the eyes of your understanding being enlightened; that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "the eyes of your understanding being enlightened; that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU, M hearts"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.19",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 19,
+          "text": "and what is the exceeding greatness of His power toward us who believe, according to the working of His mighty power",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the exceeding greatness of His power toward us who believe, according to the working of His mighty power",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.20",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 20,
+          "text": "which He worked in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly places,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "which He worked in Christ when He raised Him from the dead and seated ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Him",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " at His right hand in the heavenly ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "places,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.21",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 21,
+          "text": "far above all principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "far above all principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "rule"
+              },
+              {
+                "marker": "h",
+                "text": "authority"
+              },
+              {
+                "marker": "i",
+                "text": "power"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.22",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 22,
+          "text": "And He put all things under His feet, and gave Him to be head over all things to the church,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He put all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "things",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " under His feet, and gave Him ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " head over all ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "things",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to the church,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.1.23",
+          "book": "EPH",
+          "chapter": 1,
+          "verse": 23,
+          "text": "which is His body, the fullness of Him who fills all in all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "which is His body, the fullness of Him who fills all in all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Redemption in Christ",
+          "level": 2
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Prayer for Spiritual Wisdom",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:52.123Z"
+    },
+    "2": {
+      "translation": "en",
+      "source": "english",
+      "book": "EPH",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "EPH.2.1",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 1,
+          "text": "And you He made alive, who were dead in trespasses and sins,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And you ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "He made alive,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " who were dead in trespasses and sins,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "By Grace Through Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.2",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 2,
+          "text": "in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the sons of disobedience,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the sons of disobedience,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Gr. aion, aeon"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.3",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 3,
+          "text": "among whom also we all once conducted ourselves in the lusts of our flesh, fulfilling the desires of the flesh and of the mind, and were by nature children of wrath, just as the others.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "among whom also we all once conducted ourselves in the lusts of our flesh, fulfilling the desires of the flesh and of the mind, and were by nature children of wrath, just as the others.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.4",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 4,
+          "text": "But God, who is rich in mercy, because of His great love with which He loved us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But God, who is rich in mercy, because of His great love with which He loved us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.5",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 5,
+          "text": "even when we were dead in trespasses, made us alive together with Christ (by grace you have been saved),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "even when we were dead in trespasses, made us alive together with Christ (by grace you have been saved),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.6",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 6,
+          "text": "and raised us up together, and made us sit together in the heavenly places in Christ Jesus,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and raised ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "us",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " up together, and made ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "us",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " sit together in the heavenly ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "places",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in Christ Jesus,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.7",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 7,
+          "text": "that in the ages to come He might show the exceeding riches of His grace in His kindness toward us in Christ Jesus.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that in the ages to come He might show the exceeding riches of His grace in ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "His",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " kindness toward us in Christ Jesus.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.8",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 8,
+          "text": "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For by grace you have been saved through faith, and that not of yourselves; ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "it is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the gift of God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.9",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 9,
+          "text": "not of works, lest anyone should boast.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not of works, lest anyone should boast.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.10",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 10,
+          "text": "For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand that we should walk in them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand that we should walk in them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.11",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Therefore remember that you, once Gentiles in the flesh—who are called Uncircumcision by what is called the Circumcision made in the flesh by hands—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore remember that you, once Gentiles in the flesh—who are called Uncircumcision by what is called the Circumcision made in the flesh by hands—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Brought Near by His Blood",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.12",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 12,
+          "text": "that at that time you were without Christ, being aliens from the commonwealth of Israel and strangers from the covenants of promise, having no hope and without God in the world.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that at that time you were without Christ, being aliens from the commonwealth of Israel and strangers from the covenants of promise, having no hope and without God in the world.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.13",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 13,
+          "text": "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.14",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 14,
+          "text": "For He Himself is our peace, who has made both one, and has broken down the middle wall of separation,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For He Himself is our peace, who has made both one, and has broken down the middle wall of separation,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Christ Our Peace",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.15",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 15,
+          "text": "having abolished in His flesh the enmity, that is, the law of commandments contained in ordinances, so as to create in Himself one new man from the two, thus making peace,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having abolished in His flesh the enmity, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that is,",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the law of commandments ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "contained",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in ordinances, so as to create in Himself one new man ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "from",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the two, ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "thus",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " making peace,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.16",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 16,
+          "text": "and that He might reconcile them both to God in one body through the cross, thereby putting to death the enmity.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and that He might reconcile them both to God in one body through the cross, thereby putting to death the enmity.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.17",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 17,
+          "text": "And He came and preached peace to you who were afar off and to those who were near.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He came and preached peace to you who were afar off and to those who were near.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.18",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 18,
+          "text": "For through Him we both have access by one Spirit to the Father.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For through Him we both have access by one Spirit to the Father.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.19",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 19,
+          "text": "Now, therefore, you are no longer strangers and foreigners, but fellow citizens with the saints and members of the household of God,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now, therefore, you are no longer strangers and foreigners, but fellow citizens with the saints and members of the household of God,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Christ Our Cornerstone",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.20",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 20,
+          "text": "having been built on the foundation of the apostles and prophets, Jesus Christ Himself being the chief cornerstone,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having been built on the foundation of the apostles and prophets, Jesus Christ Himself being the chief corner",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "stone,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.21",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 21,
+          "text": "in whom the whole building, being fitted together, grows into a holy temple in the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in whom the whole building, being fitted together, grows into a holy temple in the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.2.22",
+          "book": "EPH",
+          "chapter": 2,
+          "verse": 22,
+          "text": "in whom you also are being built together for a dwelling place of God in the Spirit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in whom you also are being built together for a dwelling place of God in the Spirit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "By Grace Through Faith",
+          "level": 2
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Brought Near by His Blood",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Christ Our Peace",
+          "level": 2
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Christ Our Cornerstone",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:53.742Z"
+    },
+    "3": {
+      "translation": "en",
+      "source": "english",
+      "book": "EPH",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "EPH.3.1",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 1,
+          "text": "For this reason I, Paul, the prisoner of Christ Jesus for you Gentiles—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this reason I, Paul, the prisoner of Christ Jesus for you Gentiles—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Mystery Revealed",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.2",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 2,
+          "text": "if indeed you have heard of the dispensation of the grace of God which was given to me for you,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "if indeed you have heard of the dispensation of the grace of God which was given to me for you,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "stewardship"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.3",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 3,
+          "text": "how that by revelation He made known to me the mystery (as I have briefly written already,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "how that by revelation He made known to me the mystery (as I have briefly written already,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.4",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 4,
+          "text": "by which, when you read, you may understand my knowledge in the mystery of Christ),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "by which, when you read, you may understand my knowledge in the mystery of Christ),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.5",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 5,
+          "text": "which in other ages was not made known to the sons of men, as it has now been revealed by the Spirit to His holy apostles and prophets:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "which in other ages was not made known to the sons of men, as it has now been revealed by the Spirit to His holy apostles and prophets:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.6",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 6,
+          "text": "that the Gentiles should be fellow heirs, of the same body, and partakers of His promise in Christ through the gospel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that the Gentiles should be fellow heirs, of the same body, and partakers of His promise in Christ through the gospel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.7",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 7,
+          "text": "of which I became a minister according to the gift of the grace of God given to me by the effective working of His power.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "of which I became a minister according to the gift of the grace of God given to me by the effective working of His power.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.8",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 8,
+          "text": "To me, who am less than the least of all the saints, this grace was given, that I should preach among the Gentiles the unsearchable riches of Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To me, who am less than the least of all the saints, this grace was given, that I should preach among the Gentiles the unsearchable riches of Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Purpose of the Mystery",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.9",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 9,
+          "text": "and to make all see what is the fellowship of the mystery, which from the beginning of the ages has been hidden in God who created all things through Jesus Christ;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and to make all see what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the fellowship of the mystery, which from the beginning of the ages has been hidden in God who created all things through Jesus Christ;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU, M stewardship (dispensation)"
+              },
+              {
+                "marker": "c",
+                "text": "NU omits through Jesus Christ"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.10",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 10,
+          "text": "to the intent that now the manifold wisdom of God might be made known by the church to the principalities and powers in the heavenly places,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to the intent that now the manifold wisdom of God might be made known by the church to the principalities and powers in the heavenly ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "places,",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "variegated or many-sided"
+              },
+              {
+                "marker": "e",
+                "text": "rulers"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.11",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 11,
+          "text": "according to the eternal purpose which He accomplished in Christ Jesus our Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "according to the eternal purpose which He accomplished in Christ Jesus our Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.12",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 12,
+          "text": "in whom we have boldness and access with confidence through faith in Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "in whom we have boldness and access with confidence through faith in Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.13",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Therefore I ask that you do not lose heart at my tribulations for you, which is your glory.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore I ask that you do not lose heart at my tribulations for you, which is your glory.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.14",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 14,
+          "text": "For this reason I bow my knees to the Father of our Lord Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this reason I bow my knees to the Father of our Lord Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU omits of our Lord Jesus Christ"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Appreciation of the Mystery",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.15",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 15,
+          "text": "from whom the whole family in heaven and earth is named,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "from whom the whole family in heaven and earth is named,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.16",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 16,
+          "text": "that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.17",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 17,
+          "text": "that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.18",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 18,
+          "text": "may be able to comprehend with all the saints what is the width and length and depth and height—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "may be able to comprehend with all the saints what ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the width and length and depth and height—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.19",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 19,
+          "text": "to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.20",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 20,
+          "text": "Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.3.21",
+          "book": "EPH",
+          "chapter": 3,
+          "verse": 21,
+          "text": "to Him be glory in the church by Christ Jesus to all generations, forever and ever. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to Him ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " glory in the church by Christ Jesus to all generations, forever and ever. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Mystery Revealed",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Purpose of the Mystery",
+          "level": 2
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Appreciation of the Mystery",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:55.251Z"
+    },
+    "4": {
+      "translation": "en",
+      "source": "english",
+      "book": "EPH",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "EPH.4.1",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 1,
+          "text": "I, therefore, the prisoner of the Lord, beseech you to walk worthy of the calling with which you were called,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "I, therefore, the prisoner of the Lord, beseech you to walk worthy of the calling with which you were called,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "Lit. in"
+              },
+              {
+                "marker": "b",
+                "text": "exhort, encourage"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Walk in Unity",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.2",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 2,
+          "text": "with all lowliness and gentleness, with longsuffering, bearing with one another in love,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "with all lowliness and gentleness, with longsuffering, bearing with one another in love,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.3",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 3,
+          "text": "endeavoring to keep the unity of the Spirit in the bond of peace.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "endeavoring to keep the unity of the Spirit in the bond of peace.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.4",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 4,
+          "text": "There is one body and one Spirit, just as you were called in one hope of your calling;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "There is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " one body and one Spirit, just as you were called in one hope of your calling;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.5",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 5,
+          "text": "one Lord, one faith, one baptism;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "one Lord, one faith, one baptism;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.6",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 6,
+          "text": "one God and Father of all, who is above all, and through all, and in you all.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "one God and Father of all, who ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " above all, and through all, and in you all.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU omits you; M us"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.7",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 7,
+          "text": "But to each one of us grace was given according to the measure of Christ’s gift.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But to each one of us grace was given according to the measure of Christ’s gift.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Spiritual Gifts",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.8",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 8,
+          "text": "Therefore He says:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore He says:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.9",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 9,
+          "text": "(Now this, “He ascended”—what does it mean but that He also first descended into the lower parts of the earth?",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(Now this, “He ascended”—what does it mean but that He also first descended into the lower parts of the earth?",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "NU omits first"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.10",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 10,
+          "text": "He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
+          "structured": {
+            "tokens": [
+              {
+                "text": "He who descended is also the One who ascended far above all the heavens, that He might fill all things.)",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.11",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 11,
+          "text": "And He Himself gave some to be apostles, some prophets, some evangelists, and some pastors and teachers,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And He Himself gave some ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "to be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " apostles, some prophets, some evangelists, and some pastors and teachers,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.12",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 12,
+          "text": "for the equipping of the saints for the work of ministry, for the edifying of the body of Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for the equipping of the saints for the work of ministry, for the edifying of the body of Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "building up"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.13",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 13,
+          "text": "till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.14",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 14,
+          "text": "that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.15",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 15,
+          "text": "but, speaking the truth in love, may grow up in all things into Him who is the head—Christ—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but, speaking the truth in love, may grow up in all things into Him who is the head—Christ—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.16",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 16,
+          "text": "from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.17",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 17,
+          "text": "This I say, therefore, and testify in the Lord, that you should no longer walk as the rest of the Gentiles walk, in the futility of their mind,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This I say, therefore, and testify in the Lord, that you should no longer walk as the rest of the Gentiles walk, in the futility of their mind,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU omits the rest of"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "The New Man",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.18",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 18,
+          "text": "having their understanding darkened, being alienated from the life of God, because of the ignorance that is in them, because of the blindness of their heart;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "having their understanding darkened, being alienated from the life of God, because of the ignorance that is in them, because of the blindness of their heart;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.19",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 19,
+          "text": "who, being past feeling, have given themselves over to lewdness, to work all uncleanness with greediness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "who, being past feeling, have given themselves over to lewdness, to work all uncleanness with greediness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.20",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 20,
+          "text": "But you have not so learned Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you have not so learned Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.21",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 21,
+          "text": "if indeed you have heard Him and have been taught by Him, as the truth is in Jesus:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "if indeed you have heard Him and have been taught by Him, as the truth is in Jesus:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.22",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 22,
+          "text": "that you put off, concerning your former conduct, the old man which grows corrupt according to the deceitful lusts,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that you put off, concerning your former conduct, the old man which grows corrupt according to the deceitful lusts,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.23",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 23,
+          "text": "and be renewed in the spirit of your mind,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and be renewed in the spirit of your mind,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.24",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 24,
+          "text": "and that you put on the new man which was created according to God, in true righteousness and holiness.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and that you put on the new man which was created according to God, in true righteousness and holiness.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.25",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 25,
+          "text": "Therefore, putting away lying, “Let each one of you speak truth with his neighbor,” for we are members of one another.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, putting away lying, “",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "Let",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " each one ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "of you",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " speak truth with his neighbor,” for we are members of one another.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Do Not Grieve the Spirit",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.26",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 26,
+          "text": "“Be angry, and do not sin”: do not let the sun go down on your wrath,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Be angry, and do not sin”: do not let the sun go down on your wrath,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.27",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 27,
+          "text": "nor give place to the devil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "nor give place to the devil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "an opportunity"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.28",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 28,
+          "text": "Let him who stole steal no longer, but rather let him labor, working with his hands what is good, that he may have something to give him who has need.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let him who stole steal no longer, but rather let him labor, working with ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "his",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " hands what is good, that he may have something to give him who has need.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.29",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 29,
+          "text": "Let no corrupt word proceed out of your mouth, but what is good for necessary edification, that it may impart grace to the hearers.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let no corrupt word proceed out of your mouth, but what is good for necessary edification, that it may impart grace to the hearers.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "building up"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.30",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 30,
+          "text": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.31",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 31,
+          "text": "Let all bitterness, wrath, anger, clamor, and evil speaking be put away from you, with all malice.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let all bitterness, wrath, anger, clamor, and evil speaking be put away from you, with all malice.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "loud quarreling"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.4.32",
+          "book": "EPH",
+          "chapter": 4,
+          "verse": 32,
+          "text": "And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Walk in Unity",
+          "level": 2
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Spiritual Gifts",
+          "level": 2
+        },
+        {
+          "beforeVerse": 17,
+          "text": "The New Man",
+          "level": 2
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Do Not Grieve the Spirit",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:56.797Z"
+    },
+    "5": {
+      "translation": "en",
+      "source": "english",
+      "book": "EPH",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "EPH.5.1",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Therefore be imitators of God as dear children.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore be imitators of God as dear children.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Walk in Love",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.2",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 2,
+          "text": "And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.3",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 3,
+          "text": "But fornication and all uncleanness or covetousness, let it not even be named among you, as is fitting for saints;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But fornication and all uncleanness or covetousness, let it not even be named among you, as is fitting for saints;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.4",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 4,
+          "text": "neither filthiness, nor foolish talking, nor coarse jesting, which are not fitting, but rather giving of thanks.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "neither filthiness, nor foolish talking, nor coarse jesting, which are not fitting, but rather giving of thanks.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.5",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 5,
+          "text": "For this you know, that no fornicator, unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For this you know, that no fornicator, unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU know this"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.6",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.7",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Therefore do not be partakers with them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore do not be partakers with them.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.8",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 8,
+          "text": "For you were once darkness, but now you are light in the Lord. Walk as children of light",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For you were once darkness, but now ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "you are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " light in the Lord. Walk as children of light",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Walk in Light",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.9",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 9,
+          "text": "(for the fruit of the Spirit is in all goodness, righteousness, and truth),",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(for the fruit of the Spirit ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " in all goodness, righteousness, and truth),",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU light"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.10",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 10,
+          "text": "finding out what is acceptable to the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "finding out what is acceptable to the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.11",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 11,
+          "text": "And have no fellowship with the unfruitful works of darkness, but rather expose them.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And have no fellowship with the unfruitful works of darkness, but rather expose ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "reprove"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.12",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 12,
+          "text": "For it is shameful even to speak of those things which are done by them in secret.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For it is shameful even to speak of those things which are done by them in secret.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.13",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 13,
+          "text": "But all things that are exposed are made manifest by the light, for whatever makes manifest is light.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But all things that are exposed are made manifest by the light, for whatever makes manifest is light.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "reproved"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.14",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Therefore He says:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore He says:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.15",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 15,
+          "text": "See then that you walk circumspectly, not as fools but as wise,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "See then that you walk circumspectly, not as fools but as wise,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "carefully"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Walk in Wisdom",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.16",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 16,
+          "text": "redeeming the time, because the days are evil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "redeeming the time, because the days are evil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.17",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Therefore do not be unwise, but understand what the will of the Lord is.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore do not be unwise, but understand what the will of the Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "is.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.18",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 18,
+          "text": "And do not be drunk with wine, in which is dissipation; but be filled with the Spirit,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And do not be drunk with wine, in which is dissipation; but be filled with the Spirit,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.19",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 19,
+          "text": "speaking to one another in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "speaking to one another in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.20",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 20,
+          "text": "giving thanks always for all things to God the Father in the name of our Lord Jesus Christ,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "giving thanks always for all things to God the Father in the name of our Lord Jesus Christ,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.21",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 21,
+          "text": "submitting to one another in the fear of God.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "submitting to one another in the fear of God.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "NU Christ"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.22",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 22,
+          "text": "Wives, submit to your own husbands, as to the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Wives, submit to your own husbands, as to the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Marriage—Christ and the Church(AG)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.23",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 23,
+          "text": "For the husband is head of the wife, as also Christ is head of the church; and He is the Savior of the body.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For the husband is head of the wife, as also Christ is head of the church; and He is the Savior of the body.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.24",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 24,
+          "text": "Therefore, just as the church is subject to Christ, so let the wives be to their own husbands in everything.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore, just as the church is subject to Christ, so ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "let",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the wives ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " to their own husbands in everything.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.25",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 25,
+          "text": "Husbands, love your wives, just as Christ also loved the church and gave Himself for her,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Husbands, love your wives, just as Christ also loved the church and gave Himself for her,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.26",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 26,
+          "text": "that He might sanctify and cleanse her with the washing of water by the word,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that He might sanctify and cleanse her with the washing of water by the word,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "set it apart"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.27",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 27,
+          "text": "that He might present her to Himself a glorious church, not having spot or wrinkle or any such thing, but that she should be holy and without blemish.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "that He might present her to Himself a glorious church, not having spot or wrinkle or any such thing, but that she should be holy and without blemish.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.28",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 28,
+          "text": "So husbands ought to love their own wives as their own bodies; he who loves his wife loves himself.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "So husbands ought to love their own wives as their own bodies; he who loves his wife loves himself.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.29",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 29,
+          "text": "For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord does the church.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "does",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " the church.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.30",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 30,
+          "text": "For we are members of His body, of His flesh and of His bones.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we are members of His body, of His flesh and of His bones.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "h",
+                "text": "NU omits the rest of v. ."
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.31",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 31,
+          "text": "“For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.32",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 32,
+          "text": "This is a great mystery, but I speak concerning Christ and the church.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "This is a great mystery, but I speak concerning Christ and the church.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.5.33",
+          "book": "EPH",
+          "chapter": 5,
+          "verse": 33,
+          "text": "Nevertheless let each one of you in particular so love his own wife as himself, and let the wife see that she respects her husband.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Nevertheless let each one of you in particular so love his own wife as himself, and let the wife ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "see",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " that she respects ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "her",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " husband.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Walk in Love",
+          "level": 2
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Walk in Light",
+          "level": 2
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Walk in Wisdom",
+          "level": 2
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Marriage—Christ and the Church(AG)",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:58.265Z"
+    },
+    "6": {
+      "translation": "en",
+      "source": "english",
+      "book": "EPH",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "EPH.6.1",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 1,
+          "text": "Children, obey your parents in the Lord, for this is right.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Children, obey your parents in the Lord, for this is right.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Children and Parents(A)",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.2",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 2,
+          "text": "“Honor your father and mother,” which is the first commandment with promise:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“Honor your father and mother,” which is the first commandment with promise:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.3",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 3,
+          "text": "“that it may be well with you and you may live long on the earth.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "“that it may be well with you and you may live long on the earth.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.4",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 4,
+          "text": "And you, fathers, do not provoke your children to wrath, but bring them up in the training and admonition of the Lord.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And you, fathers, do not provoke your children to wrath, but bring them up in the training and admonition of the Lord.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.5",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 5,
+          "text": "Bondservants, be obedient to those who are your masters according to the flesh, with fear and trembling, in sincerity of heart, as to Christ;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Bondservants, be obedient to those who are your masters according to the flesh, with fear and trembling, in sincerity of heart, as to Christ;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Bondservants and Masters",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.6",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 6,
+          "text": "not with eyeservice, as men-pleasers, but as bondservants of Christ, doing the will of God from the heart,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "not with eyeservice, as men-pleasers, but as bondservants of Christ, doing the will of God from the heart,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.7",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 7,
+          "text": "with goodwill doing service, as to the Lord, and not to men,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "with goodwill doing service, as to the Lord, and not to men,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.8",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 8,
+          "text": "knowing that whatever good anyone does, he will receive the same from the Lord, whether he is a slave or free.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "knowing that whatever good anyone does, he will receive the same from the Lord, whether ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "he is",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " a slave or free.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.9",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 9,
+          "text": "And you, masters, do the same things to them, giving up threatening, knowing that your own Master also is in heaven, and there is no partiality with Him.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And you, masters, do the same things to them, giving up threatening, knowing that your own Master also is in heaven, and there is no partiality with Him.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "a",
+                "text": "NU He who is both their Master and yours is"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.10",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Finally, my brethren, be strong in the Lord and in the power of His might.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Finally, my brethren, be strong in the Lord and in the power of His might.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "The Whole Armor of God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.11",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 11,
+          "text": "Put on the whole armor of God, that you may be able to stand against the wiles of the devil.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Put on the whole armor of God, that you may be able to stand against the wiles of the devil.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "schemings"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.12",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 12,
+          "text": "For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "hosts",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " of wickedness in the heavenly ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "places.",
+                "italic": true,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "NU this darkness,"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.13",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 13,
+          "text": "Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.14",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 14,
+          "text": "Stand therefore, having girded your waist with truth, having put on the breastplate of righteousness,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Stand therefore, having girded your waist with truth, having put on the breastplate of righteousness,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.15",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 15,
+          "text": "and having shod your feet with the preparation of the gospel of peace;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and having shod your feet with the preparation of the gospel of peace;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.16",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 16,
+          "text": "above all, taking the shield of faith with which you will be able to quench all the fiery darts of the wicked one.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "above all, taking the shield of faith with which you will be able to quench all the fiery darts of the wicked one.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.17",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 17,
+          "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.18",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 18,
+          "text": "praying always with all prayer and supplication in the Spirit, being watchful to this end with all perseverance and supplication for all the saints—",
+          "structured": {
+            "tokens": [
+              {
+                "text": "praying always with all prayer and supplication in the Spirit, being watchful to this end with all perseverance and supplication for all the saints—",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.19",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 19,
+          "text": "and for me, that utterance may be given to me, that I may open my mouth boldly to make known the mystery of the gospel,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "and for me, that utterance may be given to me, that I may open my mouth boldly to make known the mystery of the gospel,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.20",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 20,
+          "text": "for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.21",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 21,
+          "text": "But that you also may know my affairs and how I am doing, Tychicus, a beloved brother and faithful minister in the Lord, will make all things known to you;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But that you also may know my affairs ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "and",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " how I am doing, Tychicus, a beloved brother and faithful minister in the Lord, will make all things known to you;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "A Gracious Greeting",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.22",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 22,
+          "text": "whom I have sent to you for this very purpose, that you may know our affairs, and that he may comfort your hearts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "whom I have sent to you for this very purpose, that you may know our affairs, and ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "that",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " he may comfort your hearts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.23",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 23,
+          "text": "Peace to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Peace to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "EPH.6.24",
+          "book": "EPH",
+          "chapter": 6,
+          "verse": 24,
+          "text": "Grace be with all those who love our Lord Jesus Christ in sincerity. Amen.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Grace ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "be",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " with all those who love our Lord Jesus Christ in sincerity. Amen.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Children and Parents(A)",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Bondservants and Masters",
+          "level": 2
+        },
+        {
+          "beforeVerse": 10,
+          "text": "The Whole Armor of God",
+          "level": 2
+        },
+        {
+          "beforeVerse": 21,
+          "text": "A Gracious Greeting",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T22:59:59.805Z"
+    }
+  }
+}

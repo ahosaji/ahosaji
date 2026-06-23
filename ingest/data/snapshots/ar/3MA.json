@@ -1,0 +1,4850 @@
+{
+  "usfm": "3MA",
+  "source": "arabic",
+  "_provenance": {
+    "title": "سفر المكابيين الثالث (Third Maccabees)",
+    "url_pattern": "https://coptic-treasures.com/chapter/3maccabees-NNN-svd/",
+    "publisher": "مشروع الكنوز القبطية (Coptic Treasures Project)",
+    "translation_basis": "Arabic source Arabic Bible (SVD), as published in the Coptic Treasures interactive verse-by-verse interface",
+    "note": "Sourced because Arabic source's structured Bible search (showChapter.php) does not include 3 Maccabees — they treat it as non-canonical for that interface, though the book is canonical in the Coptic Orthodox tradition. Verse counts trimmed to match English Greek LXX (en/3MA) since coptic-treasures' source page interleaves section-heading divs in the same DOM structure as verse divs."
+  },
+  "chapters": {
+    "1": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "3MA",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "3MA.1.1",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 1,
+          "text": "حين علم فيلوباتور من الذين رجعوا، أن أنطيوخس استولى على المواقع التي كانت تابعة له، أعطى أوامره إلى جميع المشاة والخيّالة من جيشه، وأخذ معه أخته ارسنوي، وزحف إلى مناطق رفح حيث خيّم أنطيوخس وجيشه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حين علم فيلوباتور من الذين رجعوا، أن أنطيوخس استولى على المواقع التي كانت تابعة له، أعطى أوامره إلى جميع المشاة والخيّالة من جيشه، وأخذ معه أخته ارسنوي، وزحف إلى مناطق رفح حيث خيّم أنطيوخس وجيشه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.2",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 2,
+          "text": "غير أن المدعو تيودوتس عزم على أن ينفّذ مقصده، فأخذ معه أشجع رجال الجيش الذين جعلهم بطليموس بإمرته، ومضى ليلاً إلى خيمة بطليموس بعد أن نوى على قتله بيده، بحيث يضع حدًا للحرب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غير أن المدعو تيودوتس عزم على أن ينفّذ مقصده، فأخذ معه أشجع رجال الجيش الذين جعلهم بطليموس بإمرته، ومضى ليلاً إلى خيمة بطليموس بعد أن نوى على قتله بيده، بحيث يضع حدًا للحرب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.3",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 3,
+          "text": "ولكن المدعوّ دوسيتاوُس، ابن دريميلوس، الذي كان يهوديّ المولد ثم تنكّر للشريعة وتخلّى عن معتقدات آبائه، دعا بطليموس إلى الخارج وجعل مكانه شخصًا مغمورًا في خيمته، فكان له المصير المعدّ لبطليموس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن المدعوّ دوسيتاوُس، ابن دريميلوس، الذي كان يهوديّ المولد ثم تنكّر للشريعة وتخلّى عن معتقدات آبائه، دعا بطليموس إلى الخارج وجعل مكانه شخصًا مغمورًا في خيمته، فكان له المصير المعدّ لبطليموس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.4",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 4,
+          "text": "(4 ( وتبع ذلك معركةٌ شرسة. وإذ سيطر رجال أنطيوخس على الوضع، مرّت ارسينوي في الصفوف، بشعرها المبعثر، وتوسّلت باكية، وطلبت من الجنود أن يستعيدوا قواهم ويحاربوا، لا من أجل نفوسهم وحسب، بل من أجل نسائهم وأولادهم. ووعدت بأن تعطي كل واحد منهم، وزنتين من ذهب، إن انتصروا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "(4 ( وتبع ذلك معركةٌ شرسة. وإذ سيطر رجال أنطيوخس على الوضع، مرّت ارسينوي في الصفوف، بشعرها المبعثر، وتوسّلت باكية، وطلبت من الجنود أن يستعيدوا قواهم ويحاربوا، لا من أجل نفوسهم وحسب، بل من أجل نسائهم وأولادهم. ووعدت بأن تعطي كل واحد منهم، وزنتين من ذهب، إن انتصروا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.5",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 5,
+          "text": "وكانت النتيجة أن العدوّ دمِّر في المعركة. ووقع في الأسر عددٌ كبير منهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكانت النتيجة أن العدوّ دمِّر في المعركة. ووقع في الأسر عددٌ كبير منهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.6",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 6,
+          "text": "بطليموس في أورشليم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بطليموس في أورشليم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.7",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 7,
+          "text": "بعد أن سيطر بطليموس على هذه المحاولة، عزم على زيارة المدن المجاورة لكي يشجّعها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بعد أن سيطر بطليموس على هذه المحاولة، عزم على زيارة المدن المجاورة لكي يشجّعها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.8",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 8,
+          "text": "وحين فعل هذا ووزّع عطاياه على هياكلها (تلك المدن)، جعل عبيده يطمئنّون.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحين فعل هذا ووزّع عطاياه على هياكلها (تلك المدن)، جعل عبيده يطمئنّون.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.9",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 9,
+          "text": "عندئذ أرسل اليهود وفدًا من شيوخهم إليه. فحيّوه، وقدّموا له تقدمات الصداقة، وهنّأوه على ما فعل. فبدا معجّلاً لأن يزورهم في أقرب وقت ممكن.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عندئذ أرسل اليهود وفدًا من شيوخهم إليه. فحيّوه، وقدّموا له تقدمات الصداقة، وهنّأوه على ما فعل. فبدا معجّلاً لأن يزورهم في أقرب وقت ممكن.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.10",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 10,
+          "text": "فجاء إلى أورشليم، وذبح للإله العظيم، وقدّم تقدمات شكر، وحافظ إلى حدّ ما على قداسة المكان. وحين دخل إلى المكان المقدّس صعقه ظهور نقيّ إلهيّ، فسأل نفسه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فجاء إلى أورشليم، وذبح للإله العظيم، وقدّم تقدمات شكر، وحافظ إلى حدّ ما على قداسة المكان. وحين دخل إلى المكان المقدّس صعقه ظهور نقيّ إلهيّ، فسأل نفسه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.11",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 11,
+          "text": "وهو مندهش من ترتيب الهيكل: هل يدخل إلى المقدس نفسه أم لا؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهو مندهش من ترتيب الهيكل: هل يدخل إلى المقدس نفسه أم لا؟",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.12",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 12,
+          "text": "فقالوا له: هذا أمر لا يليق. فلا يُسمح لليهود أنفسهم ولا للكهنة، بل فقط لعظيم الكهنة ورئيس الجميع، ومرّة واحدة في السنة. غير أنه لم يقتنع إطلاقًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقالوا له: هذا أمر لا يليق. فلا يُسمح لليهود أنفسهم ولا للكهنة، بل فقط لعظيم الكهنة ورئيس الجميع، ومرّة واحدة في السنة. غير أنه لم يقتنع إطلاقًا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.13",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 13,
+          "text": "وحتّى بعد أن تُليت عليه الشريعة، ظلّ يؤكّد أنه سيدخل. قال: إن هم حُرموا من هذه الكرامة، فأنا لا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحتّى بعد أن تُليت عليه الشريعة، ظلّ يؤكّد أنه سيدخل. قال: إن هم حُرموا من هذه الكرامة، فأنا لا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.14",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 14,
+          "text": "ثم سأل: حين دخلتُ إلى سائر الهياكل، فما من كاهن حضرَ ومنعني.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم سأل: حين دخلتُ إلى سائر الهياكل، فما من كاهن حضرَ ومنعني.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.15",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 15,
+          "text": "فقيل له حالاً إنه من الخطأ الكلام عن هذا الأمر وكأنه موضوع فخر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقيل له حالاً إنه من الخطأ الكلام عن هذا الأمر وكأنه موضوع فخر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.16",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 16,
+          "text": "فقال: وإن كان الأمر كذلك، لماذا لا أدخل، والوضع وضعي، سواء رضيتم أم لا؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقال: وإن كان الأمر كذلك، لماذا لا أدخل، والوضع وضعي، سواء رضيتم أم لا؟",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.17",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 17,
+          "text": "عندئذ ارتمى الكهنة على الأرض بلباسهم، وتوسّلوا إلى الله العظيم أن يساعدهم في صعوبتهم الحاضرة ويجعل المهاجم يبدّل رأيه. وملأوا الهيكل بنواحهم ودموعهم. هجمة الشعب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عندئذ ارتمى الكهنة على الأرض بلباسهم، وتوسّلوا إلى الله العظيم أن يساعدهم في صعوبتهم الحاضرة ويجعل المهاجم يبدّل رأيه. وملأوا الهيكل بنواحهم ودموعهم. هجمة الشعب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.18",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 18,
+          "text": "فأسرع الشعب الذي لبث في المدينة (المقدسة)، وأسرع وهو مضطرب، منتظرًا أن يحدث أمرٌ سريّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فأسرع الشعب الذي لبث في المدينة (المقدسة)، وأسرع وهو مضطرب، منتظرًا أن يحدث أمرٌ سريّ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.19",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 19,
+          "text": "والصبايا أنفسهن اللواتي حُجزن في مخادعهنّ، خرجن مع أمهاتهن، وأخذن الرماد وذرّينه على شعرهنّ، وملأن الشوارع بصراخهنّ ونوحهنّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والصبايا أنفسهن اللواتي حُجزن في مخادعهنّ، خرجن مع أمهاتهن، وأخذن الرماد وذرّينه على شعرهنّ، وملأن الشوارع بصراخهنّ ونوحهنّ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.20",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 20,
+          "text": "واللواتي تزوّجن حديثًا، تركن مخادعهن المهيّأة لهنّ، وأسرعن قلقات إلى المدينة، بعد أن نسين الحشمة التي تليق بوضعهنّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واللواتي تزوّجن حديثًا، تركن مخادعهن المهيّأة لهنّ، وأسرعن قلقات إلى المدينة، بعد أن نسين الحشمة التي تليق بوضعهنّ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.21",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 21,
+          "text": ". والأمهات والمرضعات تركن الأطفال هنا وهناك، في البيوت أو في الشوارع، وما اهتممن بهم، بل سارعن بحرارة إلى الهيكل المجيد جدًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": ". والأمهات والمرضعات تركن الأطفال هنا وهناك، في البيوت أو في الشوارع، وما اهتممن بهم، بل سارعن بحرارة إلى الهيكل المجيد جدًا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.22",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 22,
+          "text": "وتكاثرت وتنوّعت صلوات أولئك الذين اجتمعوا هناك، بسبب محاولة الملك بأن ينتهك الأقداس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وتكاثرت وتنوّعت صلوات أولئك الذين اجتمعوا هناك، بسبب محاولة الملك بأن ينتهك الأقداس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.23",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 23,
+          "text": "في ذلك الوقت، تشجّع بعضُ أهل المدينة، فرفضوا أن ينصاعوا لعناده ونيّته بأن ينفّذ هدفه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "في ذلك الوقت، تشجّع بعضُ أهل المدينة، فرفضوا أن ينصاعوا لعناده ونيّته بأن ينفّذ هدفه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.24",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 24,
+          "text": ". فدعوا إلى حمل السلاح والموت بشجاعة دفاعًا عن شريعة آبائهم. فسبّبوا جلبة في المكان. فأقنعهم الشيوخ بصعوبة، فعادوا إلى وقفة الصلاة مع الآخرين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": ". فدعوا إلى حمل السلاح والموت بشجاعة دفاعًا عن شريعة آبائهم. فسبّبوا جلبة في المكان. فأقنعهم الشيوخ بصعوبة، فعادوا إلى وقفة الصلاة مع الآخرين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.25",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 25,
+          "text": "في ذلك الوقت، ظلَّ الجمهور يصلّي كما من قبل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "في ذلك الوقت، ظلَّ الجمهور يصلّي كما من قبل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.26",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 26,
+          "text": "ولكن الشيوخ الذين أحاطوا بالملك، حاولوا بشتّى الوسائل أن يُثنوه عن عزمه في ما نواه من نيّة متعاظمة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن الشيوخ الذين أحاطوا بالملك، حاولوا بشتّى الوسائل أن يُثنوه عن عزمه في ما نواه من نيّة متعاظمة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.27",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 27,
+          "text": "أما هو، فلبث على موقفه الصلب رافضًا أن يقتنع، وتابع طريقه منطلقًا إلى أن يكمل ما نواه من خطّة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أما هو، فلبث على موقفه الصلب رافضًا أن يقتنع، وتابع طريقه منطلقًا إلى أن يكمل ما نواه من خطّة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.1.28",
+          "book": "3MA",
+          "chapter": 1,
+          "verse": 28,
+          "text": "فحين رأى الذين حوله ما يحدث، انضمّوا إلى الشعب ودعوه، وهو في كل سلطانه، لكي يساعدهم في هذا الضيق الحاضر، لا أن يصبو إلى وقاحة عمل ينافي الشريعة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فحين رأى الذين حوله ما يحدث، انضمّوا إلى الشعب ودعوه، وهو في كل سلطانه، لكي يساعدهم في هذا الضيق الحاضر، لا أن يصبو إلى وقاحة عمل ينافي الشريعة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:15:48.953311+00:00"
+    },
+    "2": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "3MA",
+      "chapter": 2,
+      "verses": [
+        {
+          "ref": "3MA.2.1",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 1,
+          "text": "فحنى سمعان، عظيم الكهنة، ركبتيه أمام المكان المقدس، وبسط يديه خاشعًا، وتلا الصلاة التالية:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فحنى سمعان، عظيم الكهنة، ركبتيه أمام المكان المقدس، وبسط يديه خاشعًا، وتلا الصلاة التالية:",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.2",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 2,
+          "text": "يا ربّ، يا ربّ، يا ملك السماوات وسيّد الخليقة كلها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يا ربّ، يا ربّ، يا ملك السماوات وسيّد الخليقة كلها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.3",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 3,
+          "text": "أيها القدوس بين القدوسين، أيها الملك الضابط الكل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أيها القدوس بين القدوسين، أيها الملك الضابط الكل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.4",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 4,
+          "text": "أصغ إلينا نحن الذين يضايقنا رجل شرّير وفاسد،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أصغ إلينا نحن الذين يضايقنا رجل شرّير وفاسد،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.5",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 5,
+          "text": "متعجرف في وقاحته وقدرته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "متعجرف في وقاحته وقدرته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.6",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 6,
+          "text": "أنت يا خالق كل شيء وسيّد الكون كله، أنت الحاكم العادل الذي يدين جميع الذين يتصرّفون بكبرياء ووقاحة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنت يا خالق كل شيء وسيّد الكون كله، أنت الحاكم العادل الذي يدين جميع الذين يتصرّفون بكبرياء ووقاحة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.7",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 7,
+          "text": "أنت الذي دمّر البشر بسبب أعمالهم الشريرة في الماضي، ومنهم الجبابرة الذين اعتمدوا على قوّتهم الخاصّة وثقتهم بأنفسهم، فجلبتَ عليهم طوفان ماء عظيمًا جدًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنت الذي دمّر البشر بسبب أعمالهم الشريرة في الماضي، ومنهم الجبابرة الذين اعتمدوا على قوّتهم الخاصّة وثقتهم بأنفسهم، فجلبتَ عليهم طوفان ماء عظيمًا جدًا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.8",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 8,
+          "text": "أنت الذي جعل أهل سدوم الذين أفرطوا في عمل الشرّ واشتهروا برذائلهم، مثلاً للأجيال الآتية، حين أحرقهم بالنار والكبريت.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنت الذي جعل أهل سدوم الذين أفرطوا في عمل الشرّ واشتهروا برذائلهم، مثلاً للأجيال الآتية، حين أحرقهم بالنار والكبريت.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.9",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 9,
+          "text": "أنت الذي اختبر قدرة فرعون الذي استعبد شعبك المقدّس اسرائيل، بعقوبات عديدة ومختلفة، وعرّفته قدرتك العظيمة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنت الذي اختبر قدرة فرعون الذي استعبد شعبك المقدّس اسرائيل، بعقوبات عديدة ومختلفة، وعرّفته قدرتك العظيمة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.10",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 10,
+          "text": "أنت الذي قلبتَ أعماق البحر عليه، حين كان يلاحق شعبك بالمركبات والجيوش الكثيرة، وجعلتَ الذين يثقون بك يعبرون بأمان، يا سيّد الخليقة كلها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنت الذي قلبتَ أعماق البحر عليه، حين كان يلاحق شعبك بالمركبات والجيوش الكثيرة، وجعلتَ الذين يثقون بك يعبرون بأمان، يا سيّد الخليقة كلها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.11",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 11,
+          "text": "حين رأوا أعمال يديك باركوك، يا ضابط الكل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حين رأوا أعمال يديك باركوك، يا ضابط الكل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.12",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 12,
+          "text": "أنت يا ملكًا خلقت الأرض التي لا حدود لها ولا قياس، واخترتَ هذه المدينة، وقدّست هذا الهيكل لأجل اسمك، مع أن لا شيء ينقصك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنت يا ملكًا خلقت الأرض التي لا حدود لها ولا قياس، واخترتَ هذه المدينة، وقدّست هذا الهيكل لأجل اسمك، مع أن لا شيء ينقصك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.13",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 13,
+          "text": "لقد مجّدته بظهورك البهيّ وأقمته لمجد اسمك العظيم والكريم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لقد مجّدته بظهورك البهيّ وأقمته لمجد اسمك العظيم والكريم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.14",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 14,
+          "text": "في حبّك لبيت اسرائيل، وعدتنا أننا إن ابتعدنا عنك ونالنا الضيق، فجئنا إلى هذا البيت وصلّينا، تسمع صلاتنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "في حبّك لبيت اسرائيل، وعدتنا أننا إن ابتعدنا عنك ونالنا الضيق، فجئنا إلى هذا البيت وصلّينا، تسمع صلاتنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.15",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 15,
+          "text": "أنت حقًا الأمين الذي نثق به.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنت حقًا الأمين الذي نثق به.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.16",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 16,
+          "text": "مرارًا، ساعة كان آباؤنا في الضيق، ساعدتَهم في ذلّهم ونجيّتهم من الأخطار الكبيرة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مرارًا، ساعة كان آباؤنا في الضيق، ساعدتَهم في ذلّهم ونجيّتهم من الأخطار الكبيرة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.17",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 17,
+          "text": "فانظر الآن، أيها الملك القدوس، كم نحن مضايَقون وخاضعون لأعدائنا، بسبب كثرة خطايانا، فصرنا ضعفاء وما عاد لنا من قوّة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فانظر الآن، أيها الملك القدوس، كم نحن مضايَقون وخاضعون لأعدائنا، بسبب كثرة خطايانا، فصرنا ضعفاء وما عاد لنا من قوّة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.18",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 18,
+          "text": "وإذ نحن في هذا الوضع المزري، أراد هذا الرجل المتشامخ والفاسد أن ينجّس المكان المقدس الذي كرِّس على الأرض لأجل اسم مجدك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وإذ نحن في هذا الوضع المزري، أراد هذا الرجل المتشامخ والفاسد أن ينجّس المكان المقدس الذي كرِّس على الأرض لأجل اسم مجدك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.19",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 19,
+          "text": "فمكان سكناك، سماء السماوات، لا يقرب منه إنسان.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فمكان سكناك، سماء السماوات، لا يقرب منه إنسان.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.20",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 20,
+          "text": "ولكن قدّستَ هذا المكان المقدس، لأنك ارتضيتَ أن تُظهر مجدَك وسط شعب اسرائيل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن قدّستَ هذا المكان المقدس، لأنك ارتضيتَ أن تُظهر مجدَك وسط شعب اسرائيل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.21",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 21,
+          "text": "لا تعاقبنا لنجاسة هؤلاء الرجال، ولا تؤدّبنا لتدنيسهم. فمن لا شريعة له يفتخر بغضبه، ويتعظّم في وقاحة لسانه قائلاً:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لا تعاقبنا لنجاسة هؤلاء الرجال، ولا تؤدّبنا لتدنيسهم. فمن لا شريعة له يفتخر بغضبه، ويتعظّم في وقاحة لسانه قائلاً:",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.22",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 22,
+          "text": "دسنا بيتَ المقدس كما دُسنا بيوت الرجاسة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "دسنا بيتَ المقدس كما دُسنا بيوت الرجاسة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.23",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 23,
+          "text": "فاغسل خطايانا، وأبعد معاصينا، وأظهر رحمتك في هذا الوقت.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاغسل خطايانا، وأبعد معاصينا، وأظهر رحمتك في هذا الوقت.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.24",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 24,
+          "text": "لتأت مراحمك إلينا عاجلآً. ولتمدحك أفواهُ الذين يسقطون فتنسحق نفوسهم. وامنحنا السلام .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لتأت مراحمك إلينا عاجلآً. ولتمدحك أفواهُ الذين يسقطون فتنسحق نفوسهم. وامنحنا السلام .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.25",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 25,
+          "text": "عقاب الله.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عقاب الله.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.26",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 26,
+          "text": "في ذلك الوقت، سمع الالهُ الذي يرى كل شيء، الذي هو قدوس بين القدوسين،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "في ذلك الوقت، سمع الالهُ الذي يرى كل شيء، الذي هو قدوس بين القدوسين،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.27",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 27,
+          "text": "صلاةَ التضرّع التي تليق به، وجلد ذاك الذي تعظّم وتعجرف في وقاحته وسفاهته. فأخذ يروح ويجيء كالقصبة في الريح، وسقط على الأرض بدون قوّة، فتجمّدت أعضاؤه فما عاد يقدر على الكلام بعد أن سيطر عليه الحكمُ العادل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "صلاةَ التضرّع التي تليق به، وجلد ذاك الذي تعظّم وتعجرف في وقاحته وسفاهته. فأخذ يروح ويجيء كالقصبة في الريح، وسقط على الأرض بدون قوّة، فتجمّدت أعضاؤه فما عاد يقدر على الكلام بعد أن سيطر عليه الحكمُ العادل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.28",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 28,
+          "text": "فلما رأى أصدقاؤه وحرسه الشخصيّ قسوة العقاب الذي حلّ به فجأة، خافوا عليه من الموت، فنقلوه بسرعة وهم مرتعبون.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما رأى أصدقاؤه وحرسه الشخصيّ قسوة العقاب الذي حلّ به فجأة، خافوا عليه من الموت، فنقلوه بسرعة وهم مرتعبون.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.29",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 29,
+          "text": "ولما عاد مع الوقت إلى نفسه، لم تُحدث هذه الضربةُ القاسية ندامة في داخله، بل مضى وهو يهدّد بمرارة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولما عاد مع الوقت إلى نفسه، لم تُحدث هذه الضربةُ القاسية ندامة في داخله، بل مضى وهو يهدّد بمرارة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.30",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 30,
+          "text": "فحين وصل إلى مصر، صار أكثر تطرّفًا في شرّه، عبر رفاقه وأصدقائه الذين ذُكروا سابقًا والذين كانوا غرباء كل الغربة عن كل ما هو عدل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فحين وصل إلى مصر، صار أكثر تطرّفًا في شرّه، عبر رفاقه وأصدقائه الذين ذُكروا سابقًا والذين كانوا غرباء كل الغربة عن كل ما هو عدل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.31",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 31,
+          "text": "فما اكتفى بأعمال إجرام لا عدّ لها، بل وصلت به سفاهته إلى أن يستنبط تقارير مشنّعة هناك. لاحظ عددٌ من أصدقائه هدفه، فدخلوا في خطّ رغباته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فما اكتفى بأعمال إجرام لا عدّ لها، بل وصلت به سفاهته إلى أن يستنبط تقارير مشنّعة هناك. لاحظ عددٌ من أصدقائه هدفه، فدخلوا في خطّ رغباته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.32",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 32,
+          "text": "كان همّه أن يلقي العار بشكل علنيّ على الأمّة. لهذا، نصب عمودًا في برج القصر، وكتب فيه:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كان همّه أن يلقي العار بشكل علنيّ على الأمّة. لهذا، نصب عمودًا في برج القصر، وكتب فيه:",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.2.33",
+          "book": "3MA",
+          "chapter": 2,
+          "verse": 33,
+          "text": "لا يُسمح لمن لا يقدّمون ذبيحة، بالدخول إلى هياكلهم. ويُفرض على جميع اليهود أن يُحصوا مع سائر الشعب. فمن قاوم، يؤخذ بالقوّة ويُقتل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لا يُسمح لمن لا يقدّمون ذبيحة، بالدخول إلى هياكلهم. ويُفرض على جميع اليهود أن يُحصوا مع سائر الشعب. فمن قاوم، يؤخذ بالقوّة ويُقتل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:15:48.954407+00:00"
+    },
+    "3": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "3MA",
+      "chapter": 3,
+      "verses": [
+        {
+          "ref": "3MA.3.1",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 1,
+          "text": "حين تلقّى الملكُ الشرير الخبرَ، غضب جدًا. وما انحصر غضبه في اليهود الذين في الاسكندريّة. بل ثقلت يده على الذين يعيشون في البلاد، فأمر بأن يُجمعوا سريعًا في مكان واحد ويُحرموا الحياة بقساوة كبيرة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حين تلقّى الملكُ الشرير الخبرَ، غضب جدًا. وما انحصر غضبه في اليهود الذين في الاسكندريّة. بل ثقلت يده على الذين يعيشون في البلاد، فأمر بأن يُجمعوا سريعًا في مكان واحد ويُحرموا الحياة بقساوة كبيرة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.2",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 2,
+          "text": "وإذ كان هذا ينظَّم، سرت شائعة شريرة ضدّ الأمّة اليهودية بواسطة رجال تآمروا لكي يُسيئوا إليهم. واستفادوا من الظرف فاتهموهم بأنّهم يتهرّبون من ممارسة شرائعهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وإذ كان هذا ينظَّم، سرت شائعة شريرة ضدّ الأمّة اليهودية بواسطة رجال تآمروا لكي يُسيئوا إليهم. واستفادوا من الظرف فاتهموهم بأنّهم يتهرّبون من ممارسة شرائعهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.3",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 3,
+          "text": "أما اليهود فحافظوا دومًا على ولائهم للملوك وعلى صدقهم الذي لا يتزعزع.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أما اليهود فحافظوا دومًا على ولائهم للملوك وعلى صدقهم الذي لا يتزعزع.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.4",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 4,
+          "text": "غير أنهم يعبدون الله ويسلكون حسب شريعته. ويحفظون أنفسهم من بعض الأطعمة. لهذا يبغضهم بعض الناس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غير أنهم يعبدون الله ويسلكون حسب شريعته. ويحفظون أنفسهم من بعض الأطعمة. لهذا يبغضهم بعض الناس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.5",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 5,
+          "text": "زيّنوا حياتهم الجماعيّة بممارسة صالحة، فرضي عنهم جميع الناس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "زيّنوا حياتهم الجماعيّة بممارسة صالحة، فرضي عنهم جميع الناس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.6",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 6,
+          "text": "وما يقول سائر البشر حول الأمّة اليهودية، لا يهتمّ له الغرباء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وما يقول سائر البشر حول الأمّة اليهودية، لا يهتمّ له الغرباء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.7",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 7,
+          "text": "مقابل هذا، يتحدّثون دومًا كيف يختلفون على مستوى العبادة والأطعمة. ويستنتجون أنهم لا يقومون بواجبات تعاهدوا عليها، تجاه الملك أو الجيش، بل يعيشون العداء ولا يتعاطفون مع مصالحهم. بهذه الطريقة، يضيفون البغض عليهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مقابل هذا، يتحدّثون دومًا كيف يختلفون على مستوى العبادة والأطعمة. ويستنتجون أنهم لا يقومون بواجبات تعاهدوا عليها، تجاه الملك أو الجيش، بل يعيشون العداء ولا يتعاطفون مع مصالحهم. بهذه الطريقة، يضيفون البغض عليهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.8",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 8,
+          "text": "حين لاحظ اليونانيّون في المدينة ضجّة غير متوقّعة حول هؤلاء الناس الذين لم يسيئوا إليهم، وتحرّك لم يُر مثله من قبل، ما استطاعوا أن يقدّموا عونًا، لأنهم يعيشون تحت حكم مستبدّ. إلاّ أنهم شجّعوهم وتعاطفوا معهم، وانتظروا أن تتبدّل الأمور نحو الأحسن.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حين لاحظ اليونانيّون في المدينة ضجّة غير متوقّعة حول هؤلاء الناس الذين لم يسيئوا إليهم، وتحرّك لم يُر مثله من قبل، ما استطاعوا أن يقدّموا عونًا، لأنهم يعيشون تحت حكم مستبدّ. إلاّ أنهم شجّعوهم وتعاطفوا معهم، وانتظروا أن تتبدّل الأمور نحو الأحسن.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.9",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 9,
+          "text": "فجماعة واسعة لم تفعل شرًا، لا يمكن أن تُترك لمثل هذا المصير.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فجماعة واسعة لم تفعل شرًا، لا يمكن أن تُترك لمثل هذا المصير.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.10",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 10,
+          "text": "وإن بعض جيران اليهود وأصدقائهم وشركائهم في العمل،. أخذوا بعضًا منهم سرًا، فالتزموا بمساعدتهم، ووعدوهم بأن يفعلوا لأجلهم ما هو في مقدورهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وإن بعض جيران اليهود وأصدقائهم وشركائهم في العمل،. أخذوا بعضًا منهم سرًا، فالتزموا بمساعدتهم، ووعدوهم بأن يفعلوا لأجلهم ما هو في مقدورهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.11",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 11,
+          "text": "قرار بطليموس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قرار بطليموس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.12",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 12,
+          "text": "استند الملك إلى حسن طالعه الحاضر، وما تطلّع إلى قدرة الله العظيم، وظنّ أنه يستطيع أن يثبت على الدوام في مشروعه، فكتب الرسالة التالية ضد اليهود:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "استند الملك إلى حسن طالعه الحاضر، وما تطلّع إلى قدرة الله العظيم، وظنّ أنه يستطيع أن يثبت على الدوام في مشروعه، فكتب الرسالة التالية ضد اليهود:",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.13",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 13,
+          "text": "من الملك بطليموس فيلوباتور إلى قوّاده في مصر وفي سائر الأمكنة، الصحّة والسعادة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "من الملك بطليموس فيلوباتور إلى قوّاده في مصر وفي سائر الأمكنة، الصحّة والسعادة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.14",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 14,
+          "text": "أنا في صحّة جيدة وأموري تسير على ما يرام.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنا في صحّة جيدة وأموري تسير على ما يرام.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.15",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 15,
+          "text": "وحملتُنا إلى آسية، كما تعرفون بأنفسكم، وصلت بنا إلى النصر بعون الآلهة، كما توقّعنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحملتُنا إلى آسية، كما تعرفون بأنفسكم، وصلت بنا إلى النصر بعون الآلهة، كما توقّعنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.16",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 16,
+          "text": "وفكّرنا أنه يجب أن نساند سكّان سورية الجوفاء وفينيقية، لا بقوّة السلاح، بل بالحنان والروح الإنسانية، فنحسن إليهم وهم راضون .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وفكّرنا أنه يجب أن نساند سكّان سورية الجوفاء وفينيقية، لا بقوّة السلاح، بل بالحنان والروح الإنسانية، فنحسن إليهم وهم راضون .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.17",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 17,
+          "text": "وإذ منحنا المالَ الكثير للهياكل في مختلف المدن، وصلنا في عملنا إلى أورشليم، وصعدنا لكي نكرم هيكل هذا الشعب الملعون الذي لم يتخلّ يومًا عن جهالته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وإذ منحنا المالَ الكثير للهياكل في مختلف المدن، وصلنا في عملنا إلى أورشليم، وصعدنا لكي نكرم هيكل هذا الشعب الملعون الذي لم يتخلّ يومًا عن جهالته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.18",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 18,
+          "text": "خارجيًا، بدوا وكأنهم يستقبلوننا بحفاوة، ولكنّ استقبالهم كان في الواقع غير صادق. لأننا حين رغبنا في الدخول إلى هيكلهم وتكريمه بتقدمات جميلة ومتألّقة،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "خارجيًا، بدوا وكأنهم يستقبلوننا بحفاوة، ولكنّ استقبالهم كان في الواقع غير صادق. لأننا حين رغبنا في الدخول إلى هيكلهم وتكريمه بتقدمات جميلة ومتألّقة،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.19",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 19,
+          "text": "دفعتهم كبرياؤهم القديمة فمنعونا من الدخول. ولكن بسبب التسامح الذي نمارسه تجاه كل إنسان، امتنعنا عن استعمال قوّتنا معهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "دفعتهم كبرياؤهم القديمة فمنعونا من الدخول. ولكن بسبب التسامح الذي نمارسه تجاه كل إنسان، امتنعنا عن استعمال قوّتنا معهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.20",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 20,
+          "text": "غير أنهم أظهروا ملء العداء تجاهنا، فكانوا الشعب الوحيد بين جميع الشعوب الذين رفعوا رؤوسهم على الملوك والمحسنين إليهم، فرفضوا أن يخضعوا لأي حقّ .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غير أنهم أظهروا ملء العداء تجاهنا، فكانوا الشعب الوحيد بين جميع الشعوب الذين رفعوا رؤوسهم على الملوك والمحسنين إليهم، فرفضوا أن يخضعوا لأي حقّ .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.21",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 21,
+          "text": "أما من جهتنا، فتساهلنا مع جنونهم، وعدنا منتصرين إلى مصر، فعاملنا جميع الشعوب بالحسنى: تصرّفنا بحسب العدل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أما من جهتنا، فتساهلنا مع جنونهم، وعدنا منتصرين إلى مصر، فعاملنا جميع الشعوب بالحسنى: تصرّفنا بحسب العدل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.22",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 22,
+          "text": "وهكذا أعلمنا الجميعَ باستعدادنا لأن نغفر لليهود مواطنينا بسبب عهدهم معنا والأمور العديدة التي سلِّمت إليهم منذ القدم. فتجرّأنا وقرّرنا أن نُدخل تعديلاً في وضعهم، فأعلنّاهم أهلاً لأن يكونوا من مواطني الإسكندرية، وسمحنا لهم بأن يشاركوا في نظام طقوسنا الدينيّة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهكذا أعلمنا الجميعَ باستعدادنا لأن نغفر لليهود مواطنينا بسبب عهدهم معنا والأمور العديدة التي سلِّمت إليهم منذ القدم. فتجرّأنا وقرّرنا أن نُدخل تعديلاً في وضعهم، فأعلنّاهم أهلاً لأن يكونوا من مواطني الإسكندرية، وسمحنا لهم بأن يشاركوا في نظام طقوسنا الدينيّة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.23",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 23,
+          "text": ". ولكنهم أساؤوا فهمنا، وفي إحساس داخلي من العداوة، رفضوا ما تقدّمَ لهم من خير.",
+          "structured": {
+            "tokens": [
+              {
+                "text": ". ولكنهم أساؤوا فهمنا، وفي إحساس داخلي من العداوة، رفضوا ما تقدّمَ لهم من خير.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.24",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 24,
+          "text": "مالوا كعادتهم إلى كل ما هو حقير وصغير، فلم يرفضوا فقط مواطنيّة لا تثمَّن، بل دلّوا، بصمتهم كما بكلامهم، على احتقارهم للذين بينهم كانوا ذا استعدادات طيّبة، وغذّوا أملاً خفيًا بأننا سنبدّل سياستنا بسرعة، بسبب تصرّفهم الأرعن.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "مالوا كعادتهم إلى كل ما هو حقير وصغير، فلم يرفضوا فقط مواطنيّة لا تثمَّن، بل دلّوا، بصمتهم كما بكلامهم، على احتقارهم للذين بينهم كانوا ذا استعدادات طيّبة، وغذّوا أملاً خفيًا بأننا سنبدّل سياستنا بسرعة، بسبب تصرّفهم الأرعن.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.25",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 25,
+          "text": "وهكذا كان لنا البرهان الساطع بأن هذا الشعب هو في أي حال عدوٌّ لنا. ولاحظنا مسبقًا أنهم يخونونا في الظهر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهكذا كان لنا البرهان الساطع بأن هذا الشعب هو في أي حال عدوٌّ لنا. ولاحظنا مسبقًا أنهم يخونونا في الظهر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.26",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 26,
+          "text": "ويتحوّلون إلى أعداء همجيّين في حال قامت ثورة علينا. لهذا قرّرنا وأمرنا، ساعة تصل هذه الرسالة إليكم، أن ترسلوا إلينا أولئك الذين يقيمون بينكم، مع نسائهم وأولادهم. تعاملونهم بقساوة، وتقيّدونهم بسلاسل من حديد ليُقادوا إلى موت قاس ومذلّ يستحقّه أعداء خونة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ويتحوّلون إلى أعداء همجيّين في حال قامت ثورة علينا. لهذا قرّرنا وأمرنا، ساعة تصل هذه الرسالة إليكم، أن ترسلوا إلينا أولئك الذين يقيمون بينكم، مع نسائهم وأولادهم. تعاملونهم بقساوة، وتقيّدونهم بسلاسل من حديد ليُقادوا إلى موت قاس ومذلّ يستحقّه أعداء خونة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.27",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 27,
+          "text": "ونعتقد أنهم حين يعاقَبون معًا، يثبت حكمُنا ملء الثبات إلى الأبد في الطمأنينة والعافية.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ونعتقد أنهم حين يعاقَبون معًا، يثبت حكمُنا ملء الثبات إلى الأبد في الطمأنينة والعافية.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.28",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 28,
+          "text": "فكل من يخبئ يهوديًا سواء كان شيخًا أو ولدًا، بل طفلاً على الثدي، يُرسل إلى الموت بعد عذاب مرّ، هو وأهل بيته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فكل من يخبئ يهوديًا سواء كان شيخًا أو ولدًا، بل طفلاً على الثدي، يُرسل إلى الموت بعد عذاب مرّ، هو وأهل بيته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.29",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 29,
+          "text": "وكل من يشي بهم، يمتلك الشخص الذي وشى به مع ألفي درهم من الخزانة الملكيّة، ويكرَّم بتاج الحريّة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكل من يشي بهم، يمتلك الشخص الذي وشى به مع ألفي درهم من الخزانة الملكيّة، ويكرَّم بتاج الحريّة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.3.30",
+          "book": "3MA",
+          "chapter": 3,
+          "verse": 30,
+          "text": "وكل موضع خبأ يهوديًا يُحرق بالنار، ويُجعل بلا فائدة للناس في الأجيال الآتية.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكل موضع خبأ يهوديًا يُحرق بالنار، ويُجعل بلا فائدة للناس في الأجيال الآتية.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:15:48.955468+00:00"
+    },
+    "4": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "3MA",
+      "chapter": 4,
+      "verses": [
+        {
+          "ref": "3MA.4.1",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 1,
+          "text": "في كل موضع وصل إليه القرار، تنظّم عيدٌ علنيّ للوثنيين مع احتفال صاخب وفرح: كان البغضُ كامنًا في قلوبهم منذ زمن طويل، فجاء وقت الإفصاح عنه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "في كل موضع وصل إليه القرار، تنظّم عيدٌ علنيّ للوثنيين مع احتفال صاخب وفرح: كان البغضُ كامنًا في قلوبهم منذ زمن طويل، فجاء وقت الإفصاح عنه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.2",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 2,
+          "text": "ولكن بين اليهود، كان الحزن والنواح والدموع الغزيرة، واشتعلت قلوبهم وهم يندبون ويولولون بسبب دمار غير متوقّع حلّ بهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن بين اليهود، كان الحزن والنواح والدموع الغزيرة، واشتعلت قلوبهم وهم يندبون ويولولون بسبب دمار غير متوقّع حلّ بهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.3",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 3,
+          "text": "وأية منطقة أو مدينة أو حاضرة أو قرية بسكانها، أو أي شارع لم يمتلئ بالندب والنواح بسببهم؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأية منطقة أو مدينة أو حاضرة أو قرية بسكانها، أو أي شارع لم يمتلئ بالندب والنواح بسببهم؟",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.4",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 4,
+          "text": "بمثل هذا الروح، روح الانتقام بلا شفقة، أرسلهم القوّاد معًا من مختلف المدن، بحيث إن أعداءهم أنفسهم حين رأوا هذا الألم الكبير تحرّكت فيهم الشفقة تجاه صروف الحياة، فذرفوا الدموع تجاه نفيهم التعيس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "بمثل هذا الروح، روح الانتقام بلا شفقة، أرسلهم القوّاد معًا من مختلف المدن، بحيث إن أعداءهم أنفسهم حين رأوا هذا الألم الكبير تحرّكت فيهم الشفقة تجاه صروف الحياة، فذرفوا الدموع تجاه نفيهم التعيس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.5",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 5,
+          "text": "أبعد الكثيرون من الشيوخ بشعرهم الأبيض. ومع أن أرجلهم ارتخت والتوَت بسبب السنين، دُفعوا دفعًا عنيفًا لسير مُذلّ لا توقّف فيه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أبعد الكثيرون من الشيوخ بشعرهم الأبيض. ومع أن أرجلهم ارتخت والتوَت بسبب السنين، دُفعوا دفعًا عنيفًا لسير مُذلّ لا توقّف فيه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.6",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 6,
+          "text": "والصبايا اللواتي دخلن منذ زمن قصير خدر لينعمن بحياة زوجيّة، حوّلن الفرح إلى نواح، وجعلن الرماد على رؤوسهن فوق العطور، ومضين بلا حجاب، فانضممن إلى الجميع وأنشدن النواح بدل أناشيد العرس، وكأنهن تمزّقن تمزيقًا لقساوة الوثنيين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والصبايا اللواتي دخلن منذ زمن قصير خدر لينعمن بحياة زوجيّة، حوّلن الفرح إلى نواح، وجعلن الرماد على رؤوسهن فوق العطور، ومضين بلا حجاب، فانضممن إلى الجميع وأنشدن النواح بدل أناشيد العرس، وكأنهن تمزّقن تمزيقًا لقساوة الوثنيين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.7",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 7,
+          "text": "قُيّدن وعُرضن أمام عيون الجميع، ثم ُنقلن بعنف إلى المراكب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "قُيّدن وعُرضن أمام عيون الجميع، ثم ُنقلن بعنف إلى المراكب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.8",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 8,
+          "text": ". وأزواجهنّ الذين كانوا في ملء قوّة الشباب، حملوا الثقّالة على أعناقهم بدل أكاليل الزهر، وقضوا الأيام الباقية من عيد زواجهم، لا في احتفال الفرح ومرح الشباب، بل في النواح، ورأوا قبورهم تحت أقدامهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": ". وأزواجهنّ الذين كانوا في ملء قوّة الشباب، حملوا الثقّالة على أعناقهم بدل أكاليل الزهر، وقضوا الأيام الباقية من عيد زواجهم، لا في احتفال الفرح ومرح الشباب، بل في النواح، ورأوا قبورهم تحت أقدامهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.9",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 9,
+          "text": "جُعلوا في السفن كالحيوانات بقيود من حديد. بعضهم رُبطت أعناقهم بمقعد المركب، وآخرون جُعلت أقدامهم في القيود القاسية.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "جُعلوا في السفن كالحيوانات بقيود من حديد. بعضهم رُبطت أعناقهم بمقعد المركب، وآخرون جُعلت أقدامهم في القيود القاسية.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.10",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 10,
+          "text": "وأسوأ من هذا هو أنهم جُعلوا في الظلمة التامّة بحيث يعامَلون كالخونة خلال السفر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأسوأ من هذا هو أنهم جُعلوا في الظلمة التامّة بحيث يعامَلون كالخونة خلال السفر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.11",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 11,
+          "text": "فلما وصلوا إلى الموضع المسمّى سخاديا، وانتهى السفر كما حدّده الملك، أمرهم بأن يُرموا في حلبة السباق التي في ضاحية المدينة، والتي كانت مؤهّلة لتجعل من هؤلاء الأسرى عبرة لجميع الذين يأتون إلى المدينة وجميع الذين يخرجون منها ليقيموا في الريف. وهكذا يراهم الجميع، ولا يستطيعون أن يجتمعوا بقوات الملك ولا أن يطالبوا بأيّة معاملة إنسانية.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما وصلوا إلى الموضع المسمّى سخاديا، وانتهى السفر كما حدّده الملك، أمرهم بأن يُرموا في حلبة السباق التي في ضاحية المدينة، والتي كانت مؤهّلة لتجعل من هؤلاء الأسرى عبرة لجميع الذين يأتون إلى المدينة وجميع الذين يخرجون منها ليقيموا في الريف. وهكذا يراهم الجميع، ولا يستطيعون أن يجتمعوا بقوات الملك ولا أن يطالبوا بأيّة معاملة إنسانية.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.12",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 12,
+          "text": "ولما تمّ هذا، سمع الملك أن إخوتهم في المدينة يخرجون مرارًا ويبكون مصير إخوتهم المرّ،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولما تمّ هذا، سمع الملك أن إخوتهم في المدينة يخرجون مرارًا ويبكون مصير إخوتهم المرّ،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.13",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 13,
+          "text": "فأمر بغضب، بأن يعامَلوا المعاملة عينها، ولا يُعفوا من العقاب الذي يناله الآخرون.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فأمر بغضب، بأن يعامَلوا المعاملة عينها، ولا يُعفوا من العقاب الذي يناله الآخرون.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.14",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 14,
+          "text": "ثم أحصيت الأمّة كلها. لا من أجل العمل كعبيد، كما ذُكر سابقًا، بل ليعذّبوا بعذابات أمرَ بها، ويُقتلوا بقساوة خلال يوم من الزمن.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ثم أحصيت الأمّة كلها. لا من أجل العمل كعبيد، كما ذُكر سابقًا، بل ليعذّبوا بعذابات أمرَ بها، ويُقتلوا بقساوة خلال يوم من الزمن.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.15",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 15,
+          "text": "هذا الإحصاء الذي تمّ بسرعة مذلّة وبغيرة لا رحمة فيها، من شروق الشمس إلى غروبها، انتهى بعد أربعين يومًا، مع أنه لم يكن كاملاً.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هذا الإحصاء الذي تمّ بسرعة مذلّة وبغيرة لا رحمة فيها، من شروق الشمس إلى غروبها، انتهى بعد أربعين يومًا، مع أنه لم يكن كاملاً.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.16",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 16,
+          "text": "امتلأ قلبُ الملك فرحًا متواصلاً، وأقام الولائم أمام هيكل أصنامه، بقلب بعيد عن الحقيقة وبفم نجس، فمجّد الأصنام التي لا تقدر أن تتكلّم ولا أن تساعد، وقال أقوالاً غير لائقة ضدّ الإله العظيم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "امتلأ قلبُ الملك فرحًا متواصلاً، وأقام الولائم أمام هيكل أصنامه، بقلب بعيد عن الحقيقة وبفم نجس، فمجّد الأصنام التي لا تقدر أن تتكلّم ولا أن تساعد، وقال أقوالاً غير لائقة ضدّ الإله العظيم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.17",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 17,
+          "text": "في نهاية الزمن الذي ذُكر أعلاه، أخبر الكتبةُ الملك أنهم ما عادوا يقدرون أن يواصلوا إحصاء اليهود، لأن عددهم لا يُحصى.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "في نهاية الزمن الذي ذُكر أعلاه، أخبر الكتبةُ الملك أنهم ما عادوا يقدرون أن يواصلوا إحصاء اليهود، لأن عددهم لا يُحصى.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.18",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 18,
+          "text": "ومع أن معظهم كانوا بعدُ في الريف، وآخرون في بيوتهم أو في سفر، بدا العمل مستحيلاً لجميع القوّاد في مصر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ومع أن معظهم كانوا بعدُ في الريف، وآخرون في بيوتهم أو في سفر، بدا العمل مستحيلاً لجميع القوّاد في مصر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.19",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 19,
+          "text": "وبعد أن هدّدهم الملك بقساوة، واتّهمهم بالرشوة ليجدوا وسيلة بها يُفلت (اليهودُ)، اقتنع كل الاقتناع.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وبعد أن هدّدهم الملك بقساوة، واتّهمهم بالرشوة ليجدوا وسيلة بها يُفلت (اليهودُ)، اقتنع كل الاقتناع.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.20",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 20,
+          "text": "حين أعلنوا وبرهنوا له أن الورق نفذ والحبر الذي يستعملونه للكتابة قد جفَّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حين أعلنوا وبرهنوا له أن الورق نفذ والحبر الذي يستعملونه للكتابة قد جفَّ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.4.21",
+          "book": "3MA",
+          "chapter": 4,
+          "verse": 21,
+          "text": "غير أن هذا كان من عمل العناية الإلهية التي لا تُقهر، والتي أرسلت لليهود عونًا من السماء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غير أن هذا كان من عمل العناية الإلهية التي لا تُقهر، والتي أرسلت لليهود عونًا من السماء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:15:48.956209+00:00"
+    },
+    "5": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "3MA",
+      "chapter": 5,
+      "verses": [
+        {
+          "ref": "3MA.5.1",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 1,
+          "text": "فدعا الملك حرمون المهتمّ بفيله، فامتلأ غضبًا وغيظًا جعلاه لا يلين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فدعا الملك حرمون المهتمّ بفيله، فامتلأ غضبًا وغيظًا جعلاه لا يلين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.2",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 2,
+          "text": "وأمره بأن يسقي كل فيَله، وكان عددها خمس مئة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأمره بأن يسقي كل فيَله، وكان عددها خمس مئة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.3",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 3,
+          "text": "، خمرة صافية لم تُمزج، وكميّة من اللبان. وحين تمتلئ وحشيّة من الشراب، يقودها من أجل تنفيذ حكم الإعدام باليهود.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "، خمرة صافية لم تُمزج، وكميّة من اللبان. وحين تمتلئ وحشيّة من الشراب، يقودها من أجل تنفيذ حكم الإعدام باليهود.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.4",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 4,
+          "text": "وبعد أن أعطى (الملك) هذه الأوامر، عاد إلى ولائمه، فجمع كل أصدقائه و(قوّاد) الجيش الذين يعادون اليهود عداء خاصًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وبعد أن أعطى (الملك) هذه الأوامر، عاد إلى ولائمه، فجمع كل أصدقائه و(قوّاد) الجيش الذين يعادون اليهود عداء خاصًا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.5",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 5,
+          "text": "في ذلك الوقت، قام حرمون، مدرّب الفيلة، بما عُهد إليه أحسن قيام.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "في ذلك الوقت، قام حرمون، مدرّب الفيلة، بما عُهد إليه أحسن قيام.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.6",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 6,
+          "text": "ومضى الذين ينفّذون أوامره في المساء، وربطوا أيدي الشعب المسكين التعيس، واتّخذوا كل الاحتياطات بحيث لا يصيبهم مكروه في الليل، بحيث تهلك الأمّة كلها دفعة واحدة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ومضى الذين ينفّذون أوامره في المساء، وربطوا أيدي الشعب المسكين التعيس، واتّخذوا كل الاحتياطات بحيث لا يصيبهم مكروه في الليل، بحيث تهلك الأمّة كلها دفعة واحدة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.7",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 7,
+          "text": "ظنّ الوثنيون أن اليهود لا يقدرون على الحراك بعد أن حُصروا حصرًا في القيود. ولكنهم دعوا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ظنّ الوثنيون أن اليهود لا يقدرون على الحراك بعد أن حُصروا حصرًا في القيود. ولكنهم دعوا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.8",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 8,
+          "text": "الربّ الضابط الكل والقويّ بكل قوّة، والههم الرحيم وأباهم. طلبوه كلّهم بدموع وصراخ لا ينقطع،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الربّ الضابط الكل والقويّ بكل قوّة، والههم الرحيم وأباهم. طلبوه كلّهم بدموع وصراخ لا ينقطع،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.9",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 9,
+          "text": "لكي يقلب القصد الشرير الذي يحاك عليهم، وينجّيهم، بظهور عجيب، من الكارثة المزمعة أن تحلّ بهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لكي يقلب القصد الشرير الذي يحاك عليهم، وينجّيهم، بظهور عجيب، من الكارثة المزمعة أن تحلّ بهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.10",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 10,
+          "text": "فبلغت طلبتهم الحارّة إلى السماء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فبلغت طلبتهم الحارّة إلى السماء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.11",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 11,
+          "text": "جاء حرمون بفيله الشرسة، وملأها بكميّة كبيرة من الخمر، وأتخمها باللبان، وجاء في الصباح الباكر، إلى القصر، ليُعلم الملك بما فعل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "جاء حرمون بفيله الشرسة، وملأها بكميّة كبيرة من الخمر، وأتخمها باللبان، وجاء في الصباح الباكر، إلى القصر، ليُعلم الملك بما فعل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.12",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 12,
+          "text": "ولكن الذي ( = الله) أرسل النوم إلى خليقته الصالحة التي تنام قسمًا من الوقت، خلال الليل أو خلال النهار، يُفيض بركته كما يشاء. فأرسلها غزيرة على الملك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن الذي ( = الله) أرسل النوم إلى خليقته الصالحة التي تنام قسمًا من الوقت، خلال الليل أو خلال النهار، يُفيض بركته كما يشاء. فأرسلها غزيرة على الملك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.13",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 13,
+          "text": "أرسل إليه سحرًا حلوًا ونومًا عميقًا، فقاوم قصده الجائر، وخيّبه كل الخيبة في مرماه الذي لا يلين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أرسل إليه سحرًا حلوًا ونومًا عميقًا، فقاوم قصده الجائر، وخيّبه كل الخيبة في مرماه الذي لا يلين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.14",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 14,
+          "text": "أما اليهود الذين نجوا من الموت في الساعة المحدّدة، فأنشدوا الله القدوس. وطلبوا إلى ذاك الذي يُسرع في رحمته، أن يُريهم عظمة يده القديرة تجاه الوثنيّ المتعجرف.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أما اليهود الذين نجوا من الموت في الساعة المحدّدة، فأنشدوا الله القدوس. وطلبوا إلى ذاك الذي يُسرع في رحمته، أن يُريهم عظمة يده القديرة تجاه الوثنيّ المتعجرف.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.15",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 15,
+          "text": "ولكن منتصف الساعة العاشرة حلَّ، حين لاحـظ الموظف المكلّف بالدعوات أن الضيوف اجتمعوا. فمضى إلى الملك وحرّكه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن منتصف الساعة العاشرة حلَّ، حين لاحـظ الموظف المكلّف بالدعوات أن الضيوف اجتمعوا. فمضى إلى الملك وحرّكه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.16",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 16,
+          "text": "كان في حيرة: أيوقظه أم لا؟ ولكن حين شعر أن ساعة الوليمة حلّت، أخذ الأمور على عاتقه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كان في حيرة: أيوقظه أم لا؟ ولكن حين شعر أن ساعة الوليمة حلّت، أخذ الأمور على عاتقه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.17",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 17,
+          "text": "استمع الملك إليه، ثم مال إلى كؤوسه، وأمر ضيوفه إلى الوليمة بأن يجلسوا قبالته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "استمع الملك إليه، ثم مال إلى كؤوسه، وأمر ضيوفه إلى الوليمة بأن يجلسوا قبالته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.18",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 18,
+          "text": "ولما تمّ هذا، طلب منهم أن يفرحوا، وأن يقدّروا الشرف العظيم الذي أعطي لهم، وأن يحسبوا هذا القسم الأخير من الوليمة قمّة البهجة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولما تمّ هذا، طلب منهم أن يفرحوا، وأن يقدّروا الشرف العظيم الذي أعطي لهم، وأن يحسبوا هذا القسم الأخير من الوليمة قمّة البهجة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.19",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 19,
+          "text": "وبعد فترة من الجلوس إلى المائدة، أمر الملك حرمون، وهدّده بقساوة، وسأله لماذا سُمح لليهود بأن يظلّوا حتّى اليوم على قيد الحياة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وبعد فترة من الجلوس إلى المائدة، أمر الملك حرمون، وهدّده بقساوة، وسأله لماذا سُمح لليهود بأن يظلّوا حتّى اليوم على قيد الحياة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.20",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 20,
+          "text": "فشرح حرمون أنه صنع المستحيل خلال الليل، ووافقه أصدقاؤه على ذلك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فشرح حرمون أنه صنع المستحيل خلال الليل، ووافقه أصدقاؤه على ذلك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.21",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 21,
+          "text": "عندئذ غضب الملك غضبًا أين منه غضب فَلاريس وقال: على اليهود أن يشكروه لأنه أنعم عليهم بالنوم في هذا اليوم. وأضاف: ستهيَّأ الفيَلة بدون تأخّر للغد، كما كانت بالأمس، لإفناء اليهود الملعونين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عندئذ غضب الملك غضبًا أين منه غضب فَلاريس وقال: على اليهود أن يشكروه لأنه أنعم عليهم بالنوم في هذا اليوم. وأضاف: ستهيَّأ الفيَلة بدون تأخّر للغد، كما كانت بالأمس، لإفناء اليهود الملعونين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.22",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 22,
+          "text": "وحين قال الملك هذا، وافق الحاضرون، وابتهجوا، ومضى كل واحد إلى بيته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحين قال الملك هذا، وافق الحاضرون، وابتهجوا، ومضى كل واحد إلى بيته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.23",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 23,
+          "text": "ولكنهم لم يستفيدوا من الليل ليخلدوا إلى النوم، يل ليفكّروا بكلّ أنواع الهزء الذي سيناله الشعب المحكوم عليه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكنهم لم يستفيدوا من الليل ليخلدوا إلى النوم، يل ليفكّروا بكلّ أنواع الهزء الذي سيناله الشعب المحكوم عليه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.24",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 24,
+          "text": "وما إن صاح الديك في وقت الفجر، حتى هيّأ حرمون حيواناته وحثّها، فصارت صفًا عظيمًا من العواميد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وما إن صاح الديك في وقت الفجر، حتى هيّأ حرمون حيواناته وحثّها، فصارت صفًا عظيمًا من العواميد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.25",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 25,
+          "text": "وتوافدت الجموع من المدينة لترى هذا المشهد المريع. وكانت تنتظر بفارغ صبر طلوع الصباح.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وتوافدت الجموع من المدينة لترى هذا المشهد المريع. وكانت تنتظر بفارغ صبر طلوع الصباح.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.26",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 26,
+          "text": "ولكن اليهود الذين قضوا آخر نفَس في التوسل الباكي وفي النواح، بسطوا أيديهم إلى السماء وطلبوا من الإله القدير، مرّة ثانية، أن يعجّل في مساعدتهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن اليهود الذين قضوا آخر نفَس في التوسل الباكي وفي النواح، بسطوا أيديهم إلى السماء وطلبوا من الإله القدير، مرّة ثانية، أن يعجّل في مساعدتهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.27",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 27,
+          "text": "ما كانت انتشرت بعدُ أشعّة الشمس، وإذ كان الملك يستقبل أصدقاءه، تقدّم حرمون ودعاه لكي يخرج، وشرح له أن رغباته جاهزة للتنفيذ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ما كانت انتشرت بعدُ أشعّة الشمس، وإذ كان الملك يستقبل أصدقاءه، تقدّم حرمون ودعاه لكي يخرج، وشرح له أن رغباته جاهزة للتنفيذ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.28",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 28,
+          "text": "استقبله الملك، ولكنه تعجّب من دعوته له إلى الخروج في مثل هذا الوقت، بعد أن سحقه روح جعله ينسى كل شيء. وسأل: ما هو هذا الأمر الذي يجب أن يهيَّأ بمثل هذه العجلة؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "استقبله الملك، ولكنه تعجّب من دعوته له إلى الخروج في مثل هذا الوقت، بعد أن سحقه روح جعله ينسى كل شيء. وسأل: ما هو هذا الأمر الذي يجب أن يهيَّأ بمثل هذه العجلة؟",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.29",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 29,
+          "text": "ولكن هذا كان عملَ الله، سيّد كل شيء، الذي زرع في ذهنه نسيان كل ما سبق له وخطّطه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن هذا كان عملَ الله، سيّد كل شيء، الذي زرع في ذهنه نسيان كل ما سبق له وخطّطه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.30",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 30,
+          "text": "غير أن حرمون وكل أصدقائه، تابعوا تهيئة الحيوانات. وقالوا: كل شيء جاهز، أيها الملك، حسب أمرك المشدّد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "غير أن حرمون وكل أصدقائه، تابعوا تهيئة الحيوانات. وقالوا: كل شيء جاهز، أيها الملك، حسب أمرك المشدّد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.31",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 31,
+          "text": "ومع أنه كان يمتلئ غضبًا حين يسمع هذه الكلمات، فبعناية الله تجاه هذا الوضع، حلّ الغموض في عقله وتطلّع إلى حرمون بقساوة وقال له مهدّدًا:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ومع أنه كان يمتلئ غضبًا حين يسمع هذه الكلمات، فبعناية الله تجاه هذا الوضع، حلّ الغموض في عقله وتطلّع إلى حرمون بقساوة وقال له مهدّدًا:",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.32",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 32,
+          "text": "لو كان أهلك أو أولادك هنا، لقدّمتُهم وليمة كبيرة لهؤلاء الحيوانات، بدلاً من اليهود الأبرياء الذين أظهروا ولاء مطلقًا لآبائي لم يظهره غيرهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لو كان أهلك أو أولادك هنا، لقدّمتُهم وليمة كبيرة لهؤلاء الحيوانات، بدلاً من اليهود الأبرياء الذين أظهروا ولاء مطلقًا لآبائي لم يظهره غيرهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.33",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 33,
+          "text": "فلولا العاطفة التي تصدر عن صداقة اعتدتُ عليها، ولولا خدمتك لي، لأخذت حياتك بدل حياتهم .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلولا العاطفة التي تصدر عن صداقة اعتدتُ عليها، ولولا خدمتك لي، لأخذت حياتك بدل حياتهم .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.34",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 34,
+          "text": "وإذ أحسَّ حرمون بتهديد خطير لم يتوقّعه، اضطرب وجهه وتبدّلت ملامحه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وإذ أحسَّ حرمون بتهديد خطير لم يتوقّعه، اضطرب وجهه وتبدّلت ملامحه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.35",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 35,
+          "text": ". وتسلّل أصدقاء الملك، الواحد بعد الآخر، وأمرت الجموعُ المتوافدة بالذهاب إلى عملها.",
+          "structured": {
+            "tokens": [
+              {
+                "text": ". وتسلّل أصدقاء الملك، الواحد بعد الآخر، وأمرت الجموعُ المتوافدة بالذهاب إلى عملها.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.36",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 36,
+          "text": "وإذ سمع اليهود ما حصل مع الملك، امتدحوا الله المجيد وملك الملوك، بعد أن نالوا منه أيضًا عونًا جديدًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وإذ سمع اليهود ما حصل مع الملك، امتدحوا الله المجيد وملك الملوك، بعد أن نالوا منه أيضًا عونًا جديدًا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.37",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 37,
+          "text": "وهيّأ الملك وليمة أخرى، كما الوليمة السابقة، وأمر أصدقاءه أن يتحوّلوا إلى الفرح.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهيّأ الملك وليمة أخرى، كما الوليمة السابقة، وأمر أصدقاءه أن يتحوّلوا إلى الفرح.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.38",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 38,
+          "text": "ودعا حرمون وقال له مهدّدًا: أيها التعيس، كم مرّة أعطيك أوامرَ في ذات المسألة؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ودعا حرمون وقال له مهدّدًا: أيها التعيس، كم مرّة أعطيك أوامرَ في ذات المسألة؟",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.39",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 39,
+          "text": "هيّئ فيَلك من أجل الغد لاستئصال اليهود .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هيّئ فيَلك من أجل الغد لاستئصال اليهود .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.40",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 40,
+          "text": "فاندهش وزيره، الذي كان معه إلى المائدة، من هذا التقلّب، وقال له معاتبًا: .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فاندهش وزيره، الذي كان معه إلى المائدة، من هذا التقلّب، وقال له معاتبًا: .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.41",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 41,
+          "text": "إلى متى تتّهمنا، أيها الملك، بأننا مجانين؟ هي المرة الثالثة تأمر فيها بإفناء اليهود. وحين يبدأ التنفيذ تبدّل رأيك وتتراجع عن قرارك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إلى متى تتّهمنا، أيها الملك، بأننا مجانين؟ هي المرة الثالثة تأمر فيها بإفناء اليهود. وحين يبدأ التنفيذ تبدّل رأيك وتتراجع عن قرارك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.42",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 42,
+          "text": "لهذا، تحوّل الانتظارُ إلى جلبة في المدينة. فقد تجمهر الناس وهم يترقّبون، وقد استعدّوا للسلب والنهب .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لهذا، تحوّل الانتظارُ إلى جلبة في المدينة. فقد تجمهر الناس وهم يترقّبون، وقد استعدّوا للسلب والنهب .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.43",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 43,
+          "text": "فجنّ جنون الملك، الذي هو فلاريس من جميع الوجوه، ولم يعد قلبه يتذكّر أنه قرّر المحافظة على اليهود، فحلف حلفًا باطلاً أنه سيرسل اليهود إلى الجحيم بعد أن تدوسهم ركب الفيل وأرجلهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فجنّ جنون الملك، الذي هو فلاريس من جميع الوجوه، ولم يعد قلبه يتذكّر أنه قرّر المحافظة على اليهود، فحلف حلفًا باطلاً أنه سيرسل اليهود إلى الجحيم بعد أن تدوسهم ركب الفيل وأرجلهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.44",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 44,
+          "text": "وأنه سيقوم بحملة على اليهودية، فيسوّي مدنها بالنار والسيف، ويدمِّر الهيكل الذي لا يُسمح للوثنيين بدخوله، ويمنع عنه الذبائح إلى الأبد، بعد أن كانت تقدّم فيه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأنه سيقوم بحملة على اليهودية، فيسوّي مدنها بالنار والسيف، ويدمِّر الهيكل الذي لا يُسمح للوثنيين بدخوله، ويمنع عنه الذبائح إلى الأبد، بعد أن كانت تقدّم فيه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.45",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 45,
+          "text": "فتركه أصدقاؤه ووزيرُه بفرح، وكلّهم ثقة بأن هذا الافناء سيتمّ. فرتّبوا صفوفهم من أجل حماية المدينة، في أفضل نقطة ملائمة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فتركه أصدقاؤه ووزيرُه بفرح، وكلّهم ثقة بأن هذا الافناء سيتمّ. فرتّبوا صفوفهم من أجل حماية المدينة، في أفضل نقطة ملائمة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.46",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 46,
+          "text": "فدفع مدرّب الفيلة حيواناته إلى حالة من الجنون، فأتخمها بالخمر واللبان وجهّزها بأسلحة مريعة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فدفع مدرّب الفيلة حيواناته إلى حالة من الجنون، فأتخمها بالخمر واللبان وجهّزها بأسلحة مريعة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.47",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 47,
+          "text": "وفي الصباح الباكر، ساعة امتلأت المدينة بجمهور كبير من الشعب ذاهبين إلى الحلبة، دخل إلى القصر ودعا الملكَ إلى أن يتّخذ قراره.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وفي الصباح الباكر، ساعة امتلأت المدينة بجمهور كبير من الشعب ذاهبين إلى الحلبة، دخل إلى القصر ودعا الملكَ إلى أن يتّخذ قراره.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.48",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 48,
+          "text": "فامتلأ قلب الملك غيظًا وغضبًا، فهجم مع الحيوانات وقد عزم أن يرى بعينين لا تعرفان الشفقة ألم اليهود وإفناءهم إفناء يُرثى له.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فامتلأ قلب الملك غيظًا وغضبًا، فهجم مع الحيوانات وقد عزم أن يرى بعينين لا تعرفان الشفقة ألم اليهود وإفناءهم إفناء يُرثى له.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.49",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 49,
+          "text": "وحين رأى اليهود الفيلة خارجة إلى الباب، تتبعها القوات المسلحة. وحين رأوا الغبار تحرّكه أرجل الجماهير، وسمعوا صراخ الشعب وضجيجه،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحين رأى اليهود الفيلة خارجة إلى الباب، تتبعها القوات المسلحة. وحين رأوا الغبار تحرّكه أرجل الجماهير، وسمعوا صراخ الشعب وضجيجه،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.50",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 50,
+          "text": "ظنّوا أنهم دنوا من آخر ساعة في حياتهم، وأن وقت جهادهم الذي انتظروه قد جاء. فبدأوا يبكون ويولولون. وقبّل الواحد الآخر، وعانق القريبُ قريبه. عانق الآباء أبناءهم، والأمهات بناتهن. والأطفال على الثدي رضعوا آخر نقطة من حليبهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ظنّوا أنهم دنوا من آخر ساعة في حياتهم، وأن وقت جهادهم الذي انتظروه قد جاء. فبدأوا يبكون ويولولون. وقبّل الواحد الآخر، وعانق القريبُ قريبه. عانق الآباء أبناءهم، والأمهات بناتهن. والأطفال على الثدي رضعوا آخر نقطة من حليبهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.5.51",
+          "book": "3MA",
+          "chapter": 5,
+          "verse": 51,
+          "text": "ومع ذلك، تذكّروا المناسبات السابقة التي فيها جاءهم العون من السماء، فارتموا كلهم دفعة واحدة إلى الأرض. أبعدوا الأولاد عن صدورهم،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ومع ذلك، تذكّروا المناسبات السابقة التي فيها جاءهم العون من السماء، فارتموا كلهم دفعة واحدة إلى الأرض. أبعدوا الأولاد عن صدورهم،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:15:48.957222+00:00"
+    },
+    "6": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "3MA",
+      "chapter": 6,
+      "verses": [
+        {
+          "ref": "3MA.6.1",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 1,
+          "text": "أما اليعازر الذي تميّز بين الكهنة في منطقته، وطعن في السن، وتميّزت حياته بالفضائل، فدعا الشيوخ الذين كانوا حوله بأن يتوقّفوا عن الصراخ بهذا الشكل، فيصلّوا هكذا:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أما اليعازر الذي تميّز بين الكهنة في منطقته، وطعن في السن، وتميّزت حياته بالفضائل، فدعا الشيوخ الذين كانوا حوله بأن يتوقّفوا عن الصراخ بهذا الشكل، فيصلّوا هكذا:",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.2",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 2,
+          "text": "أيها الملك العظيم في القدرة، والعليّ، والإله الضابط الكلّ. أنت تسوس الخليقة كلها بالرحمة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أيها الملك العظيم في القدرة، والعليّ، والإله الضابط الكلّ. أنت تسوس الخليقة كلها بالرحمة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.3",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 3,
+          "text": "أنظر إلى زرع ابراهيم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أنظر إلى زرع ابراهيم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.4",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 4,
+          "text": "، إلى أولاد يعقوب الذين قدّستهم، إلى شعب ميراثك المقدس الذي يهلك جورًا كغريب في أرض غريبة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "، إلى أولاد يعقوب الذين قدّستهم، إلى شعب ميراثك المقدس الذي يهلك جورًا كغريب في أرض غريبة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.5",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 5,
+          "text": "دمّرتَ فرعون الملك السابق في مصر، مع مركباته الكثيرة، حين ترفّعَ وتجبّر بوقاحة، وتكلّم بعجرفة تاركًا كل شريعة. دمّرتَه في أعماق البحر مع جيشه المتكبّر، وأرسلت، أيها الأب، نور رحمتك على شعبك إسرائيل.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "دمّرتَ فرعون الملك السابق في مصر، مع مركباته الكثيرة، حين ترفّعَ وتجبّر بوقاحة، وتكلّم بعجرفة تاركًا كل شريعة. دمّرتَه في أعماق البحر مع جيشه المتكبّر، وأرسلت، أيها الأب، نور رحمتك على شعبك إسرائيل.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.6",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 6,
+          "text": "وسنحاريب، ملك الأشوريين الظالم، افتخر بجيشه الذي لا عدّ له، فساد على الأرض كلها بحرابه، وتشامخ على المدينة المقدسة، وقال كلامًا خطيرًا فيه العجرفة والوقاحة. وأنت، أيها الربّ، دمّرتَ قدرته على عيون الأمم العديدة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وسنحاريب، ملك الأشوريين الظالم، افتخر بجيشه الذي لا عدّ له، فساد على الأرض كلها بحرابه، وتشامخ على المدينة المقدسة، وقال كلامًا خطيرًا فيه العجرفة والوقاحة. وأنت، أيها الربّ، دمّرتَ قدرته على عيون الأمم العديدة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.7",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 7,
+          "text": "والفتية الثلاثة في بابل عرّضوا حياتهم بإرادتهم للنار على أن يعبدوا الأصنام. نجّيتهم فلم تتأذّى شعرة في رؤوسهم، وجعلتَ النار المتّقدة مثل الندى لهم، وأرسلتها تحرق أعداءهم. وحُسد دانيال واتّهم افتراء، فرُمي للأسود طعامًا في الجبّ، تحت الأرض.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والفتية الثلاثة في بابل عرّضوا حياتهم بإرادتهم للنار على أن يعبدوا الأصنام. نجّيتهم فلم تتأذّى شعرة في رؤوسهم، وجعلتَ النار المتّقدة مثل الندى لهم، وأرسلتها تحرق أعداءهم. وحُسد دانيال واتّهم افتراء، فرُمي للأسود طعامًا في الجبّ، تحت الأرض.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.8",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 8,
+          "text": "فأعدتَه إلى النور سالمًا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فأعدتَه إلى النور سالمًا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.9",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 9,
+          "text": "وتأوّه يونان في بطن الحوت، في الأعماق، فنظرت إليه أيها الأب وأعدته ليرى كل بيته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وتأوّه يونان في بطن الحوت، في الأعماق، فنظرت إليه أيها الأب وأعدته ليرى كل بيته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.10",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 10,
+          "text": "والآن، أنت الذي يُبغض الوقاحة. يا مليئًا بالرحمة والمحامي عن الجميع، تجلَّ عاجلاً للذين من شعب إسرائيل يُعيّرون من قبل وثنيين مبغوضين ولا شريعة لهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والآن، أنت الذي يُبغض الوقاحة. يا مليئًا بالرحمة والمحامي عن الجميع، تجلَّ عاجلاً للذين من شعب إسرائيل يُعيّرون من قبل وثنيين مبغوضين ولا شريعة لهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.11",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 11,
+          "text": "إن كانت حياتنا تتعرّض للعقاب بسبب أعمال شرّيرة خلال مبتغانا، فأنقذنا من يد أعدائنا، أيها الرب، ودمّرهم بالميتة التي اختاروها لنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "إن كانت حياتنا تتعرّض للعقاب بسبب أعمال شرّيرة خلال مبتغانا، فأنقذنا من يد أعدائنا، أيها الرب، ودمّرهم بالميتة التي اختاروها لنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.12",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 12,
+          "text": "لا تسمح للذين يفكّرون بالباطل، أن يباركوا آلهتهم الكاذبة، حين يدمّر شعبُك، فيقولون: لم يستطع إلهُهم ذاته أن يخلّصهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لا تسمح للذين يفكّرون بالباطل، أن يباركوا آلهتهم الكاذبة، حين يدمّر شعبُك، فيقولون: لم يستطع إلهُهم ذاته أن يخلّصهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.13",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 13,
+          "text": "فأنت كلّي القدرة وكلي القوة، أنت الأزلي. أنظر الآن إلينا، وارحمنا نحن الذاهبين إلى الموت كخونة من قبل الوقاحة والعجرفة في أناس لا شريعة لهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فأنت كلّي القدرة وكلي القوة، أنت الأزلي. أنظر الآن إلينا، وارحمنا نحن الذاهبين إلى الموت كخونة من قبل الوقاحة والعجرفة في أناس لا شريعة لهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.14",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 14,
+          "text": "اجعلْ الوثنيين اليوم يخافون قدرتك التي لا تقهر. فأنت العليّ المجيد، وأنت القادر دومًا على خلاص شعب يعقوب.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "اجعلْ الوثنيين اليوم يخافون قدرتك التي لا تقهر. فأنت العليّ المجيد، وأنت القادر دومًا على خلاص شعب يعقوب.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.15",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 15,
+          "text": "فجمهورُ الأطفال والوالدين يتوسّلون إليك بدموع.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فجمهورُ الأطفال والوالدين يتوسّلون إليك بدموع.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.16",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 16,
+          "text": "لتفهم جميعُ الأمم أنك معنا، وأنك ما ملتَ بوجهك عنا. قلت إنك لا تنسانا حتّى في أرض الأعداء. فتمّم كلامك يا ربّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لتفهم جميعُ الأمم أنك معنا، وأنك ما ملتَ بوجهك عنا. قلت إنك لا تنسانا حتّى في أرض الأعداء. فتمّم كلامك يا ربّ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.17",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 17,
+          "text": "وتبدّلت الأمور.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وتبدّلت الأمور.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.18",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 18,
+          "text": "وما أن أنهى اليعازر صلاته، حتّى وصل الملك إلى الحلبة، مع الوحوش وهتافات الجيش الصاخبة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وما أن أنهى اليعازر صلاته، حتّى وصل الملك إلى الحلبة، مع الوحوش وهتافات الجيش الصاخبة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.19",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 19,
+          "text": "لاحظ اليهودُ ذلك، فرفعوا أصواتهم إلى السماء، فتردّد الصدى في الوادي القريب، فحلّ بالجيش كله رعدة لا تُقاوَم عبّروا عنها بالنواح.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "لاحظ اليهودُ ذلك، فرفعوا أصواتهم إلى السماء، فتردّد الصدى في الوادي القريب، فحلّ بالجيش كله رعدة لا تُقاوَم عبّروا عنها بالنواح.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.20",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 20,
+          "text": "فالعظيم والمجيد والإله الحقيقيّ كشف عن وجهه القدوس، وفتح أبواب السماء من حيث نزل ملاكان يرتديان المجد والشكلَ المهيب. فرآهما الجميع ما عدا اليهود.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فالعظيم والمجيد والإله الحقيقيّ كشف عن وجهه القدوس، وفتح أبواب السماء من حيث نزل ملاكان يرتديان المجد والشكلَ المهيب. فرآهما الجميع ما عدا اليهود.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.21",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 21,
+          "text": "وقفا قبالة جيش الأعداء، وملآهم ضياعًا وخوفًا، وربطاهم بقيود لا تتحرّك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وقفا قبالة جيش الأعداء، وملآهم ضياعًا وخوفًا، وربطاهم بقيود لا تتحرّك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.22",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 22,
+          "text": "وحلّت رعشة في جسد الملك، فصارت عجرفتُه ووقاحته كلا شيء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحلّت رعشة في جسد الملك، فصارت عجرفتُه ووقاحته كلا شيء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.23",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 23,
+          "text": "واستدارت الحيوانات على الجنود الذين يتبعونها فسحقتهم ودمّرتهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واستدارت الحيوانات على الجنود الذين يتبعونها فسحقتهم ودمّرتهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.24",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 24,
+          "text": "عندئذ تحوّل غضب الملك إلى رأفة، فبكى لمشروع هيّأه.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عندئذ تحوّل غضب الملك إلى رأفة، فبكى لمشروع هيّأه.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.25",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 25,
+          "text": "فلما سمع الصراخ، ورآهم كلهم مرميين علـى الأرض وموتى، بكى وهدّد أصدقاءه قائلاً:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فلما سمع الصراخ، ورآهم كلهم مرميين علـى الأرض وموتى، بكى وهدّد أصدقاءه قائلاً:",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.26",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 26,
+          "text": "يا لسياستكم الخرقاء التي تدفع الطغاة إلى القساوة. فأنا المحسن إليكم حاولتم أن تشوّهوا حكمي وحياتي فنصحتموني سرًا بإجراءات تسيء إلى المملكة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "يا لسياستكم الخرقاء التي تدفع الطغاة إلى القساوة. فأنا المحسن إليكم حاولتم أن تشوّهوا حكمي وحياتي فنصحتموني سرًا بإجراءات تسيء إلى المملكة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.27",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 27,
+          "text": "من الذي جلب من بيوتهم أولئك الذين أمسكوا القلاع في أرضنا بأمانة، وجمعهم بجهالة واحدًا واحدًا هنا؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "من الذي جلب من بيوتهم أولئك الذين أمسكوا القلاع في أرضنا بأمانة، وجمعهم بجهالة واحدًا واحدًا هنا؟",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.28",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 28,
+          "text": "من الذي فرض جورًا، عقوبات لم يستحقّها أولئك الذين دلّوا على ولائهم لنا منذ البداية، وخضعوا مرارًا لأبشع الأخطار فتفوّقوا على كل الأمم؟",
+          "structured": {
+            "tokens": [
+              {
+                "text": "من الذي فرض جورًا، عقوبات لم يستحقّها أولئك الذين دلّوا على ولائهم لنا منذ البداية، وخضعوا مرارًا لأبشع الأخطار فتفوّقوا على كل الأمم؟",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.29",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 29,
+          "text": "حُلّوا، أجل حُلّوا قيودهم الجائرة، وأعيدوهم إلى بيتهم بسلام، واطلبوا المغفرة ممّا فعلتموه لهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حُلّوا، أجل حُلّوا قيودهم الجائرة، وأعيدوهم إلى بيتهم بسلام، واطلبوا المغفرة ممّا فعلتموه لهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.30",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 30,
+          "text": "حرّروا أبناء الضابط الكلّ، الإله الحيّ في السماء، الذي منحنا الازدهارَ المجيد والدائم في أعمالنا، منذ أيام آبائنا حتّى اليوم .",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حرّروا أبناء الضابط الكلّ، الإله الحيّ في السماء، الذي منحنا الازدهارَ المجيد والدائم في أعمالنا، منذ أيام آبائنا حتّى اليوم .",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.31",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 31,
+          "text": "هكذا تكلّم الملك. وحُرّر اليهود بعد أن نجوا من موت قريب، فباركوا مخلّصهم، الإله القدوس.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "هكذا تكلّم الملك. وحُرّر اليهود بعد أن نجوا من موت قريب، فباركوا مخلّصهم، الإله القدوس.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.32",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 32,
+          "text": "الاحتفال بالعيد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "الاحتفال بالعيد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.33",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 33,
+          "text": "ومضى الملك إلى مدينته، ودعا وكيلَ المال لديه، وأمره بأن يُعطي اليهود كميّة النبيذ الذي يحتاجون إليه ليعيّدوا سبعة أيام. وقرّر لهم أن يعيّدوا بكل فرح في الموضع الذي عرف خلاصَهم، وحيث انتظروا دمارهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ومضى الملك إلى مدينته، ودعا وكيلَ المال لديه، وأمره بأن يُعطي اليهود كميّة النبيذ الذي يحتاجون إليه ليعيّدوا سبعة أيام. وقرّر لهم أن يعيّدوا بكل فرح في الموضع الذي عرف خلاصَهم، وحيث انتظروا دمارهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.34",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 34,
+          "text": "عندئذ، فالذين أذلّوا واقتربوا من القبر، شربوا كأس خلاصهم بدل المصير المرّ والتعيس. وبعد أن امتلأوا فرحًا، احتفلوا بالعيد في كل مكان قاربوا الدمارَ والقبر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عندئذ، فالذين أذلّوا واقتربوا من القبر، شربوا كأس خلاصهم بدل المصير المرّ والتعيس. وبعد أن امتلأوا فرحًا، احتفلوا بالعيد في كل مكان قاربوا الدمارَ والقبر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.35",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 35,
+          "text": "تركوا أصوات النوح والبكاء، وأخذوا أناشيد آبائهم، فامتدحوا الإله المخلّص وصانع المعجزات. تخلّوا عن نواحهم وبكائهم، وكوّنوا حلقات الرقص ليدلّوا على الفرح والسلام اللذين نالوهما.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "تركوا أصوات النوح والبكاء، وأخذوا أناشيد آبائهم، فامتدحوا الإله المخلّص وصانع المعجزات. تخلّوا عن نواحهم وبكائهم، وكوّنوا حلقات الرقص ليدلّوا على الفرح والسلام اللذين نالوهما.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.36",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 36,
+          "text": "والملك أيضًا أقام وليمة عظيمة لكي يحتفل بما حصل، وعاد لا ينقطع عن الشكر الاحتفاليّ الدائم للسماء، بسبب خلاص لامتوقع أعطي لهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والملك أيضًا أقام وليمة عظيمة لكي يحتفل بما حصل، وعاد لا ينقطع عن الشكر الاحتفاليّ الدائم للسماء، بسبب خلاص لامتوقع أعطي لهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.37",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 37,
+          "text": "والذين سبق وتخيّلوا أن اليهود حُكم عليهم بالدمار بحيث يصيرون فريسة للطيور، وقاموا بالإحصاء بفرح، ولولوا الآن وارتدوا الخجل، وانطفأت نار غضبهم فانتقلوا من الوقاحة إلى العار.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "والذين سبق وتخيّلوا أن اليهود حُكم عليهم بالدمار بحيث يصيرون فريسة للطيور، وقاموا بالإحصاء بفرح، ولولوا الآن وارتدوا الخجل، وانطفأت نار غضبهم فانتقلوا من الوقاحة إلى العار.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.38",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 38,
+          "text": "أما اليهود، كما قلنا، فشكّلوا حلقات الرقص، وقضوا وقتهم في العيد. وأنشدوا مزامير الفرح ليشكروا الربّ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أما اليهود، كما قلنا، فشكّلوا حلقات الرقص، وقضوا وقتهم في العيد. وأنشدوا مزامير الفرح ليشكروا الربّ.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.39",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 39,
+          "text": "واتّخذوا قرارًا علنيًا بأن يحتفلوا هكذا حتّى الأجيال الآتية، ما داموا غرباء. وهكذا جعلوا هذه الأيام أيامَ فرح، لا من أجل الشرب والأكل بشراهة، بل من أجل خلاص حصلوا عليه بيد الله.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "واتّخذوا قرارًا علنيًا بأن يحتفلوا هكذا حتّى الأجيال الآتية، ما داموا غرباء. وهكذا جعلوا هذه الأيام أيامَ فرح، لا من أجل الشرب والأكل بشراهة، بل من أجل خلاص حصلوا عليه بيد الله.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.40",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 40,
+          "text": "وأخيرًا، طلبوا من الملك أن يتركهم يمضون إلى بيوتهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأخيرًا، طلبوا من الملك أن يتركهم يمضون إلى بيوتهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.6.41",
+          "book": "3MA",
+          "chapter": 6,
+          "verse": 41,
+          "text": "كان الإحصاء قد بدأ منذ اليوم الخامس والعشرين في باخون وامتد إلى الرابع من إبيفي، أي أربعين يومًا؟ فالإجراءات التي اتُخذت لأجل تدميرهم، امتدّت من الخامس من ابيفي إلى السابع منه، أي على ثلاثة أيام.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كان الإحصاء قد بدأ منذ اليوم الخامس والعشرين في باخون وامتد إلى الرابع من إبيفي، أي أربعين يومًا؟ فالإجراءات التي اتُخذت لأجل تدميرهم، امتدّت من الخامس من ابيفي إلى السابع منه، أي على ثلاثة أيام.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:15:48.958149+00:00"
+    },
+    "7": {
+      "translation": "ar",
+      "source": "arabic",
+      "book": "3MA",
+      "chapter": 7,
+      "verses": [
+        {
+          "ref": "3MA.7.1",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 1,
+          "text": "من الملك بطليموس فليوباتور إلى القوّاد في مصر وجميع المهتمّين بأمورنا. سلام وعافية.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "من الملك بطليموس فليوباتور إلى القوّاد في مصر وجميع المهتمّين بأمورنا. سلام وعافية.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.2",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 2,
+          "text": "من جهتنا، نحن في صحّة تامّة وأولادنا أيضًا. فالإله العظيم وجّه أحوالنا بحسب رغبتنا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "من جهتنا، نحن في صحّة تامّة وأولادنا أيضًا. فالإله العظيم وجّه أحوالنا بحسب رغبتنا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.3",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 3,
+          "text": "ولكن بعض أصدقائنا حرّكهم الشرّ، فألحّوا علينا مرارًا وأقنعونا بأن نجمع اليهود في المملكة كتلة واحدة، ونسومهم عذابات خارقة لأنهم خوَنة.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن بعض أصدقائنا حرّكهم الشرّ، فألحّوا علينا مرارًا وأقنعونا بأن نجمع اليهود في المملكة كتلة واحدة، ونسومهم عذابات خارقة لأنهم خوَنة.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.4",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 4,
+          "text": "وأشاروا إلينا أن أحوالنا لن تكون ثابتة حتى يتمّ هذا العقاب، بسبب الشرّ الذي يُضمره اليهود لجميع الأمم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأشاروا إلينا أن أحوالنا لن تكون ثابتة حتى يتمّ هذا العقاب، بسبب الشرّ الذي يُضمره اليهود لجميع الأمم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.5",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 5,
+          "text": "وهكذا جاؤوا بهم كعبيد أو متآمرين، بعد أن أساؤوا معاملتَهم، وحاولوا قتلهم بدون محاكمة عادلة أو بحث واستقصاء. حجروا عليهم بقساوة ووحشيّة لم تصل إليها عادات الاسكوتيين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وهكذا جاؤوا بهم كعبيد أو متآمرين، بعد أن أساؤوا معاملتَهم، وحاولوا قتلهم بدون محاكمة عادلة أو بحث واستقصاء. حجروا عليهم بقساوة ووحشيّة لم تصل إليها عادات الاسكوتيين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.6",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 6,
+          "text": "ولكن بسبب الرحمة التي بها عاملنا جميعَ البشر، وبّخناهم لسلوكهم وهدّدناهم. وسمحنا لليهود بأن يعيشوا. وإذ عرفنا الحماية التي يحميها الله في السماء لليهود، بسبب عهده معهم، كعهد الأب مع أولاده،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "ولكن بسبب الرحمة التي بها عاملنا جميعَ البشر، وبّخناهم لسلوكهم وهدّدناهم. وسمحنا لليهود بأن يعيشوا. وإذ عرفنا الحماية التي يحميها الله في السماء لليهود، بسبب عهده معهم، كعهد الأب مع أولاده،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.7",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 7,
+          "text": "وأخذنا بعين الاعتبار ولاءهم الدائم لنا ولآبائنا، برّأناهم بعدل من كل اتّهام ضدّهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأخذنا بعين الاعتبار ولاءهم الدائم لنا ولآبائنا، برّأناهم بعدل من كل اتّهام ضدّهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.8",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 8,
+          "text": "وأمرنا بأن يعود كلُ واحد إلى بيته، بحيث لا نؤذيهم البتّة، في أي مكان، ولا نشير إلى القصاص الجائر الذي فرضناه عليهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وأمرنا بأن يعود كلُ واحد إلى بيته، بحيث لا نؤذيهم البتّة، في أي مكان، ولا نشير إلى القصاص الجائر الذي فرضناه عليهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.9",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 9,
+          "text": "وتأكّدوا ( = أنتم) أننا إن نوينا الشرّ عليهم أو بيّنا لهم سوءًا، لا يكون خصمُنا إنساناً من الناس، بل الإله العليّ وسيّد كل قدرة، وهو ينتقم من مثل هذه الأعمال، بحيث لا ننجو من يده في كل الظروف وفي كل الأوقات. كونوا سالمين.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وتأكّدوا ( = أنتم) أننا إن نوينا الشرّ عليهم أو بيّنا لهم سوءًا، لا يكون خصمُنا إنساناً من الناس، بل الإله العليّ وسيّد كل قدرة، وهو ينتقم من مثل هذه الأعمال، بحيث لا ننجو من يده في كل الظروف وفي كل الأوقات. كونوا سالمين.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.10",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 10,
+          "text": "حين تلقّى اليهود هذه الرسالة، لم يعودوا يعجّلون في الذهاب، بل طلبوا أيضًا من الملك أن ينال عقابًا من أيديهم، أولئك اليهود الذين تعدّوا بإرادتهم على الإله القدّوس وتجاوزوا شريعته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "حين تلقّى اليهود هذه الرسالة، لم يعودوا يعجّلون في الذهاب، بل طلبوا أيضًا من الملك أن ينال عقابًا من أيديهم، أولئك اليهود الذين تعدّوا بإرادتهم على الإله القدّوس وتجاوزوا شريعته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.11",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 11,
+          "text": "وشدّدوا على أن الذين رفضوا وصايا الله من أجل بطنهم، لن يكونوا أمناء لأمور الملك.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وشدّدوا على أن الذين رفضوا وصايا الله من أجل بطنهم، لن يكونوا أمناء لأمور الملك.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.12",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 12,
+          "text": "فأقرّ الملك بحقيقة ما قالوا، وامتدحهم، ومنحهم ملء السلطان لكي يدمّروا جميع الذين تجاوزوا شريعة الله، في أي موضع في مملكته، بدون إذن ولا ارتباك، بدون بحث ولا استقصاء.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فأقرّ الملك بحقيقة ما قالوا، وامتدحهم، ومنحهم ملء السلطان لكي يدمّروا جميع الذين تجاوزوا شريعة الله، في أي موضع في مملكته، بدون إذن ولا ارتباك، بدون بحث ولا استقصاء.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.13",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 13,
+          "text": "عودة اليهود إلى بيوتهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "عودة اليهود إلى بيوتهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.14",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 14,
+          "text": "فصفّق له كهنتهم تصفيقًا، ومضت الجموع كلها بفرح وهي تهتف هللويا.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فصفّق له كهنتهم تصفيقًا، ومضت الجموع كلها بفرح وهي تهتف هللويا.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.15",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 15,
+          "text": "وكل يهودي التقوه في طريقهم، قد تنجّس، عاقبوه بالموت ليكون عبرة لمن اعتبر.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وكل يهودي التقوه في طريقهم، قد تنجّس، عاقبوه بالموت ليكون عبرة لمن اعتبر.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.16",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 16,
+          "text": "فقتلوا في ذلك اليوم أكثر من 300 رجل، واعتبروا تدمير هؤلاء الأنجاس عيدًا من أعياد الفرح.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "فقتلوا في ذلك اليوم أكثر من 300 رجل، واعتبروا تدمير هؤلاء الأنجاس عيدًا من أعياد الفرح.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.17",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 17,
+          "text": "أما الذين ظلّوا متعلّقين بالله حتّى الموت، فقد نعموا بملء الخلاص. وانطلقوا من المدينة تُكلّلهم كلُّ أنواع الزهور. شكروا إله آبائهم ومخلّص إسرائيل الأبديّ بهتافات الفرح وأناشيد المديح.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "أما الذين ظلّوا متعلّقين بالله حتّى الموت، فقد نعموا بملء الخلاص. وانطلقوا من المدينة تُكلّلهم كلُّ أنواع الزهور. شكروا إله آبائهم ومخلّص إسرائيل الأبديّ بهتافات الفرح وأناشيد المديح.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.18",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 18,
+          "text": "وحين وصلوا إلى بطلمايس المسمّاة حاملة الورد، حيث انتظرتهم السفن سبعة أيام، حسب رغبتهم جميعًا،.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحين وصلوا إلى بطلمايس المسمّاة حاملة الورد، حيث انتظرتهم السفن سبعة أيام، حسب رغبتهم جميعًا،.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.19",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 19,
+          "text": "كانت هناك وليمة تحتفل بنجاتهم. ثم إن الملك منح كل واحد منهم كل ما يحتاج إليه حتى يصل إلى بيته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "كانت هناك وليمة تحتفل بنجاتهم. ثم إن الملك منح كل واحد منهم كل ما يحتاج إليه حتى يصل إلى بيته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.20",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 20,
+          "text": "وحين أتمّوا سفرهم بسلام مع الشكر اللائق، قرّروا هناك، كما في السابق أن يجعلوا هذه الأيام، أيام عيد.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وحين أتمّوا سفرهم بسلام مع الشكر اللائق، قرّروا هناك، كما في السابق أن يجعلوا هذه الأيام، أيام عيد.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.21",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 21,
+          "text": "سجّلوها كأيام مقدّسة على العمود، وكرّسوا موضع العيد ليكون موضع الصلاة. انطلقوا بدون أذى، أحرارًا، وهم ممتلئون فرحًا. فاقتيدوا بأمان، بأمر الملك، أرضًا وبحرًا ونهرًا، كل واحد إلى بيته.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "سجّلوها كأيام مقدّسة على العمود، وكرّسوا موضع العيد ليكون موضع الصلاة. انطلقوا بدون أذى، أحرارًا، وهم ممتلئون فرحًا. فاقتيدوا بأمان، بأمر الملك، أرضًا وبحرًا ونهرًا، كل واحد إلى بيته.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.22",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 22,
+          "text": "وتمتّعوا بسلطة أكبر من قبل، لدى أعدائهم، واعُتبروا اعتبارًا كبيرًا، وحلّت مخافتهم بحيث لم يجرؤ أحد أن يسلبهم أموالهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "وتمتّعوا بسلطة أكبر من قبل، لدى أعدائهم، واعُتبروا اعتبارًا كبيرًا، وحلّت مخافتهم بحيث لم يجرؤ أحد أن يسلبهم أموالهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "3MA.7.23",
+          "book": "3MA",
+          "chapter": 7,
+          "verse": 23,
+          "text": "استعادوا كل ممتلكاتهم، حسب السجلات، والذين كان لهم خير استعادوه بخوف عظيم. فالإله العظيم أتمّ عظائم من أجل خلاصهم.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "استعادوا كل ممتلكاتهم، حسب السجلات، والذين كان لهم خير استعادوه بخوف عظيم. فالإله العظيم أتمّ عظائم من أجل خلاصهم.",
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [],
+      "fetchedAt": "2026-05-06T16:15:48.958864+00:00"
+    }
+  }
+}

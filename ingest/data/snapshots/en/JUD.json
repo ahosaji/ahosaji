@@ -1,0 +1,705 @@
+{
+  "usfm": "JUD",
+  "source": "english",
+  "chapters": {
+    "1": {
+      "translation": "en",
+      "source": "english",
+      "book": "JUD",
+      "chapter": 1,
+      "verses": [
+        {
+          "ref": "JUD.1.1",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Jude, a bondservant of Jesus Christ, and brother of James,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Jude, a bondservant of Jesus Christ, and brother of James,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Greeting to the Called",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.2",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Mercy, peace, and love be multiplied to you.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Mercy, peace, and love be multiplied to you.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.3",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Beloved, while I was very diligent to write to you concerning our common salvation, I found it necessary to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Beloved, while I was very diligent to write to you concerning our common salvation, I found it necessary to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Contend for the Faith",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.4",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 4,
+          "text": "For certain men have crept in unnoticed, who long ago were marked out for this condemnation, ungodly men, who turn the grace of our God into lewdness and deny the only Lord God and our Lord Jesus Christ.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "For certain men have crept in unnoticed, who long ago were marked out for this condemnation, ungodly men, who turn the grace of our God into lewdness and deny the only Lord God and our Lord Jesus Christ.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "b",
+                "text": "NU omits God"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.5",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 5,
+          "text": "But I want to remind you, though you once knew this, that the Lord, having saved the people out of the land of Egypt, afterward destroyed those who did not believe.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But I want to remind you, though you once knew this, that the Lord, having saved the people out of the land of Egypt, afterward destroyed those who did not believe.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Old and New Apostates",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.6",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 6,
+          "text": "And the angels who did not keep their proper domain, but left their own abode, He has reserved in everlasting chains under darkness for the judgment of the great day;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And the angels who did not keep their proper domain, but left their own abode, He has reserved in everlasting chains under darkness for the judgment of the great day;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "c",
+                "text": "own"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.7",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 7,
+          "text": "as Sodom and Gomorrah, and the cities around them in a similar manner to these, having given themselves over to sexual immorality and gone after strange flesh, are set forth as an example, suffering the vengeance of eternal fire.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "as Sodom and Gomorrah, and the cities around them in a similar manner to these, having given themselves over to sexual immorality and gone after strange flesh, are set forth as an example, suffering the vengeance of eternal fire.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "d",
+                "text": "punishment"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.8",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Likewise also these dreamers defile the flesh, reject authority, and speak evil of dignitaries.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Likewise also these dreamers defile the flesh, reject authority, and speak evil of dignitaries.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "e",
+                "text": "glorious ones, lit. glories"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.9",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Yet Michael the archangel, in contending with the devil, when he disputed about the body of Moses, dared not bring against him a reviling accusation, but said, “The Lord rebuke you!”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Yet Michael the archangel, in contending with the devil, when he disputed about the body of Moses, dared not bring against him a reviling accusation, but said, “The Lord rebuke you!”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "f",
+                "text": "arguing"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.10",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 10,
+          "text": "But these speak evil of whatever they do not know; and whatever they know naturally, like brute beasts, in these things they corrupt themselves.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But these speak evil of whatever they do not know; and whatever they know naturally, like brute beasts, in these things they corrupt themselves.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.11",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Woe to them! For they have gone in the way of Cain, have run greedily in the error of Balaam for profit, and perished in the rebellion of Korah.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Woe to them! For they have gone in the way of Cain, have run greedily in the error of Balaam for profit, and perished in the rebellion of Korah.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.12",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 12,
+          "text": "These are spots in your love feasts, while they feast with you without fear, serving only themselves. They are clouds without water, carried about by the winds; late autumn trees without fruit, twice dead, pulled up by the roots;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These are spots in your love feasts, while they feast with you without fear, serving ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "only",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " themselves. ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "They are",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " clouds without water, carried about by the winds; late autumn trees without fruit, twice dead, pulled up by the roots;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "g",
+                "text": "stains, or hidden reefs"
+              },
+              {
+                "marker": "h",
+                "text": "NU, M along"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Apostates Depraved and Doomed",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.13",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 13,
+          "text": "raging waves of the sea, foaming up their own shame; wandering stars for whom is reserved the blackness of darkness forever.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "raging waves of the sea, foaming up their own shame; wandering stars for whom is reserved the blackness of darkness forever.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.14",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Now Enoch, the seventh from Adam, prophesied about these men also, saying, “Behold, the Lord comes with ten thousands of His saints,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now Enoch, the seventh from Adam, prophesied about these men also, saying, “Behold, the Lord comes with ten thousands of His saints,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.15",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 15,
+          "text": "to execute judgment on all, to convict all who are ungodly among them of all their ungodly deeds which they have committed in an ungodly way, and of all the harsh things which ungodly sinners have spoken against Him.”",
+          "structured": {
+            "tokens": [
+              {
+                "text": "to execute judgment on all, to convict all who are ungodly among them of all their ungodly deeds which they have committed in an ungodly way, and of all the harsh things which ungodly sinners have spoken against Him.”",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.16",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 16,
+          "text": "These are grumblers, complainers, walking according to their own lusts; and they mouth great swelling words, flattering people to gain advantage.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These are grumblers, complainers, walking according to their own lusts; and they mouth great swelling ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "words",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": ", flattering people to gain advantage.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Apostates Predicted",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.17",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 17,
+          "text": "But you, beloved, remember the words which were spoken before by the apostles of our Lord Jesus Christ:",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you, beloved, remember the words which were spoken before by the apostles of our Lord Jesus Christ:",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.18",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 18,
+          "text": "how they told you that there would be mockers in the last time who would walk according to their own ungodly lusts.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "how they told you that there would be mockers in the last time who would walk according to their own ungodly lusts.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.19",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 19,
+          "text": "These are sensual persons, who cause divisions, not having the Spirit.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "These are sensual persons, who cause divisions, not having the Spirit.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "i",
+                "text": "soulish or worldly"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.20",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 20,
+          "text": "But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": "Maintain Your Life with God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.21",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 21,
+          "text": "keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.22",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 22,
+          "text": "And on some have compassion, making a distinction;",
+          "structured": {
+            "tokens": [
+              {
+                "text": "And on some have compassion, making a distinction;",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "j",
+                "text": "NU who are doubting (or making distinctions)"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.23",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 23,
+          "text": "but others save with fear, pulling them out of the fire, hating even the garment defiled by the flesh.",
+          "structured": {
+            "tokens": [
+              {
+                "text": "but others save with fear, pulling ",
+                "italic": false,
+                "redLetter": false
+              },
+              {
+                "text": "them",
+                "italic": true,
+                "redLetter": false
+              },
+              {
+                "text": " out of the fire, hating even the garment defiled by the flesh.",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "k",
+                "text": "NU omits with fear"
+              },
+              {
+                "marker": "l",
+                "text": "NU adds and on some have mercy with fear"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.24",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 24,
+          "text": "Now to Him who is able to keep you from stumbling,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "Now to Him who is able to keep you from stumbling,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "m",
+                "text": "M them"
+              }
+            ],
+            "crossRefs": [],
+            "heading": "Glory to God",
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        },
+        {
+          "ref": "JUD.1.25",
+          "book": "JUD",
+          "chapter": 1,
+          "verse": 25,
+          "text": "To God our Savior,",
+          "structured": {
+            "tokens": [
+              {
+                "text": "To God our Savior,",
+                "italic": false,
+                "redLetter": false
+              }
+            ],
+            "footnotes": [
+              {
+                "marker": "n",
+                "text": "NU the only God our"
+              }
+            ],
+            "crossRefs": [],
+            "heading": null,
+            "paragraphStart": false,
+            "poetic": false,
+            "poeticLines": null
+          }
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Greeting to the Called",
+          "level": 2
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Contend for the Faith",
+          "level": 2
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Old and New Apostates",
+          "level": 2
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Apostates Depraved and Doomed",
+          "level": 2
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Apostates Predicted",
+          "level": 2
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Maintain Your Life with God",
+          "level": 2
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Glory to God",
+          "level": 2
+        }
+      ],
+      "fetchedAt": "2026-05-03T23:01:31.212Z"
+    }
+  }
+}
