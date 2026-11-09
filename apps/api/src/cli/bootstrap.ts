@@ -45,8 +45,10 @@ async function seedAdminKey(): Promise<void> {
   const { rows } = await pool.query<{ n: number }>(
     `SELECT count(*)::int AS n FROM api_keys WHERE revoked_at IS NULL`,
   );
-  if (rows[0].n > 0) {
-    console.log(`[bootstrap] ${rows[0].n} active API key(s) already exist — skipping seed.`);
+  // COUNT without GROUP BY always returns one row.
+  const activeKeyCount = rows[0]!.n;
+  if (activeKeyCount > 0) {
+    console.log(`[bootstrap] ${activeKeyCount} active API key(s) already exist — skipping seed.`);
     return;
   }
   const email = process.env.BOOTSTRAP_ADMIN_EMAIL || 'hello@ahosaji.com';
@@ -67,7 +69,8 @@ async function seedAdminKey(): Promise<void> {
     await client.query(
       `INSERT INTO api_keys(consumer_id, key_hash, prefix, label)
        VALUES ($1, $2, $3, 'bootstrap-admin')`,
-      [consumer.rows[0].id, hash, prefix],
+      // The SELECT found a consumer or the INSERT returned its new ID.
+      [consumer.rows[0]!.id, hash, prefix],
     );
     await client.query('COMMIT');
     console.log('\n[bootstrap] ============ INITIAL ADMIN API KEY (shown once) ============');
