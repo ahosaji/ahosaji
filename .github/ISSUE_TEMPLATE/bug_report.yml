@@ -1,0 +1,32 @@
+name: Bug report
+description: Report a reproducible problem with Ahosaji.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For security vulnerabilities, follow [SECURITY.md](https://github.com/ahosaji/ahosaji/blob/main/SECURITY.md) instead of opening a public issue.
+        Remove API keys, tokens, passwords, and personal information from examples and logs.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include a minimal request or code example, with credentials removed.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: Which Ahosaji version or commit are you using?
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and logs
+      description: Include relevant Node.js, pnpm, and operating system versions, and sanitized logs.

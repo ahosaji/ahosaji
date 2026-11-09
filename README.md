@@ -6,6 +6,11 @@ Bible (Arabic + English), Lectionary (Katameros), Synaxarium, Agpeya — exposed
 
 See [`PLAN.md`](./PLAN.md) for architecture and roadmap.
 
+## Community
+
+Join [Discussions](https://github.com/ahosaji/ahosaji/discussions) for questions and ideas, or [report an issue](https://github.com/ahosaji/ahosaji/issues/new/choose).
+See [Contributing](./CONTRIBUTING.md), the [Code of Conduct](./CODE_OF_CONDUCT.md), [Support](./SUPPORT.md), and the [Security Policy](./SECURITY.md).
+
 ## Local development
 
 Prerequisites:
