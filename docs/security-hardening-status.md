@@ -43,7 +43,7 @@ with the source changes.
 Local verification on the official checksum-verified Node 22.23.4 binary:
 
 - Frozen install and all three workspace typechecks passed.
-- 74 TypeScript tests passed, including PostgreSQL integration; zero failures
+- 76 TypeScript tests passed, including PostgreSQL integration; zero failures
   and zero skips. Seven Python tests passed.
 - All 156 snapshots and 2,686 chapters validate, with the same 703 explicit
   compatibility/editorial warnings. Dataset bytes and original root SQL
@@ -63,6 +63,12 @@ Local verification on the official checksum-verified Node 22.23.4 binary:
   historical occurrence is recorded in `.gitleaksignore`; the archived token
   must never be reused. This does not attest to other environments. New
   occurrences remain blocked. Hosted CI results are required before integration.
+
+CodeQL initially flagged the optional MCP authentication header branch. Full
+HTTP regressions confirm that anonymous discovery cannot invoke tools, read
+resources or retrieve prompts, and malformed/invalid credentials cannot execute
+protected routes. The alert was triaged as a false positive for intentional
+public protocol discovery; the query remains enabled.
 
 Migration tests use an isolated PostgreSQL 16 fixture. The backup helper and
 network-isolated restore were exercised with one synthetic translation, book

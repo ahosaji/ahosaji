@@ -77,6 +77,57 @@ test('REST parallel uses deduplicated codes and bounded shared expansion', async
   } finally { query.mock.restore(); await app.close(); }
 });
 
+test('protected HTTP routes reject missing, malformed and invalid credentials before execution', async () => {
+  let executions = 0;
+  const app = await buildApp({ logger: false, authenticate: async () => null });
+  for (const path of ['/v1/private', '/v1/graphql/private', '/v1/mcp-private', '/v1/translations/en/private']) {
+    app.get(path, () => { executions++; return { content: 'protected' }; });
+  }
+  try {
+    for (const path of ['/v1/private', '/v1/graphql/private', '/v1/mcp-private', '/v1/translations/en/private']) {
+      for (const authorization of [undefined, '', 'Basic invalid', `Bearer ${generateKey().plaintext}`]) {
+        const response = await app.inject({ url: path, headers: authorization === undefined ? {} : { authorization } });
+        assert.equal(response.statusCode, 401, `${path}: ${response.body}`);
+      }
+    }
+    assert.equal(executions, 0);
+  } finally { await app.close(); }
+});
+
+test('MCP HTTP anonymous discovery cannot bypass content authentication', async () => {
+  let databaseCalls = 0;
+  let quotaCalls = 0;
+  const query = mock.method(pool, 'query', async () => { databaseCalls++; return { rows: [] }; });
+  const app = await buildApp({ logger: false, authenticate: async () => null, consumeQuota: async () => { quotaCalls++; return true; } });
+  const content = [
+    { method: 'tools/call', params: { name: 'list_translations', arguments: {} } },
+    { method: 'resources/read', params: { uri: 'ahosaji://bible/en/JHN.3' } },
+    { method: 'prompts/get', params: { name: 'verse_in_context', arguments: { translation: 'en', ref: 'JHN.3.16' } } },
+  ];
+  const request = (method: string, params: object, authorization?: string) => app.inject({
+    method: 'POST', url: '/v1/mcp',
+    headers: { accept: 'application/json, text/event-stream', ...(authorization === undefined ? {} : { authorization }) },
+    payload: { jsonrpc: '2.0', id: 1, method, params },
+  });
+  try {
+    for (const authorization of [undefined, '']) {
+      const discovery = await request('tools/list', {}, authorization);
+      assert.equal(discovery.statusCode, 200, discovery.body);
+      assert.match(discovery.body, /list_translations/);
+      for (const operation of content) {
+        const response = await request(operation.method, operation.params, authorization);
+        assert.equal(response.statusCode, 200, response.body);
+        assert.match(response.body, /requires Authorization/);
+      }
+    }
+    for (const authorization of ['Basic invalid', 'Bearer invalid', `Bearer ${generateKey().plaintext}`]) {
+      for (const operation of content) assert.equal((await request(operation.method, operation.params, authorization)).statusCode, 401);
+    }
+    assert.equal(databaseCalls, 0);
+    assert.equal(quotaCalls, 0);
+  } finally { query.mock.restore(); await app.close(); }
+});
+
 test('MCP transport owns a finite deadline after hijacking the response', async () => {
   const handle = mock.method(StreamableHTTPServerTransport.prototype, 'handleRequest', async () => new Promise<void>(() => {}));
   const app = Fastify({ genReqId: () => 'mcp-deadline' });
