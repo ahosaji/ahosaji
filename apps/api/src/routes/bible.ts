@@ -4,6 +4,7 @@
  */
 import type { FastifyInstance } from 'fastify';
 import { pool } from '../db.js';
+import { isPositiveDatabaseInteger } from '../refs.js';
 
 interface ChapterParams { code: string; usfm: string; n: string; }
 interface VerseParams extends ChapterParams { v: string; }
@@ -16,7 +17,7 @@ export async function bibleRoutes(app: FastifyInstance): Promise<void> {
     async (req, reply) => {
       const { code, usfm } = req.params;
       const chapter = Number(req.params.n);
-      if (!Number.isInteger(chapter) || chapter < 1) {
+      if (!isPositiveDatabaseInteger(chapter)) {
         return reply.code(400).send({ title: 'Bad Request', detail: 'chapter must be positive integer' });
       }
 
@@ -61,7 +62,7 @@ export async function bibleRoutes(app: FastifyInstance): Promise<void> {
       if (from === null || to === null) {
         return reply.code(400).send({ title: 'Bad Request', detail: 'from and to query params required (use /verses/:v for a single verse)' });
       }
-      if (!Number.isInteger(from) || !Number.isInteger(to) || from > to) {
+      if (!isPositiveDatabaseInteger(chapter) || !isPositiveDatabaseInteger(from) || !isPositiveDatabaseInteger(to) || from > to) {
         return reply.code(400).send({ title: 'Bad Request', detail: 'from/to must be integers and from <= to' });
       }
 
@@ -90,7 +91,7 @@ export async function bibleRoutes(app: FastifyInstance): Promise<void> {
       const { code, usfm } = req.params;
       const chapter = Number(req.params.n);
       const verse = Number(req.params.v);
-      if (!Number.isInteger(chapter) || !Number.isInteger(verse)) {
+      if (!isPositiveDatabaseInteger(chapter) || !isPositiveDatabaseInteger(verse)) {
         return reply.code(400).send({ title: 'Bad Request', detail: 'chapter and verse must be integers' });
       }
 

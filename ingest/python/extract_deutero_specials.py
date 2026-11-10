@@ -31,7 +31,8 @@ from extract_deutero_chapter import (  # type: ignore
 import pymupdf  # type: ignore
 
 
-PDF_PATH = "/Users/youssef/personal/coptic-church-assets/source.pdf"
+from source_pdf import extraction_options
+from completeness import write_book_snapshot, open_pdf_or_report
 OUT_DIR = Path(__file__).parent.parent / "data" / "snapshots" / "en"
 
 
@@ -91,43 +92,25 @@ def build_chapter(text: str, usfm: str, chapter: int, max_verse: int) -> dict:
     }
 
 
-def write_book(usfm: str, chapters: dict[int, dict]) -> None:
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    out = {"usfm": usfm, "source": "deutero", "chapters": {str(n): c for n, c in chapters.items()}}
-    out_path = OUT_DIR / f"{usfm}.json"
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    total_v = sum(len(c.get("verses", [])) for c in chapters.values())
-    print(f"  ✓ {usfm}: {len(chapters)} chapter(s), {total_v} verses → {out_path.relative_to(Path.cwd())}")
-
-
 def main() -> None:
-    doc = pymupdf.open(PDF_PATH)
-
-    print("Extracting English Deuterocanonical specials (PS2 + DAG)...\n")
-
-    # PS2 = Psalm 151 — page 1914, slice from "Psalm 151" header
-    print("PS2 (Psalm 151):")
-    ps2_text = fetch_pages(doc, 1914, 1914)
-    ps2_text = slice_from(ps2_text, "Psalm 151")
-    ps2_ch1 = build_chapter(ps2_text, "PS2", 1, max_verse=10)
-    write_book("PS2", {1: ps2_ch1})
-
-    # DAG ch 1 = Susanna — pages 3036-3039 (text spills onto p3039 before
-    # Daniel ch 1 starts mid-page). The verse-monotonicity truncation in
-    # build_chapter cuts off when Daniel 1:1 appears.
-    print("\nDAG (Daniel additions):")
-    sus_text = fetch_pages(doc, 3036, 3039)
-    sus_text = slice_from(sus_text, "Susanna", use_rfind=False)
-    # Slice TWICE — first "Susanna" is in the Daniel intro outline, real header is after
-    sus_text2 = slice_from(sus_text, "Susanna", use_rfind=False) if "Susanna" in sus_text[:1500] else sus_text
-    dag_susanna = build_chapter(sus_text2, "DAG", 1, max_verse=64)
-
-    # DAG ch 2 = Bel and the Serpent — pages 3073-3075, slice from header
-    bel_text = fetch_pages(doc, 3073, 3075)
-    bel_text = slice_from(bel_text, "Bel and the Serpent")
-    dag_bel = build_chapter(bel_text, "DAG", 2, max_verse=42)
-
-    write_book("DAG", {1: dag_susanna, 2: dag_bel})
+    args = extraction_options()
+    doc = open_pdf_or_report(pymupdf.open, args.pdf, {'PS2': 1, 'DAG': 2}, allow_partial=args.allow_partial)
+    chapters = {'PS2': {}, 'DAG': {}}; failures = {'PS2': [], 'DAG': []}
+    specifications = [('PS2', 1, 1914, 1914, 'Psalm 151', 10),
+                      ('DAG', 1, 3036, 3039, 'Susanna', 64),
+                      ('DAG', 2, 3073, 3075, 'Bel and the Serpent', 42)]
+    for book, chapter, start, end, marker, max_verse in specifications:
+        try:
+            text = slice_from(fetch_pages(doc, start, end), marker)
+            # Preserve the original Susanna intro/header disambiguation.
+            if book == 'DAG' and chapter == 1 and 'Susanna' in text[:1500]:
+                text = slice_from(text, 'Susanna')
+            chapters[book][chapter] = build_chapter(text, book, chapter, max_verse)
+        except Exception as error:
+            failures[book].append({'chapter': chapter, 'error': str(error)})
+    codes = [write_book_snapshot(OUT_DIR / f'{book}.json', book, chapters[book], expected,
+             allow_partial=args.allow_partial, failures=failures[book]) for book, expected in [('PS2', 1), ('DAG', 2)]]
+    raise SystemExit(max(codes))
 
 
 if __name__ == "__main__":

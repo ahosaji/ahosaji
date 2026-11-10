@@ -1,5 +1,6 @@
 import { spawn } from 'node:child_process';
 import { resolve } from 'node:path';
+import { existsSync } from 'node:fs';
 import { env } from '../env.js';
 import type { Chapter } from '../types/canonical.js';
 
@@ -9,20 +10,22 @@ export interface DeuteroOpts {
   startPage: number;    // 1-indexed PDF page where chapter content begins
   endPage: number;      // 1-indexed PDF page where chapter content ends (inclusive)
   maxVerse: number;     // upper bound for verse-marker disambiguation
+  pdfPath?: string;
 }
 
-const PYTHON_BIN = resolve(import.meta.dirname, '../../python/.venv/bin/python');
+const VENV_PYTHON = resolve(import.meta.dirname, '../../python/.venv/bin/python');
 const SCRIPT_PATH = resolve(import.meta.dirname, '../../python/extract_deutero_chapter.py');
 
 export async function extractDeuteroChapter(opts: DeuteroOpts): Promise<Chapter> {
-  if (!env.deuteroPdfPath) {
-    throw new Error('English_PDF_PATH not set in .env');
+  const pdfPath = opts.pdfPath || env.deuteroPdfPath;
+  if (!pdfPath) {
+    throw new Error('Configure SOURCE_PDF_PATH or pass --pdf (English_PDF_PATH remains a compatibility alias)');
   }
   console.log(`  → extracting ${opts.bookUsfm} ${opts.chapter} from PDF pages ${opts.startPage}..${opts.endPage}`);
 
   const args = [
     SCRIPT_PATH,
-    '--pdf', env.deuteroPdfPath,
+    '--pdf', pdfPath,
     '--book-usfm', opts.bookUsfm,
     '--chapter', String(opts.chapter),
     '--start-page', String(opts.startPage),
@@ -43,7 +46,7 @@ export async function extractDeuteroChapter(opts: DeuteroOpts): Promise<Chapter>
 
 function runPython(args: string[]): Promise<{ stdout: string; stderr: string; code: number }> {
   return new Promise((res, rej) => {
-    const child = spawn(PYTHON_BIN, args, { stdio: ['ignore', 'pipe', 'pipe'] });
+    const child = spawn(env.pythonBin || (existsSync(VENV_PYTHON) ? VENV_PYTHON : 'python3'), args, { stdio: ['ignore', 'pipe', 'pipe'] });
     let stdout = '';
     let stderr = '';
     child.stdout.on('data', (d) => { stdout += d.toString(); });

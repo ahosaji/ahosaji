@@ -17,11 +17,17 @@ const REF_PATTERN = /^([A-Z0-9]{3})\.(\d+)\.(\d+)$/;
 export function parseRef(ref: string): ParsedRef | null {
   const m = ref.match(REF_PATTERN);
   if (!m) return null;
-  return { book: m[1]!, chapter: Number(m[2]), verse: Number(m[3]) };
+  const chapter = Number(m[2]), verse = Number(m[3]);
+  if (!isPositiveDatabaseInteger(chapter) || !isPositiveDatabaseInteger(verse)) return null;
+  return { book: m[1]!, chapter, verse };
 }
 
 export function compareRef(a: ParsedRef, b: ParsedRef): number {
   if (a.book !== b.book) return a.book.localeCompare(b.book);
   if (a.chapter !== b.chapter) return a.chapter - b.chapter;
   return a.verse - b.verse;
+}
+
+export function isPositiveDatabaseInteger(value: number): boolean {
+  return Number.isInteger(value) && value >= 1 && value <= 2147483647;
 }

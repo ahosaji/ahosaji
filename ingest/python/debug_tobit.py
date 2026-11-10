@@ -1,8 +1,9 @@
 """Debug verse and heading offset detection for Tobit 1."""
 import re
 import pymupdf  # type: ignore
+from source_pdf import configured_pdf
 
-doc = pymupdf.open('/Users/youssef/personal/coptic-church-assets/source.pdf')
+doc = pymupdf.open(configured_pdf())
 text = '\n'.join(doc.load_page(p).get_text('text') for p in range(1345, 1347))
 text = re.sub(r'^\s*(\d+)\s*$', '', text, flags=re.M)
 

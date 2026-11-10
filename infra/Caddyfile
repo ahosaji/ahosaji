@@ -8,10 +8,10 @@
 #
 # Usage:
 #   caddy run --config /etc/caddy/Caddyfile
-# DNS: point an A/AAAA record for api.ahosaji.dev at this server first, or ACME
-# HTTP-01 validation will fail.
+# Set API_DOMAIN to the actual public hostname before loading this file.
+# DNS must resolve that hostname to this server before ACME validation.
 
-api.ahosaji.dev {
+{$API_DOMAIN} {
 	# Forward all traffic to the Fastify app on loopback.
 	reverse_proxy 127.0.0.1:3001
 
@@ -38,7 +38,7 @@ api.ahosaji.dev {
 
 	# Structured access logs.
 	log {
-		output file /var/log/caddy/api.ahosaji.dev.access.log
+		output stdout
 		format json
 	}
 

@@ -13,6 +13,8 @@
  * Each transport keeps its own response SHAPE; only the resolution lives here.
  */
 import type { Pool } from 'pg';
+import { parseRef } from '../refs.js';
+import { ClientInputError } from './errors.js';
 import type { ParsedRef } from '../refs.js';
 import { mapRef } from './versification.js';
 
@@ -56,16 +58,14 @@ async function fetchIdentity(
     for (const t of translations) result.set(t, []);
     return result;
   }
-  for (const t of translations) {
-    const r = await pool.query(
+  const r = await pool.query(
       `SELECT translation, ref, text, structured
          FROM verses
-         WHERE translation = $1 AND ref = ANY($2::text[])
+         WHERE translation = ANY($1::text[]) AND ref = ANY($2::text[])
          ORDER BY ref`,
-      [t, refStrings],
+      [translations, refStrings],
     );
-    result.set(t, r.rows as FetchedVerse[]);
-  }
+  for (const t of translations) result.set(t, (r.rows as FetchedVerse[]).filter(row => row.translation === t));
   return result;
 }
 
@@ -81,6 +81,8 @@ export async function resolveParallel(
   targetRefs: ParsedRef[],
   preferAligned = false,
 ): Promise<ResolvedRef[]> {
+  if (targetRefs.length > 1000) throw new ClientInputError('parallel is limited to 1000 expanded verses');
+  translations = await validateTranslations(pool, translations);
   const refStrings = targetRefs.map(refStr);
   const fetched = await fetchIdentity(pool, translations, refStrings);
 
@@ -204,4 +206,37 @@ export async function resolveParallel(
     });
     return { ref, entries };
   });
+}
+
+
+export async function validateTranslations(pool: Pick<Pool, 'query'>, codes: string[]): Promise<string[]> {
+  if (!Array.isArray(codes) || codes.length === 0 || codes.length > 10 || codes.some(c => typeof c !== 'string' || !/^[a-zA-Z0-9_-]{1,32}$/.test(c))) {
+    throw new ClientInputError('translations must contain 1 to 10 translation codes');
+  }
+  const unique = [...new Set(codes)];
+  const known = await pool.query('SELECT code FROM translations WHERE code = ANY($1::text[])', [unique]);
+  if (unique.some(code => !known.rows.some(row => row.code === code))) throw new ClientInputError('unknown translation code', 404);
+  return unique;
+}
+
+export interface ParallelInput { translations: string[]; ref?: string; start?: string; end?: string; preferAligned?: boolean }
+
+export async function queryParallel(pool: Pool, args: ParallelInput): Promise<ResolvedRef[]> {
+  const translations = await validateTranslations(pool, args.translations);
+  let refs: ParsedRef[];
+  if (args.ref && !args.start && !args.end) {
+    const ref = parseRef(args.ref);
+    if (!ref) throw new ClientInputError('invalid USFM ref');
+    refs = [ref];
+  } else if (!args.ref && args.start && args.end) {
+    const start = parseRef(args.start);
+    const end = parseRef(args.end);
+    if (!start || !end || start.book !== end.book || start.chapter > end.chapter || (start.chapter === end.chapter && start.verse > end.verse)) throw new ClientInputError('invalid start/end range');
+    const result = await pool.query(`SELECT DISTINCT chapter, verse FROM verses
+      WHERE book = $1 AND translation = ANY($2::text[])
+        AND (chapter, verse) >= ($3, $4) AND (chapter, verse) <= ($5, $6)
+      ORDER BY chapter, verse LIMIT 1001`, [start.book, translations, start.chapter, start.verse, end.chapter, end.verse]);
+    refs = result.rows.map(row => ({ book: start.book, chapter: row.chapter as number, verse: row.verse as number }));
+  } else throw new ClientInputError('either ref OR (start AND end) is required');
+  return resolveParallel(pool, translations, refs, args.preferAligned ?? false);
 }

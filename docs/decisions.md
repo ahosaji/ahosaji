@@ -1,5 +1,6 @@
 # Ahosaji — Key Decisions Log
 
+> Historical decision log. Current runtime, credential and deployment instructions are in [DEPLOY.md](../DEPLOY.md) and [operations](./operations.md). Cost estimates and future-file references below are dated design notes.
 Lightweight ADR-style record. Each entry has the date it was made, the decision, the alternatives considered, and the reason.
 
 ---

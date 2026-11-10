@@ -11,7 +11,7 @@
  * user-chosen passwords. This is the standard approach for API keys (Stripe,
  * GitHub Personal Access Tokens, etc.).
  */
-import { createHash, randomBytes, timingSafeEqual } from 'node:crypto';
+import { timingSafeEqual } from 'node:crypto';
 import { pool } from './db.js';
 
 export type Tier = 'free' | 'church' | 'paid' | 'admin';
@@ -23,42 +23,18 @@ export interface Consumer {
   tier: Tier;
 }
 
-export function generateKey(): { plaintext: string; prefix: string; hash: string } {
-  const raw = randomBytes(32).toString('base64url');
-  const plaintext = `ahk_${raw}`;
-  const prefix = plaintext.slice(0, 12);
-  const hash = sha256(plaintext);
-  return { plaintext, prefix, hash };
-}
-
-export function sha256(s: string): string {
-  return createHash('sha256').update(s).digest('hex');
-}
+export { generateKey, sha256 } from './lib/apiKeys.js';
+import { sha256 } from './lib/apiKeys.js';
 
 function constantTimeEquals(a: string, b: string): boolean {
   if (a.length !== b.length) return false;
   return timingSafeEqual(Buffer.from(a), Buffer.from(b));
 }
 
-// Cache keyed by sha256(token) — never the plaintext — so the in-memory map
-// can't leak raw API keys. Bounded to MAX entries with FIFO eviction so a flood
-// of distinct invalid tokens can't grow it unboundedly. TTL is short (60s):
-// residual trade-off is that a revoked key may keep working for up to 60s after
-// revocation; we accept that small window in exchange for not hitting Postgres
-// on every authed request.
-const lookupCache = new Map<string, { consumer: Consumer | null; ts: number }>();
-const CACHE_TTL_MS = 60 * 1000;
-const CACHE_MAX_ENTRIES = 10_000;
-
 export async function validateKey(key: string): Promise<Consumer | null> {
-  if (!key.startsWith('ahk_') || key.length < 16) return null;
+  if (!/^ahk_[A-Za-z0-9_-]{42}[AEIMQUYcgkosw048]$/.test(key)) return null;
   const prefix = key.slice(0, 12);
   const cacheKey = sha256(key);
-
-  const cached = lookupCache.get(cacheKey);
-  if (cached && Date.now() - cached.ts < CACHE_TTL_MS) {
-    return cached.consumer;
-  }
 
   const r = await pool.query(
     `SELECT k.id AS key_id, k.key_hash, k.revoked_at,
@@ -84,13 +60,6 @@ export async function validateKey(key: string): Promise<Consumer | null> {
       break;
     }
   }
-  // FIFO eviction: drop the oldest insertion (Map preserves insertion order)
-  // once we hit the cap, before inserting the new entry.
-  if (!lookupCache.has(cacheKey) && lookupCache.size >= CACHE_MAX_ENTRIES) {
-    const oldest = lookupCache.keys().next().value;
-    if (oldest !== undefined) lookupCache.delete(oldest);
-  }
-  lookupCache.set(cacheKey, { consumer, ts: Date.now() });
   return consumer;
 }
 

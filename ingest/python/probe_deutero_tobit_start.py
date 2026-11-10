@@ -3,7 +3,8 @@ from __future__ import annotations
 import sys
 import pymupdf  # type: ignore
 
-PDF_PATH = "/Users/youssef/personal/coptic-church-assets/source.pdf"
+from source_pdf import configured_pdf
+PDF_PATH = configured_pdf()
 doc = pymupdf.open(PDF_PATH)
 
 # Page 1347 already shows v19-22, then chapter 2 begins. Walk backward to find

@@ -12,8 +12,7 @@
  * so "الراعي" matches "الرَّاعِي".
  */
 import type { FastifyInstance, FastifyRequest } from 'fastify';
-import { MeiliSearch } from 'meilisearch';
-import { env } from '../env.js';
+import { getQueryClient } from '../lib/searchClient.js';
 import { normalizeArabic } from '../lib/arabic.js';
 import { buildMeiliFilter } from '../lib/meiliFilter.js';
 
@@ -28,19 +27,6 @@ interface SearchQuery {
   offset?: string;
   page?: string;
   pageSize?: string;
-}
-
-let client: MeiliSearch | null = null;
-function getClient(): MeiliSearch {
-  if (!client) {
-    if (!env.meilisearchHost) throw new Error('MEILISEARCH_HOST not set');
-    // Query path uses a scoped search-only key in prod (falls back to master in
-    // dev). The master key is reserved for the indexer (ingest).
-    const apiKey = env.meilisearchSearchKey || env.meilisearchMasterKey;
-    if (!apiKey) throw new Error('MEILISEARCH_SEARCH_KEY/MEILISEARCH_MASTER_KEY not set');
-    client = new MeiliSearch({ host: env.meilisearchHost, apiKey });
-  }
-  return client;
 }
 
 function buildPaginationLink(req: FastifyRequest, overrides: Record<string, string | number>): string {
@@ -63,22 +49,24 @@ export async function searchRoutes(app: FastifyInstance): Promise<void> {
         return reply.code(400).send({ title: 'Bad Request', detail: 'translation must be en or ar' });
       }
 
-      // Pagination: page/pageSize takes precedence if provided; else limit/offset.
+      const integer = (value: string | undefined, fallback: number, min: number, max: number): number => {
+        const n = value === undefined ? fallback : (/^\d+$/.test(value) ? Number(value) : NaN);
+        if (!Number.isSafeInteger(n) || n < min || n > max) throw new Error('pagination values must be integers within supported bounds');
+        return n;
+      };
       const usePageMode = req.query.page !== undefined || req.query.pageSize !== undefined;
-      let limit: number;
-      let offset: number;
-      let page: number;
-      let pageSize: number;
-      if (usePageMode) {
-        pageSize = Math.min(Math.max(Number(req.query.pageSize ?? 20) || 20, 1), 100);
-        page = Math.max(Number(req.query.page ?? 1) || 1, 1);
-        limit = pageSize;
-        offset = (page - 1) * pageSize;
-      } else {
-        limit = Math.min(Math.max(Number(req.query.limit ?? 20) || 20, 1), 100);
-        offset = Math.max(Number(req.query.offset ?? 0) || 0, 0);
-        pageSize = limit;
-        page = Math.floor(offset / limit) + 1;
+      let limit: number, offset: number, page: number, pageSize: number;
+      try {
+        // Validate every provided input, including those overridden by page mode.
+        const requestedLimit = integer(req.query.limit, 20, 1, 100);
+        const requestedOffset = integer(req.query.offset, 0, 0, 100000);
+        pageSize = integer(req.query.pageSize, 20, 1, 100);
+        page = integer(req.query.page, 1, 1, 1000);
+        limit = usePageMode ? pageSize : requestedLimit;
+        offset = usePageMode ? (page - 1) * pageSize : requestedOffset;
+        if (!usePageMode) { pageSize = limit; page = Math.floor(offset / limit) + 1; }
+      } catch {
+        return reply.code(400).send({ title: 'Bad Request', detail: 'invalid pagination (limit/pageSize 1..100, page 1..1000, offset 0..100000)' });
       }
 
       // Filters — validated + escaped to prevent Meilisearch filter injection.
@@ -94,7 +82,7 @@ export async function searchRoutes(app: FastifyInstance): Promise<void> {
         return reply.code(400).send({ title: 'Bad Request', detail: err instanceof Error ? err.message : 'invalid filter' });
       }
 
-      const idx = getClient().index(`verses_${translation}`);
+      const idx = getQueryClient().index(`verses_${translation}`);
       const queryText = translation === 'ar' ? normalizeArabic(q) : q;
 
       try {
@@ -171,8 +159,8 @@ export async function searchRoutes(app: FastifyInstance): Promise<void> {
           },
         };
       } catch (err) {
-        const detail = err instanceof Error ? err.message : String(err);
-        return reply.code(503).send({ title: 'Service Unavailable', detail: `search backend error: ${detail}` });
+        req.log.error({ err }, 'search backend error');
+        return reply.code(503).send({ title: 'Service Unavailable', detail: 'search backend unavailable', requestId: req.id });
       }
     },
   );

@@ -1,15 +1,15 @@
-# source scraper notes
+# English scraper integration notes
 
-**Source**: `https://www.source.com/passage/?search=<book>+<chapter>&version=<version>`
+**Source**: `${SOURCE_BASE_URL}/passage/?search=<book>+<chapter>&version=<version>`
 **Implementation**: [`ingest/src/scrapers/webSource.ts`](../../ingest/src/scrapers/webSource.ts)
-**Transport**: Firecrawl (1 credit per page) for prototype; **plan to swap to plain `fetch` for full scrape** (source is mostly static HTML — Firecrawl's JS-rendering / IP-rotation is overkill).
+**Transport**: bounded direct `fetch` first, with an optional bounded Firecrawl v2 REST fallback. Configure `SOURCE_BASE_URL` and `SOURCE_VERSION`; no provider/version is assumed. The fallback key is sent only to `https://api.firecrawl.dev/v2/scrape`.
 
 ## URL pattern
 
-`https://www.source.com/passage/?search=John+3&version=English`
+`${SOURCE_BASE_URL}/passage/?search=John+3&version=${SOURCE_VERSION}`
 - Use the **English book name** (`John`, `Matthew`, etc.), not the USFM code, in the search param.
 - Spaces in book names: `1+Corinthians`, `Song+of+Solomon`.
-- Version codes are uppercase 3–6 letter abbreviations (`English`, `ESV`, `KJV`, `NRSV`).
+- Use the exact provider version identifier configured in `SOURCE_VERSION`; do not infer it from the stored `en` language code.
 
 ## HTML anchors (as of 2026-04-30)
 

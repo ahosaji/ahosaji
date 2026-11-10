@@ -1,41 +1,69 @@
 name: CI
-
 on:
   push:
     branches: ["**"]
   pull_request:
-
-# Cancel superseded runs on the same ref to save CI minutes.
+permissions:
+  contents: read
 concurrency:
   group: ci-${{ github.ref }}
   cancel-in-progress: true
-
 jobs:
   build:
+    # Keep this name: main branch protection requires it.
     name: typecheck + audit
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: ahosaji_test
+          POSTGRES_PASSWORD: isolated-ci-only
+          POSTGRES_DB: ahosaji_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -h 127.0.0.1 -U ahosaji_test -d ahosaji_test"
+          --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      TEST_DATABASE_URL: postgres://ahosaji_test:isolated-ci-only@127.0.0.1:5432/ahosaji_test
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Checkout complete history
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          node-version: 22
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Setup pnpm
+        uses: pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115 # v6.1.1
+      - name: Setup Node
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
           cache: pnpm
-
-      - name: Install dependencies
+      - name: Install frozen workspace
         run: pnpm install --frozen-lockfile
-
-      # Gates the build: any type error in ingest, api, or sdk-ts fails CI.
-      - name: Typecheck (all packages)
+      - name: Typecheck all packages
         run: pnpm -r typecheck
-
-      # Report production dependency vulnerabilities; fail the build on HIGH
-      # (or worse). `pnpm audit` exits non-zero when issues at/above the given
-      # level are found, which fails the step.
-      - name: Audit production dependencies (fail on HIGH)
+      - name: Security and ingestion regression tests
+        run: pnpm test
+      - name: Python configuration and completeness tests
+        run: pnpm test:python
+      - name: Validate the complete corpus
+        run: pnpm validate
+      - name: Audit production dependencies
         run: pnpm audit --prod --audit-level high
+      - name: Scan reachable history for credentials
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          GITLEAKS_DIR="$(mktemp -d "$RUNNER_TEMP/gitleaks.XXXXXX")"
+          trap 'rm -rf "$GITLEAKS_DIR"' EXIT
+          gh release download v8.30.1 --repo gitleaks/gitleaks \
+            --pattern gitleaks_8.30.1_linux_x64.tar.gz \
+            --pattern gitleaks_8.30.1_checksums.txt --dir "$GITLEAKS_DIR"
+          (cd "$GITLEAKS_DIR" && sha256sum --ignore-missing --check gitleaks_8.30.1_checksums.txt)
+          tar -xzf "$GITLEAKS_DIR/gitleaks_8.30.1_linux_x64.tar.gz" -C "$GITLEAKS_DIR" gitleaks
+          "$GITLEAKS_DIR/gitleaks" git --redact=100 --no-banner --log-opts=--all .

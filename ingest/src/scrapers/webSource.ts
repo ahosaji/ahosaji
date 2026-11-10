@@ -1,7 +1,7 @@
-import FirecrawlApp from '@mendable/firecrawl-js';
 import { load } from 'cheerio';
 import type { Cheerio, CheerioAPI } from 'cheerio';
-import { env } from '../env.js';
+import { sourceEndpoint, requireSourceVersion } from '../lib/config.js';
+import { fetchSourceHtml } from '../lib/firecrawl.js';
 import type { Chapter, Heading, Verse, Token, Footnote } from '../types/canonical.js';
 
 // Cheerio's bundled domhandler types conflict with the root one under pnpm.
@@ -10,37 +10,31 @@ import type { Chapter, Heading, Verse, Token, Footnote } from '../types/canonica
 type AnyNode = any;
 
 export interface sourceOpts {
-  version: string;       // source version code, e.g. 'English'
+  version: string;       // Explicit provider identifier from SOURCE_VERSION.
   bookName: string;      // source book name, e.g. 'John'
   bookUsfm: string;      // 'JHN'
   chapter: number;
 }
 
-const PLAIN_FETCH_UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36';
+interface SourceFetchConfig { baseUrl: string; firecrawlApiKey: string; fetchImpl?: typeof fetch }
 
-export async function scrapesourceChapter(opts: sourceOpts): Promise<Chapter> {
-  const url = `https://www.source.com/passage/?search=${encodeURIComponent(`${opts.bookName} ${opts.chapter}`)}&version=${opts.version}`;
+export async function scrapesourceChapter(opts: sourceOpts, configured?: SourceFetchConfig): Promise<Chapter> {
+  const version = requireSourceVersion(opts.version);
+  // Tests provide configuration and fake I/O without loading an operator's environment.
+  if (!configured) {
+    const { env } = await import('../env.js');
+    configured = { baseUrl: env.sourceBaseUrl, firecrawlApiKey: env.firecrawlApiKey };
+  }
+  const endpoint = sourceEndpoint(configured.baseUrl, 'passage/');
+  endpoint.searchParams.set('search', `${opts.bookName} ${opts.chapter}`);
+  endpoint.searchParams.set('version', version);
+  const url = endpoint.href;
   console.log(`  → fetching ${url}`);
 
-  let html = '';
-  // Try plain fetch first (free).
-  try {
-    const r = await fetch(url, { headers: { 'User-Agent': PLAIN_FETCH_UA } });
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    html = await r.text();
-    if (html.length < 10000 || !html.includes('passage-content')) {
-      throw new Error(`suspicious response (${html.length} bytes, no passage-content marker) — likely bot defense`);
-    }
-  } catch (plainErr) {
-    // Fall back to Firecrawl if plain fetch failed (403/429/blocked).
-    if (!env.firecrawlApiKey) throw plainErr;
-    console.log(`    plain fetch failed (${plainErr instanceof Error ? plainErr.message : 'unknown'}); falling back to Firecrawl…`);
-    const fc = new FirecrawlApp({ apiKey: env.firecrawlApiKey });
-    const res = await fc.scrapeUrl(url, { formats: ['rawHtml'] });
-    if (!res.success) throw new Error(`Firecrawl also failed: ${'error' in res ? res.error : 'unknown'}`);
-    html = (res as { rawHtml?: string }).rawHtml ?? '';
-    if (!html) throw new Error('Firecrawl returned empty rawHtml');
-  }
+  const html = await fetchSourceHtml(url, configured.firecrawlApiKey, {
+    fetchImpl: configured.fetchImpl,
+    onFallback: () => console.log('    plain fetch failed; falling back to Firecrawl…'),
+  });
 
   const $ = load(html);
   const chapter = parsesourceChapter($, opts);
@@ -102,7 +96,7 @@ function parsesourceChapter($: CheerioAPI, opts: sourceOpts): Chapter {
 
   return {
     translation: 'en',
-    source: `source:${opts.version}`,
+    source: 'english',
     book: opts.bookUsfm,
     chapter: opts.chapter,
     verses,

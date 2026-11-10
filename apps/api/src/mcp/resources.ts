@@ -7,7 +7,8 @@
  *   ahosaji://bible/en/books      list of books (resource template)
  */
 import { pool } from '../db.js';
-import { parseRef } from '../refs.js';
+import { parseRef, isPositiveDatabaseInteger } from '../refs.js';
+import { ClientInputError } from '../lib/errors.js';
 
 const URI_PATTERN = /^ahosaji:\/\/bible\/([a-z]{2,4})\/(.+)$/;
 
@@ -54,6 +55,7 @@ export async function readResource(uri: string): Promise<{ uri: string; mimeType
   const chapterMatch = payload!.match(/^([A-Z0-9]{3})\.(\d+)$/);
   if (chapterMatch) {
     const [, book, chapter] = chapterMatch;
+    if (!isPositiveDatabaseInteger(Number(chapter))) throw new ClientInputError('invalid chapter');
     const r = await pool.query(
       `SELECT verse, ref, text FROM verses
          WHERE translation = $1 AND book = $2 AND chapter = $3 ORDER BY verse`,

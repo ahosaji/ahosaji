@@ -27,7 +27,8 @@ from extract_deutero_chapter import (  # type: ignore
     split_verses, extract_headings, strip_page_headers,
 )
 
-PDF_PATH = "/Users/youssef/personal/coptic-church-assets/source.pdf"
+from source_pdf import extraction_options
+from completeness import write_book_snapshot, open_pdf_or_report
 OUT_PATH = Path(__file__).parent.parent / "data" / "snapshots" / "en" / "BAR.json"
 
 # Each chapter: pages span (1-indexed inclusive) + slice phrase that marks the
@@ -146,19 +147,15 @@ def extract_chapter(doc: pymupdf.Document, spec: dict) -> dict:
 
 
 def main() -> None:
-    doc = pymupdf.open(PDF_PATH)
-    chapters = {}
-    print("Extracting English Baruch (5 ch) + Epistle of Jeremiah (as ch 6)...")
+    args = extraction_options()
+    doc = open_pdf_or_report(pymupdf.open, args.pdf, {'BAR': 6}, allow_partial=args.allow_partial)
+    chapters = {}; failures = []
     for spec in CHAPTERS:
-        ch = extract_chapter(doc, spec)
-        chapters[str(spec["ch"])] = ch
-        print(f"  ch {spec['ch']}: {len(ch['verses'])} verses (pages {spec['pages'][0]}..{spec['pages'][1]})")
-
-    out = {"usfm": "BAR", "source": "deutero", "chapters": chapters}
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    total = sum(len(c["verses"]) for c in chapters.values())
-    print(f"\n  wrote {total} verses across {len(chapters)} chapters → {OUT_PATH.relative_to(Path.cwd())}")
+        try:
+            chapters[str(spec['ch'])] = extract_chapter(doc, spec)
+        except Exception as error:
+            failures.append({'chapter': spec['ch'], 'error': str(error)})
+    raise SystemExit(write_book_snapshot(OUT_PATH, 'BAR', chapters, 6, allow_partial=args.allow_partial, failures=failures))
 
 
 if __name__ == "__main__":

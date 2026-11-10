@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Ahosaji
-  version: 0.0.0
+  version: 0.1.0
   description: |
     **Treasure of the Word** (ⲁϩⲟ ⲥⲁϫⲓ) — Coptic Orthodox content API.
 
@@ -36,7 +36,7 @@ info:
 
     ```
     openapi-generator-cli generate \
-      -i https://api.ahosaji.example/docs/openapi.yaml \
+      -i docs/api/openapi.yaml \
       -g python \
       -o ./ahosaji-python
     ```
@@ -48,16 +48,13 @@ info:
 
   contact:
     name: Ahosaji
-    url: https://github.com/yourname/ahosaji
+    url: https://github.com/ahosaji/ahosaji
   license:
-    name: TBD
-    url: https://example.com/license
+    name: All Rights Reserved
 
 servers:
   - url: http://localhost:3001
-    description: Local dev
-  - url: https://api.ahosaji.example
-    description: Production (placeholder)
+    description: Local development; set your deployed base URL explicitly
 
 tags:
   - name: Discovery

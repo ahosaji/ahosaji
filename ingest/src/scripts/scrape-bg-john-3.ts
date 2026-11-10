@@ -1,12 +1,13 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { scrapesourceChapter } from '../scrapers/webSource.js';
+import { env } from '../env.js';
 
 async function main(): Promise<void> {
   console.log('Scraping John 3 (English) from source via Firecrawl...');
 
   const chapter = await scrapesourceChapter({
-    version: 'English',
+    version: env.sourceVersion,
     bookName: 'John',
     bookUsfm: 'JHN',
     chapter: 3,

@@ -1,6 +1,6 @@
 # English Deuterocanonicals PDF extractor notes
 
-**Source**: Local PDF at `English_PDF_PATH` env var (default: `/Users/youssef/personal/coptic-church-assets/source.pdf`)
+**Source**: Explicit `--pdf` argument or `SOURCE_PDF_PATH`. `English_PDF_PATH` remains a compatibility alias. There is no machine-specific default.
 **Implementation**: [`ingest/src/scrapers/deuteroScraper.ts`](../../ingest/src/scrapers/deuteroScraper.ts) (Node) + [`ingest/python/extract_deutero_chapter.py`](../../ingest/python/extract_deutero_chapter.py) (Python sidecar)
 **Transport**: PyMuPDF via `child_process.spawn`
 

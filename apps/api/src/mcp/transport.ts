@@ -3,62 +3,48 @@
  *
  * Stateless mode (sessionIdGenerator: undefined) — each POST is independent.
  *
- * Auth: handled inline before forwarding to MCP. Public methods (introspection)
- * proceed without a consumer; content methods (tools/call etc.) reject when no
- * valid Bearer is present.
+ * Auth: the shared auth hook resolves an optional consumer before quota hooks.
+ * Public introspection proceeds anonymously; content methods reject when no
+ * valid consumer is attached.
  */
 import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/streamableHttp.js';
 import type { FastifyInstance, FastifyRequest } from 'fastify';
-import { validateKey, TIER_RATE_LIMITS } from '../auth.js';
-import { ANON_PER_MINUTE } from '../plugins/rateLimit.js';
 import { buildMcpServer, type McpAuthContext } from './server.js';
 
-/**
- * Resolve the Bearer consumer for a request (or null). Used both by the
- * per-route rate-limit config (to pick the limit/key) and by the handler.
- * Relies on auth.ts's in-memory lookup cache so this isn't a double DB hit.
- */
-async function resolveConsumer(req: FastifyRequest): Promise<{ id: string; tier: keyof typeof TIER_RATE_LIMITS } | null> {
-  const header = req.headers['authorization'];
-  if (typeof header === 'string' && header.startsWith('Bearer ')) {
-    const consumer = await validateKey(header.slice(7).trim());
-    if (consumer) return { id: consumer.id, tier: consumer.tier };
-  }
-  return null;
-}
-
-export async function mcpRoute(app: FastifyInstance): Promise<void> {
+export async function mcpRoute(app: FastifyInstance, options: { requestTimeoutMs?: number } = {}): Promise<void> {
   app.route({
     url: '/v1/mcp',
     method: ['POST', 'GET', 'DELETE'],
-    // Rate-limited (not unlimited): anonymous introspection is capped by IP at
-    // ANON_PER_MINUTE; authenticated calls get their tier's per-minute limit,
-    // keyed by consumer.id. Auth is resolved here (cached) since the global
-    // rate-limit preHandler runs before this route's inline auth.
-    config: {
-      rateLimit: {
-        max: async (req: FastifyRequest) => {
-          const c = await resolveConsumer(req);
-          if (!c) return ANON_PER_MINUTE;
-          const limit = TIER_RATE_LIMITS[c.tier].perMinute;
-          return Number.isFinite(limit) ? limit : 1_000_000;
-        },
-        keyGenerator: async (req: FastifyRequest) => {
-          const c = await resolveConsumer(req);
-          return c?.id ?? req.ip;
-        },
-      },
-    },
     handler: async (req: FastifyRequest, reply) => {
-      // Resolve auth context once per request. Discovery methods don't strictly
-      // need it; content methods will reject inside the server if absent.
-      const authCtx: McpAuthContext = {};
-      const consumer = await resolveConsumer(req);
-      if (consumer) authCtx.consumer = { id: consumer.id, tier: consumer.tier };
-
+      const authCtx: McpAuthContext = {
+        ...(req.consumer ? { consumer: { id: req.consumer.id, tier: req.consumer.tier } } : {}),
+        requestId: req.id, logError: err => req.log.error({ err }, 'MCP backend error'),
+      };
+      reply.raw.setHeader('x-request-id', req.id);
       const server = buildMcpServer(authCtx);
       const transport = new StreamableHTTPServerTransport({ sessionIdGenerator: undefined });
-      reply.raw.on('close', () => { void transport.close(); });
+      const sendTransportError = (status: number, message: string): void => {
+        if (reply.raw.headersSent) { reply.raw.destroy(); return; }
+        reply.raw.writeHead(status, { 'content-type': 'application/json', 'x-request-id': req.id });
+        const body = req.body as { id?: unknown } | undefined;
+        const id = typeof body?.id === 'number' || typeof body?.id === 'string' ? body.id : null;
+        reply.raw.end(JSON.stringify({ jsonrpc: '2.0', id, error: {
+          code: -32603, message, data: { requestId: req.id },
+        } }));
+      };
+      // Fastify clears its application timer on hijack, so the SDK transport
+      // owns a separate deadline for its raw response lifecycle.
+      const timer = setTimeout(() => {
+        req.log.error({ requestId: req.id }, 'MCP request deadline exceeded');
+        sendTransportError(503, 'request timed out');
+        void server.close().catch(err => req.log.error({ err }, 'MCP close error'));
+      }, options.requestTimeoutMs ?? 15_000);
+      const clearDeadline = () => clearTimeout(timer);
+      reply.raw.once('finish', clearDeadline);
+      reply.raw.once('close', () => {
+        clearDeadline();
+        void server.close().catch(err => req.log.error({ err }, 'MCP close error'));
+      });
 
       try {
         await server.connect(transport);
@@ -69,10 +55,9 @@ export async function mcpRoute(app: FastifyInstance): Promise<void> {
       } catch (err) {
         // Log the full error server-side; return a generic detail to the client
         // so internal error text isn't leaked to MCP callers.
-        app.log.error(err, 'MCP transport error');
-        if (!reply.sent) {
-          reply.code(500).send({ title: 'Internal Server Error', detail: 'internal error' });
-        }
+        req.log.error({ err }, 'MCP transport error');
+        clearDeadline();
+        sendTransportError(500, 'internal error');
       }
     },
   });

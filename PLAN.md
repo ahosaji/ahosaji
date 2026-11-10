@@ -1,5 +1,6 @@
 # Ahosaji — Coptic Orthodox Content API (v1)
 
+> Historical architecture notebook. Dated status statements below are preserved as history, not current verification. Use [README.md](./README.md), [DEPLOY.md](./DEPLOY.md) and [security controls](./docs/security.md) for current commands and deployment requirements.
 > **Naming note:** Project name set to `Ahosaji` — pure Coptic compound: **Aho** (ⲁϩⲟ — "treasure / storehouse") + **Saji** (ⲥⲁϫⲓ — "the Word, speech," the native Coptic counterpart to the Greek-borrowed *Logos*). Combined: *Treasure of the Word*. Perfect mission-fit: an API that is the digital treasury of the Coptic Orthodox Church's Word — Bible, Lectionary, Synaxarium, Agpeya, hymns, and (in time) commentary and patristics.
 >
 > **Domain availability:** Ahosaji is a coined compound; no prior usage expected. `.io`, `.dev`, `.app`, `.com`, `.org` should all be claimable. Run a registrar check before purchase.
@@ -600,7 +601,7 @@ Prompts are pure templates — they call the same service to produce the materia
 Idempotent, run-locally-or-CI, produces versioned snapshots in `ingest/data/snapshots/` that are committed to the repo. Future domains follow the same pattern under `ingest/src/<domain>/`.
 
 ### Phase A — `ar` (an Arabic source HTML) ✅ implemented
-- Crawler hits `https://an arabic source/Bibles/BibleSearch/showChapter.php?book=<id>&chapter=<n>`
+- Crawler hits `${AR_BASE_URL}/Bibles/BibleSearch/showChapter.php?book=<id>&chapter=<n>`
 - an Arabic source numbering (discovered): OT 1–49 (Deuteros interspersed: 17=Tobit, 18=Judith, 48=1 Macc, 49=2 Macc), NT starts at 50 (50=Matt, 53=John). Full table in `docs/scrapers/arabic.md`.
 - Plain Node `fetch` with browser User-Agent (`AR_USER_AGENT` env). No JS, no bot defenses observed.
 - Verse anchor: `<div class="HColor1Div" data-usfm="John.3.16">` — `data-usfm` is the gold-standard reference (long-form English book name).
@@ -610,7 +611,7 @@ Idempotent, run-locally-or-CI, produces versioned snapshots in `ingest/data/snap
 - Audit pass: per-chapter diff between scraped HTML text and corresponding PDF (the `*.pdf` files the user already has).
 
 ### Phase B — `en` protocanonical (source English scrape) ✅ implemented — full English (66 books) scraped via plain `fetch`
-- Input: source HTML at `https://www.source.com/passage/?search=<EnglishBookName>+<chapter>&version=English`
+- Input: source HTML at `${SOURCE_BASE_URL}/passage/?search=<EnglishBookName>+<chapter>&version=English`
 - **Discovery**: source anchors verses by *English book name* (`John-3-1`), not USFM. Heading wrappers (`<h3><span class="text John-3-1">…`) need filtering. Footnote markers carry `data-fn="#fen-..."` on the `<sup>` (use the attribute, not the inner anchor href).
 - Preserves: red-letter (`<span class="woj">`), italics (`<i>` for English translator-added words), footnotes (`<sup class="footnote">` linked to `<div class="footnotes">`), section headings (`<h3>` inside `.passage-text`), paragraph structure.
 - **Transport for prototype**: Firecrawl SDK (1 credit/page).
@@ -619,7 +620,7 @@ Idempotent, run-locally-or-CI, produces versioned snapshots in `ingest/data/snap
 - (Future: if a licensed English USFM dump becomes available, swap to `usfm-grammar` for richer markup — but source scrape captures ~85% of the structural richness in practice.)
 
 ### Phase C — `en` Deuterocanonicals (English) ✅ implemented — all Deutero books extracted (iterated to 100% clean, 138/138 chapters)
-- Input: English PDF at `English_PDF_PATH` env var.
+- Input: explicitly configured English PDF at `SOURCE_PDF_PATH` (`English_PDF_PATH` is a compatibility alias).
 - **Discovery**: English PDF is 12,301 pages = nav indexes + content. TOC bookmarks point to chapter-list nav pages, not content. Tobit content actually starts at p1346. Per-chapter content can span multiple pages and bleed into the next chapter on the same page.
 - **Verse markers**: inline integers immediately followed by capital letter or quote (`19But`, `20All`, `2"O Lord`). First verse of each chapter has no marker (chapter heading implicitly serves).
 - **Chapter-boundary trick**: track high-water-mark verse number; when a detected verse number drops below it, the next chapter has bled in — truncate.

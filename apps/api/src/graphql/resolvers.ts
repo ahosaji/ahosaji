@@ -5,20 +5,13 @@
  * Where this duplicates REST: in v1 we accept a small bit of redundancy. A
  * v1.x cleanup will lift shared logic into per-domain `service.ts` modules.
  */
-import { MeiliSearch } from 'meilisearch';
 import { pool } from '../db.js';
-import { env } from '../env.js';
+import { getQueryClient } from '../lib/searchClient.js';
 import { normalizeArabic } from '../lib/arabic.js';
 import { buildMeiliFilter } from '../lib/meiliFilter.js';
-import { parseRef, type ParsedRef } from '../refs.js';
-import { resolveParallel } from '../lib/parallelService.js';
-
-let mClient: MeiliSearch | null = null;
-function getMeili(): MeiliSearch {
-  // Query path uses the scoped search-only key (falls back to master in dev).
-  if (!mClient) mClient = new MeiliSearch({ host: env.meilisearchHost, apiKey: env.meilisearchSearchKey || env.meilisearchMasterKey });
-  return mClient;
-}
+import { parseRef, isPositiveDatabaseInteger } from '../refs.js';
+import { ClientInputError } from '../lib/errors.js';
+import { queryParallel } from '../lib/parallelService.js';
 
 export const resolvers = {
   Query: {
@@ -59,6 +52,7 @@ export const resolvers = {
     },
 
     async chapter(_: unknown, args: { translation: string; usfm: string; chapter: number }) {
+      if (!isPositiveDatabaseInteger(args.chapter)) throw new ClientInputError('chapter must be a positive integer');
       const v = await pool.query(
         `SELECT verse, ref, text, structured
            FROM verses WHERE translation = $1 AND book = $2 AND chapter = $3
@@ -82,6 +76,7 @@ export const resolvers = {
     },
 
     async verse(_: unknown, args: { translation: string; usfm: string; chapter: number; verse: number }) {
+      if (!isPositiveDatabaseInteger(args.chapter) || !isPositiveDatabaseInteger(args.verse)) throw new ClientInputError('chapter and verse must be positive integers');
       const r = await pool.query(
         `SELECT v.verse, v.ref, v.text, v.structured,
                 array(SELECT to_ref FROM cross_refs WHERE from_ref = v.ref ORDER BY to_ref) AS cross_refs_db
@@ -97,6 +92,7 @@ export const resolvers = {
     },
 
     async verses(_: unknown, args: { translation: string; usfm: string; chapter: number; from: number; to: number }) {
+      if (![args.chapter, args.from, args.to].every(isPositiveDatabaseInteger) || args.from > args.to) throw new ClientInputError('invalid chapter/verse range');
       const r = await pool.query(
         `SELECT verse, ref, text, structured
            FROM verses
@@ -131,30 +127,7 @@ export const resolvers = {
     },
 
     async parallel(_: unknown, args: { translations: string[]; ref?: string; start?: string; end?: string; preferAligned?: boolean }) {
-      let targetRefs: ParsedRef[] = [];
-      if (args.ref) {
-        const p = parseRef(args.ref);
-        if (!p) return null;
-        targetRefs = [p];
-      } else if (args.start && args.end) {
-        const s = parseRef(args.start);
-        const e = parseRef(args.end);
-        if (!s || !e || s.book !== e.book) return null;
-        const r = await pool.query(
-          `SELECT DISTINCT chapter, verse
-             FROM verses WHERE book = $1 AND translation = ANY($2::text[])
-               AND ((chapter = $3 AND verse >= $4) OR chapter > $3)
-               AND ((chapter = $5 AND verse <= $6) OR chapter < $5)
-             ORDER BY chapter, verse`,
-          [s.book, args.translations, s.chapter, s.verse, e.chapter, e.verse],
-        );
-        targetRefs = r.rows.map(row => ({ book: s.book, chapter: row.chapter as number, verse: row.verse as number }));
-      } else {
-        return null;
-      }
-
-      // Shared resolution (identity + versification mapping + prefer_aligned).
-      const resolved = await resolveParallel(pool, args.translations, targetRefs, args.preferAligned ?? false);
+      const resolved = await queryParallel(pool, args);
 
       return {
         refs: resolved.map(r => ({
@@ -177,8 +150,9 @@ export const resolvers = {
       _: unknown,
       args: { translation: string; q: string; filters?: { book?: string; testament?: string; canon?: string; bookGroup?: string }; limit?: number; offset?: number },
     ) {
-      const limit = Math.min(Math.max(args.limit ?? 20, 1), 100);
-      const offset = Math.max(args.offset ?? 0, 0);
+      const limit = args.limit ?? 20;
+      const offset = args.offset ?? 0;
+      if (!Number.isInteger(limit) || limit < 1 || limit > 100 || !Number.isInteger(offset) || offset < 0 || offset > 100000) throw new ClientInputError('invalid search pagination');
       // Validated + escaped to prevent Meilisearch filter injection.
       const filter = buildMeiliFilter({
         book: args.filters?.book,
@@ -187,7 +161,7 @@ export const resolvers = {
         bookGroup: args.filters?.bookGroup,
       });
 
-      const idx = getMeili().index(`verses_${args.translation}`);
+      const idx = getQueryClient().index(`verses_${args.translation}`);
       const queryText = args.translation === 'ar' ? normalizeArabic(args.q) : args.q;
       const res = await idx.search(queryText, {
         limit,

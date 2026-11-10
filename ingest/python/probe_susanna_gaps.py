@@ -2,8 +2,9 @@
 from __future__ import annotations
 import re
 import pymupdf  # type: ignore
+from source_pdf import configured_pdf
 
-doc = pymupdf.open('/Users/youssef/personal/coptic-church-assets/source.pdf')
+doc = pymupdf.open(configured_pdf())
 text = '\n'.join(doc.load_page(p).get_text('text') for p in [3035, 3036, 3037, 3038])
 
 for n in [20, 41, 45, 53]:

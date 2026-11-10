@@ -13,7 +13,7 @@ Typed TypeScript client for the Ahosaji content API. Auto-generated from
   etc.). Including the recently added `mapped_to` and `mapping_note` fields on
   `ParallelEntry` for versification-aware queries.
 - **Built-in bearer-token auth** via the `TOKEN` constructor option.
-- **fetch-based** — runs in Node 18+, Bun, Deno, and the browser. No runtime
+- **fetch-based** — uses standard fetch; this workspace is tested on the pinned Node 22 release. No runtime
   dependencies beyond standard fetch.
 
 ## Install
@@ -96,7 +96,7 @@ const hits = await client.search.getV1Search({
 
 ## Versification-aware parallel queries
 
-For Deuterocanonical books with divergent verse-numbering between Arabic source Arabic (Vulgate-derived) and English English (Greek LXX), the API
+For Deuterocanonical books with divergent Arabic and English verse numbering, the API
 auto-applies versification mapping when one translation is missing a verse
 the other has. The response signals this with two optional fields on each
 `ParallelEntry`:
@@ -145,3 +145,18 @@ AHOSAJI_KEY=ahk_... AHOSAJI_BASE=http://localhost:3001 \
 
 Exercises discovery, single verse, search, and two versification-mapping
 cases (one shifted, one null-mapped) and prints the responses.
+
+## Request limits and deployment URL
+
+Always pass the actual deployed `BASE` and keep bearer tokens out of public
+source/logs. The generated default is local development only. Parallel requests
+accept 1–10 translation entries and at most 1,000 references; duplicate
+translation entries are deduplicated. See [security controls](../../docs/security.md)
+for the complete REST/GraphQL/MCP operation and quota limits. Generate the SDK
+and TypeDoc pages from corrected source metadata rather than hand-editing
+published HTML:
+
+```sh
+pnpm --filter @ahosaji/sdk generate
+pnpm --filter @ahosaji/sdk docs
+```

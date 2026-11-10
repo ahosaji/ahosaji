@@ -1,19 +1,18 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
-import FirecrawlApp from '@mendable/firecrawl-js';
+import { scrapeFirecrawlRawHtml } from '../lib/firecrawl.js';
 import { env } from '../env.js';
+import { sourceEndpoint, requireSourceVersion } from '../lib/config.js';
 
 async function main(): Promise<void> {
+  const version = requireSourceVersion(env.sourceVersion);
   if (!env.firecrawlApiKey) throw new Error('FIRECRAWL_API_KEY missing');
-  const fc = new FirecrawlApp({ apiKey: env.firecrawlApiKey });
-  const url = 'https://www.source.com/passage/?search=John%203&version=English';
+  const endpoint = sourceEndpoint(env.sourceBaseUrl, 'passage/');
+  endpoint.searchParams.set('search', 'John 3');
+  endpoint.searchParams.set('version', version);
+  const url = endpoint.href;
   console.log('Fetching:', url);
-  const res = await fc.scrapeUrl(url, { formats: ['rawHtml'] });
-  if (!res.success) {
-    console.error('Firecrawl error:', 'error' in res ? res.error : res);
-    process.exit(1);
-  }
-  const html = (res as { rawHtml?: string }).rawHtml ?? '';
+  const html = await scrapeFirecrawlRawHtml(url, env.firecrawlApiKey);
   console.log('rawHtml length:', html.length);
 
   const cacheDir = resolve(import.meta.dirname, '../../data/.scratch');

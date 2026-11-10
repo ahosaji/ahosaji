@@ -9,6 +9,8 @@
  * Each request handler that returns content checks for an attached
  * consumer (set by the route-level authenticator before forwarding to MCP).
  */
+import { Ajv } from 'ajv';
+import { ClientInputError } from '../lib/errors.js';
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import {
   ListToolsRequestSchema,
@@ -18,6 +20,7 @@ import {
   ReadResourceRequestSchema,
   ListPromptsRequestSchema,
   GetPromptRequestSchema,
+  McpError, ErrorCode,
 } from '@modelcontextprotocol/sdk/types.js';
 import { TOOLS } from './tools.js';
 import { listResources, RESOURCE_TEMPLATES, readResource } from './resources.js';
@@ -25,7 +28,12 @@ import { PROMPTS, getPrompt } from './prompts.js';
 
 export interface McpAuthContext {
   consumer?: { id: string; tier: string };
+  requestId?: string;
+  logError?: (error: unknown) => void;
 }
+
+const ajv = new Ajv({ allErrors: false, strict: false, coerceTypes: false });
+const validators = new Map(TOOLS.map(tool => [tool.name, ajv.compile({ ...tool.inputSchema, additionalProperties: false })]));
 
 export function buildMcpServer(authCtx: McpAuthContext): Server {
   const server = new Server(
@@ -49,9 +57,17 @@ export function buildMcpServer(authCtx: McpAuthContext): Server {
       throw new Error('tools/call requires Authorization: Bearer <api-key>');
     }
     const tool = TOOLS.find(t => t.name === request.params.name);
-    if (!tool) throw new Error(`unknown tool: ${request.params.name}`);
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const result = await (tool.handler as any)(request.params.arguments ?? {});
+    if (!tool) throw new McpError(ErrorCode.InvalidParams, 'unknown tool');
+    const args = request.params.arguments ?? {};
+    if (!validators.get(tool.name)!(args)) throw new McpError(ErrorCode.InvalidParams, 'invalid tool arguments');
+    let result: unknown;
+    try {
+      result = await (tool.handler as (args: unknown) => Promise<unknown>)(args);
+    } catch (error) {
+      if (error instanceof ClientInputError) throw new McpError(ErrorCode.InvalidParams, error.message);
+      authCtx.logError?.(error);
+      throw new McpError(ErrorCode.InternalError, `internal error (request ${authCtx.requestId ?? 'unknown'})`);
+    }
     return {
       content: [{ type: 'text', text: JSON.stringify(result, null, 2) }],
     };
@@ -68,8 +84,12 @@ export function buildMcpServer(authCtx: McpAuthContext): Server {
     if (!authCtx.consumer) {
       throw new Error('resources/read requires Authorization: Bearer <api-key>');
     }
-    const r = await readResource(request.params.uri);
-    return { contents: [r] };
+    try { return { contents: [await readResource(request.params.uri)] }; }
+    catch (error) {
+      if (error instanceof ClientInputError) throw new McpError(ErrorCode.InvalidParams, error.message);
+      authCtx.logError?.(error);
+      throw new McpError(ErrorCode.InternalError, `internal error (request ${authCtx.requestId ?? 'unknown'})`);
+    }
   });
 
   // --- Prompts ----------------------------------------------------------
@@ -80,7 +100,12 @@ export function buildMcpServer(authCtx: McpAuthContext): Server {
     if (!authCtx.consumer) {
       throw new Error('prompts/get requires Authorization: Bearer <api-key>');
     }
-    return await getPrompt(request.params.name, request.params.arguments ?? {});
+    try { return await getPrompt(request.params.name, request.params.arguments ?? {}); }
+    catch (error) {
+      if (error instanceof ClientInputError) throw new McpError(ErrorCode.InvalidParams, error.message);
+      authCtx.logError?.(error);
+      throw new McpError(ErrorCode.InternalError, `internal error (request ${authCtx.requestId ?? 'unknown'})`);
+    }
   });
 
   return server;

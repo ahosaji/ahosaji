@@ -10,6 +10,7 @@ Output: JSON to stdout matching the canonical shape in
 """
 from __future__ import annotations
 import argparse
+from source_pdf import add_pdf_argument, pdf_from_args
 import json
 import re
 import sys
@@ -19,7 +20,7 @@ import pymupdf  # type: ignore
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser()
-    p.add_argument("--pdf", required=True, help="Absolute path to the English PDF")
+    add_pdf_argument(p)
     p.add_argument("--book-usfm", required=True, help="USFM book code, e.g. 'TOB'")
     p.add_argument("--chapter", type=int, required=True)
     p.add_argument(
@@ -34,7 +35,9 @@ def parse_args() -> argparse.Namespace:
         "--max-verse", type=int, required=True,
         help="Highest verse number expected in this chapter (sanity bound)",
     )
-    return p.parse_args()
+    args = p.parse_args()
+    args.pdf = pdf_from_args(args, p)
+    return args
 
 
 def extract_text(doc: pymupdf.Document, start_page: int, end_page: int) -> str:
