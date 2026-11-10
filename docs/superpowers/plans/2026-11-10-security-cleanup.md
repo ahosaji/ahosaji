@@ -70,18 +70,18 @@ Files: infra/docker-compose.yml, infra/Caddyfile, new backup/restore helpers, DE
 
 - [x] OPS-01: bind published local datastore ports to 127.0.0.1; document container-only networking and require an explicit API domain in Caddy environment settings.
 - [x] OPS-05: provide restrictive-permission backup artifacts, retention, checksum/integrity verification and a restore rehearsal targeting a separate database. Read-only inspect existing Ahosaji backup metadata/topology where available; do not claim a restore passed without running it in isolation.
-- [ ] Document production follow-through: exact proxy CIDRs, scoped query credentials, separate migration credentials, migration-before-serve ordering and rollback. No live production configuration mutation until the concrete change is reviewable and its prerequisites are verified.
+- [x] Document production follow-through: exact proxy CIDRs, scoped query credentials, separate migration credentials, migration-before-serve ordering and rollback. No live production configuration mutation until the concrete change is reviewable and its prerequisites are verified.
 
 ## 7. Documentation and generated SDK
 
 - [x] CLEAN-03: refresh README, DEPLOY, roadmap and security policy around final behavior; replace placeholder repo links and make canonical public domain configurable. Regenerate TypeDoc/OpenAPI client artifacts from corrected sources with errors enabled. Preserve code license policy and dataset content as instructed.
-- [ ] Update contribution verification commands, limits, quota semantics and credential lifecycle. Separate historical planning notes from current operational instructions.
-- [ ] Record status of every selected ID in the completion report, with CLEAN-04/05 explicitly deferred and any unverified live controls explicitly identified.
+- [x] Update contribution verification commands, limits, quota semantics and credential lifecycle. Separate historical planning notes from current operational instructions.
+- [x] Record status of every selected ID in the completion report, with CLEAN-04/05 explicitly deferred and any unverified live controls explicitly identified.
 
 ## 8. Review and integration
 
-- [ ] Run focused failing regression tests before behavior changes; run each focused suite after implementation.
-- [ ] Independent spec review, then code quality review, addressing material issues before integration.
-- [ ] Full frozen install, typecheck, behavioral tests, validation, production audit, secret scan and diff checks.
+- [x] Run focused failing regression tests before behavior changes; run each focused suite after implementation.
+- [x] Independent spec review, then code quality review, addressing material issues before integration.
+- [x] Full frozen install, typecheck, behavioral tests, validation, production audit, secret scan and diff checks.
 - [ ] Push a dedicated protected PR including PR #1's existing repairs; update descriptions to final scope. Do not bypass required checks. Keep local questionnaire/reports out of commits.
 - [ ] Verify fresh GitHub check results and settings. Prepare any live deployment follow-through as concrete, separately reviewable operations; keep licensing deferrals explicit.

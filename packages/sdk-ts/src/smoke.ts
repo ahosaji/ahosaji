@@ -4,14 +4,15 @@
  *
  * Requires:
  *   - API running at http://localhost:3001
- *   - AHOSAJI_KEY env var (or hardcode below for quick test)
+ *   - AHOSAJI_KEY env var with an explicitly issued temporary key
  */
 import { AhosajiClient } from './generated/index.js';
 
-const KEY = process.env.AHOSAJI_KEY ?? 'ahk_fb1LwZBN8bhaietY0D7R70izh9ZPalFvaI9e9dpKFx4';
+const KEY = process.env.AHOSAJI_KEY?.trim();
 const BASE = process.env.AHOSAJI_BASE ?? 'http://localhost:3001';
 
 async function main(): Promise<void> {
+  if (!KEY) throw new Error('AHOSAJI_KEY is required; issue a temporary key explicitly before running this smoke test.');
   const client = new AhosajiClient({
     BASE,
     TOKEN: KEY,

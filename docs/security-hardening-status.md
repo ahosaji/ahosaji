@@ -43,7 +43,7 @@ with the source changes.
 Local verification on the official checksum-verified Node 22.23.4 binary:
 
 - Frozen install and all three workspace typechecks passed.
-- 73 TypeScript tests passed, including PostgreSQL integration; zero failures
+- 74 TypeScript tests passed, including PostgreSQL integration; zero failures
   and zero skips. Seven Python tests passed.
 - All 156 snapshots and 2,686 chapters validate, with the same 703 explicit
   compatibility/editorial warnings. Dataset bytes and original root SQL
@@ -57,8 +57,12 @@ Local verification on the official checksum-verified Node 22.23.4 binary:
 - GitHub YAML parses; current public candidate files contain no personal
   absolute paths or placeholder repository links.
 - The custom API-key detector catches a valid-format mock without exposing it.
-  A staged/history secret scan and hosted CI results are required before
-  integration.
+  Staged changes contain no detected secrets. The history scan identified an
+  initial-commit SDK smoke fallback key, which was removed from current source.
+  A read-only production key-table lookup found no matching hash. The precise
+  historical occurrence is recorded in `.gitleaksignore`; the archived token
+  must never be reused. This does not attest to other environments. New
+  occurrences remain blocked. Hosted CI results are required before integration.
 
 Migration tests use an isolated PostgreSQL 16 fixture. The backup helper and
 network-isolated restore were exercised with one synthetic translation, book

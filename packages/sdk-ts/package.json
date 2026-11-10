@@ -2,7 +2,7 @@
   "name": "@ahosaji/sdk",
   "private": true,
   "version": "0.1.0",
-  "description": "Ahosaji TypeScript SDK — auto-generated from OpenAPI",
+  "description": "Ahosaji TypeScript SDK \u2014 auto-generated from OpenAPI",
   "type": "module",
   "main": "./src/generated/index.ts",
   "types": "./src/generated/index.ts",
@@ -11,7 +11,8 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit",
     "smoke": "tsx src/smoke.ts",
-    "docs": "typedoc --options typedoc.json"
+    "docs": "typedoc --options typedoc.json",
+    "test": "node --import tsx --test test/*.test.ts"
   },
   "devDependencies": {
     "@types/node": "^22.20.5",
