@@ -23,7 +23,7 @@
   "dependencies": {
     "cheerio": "^1.2.0",
     "dotenv": "^16.6.1",
-    "meilisearch": "^0.45.0",
+    "meilisearch": "^0.62.0",
     "pg": "^8.23.1"
   },
   "devDependencies": {
