@@ -2,8 +2,9 @@
 from __future__ import annotations
 import re
 import pymupdf  # type: ignore
+from source_pdf import configured_pdf
 
-doc = pymupdf.open('/Users/youssef/personal/coptic-church-assets/source.pdf')
+doc = pymupdf.open(configured_pdf())
 
 # Esther home page in English TOC was at p1405. Find the actual chapter content pages.
 home = doc.load_page(1404)

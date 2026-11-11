@@ -1,12 +1,14 @@
-# an Arabic source scraper notes
+# Arabic scraper integration notes
 
-**Source**: `https://an arabic source/Bibles/BibleSearch/showChapter.php?book=<id>&chapter=<n>`
+**Source**: `${AR_BASE_URL}/Bibles/BibleSearch/showChapter.php?book=<id>&chapter=<n>`
 **Implementation**: [`ingest/src/scrapers/arabicScraper.ts`](../../ingest/src/scrapers/arabicScraper.ts)
 **Transport**: plain Node `fetch` (static HTML, no JS, no bot defenses observed)
 
+Set `AR_BASE_URL` to the approved HTTP(S) source endpoint and set an appropriate `AR_USER_AGENT`. Missing, credential-bearing and placeholder URLs are rejected before fetching. Source permissions and dataset content are unchanged.
+
 ## URL pattern
 
-`https://an arabic source/Bibles/BibleSearch/showChapter.php?book=53&chapter=3` returns John 3 in Arabic Arabic with full diacritics (tashkeel) preserved.
+`${AR_BASE_URL}/Bibles/BibleSearch/showChapter.php?book=53&chapter=3` returns John 3 in Arabic with full diacritics (tashkeel) preserved.
 
 The `lang` param is silently ignored; the endpoint always returns Arabic. **an Arabic source does not have an English Bible.**
 
@@ -62,7 +64,7 @@ Both translations independently report 36 verses with section headings before v1
 
 ## Deuterocanonical caveat
 
-For the same canonical book (e.g. Tobit), Arabic Arabic follows the **Vulgate** verse-counting tradition while English follows **Rahlfs Greek Septuagint**. They have different verse counts. See `docs/decisions.md` §7 and `ingest/data/shared/versification/README.md`.
+For the same canonical book (e.g. Tobit), Arabic follows the **Vulgate** verse-counting tradition while English follows **Rahlfs Greek Septuagint**. They have different verse counts. See `docs/decisions.md` §7 and `ingest/data/shared/versification/README.md`.
 
 ## Politeness
 

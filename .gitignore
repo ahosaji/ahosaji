@@ -11,6 +11,9 @@ build/
 
 # env / secrets
 .env
+.env.*
+!.env.example
+!.env.*.example
 .env.local
 .env.*.local
 *.env
@@ -28,6 +31,13 @@ pnpm-debug.log*
 .vscode/
 *.swp
 
+# local agent/browser artifacts and review decisions
+.playwright-mcp/
+.worktrees/
+worktrees/
+reports/
+*-review-decisions.json
+
 # coverage / test
 coverage/
 .nyc_output/
@@ -35,6 +45,7 @@ coverage/
 # ingestion working files
 ingest/data/cache/
 ingest/data/.scratch/
+ingest/data/.manifests/
 
 # infra-local
 infra/backups/

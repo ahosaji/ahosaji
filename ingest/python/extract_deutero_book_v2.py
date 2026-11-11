@@ -24,6 +24,8 @@ Strategy:
 """
 from __future__ import annotations
 import argparse
+from source_pdf import add_pdf_argument, pdf_from_args
+from completeness import book_manifest, emit_manifest, completeness_exit_code, open_pdf_or_report
 import json
 import re
 import sys
@@ -348,17 +350,27 @@ def extract_book(doc: pymupdf.Document, usfm: str, max_chapters: int,
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--pdf", required=True)
+    add_pdf_argument(ap)
     ap.add_argument("--usfm", required=True)
     ap.add_argument("--max-chapters", type=int, required=True)
     ap.add_argument("--max-verses-per-chapter", type=int, default=200)
     ap.add_argument("--end-marker", default=None,
                     help="phrase that marks the start of the next book (e.g. 'JUDITH')")
+    ap.add_argument('--allow-partial', action='store_true')
     args = ap.parse_args()
+    args.pdf = pdf_from_args(args, ap)
 
-    doc = pymupdf.open(args.pdf)
-    out = extract_book(doc, args.usfm, args.max_chapters,
-                       args.max_verses_per_chapter, args.end_marker)
+    doc = open_pdf_or_report(pymupdf.open, args.pdf, {args.usfm: args.max_chapters}, allow_partial=args.allow_partial, output_json=True)
+    failures = []
+    try:
+        out = extract_book(doc, args.usfm, args.max_chapters,
+                           args.max_verses_per_chapter, args.end_marker)
+    except Exception as error:
+        failures.append({'chapter': None, 'error': str(error)})
+        out = {'usfm': args.usfm, 'source': 'deutero', 'chapters': {}}
+    manifest = book_manifest(args.usfm, out['chapters'], args.max_chapters, failures)
+    out['_completeness'] = manifest
+    emit_manifest(manifest)
     json.dump(out, sys.stdout, ensure_ascii=False, indent=2)
     print(file=sys.stderr)
     for k in sorted(out["chapters"].keys(), key=int):
@@ -366,6 +378,8 @@ def main() -> None:
         vs = ch["verses"]
         nums = [v["verse"] for v in vs]
         print(f"  {args.usfm} ch{k}: {len(vs)} verses  vmin={min(nums) if nums else '-'}  vmax={max(nums) if nums else '-'}", file=sys.stderr)
+
+    raise SystemExit(completeness_exit_code(manifest, args.allow_partial))
 
 
 if __name__ == "__main__":

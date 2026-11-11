@@ -4,34 +4,35 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/index.ts",
-    "start": "tsx src/index.ts",
+    "dev": "node --env-file-if-exists=../../.env --watch --import tsx src/index.ts",
+    "start": "node --env-file-if-exists=../../.env --import tsx src/index.ts",
     "build": "tsc",
     "typecheck": "tsc --noEmit",
-    "keys:create": "tsx src/cli/keys.ts create",
-    "migrate": "tsx src/cli/bootstrap.ts",
-    "prestart": "tsx src/cli/bootstrap.ts"
+    "keys:create": "node --env-file-if-exists=../../.env --import tsx src/cli/keys.ts create",
+    "migrate": "node --env-file-if-exists=../../.env --import tsx src/cli/bootstrap.ts",
+    "test": "node --import tsx --test test/*.test.ts ops-test/*.test.ts"
   },
   "dependencies": {
-    "@fastify/cors": "^11.2.0",
-    "@fastify/helmet": "^13.0.2",
-    "@fastify/rate-limit": "^10.1.1",
-    "@fastify/sensible": "^6.0.1",
-    "@fastify/static": "^8.0.3",
-    "@graphql-tools/schema": "^10.0.7",
-    "@modelcontextprotocol/sdk": "^1.0.4",
-    "dotenv": "^16.4.5",
-    "fastify": "^5.1.0",
-    "fastify-plugin": "^5.0.1",
-    "graphql": "^16.9.0",
-    "graphql-yoga": "^5.7.0",
+    "@fastify/cors": "^11.4.1",
+    "@fastify/helmet": "^13.2.0",
+    "@fastify/rate-limit": "^10.3.0",
+    "@fastify/sensible": "^6.0.7",
+    "@fastify/static": "^10.1.10",
+    "@graphql-tools/schema": "^10.1.5",
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "ajv": "^8.20.0",
+    "fastify": "^5.12.8",
+    "fastify-plugin": "^5.1.0",
+    "graphql": "^16.15.0",
+    "graphql-yoga": "^5.24.6",
     "meilisearch": "^0.45.0",
-    "pg": "^8.13.1"
+    "pg": "^8.23.1",
+    "zod": "^4.6.6"
   },
   "devDependencies": {
-    "@types/node": "^22.7.5",
-    "@types/pg": "^8.11.10",
-    "tsx": "^4.19.1",
-    "typescript": "^5.6.3"
+    "@types/node": "^22.20.5",
+    "@types/pg": "^8.23.1",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
   }
 }

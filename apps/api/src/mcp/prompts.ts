@@ -6,7 +6,8 @@
  * receives as the user's prompt.
  */
 import { pool } from '../db.js';
-import { parseRef } from '../refs.js';
+import { parseRef, isPositiveDatabaseInteger } from '../refs.js';
+import { ClientInputError } from '../lib/errors.js';
 
 export const PROMPTS = [
   {
@@ -41,7 +42,7 @@ export async function getPrompt(
 ): Promise<{ messages: Array<{ role: 'user'; content: { type: 'text'; text: string } }> }> {
   if (name === 'explain_passage') {
     const p = parseRef(args.ref ?? '');
-    if (!p) throw new Error('invalid ref');
+    if (!p) throw new ClientInputError('invalid ref');
     const r = await pool.query(
       `SELECT text FROM verses WHERE translation = $1 AND book = $2 AND chapter = $3 AND verse = $4`,
       [args.translation, p.book, p.chapter, p.verse],
@@ -54,7 +55,7 @@ export async function getPrompt(
 
   if (name === 'compare_translations') {
     const p = parseRef(args.ref ?? '');
-    if (!p) throw new Error('invalid ref');
+    if (!p) throw new ClientInputError('invalid ref');
     const r = await pool.query(
       `SELECT translation, text FROM verses
          WHERE ref = $1 AND translation IN ('en', 'ar')`,
@@ -69,8 +70,10 @@ export async function getPrompt(
 
   if (name === 'verse_in_context') {
     const p = parseRef(args.ref ?? '');
-    if (!p) throw new Error('invalid ref');
-    const window = Number(args.window ?? 5);
+    if (!p) throw new ClientInputError('invalid ref');
+    const rawWindow = args.window ?? '5';
+    const window = /^\d+$/.test(rawWindow) ? Number(rawWindow) : NaN;
+    if (!Number.isInteger(window) || window < 0 || window > 1000 || !isPositiveDatabaseInteger(p.verse + window)) throw new ClientInputError('invalid window (expected integer 0..1000)');
     const r = await pool.query(
       `SELECT verse, ref, text FROM verses
          WHERE translation = $1 AND book = $2 AND chapter = $3

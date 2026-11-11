@@ -11,8 +11,7 @@
  */
 import type { FastifyInstance } from 'fastify';
 import { pool } from '../db.js';
-import { parseRef, type ParsedRef } from '../refs.js';
-import { resolveParallel } from '../lib/parallelService.js';
+import { queryParallel } from '../lib/parallelService.js';
 
 interface ParallelQuery {
   translations?: string;
@@ -44,57 +43,11 @@ export async function parallelRoutes(app: FastifyInstance): Promise<void> {
       if (!translationsParam) {
         return reply.code(400).send({ title: 'Bad Request', detail: 'translations query param required (e.g. translations=en,ar)' });
       }
-      const translations = translationsParam.split(',').map(s => s.trim()).filter(Boolean);
-      if (translations.length === 0) {
-        return reply.code(400).send({ title: 'Bad Request', detail: 'translations must list at least one code' });
-      }
-      // Validate translations exist
-      const t = await pool.query(
-        `SELECT code FROM translations WHERE code = ANY($1::text[])`,
-        [translations],
-      );
-      const knownCodes = new Set(t.rows.map(r => r.code as string));
-      const unknownCodes = translations.filter(c => !knownCodes.has(c));
-      if (unknownCodes.length > 0) {
-        return reply.code(404).send({ title: 'Not Found', detail: `unknown translation(s): ${unknownCodes.join(', ')}` });
-      }
-
-      // Build target refs: either single ref, or expand range start..end
-      let targetRefs: ParsedRef[] = [];
-      if (ref) {
-        const p = parseRef(ref);
-        if (!p) return reply.code(400).send({ title: 'Bad Request', detail: 'ref must be a USFM ref (e.g. JHN.3.16)' });
-        targetRefs = [p];
-      } else if (start && end) {
-        const s = parseRef(start);
-        const e = parseRef(end);
-        if (!s || !e) return reply.code(400).send({ title: 'Bad Request', detail: 'start/end must be USFM refs' });
-        if (s.book !== e.book) return reply.code(400).send({ title: 'Bad Request', detail: 'cross-book ranges not supported in v1' });
-        if (s.chapter > e.chapter || (s.chapter === e.chapter && s.verse > e.verse)) {
-          return reply.code(400).send({ title: 'Bad Request', detail: 'start must come before end' });
-        }
-        // Need verse counts per chapter to enumerate. Cheaper: query by (chapter, verse) BETWEEN bounds.
-        // We'll fetch the union of refs that exist in any of the requested translations within this window.
-        const r = await pool.query(
-          `SELECT DISTINCT chapter, verse
-             FROM verses
-             WHERE book = $1 AND translation = ANY($2::text[])
-               AND ((chapter = $3 AND verse >= $4) OR chapter > $3)
-               AND ((chapter = $5 AND verse <= $6) OR chapter < $5)
-             ORDER BY chapter, verse`,
-          [s.book, translations, s.chapter, s.verse, e.chapter, e.verse],
-        );
-        targetRefs = r.rows.map(row => ({
-          book: s.book,
-          chapter: row.chapter as number,
-          verse: row.verse as number,
-        }));
-      } else {
-        return reply.code(400).send({ title: 'Bad Request', detail: 'either ref OR (start AND end) is required' });
-      }
-
-      // Shared resolution (identity + versification mapping + prefer_aligned).
-      const resolved = await resolveParallel(pool, translations, targetRefs, preferAligned);
+      const resolved = await queryParallel(pool, {
+        translations: translationsParam.split(',').map(code => code.trim()).filter(Boolean),
+        ref, start, end, preferAligned,
+      });
+      const translations = [...new Set(translationsParam.split(',').map(code => code.trim()).filter(Boolean))];
 
       // Shape into the REST contract (snake_case mapped_to / mapping_note).
       const result = resolved.map(r => ({

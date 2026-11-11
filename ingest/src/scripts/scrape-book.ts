@@ -8,8 +8,11 @@
  *
  * Polite: 800ms delay between chapter requests for HTTP sources.
  */
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
+import { collectChapters, completenessExitCode, atomicWrite } from '../lib/scrapeRun.js';
+import { validateSnapshot } from '../validate.js';
 import { resolve } from 'node:path';
+import { env } from '../env.js';
 import { scrapesourceChapter } from '../scrapers/webSource.js';
 import { scrapeArabicSourceChapter } from '../scrapers/arabicScraper.js';
 import { extractDeuteroChapter } from '../scrapers/deuteroScraper.js';
@@ -36,6 +39,9 @@ interface Args {
   startChapter?: number;
   endChapter?: number;
   delayMs: number;
+  allowPartial?: boolean;
+  pdfPath?: string;
+  manifestPath?: string;
 }
 
 function parseArgs(): Args {
@@ -47,8 +53,14 @@ function parseArgs(): Args {
     else if (a[i] === '--start') args.startChapter = Number(a[++i]);
     else if (a[i] === '--end') args.endChapter = Number(a[++i]);
     else if (a[i] === '--delay') args.delayMs = Number(a[++i]);
+    else if (a[i] === '--pdf') args.pdfPath = a[++i];
+    else if (a[i] === '--manifest') args.manifestPath = a[++i];
+    else if (a[i] === '--allow-partial') args.allowPartial = true;
+    else if (a[i] !== '--') throw new Error(`Unknown option: ${a[i]}`);
   }
   if (!args.usfm) throw new Error('--usfm required');
+  if (!['arabic','source','deutero'].includes(args.source)) throw new Error('Invalid --source');
+  if (!Number.isFinite(args.delayMs) || args.delayMs < 0) throw new Error('--delay must be a finite nonnegative number');
   return args;
 }
 
@@ -65,7 +77,7 @@ async function scrapeChapter(args: Args, book: BookMeta, chapter: number): Promi
   if (args.source === 'source') {
     if (!book.source_name) throw new Error(`${book.usfm} not on source (no source_name)`);
     return scrapesourceChapter({
-      version: 'English',
+      version: env.sourceVersion,
       bookName: book.source_name,
       bookUsfm: book.usfm,
       chapter,
@@ -90,6 +102,7 @@ async function scrapeChapter(args: Args, book: BookMeta, chapter: number): Promi
       startPage: start,
       endPage: end,
       maxVerse,
+      pdfPath: args.pdfPath,
     });
   }
   throw new Error(`unknown source: ${args.source}`);
@@ -107,43 +120,31 @@ async function main(): Promise<void> {
   const end = args.endChapter ?? book.chapter_count;
   console.log(`Scraping ${book.usfm} ${book.name_en} (${args.source}) chapters ${start}..${end}`);
 
+  if (!Number.isSafeInteger(start) || !Number.isSafeInteger(end) || start < 1 || end < start || end > book.chapter_count) throw new Error('Invalid chapter range');
   const lang = languageOf(args.source);
-  const outDir = resolve(SNAP_DIR, lang);
-  await mkdir(outDir, { recursive: true });
-  const outFile = resolve(outDir, `${book.usfm}.json`);
-
-  // Resume: load existing chapters from disk if any, so re-runs append.
-  let existing: Record<number, Chapter> = {};
+  const outFile = resolve(SNAP_DIR, lang, `${book.usfm}.json`);
+  let existing: Record<string, Chapter> = {};
   try {
-    const prior = JSON.parse(await readFile(outFile, 'utf8')) as Chapter | { chapters: Record<number, Chapter> };
-    if ('chapters' in prior) existing = prior.chapters;
-    else existing[prior.chapter] = prior;  // legacy single-chapter file
-  } catch { /* not present */ }
-
-  const chapters = { ...existing };
-  let succeeded = 0, failed = 0;
-  for (let n = start; n <= end; n++) {
-    const cached = chapters[n];
-    if (cached && (cached.verses?.length ?? 0) > 0) {
-      console.log(`  [${n}/${end}] ${book.usfm} ${n}: cached, skipping`);
-      continue;
-    }
-    try {
-      const c = await scrapeChapter(args, book, n);
-      chapters[n] = c;
-      succeeded++;
-      console.log(`  [${n}/${end}] ${book.usfm} ${n}: ${c.verses.length}v + ${c.headings.length}h`);
-    } catch (err) {
-      failed++;
-      console.error(`  [${n}/${end}] ${book.usfm} ${n}: FAILED — ${err instanceof Error ? err.message : err}`);
-    }
-    // Save incrementally so a crash doesn't lose work.
-    await writeFile(outFile, JSON.stringify({ usfm: book.usfm, source: args.source, chapters }, null, 2), 'utf8');
-    if (n < end && args.source !== 'deutero') await sleep(args.delayMs);
+    const prior: unknown = JSON.parse(await readFile(outFile, 'utf8'));
+    const checked = validateSnapshot(outFile, prior, { translation: lang, usfm: book.usfm, chapterCount: book.chapter_count }, { allowPartial: true });
+    if (!checked.ok) throw new Error(`Invalid cached snapshot: ${checked.errors.join('; ')}`);
+    existing = Object.fromEntries(checked.chapters.map(c => [String(c.chapter), c]));
+  } catch (error) {
+    if (!(typeof error === 'object' && error !== null && 'code' in error && error.code === 'ENOENT')) throw error;
   }
-
-  console.log(`\nDone: ${succeeded} new, ${failed} failed, ${Object.keys(chapters).length}/${book.chapter_count} total`);
-  console.log(`Wrote ${outFile}`);
+  const manifestPath = args.manifestPath ?? resolve(SNAP_DIR, '../.manifests', `${lang}-${book.usfm}.json`);
+  const result = await collectChapters({ book: book.usfm, translation: lang,
+    expected: Array.from({ length: book.chapter_count }, (_, i) => i + 1),
+    requested: Array.from({ length: end - start + 1 }, (_, i) => start + i), cached: existing,
+    scrape: async n => { if (n > start && args.source !== 'deutero') await sleep(args.delayMs); return scrapeChapter(args, book, n); },
+    save: async (chapters, manifest) => {
+      if (Object.keys(chapters).length) await atomicWrite(outFile, JSON.stringify({ usfm: book.usfm, source: args.source, chapters }, null, 2));
+      await atomicWrite(manifestPath, JSON.stringify(manifest, null, 2));
+    },
+  });
+  await atomicWrite(manifestPath, JSON.stringify(result.manifest, null, 2));
+  console.log(JSON.stringify(result.manifest, null, 2));
+  process.exitCode = completenessExitCode(result.manifest, args.allowPartial);
 }
 
 main().catch(err => { console.error('FAILED:', err); process.exitCode = 1; });

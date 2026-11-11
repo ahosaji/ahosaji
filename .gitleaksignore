@@ -1,0 +1,5 @@
+# Initial SDK smoke fallback: removed from current source; no matching key hash
+# exists in the production api_keys table (read-only check, 2026-11-10).
+# Treat the archived token as compromised and never reuse it. This exception
+# covers only this historical occurrence; a new occurrence remains a finding.
+a3205ec545f64cbcbf230d32dc7742cfeeb4e8bb:packages/sdk-ts/src/smoke.ts:ahosaji-api-key:11

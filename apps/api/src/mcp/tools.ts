@@ -2,20 +2,12 @@
  * MCP tool implementations. Each tool wraps a small SQL or Meilisearch
  * call against the same data layer the REST/GraphQL routes use.
  */
-import { MeiliSearch } from 'meilisearch';
 import { pool } from '../db.js';
-import { env } from '../env.js';
+import { getQueryClient } from '../lib/searchClient.js';
 import { normalizeArabic } from '../lib/arabic.js';
 import { buildMeiliFilter } from '../lib/meiliFilter.js';
-import { parseRef, type ParsedRef } from '../refs.js';
-import { resolveParallel } from '../lib/parallelService.js';
-
-let meili: MeiliSearch | null = null;
-function getMeili(): MeiliSearch {
-  // Query path uses the scoped search-only key (falls back to master in dev).
-  if (!meili) meili = new MeiliSearch({ host: env.meilisearchHost, apiKey: env.meilisearchSearchKey || env.meilisearchMasterKey });
-  return meili;
-}
+import { parseRef } from '../refs.js';
+import { queryParallel } from '../lib/parallelService.js';
 
 /** Tool registry — name → JSON Schema definition + handler */
 export const TOOLS = [
@@ -35,7 +27,8 @@ export const TOOLS = [
     description: 'List all books available for a given translation, with USFM codes and metadata.',
     inputSchema: {
       type: 'object',
-      properties: { translation: { type: 'string', description: 'Translation code (en|ar)' } },
+      additionalProperties: false,
+      properties: { translation: { type: 'string', minLength: 1, maxLength: 1024, description: 'Translation code (en|ar)' } },
       required: ['translation'],
     },
     handler: async (args: { translation: string }) => {
@@ -56,9 +49,10 @@ export const TOOLS = [
     description: 'Fetch a single verse by USFM reference (e.g. JHN.3.16).',
     inputSchema: {
       type: 'object',
+      additionalProperties: false,
       properties: {
-        translation: { type: 'string' },
-        ref: { type: 'string', description: 'USFM ref like JHN.3.16' },
+        translation: { type: 'string', minLength: 1, maxLength: 1024 },
+        ref: { type: 'string', minLength: 1, maxLength: 1024, description: 'USFM ref like JHN.3.16' },
       },
       required: ['translation', 'ref'],
     },
@@ -89,10 +83,11 @@ export const TOOLS = [
     description: 'Fetch a whole chapter with verses and section headings.',
     inputSchema: {
       type: 'object',
+      additionalProperties: false,
       properties: {
-        translation: { type: 'string' },
-        book: { type: 'string', description: 'USFM book code' },
-        chapter: { type: 'integer' },
+        translation: { type: 'string', minLength: 1, maxLength: 1024 },
+        book: { type: 'string', minLength: 1, maxLength: 1024, description: 'USFM book code' },
+        chapter: { type: 'integer', minimum: 1, maximum: 1000 },
       },
       required: ['translation', 'book', 'chapter'],
     },
@@ -115,10 +110,11 @@ export const TOOLS = [
     description: 'Fetch a verse range across chapters within a single book (e.g. JHN.3.16 to JHN.4.2).',
     inputSchema: {
       type: 'object',
+      additionalProperties: false,
       properties: {
-        translation: { type: 'string' },
-        start: { type: 'string', description: 'Start ref (USFM)' },
-        end: { type: 'string', description: 'End ref (USFM, same book)' },
+        translation: { type: 'string', minLength: 1, maxLength: 1024 },
+        start: { type: 'string', minLength: 1, maxLength: 1024, description: 'Start ref (USFM)' },
+        end: { type: 'string', minLength: 1, maxLength: 1024, description: 'End ref (USFM, same book)' },
       },
       required: ['translation', 'start', 'end'],
     },
@@ -143,11 +139,12 @@ export const TOOLS = [
     description: 'Fetch the same verse (or range) across multiple translations side-by-side. Each entry has present:bool. Surfaces cross-translation textual divergences in Deuterocanonicals.',
     inputSchema: {
       type: 'object',
+      additionalProperties: false,
       properties: {
-        translations: { type: 'array', items: { type: 'string' }, minItems: 1, maxItems: 10 },
-        ref: { type: 'string' },
-        start: { type: 'string' },
-        end: { type: 'string' },
+        translations: { type: 'array', items: { type: 'string', minLength: 1, maxLength: 1024 }, minItems: 1, maxItems: 10 },
+        ref: { type: 'string', minLength: 1, maxLength: 1024 },
+        start: { type: 'string', minLength: 1, maxLength: 1024 },
+        end: { type: 'string', minLength: 1, maxLength: 1024 },
         prefer_aligned: {
           type: 'boolean',
           description: 'Versification anchor mode: the first translation anchors and others show their mapped equivalent.',
@@ -156,30 +153,7 @@ export const TOOLS = [
       required: ['translations'],
     },
     handler: async (args: { translations: string[]; ref?: string; start?: string; end?: string; prefer_aligned?: boolean }) => {
-      const refs: ParsedRef[] = [];
-      if (args.ref) {
-        const p = parseRef(args.ref);
-        if (!p) throw new Error('invalid ref');
-        refs.push(p);
-      } else if (args.start && args.end) {
-        const s = parseRef(args.start);
-        const e = parseRef(args.end);
-        if (!s || !e || s.book !== e.book) throw new Error('invalid start/end or cross-book range');
-        const r = await pool.query(
-          `SELECT DISTINCT chapter, verse FROM verses
-             WHERE book = $1 AND translation = ANY($2::text[])
-               AND ((chapter = $3 AND verse >= $4) OR chapter > $3)
-               AND ((chapter = $5 AND verse <= $6) OR chapter < $5)
-             ORDER BY chapter, verse`,
-          [s.book, args.translations, s.chapter, s.verse, e.chapter, e.verse],
-        );
-        for (const row of r.rows) refs.push({ book: s.book, chapter: row.chapter as number, verse: row.verse as number });
-      } else {
-        throw new Error('either ref OR (start AND end) is required');
-      }
-
-      // Shared resolution (identity + versification mapping + prefer_aligned).
-      const resolved = await resolveParallel(pool, args.translations, refs, args.prefer_aligned ?? false);
+      const resolved = await queryParallel(pool, { ...args, preferAligned: args.prefer_aligned });
 
       return {
         refs: resolved.map(r => ({
@@ -199,18 +173,19 @@ export const TOOLS = [
     description: 'Full-text search across one translation. Arabic queries are normalized server-side (tashkeel and alif unified). Returns hits with formatted (highlighted) snippets.',
     inputSchema: {
       type: 'object',
+      additionalProperties: false,
       properties: {
-        translation: { type: 'string' },
-        q: { type: 'string', description: 'search query' },
-        book: { type: 'string', description: 'optional USFM book filter' },
-        testament: { type: 'string', enum: ['OT', 'NT'] },
-        canon: { type: 'string', enum: ['protocanonical', 'deuterocanonical'] },
+        translation: { type: 'string', minLength: 1, maxLength: 1024 },
+        q: { type: 'string', minLength: 1, maxLength: 1024, description: 'search query' },
+        book: { type: 'string', minLength: 1, maxLength: 1024, description: 'optional USFM book filter' },
+        testament: { type: 'string', minLength: 1, maxLength: 1024, enum: ['OT', 'NT'] },
+        canon: { type: 'string', minLength: 1, maxLength: 1024, enum: ['protocanonical', 'deuterocanonical'] },
         limit: { type: 'integer', default: 20, minimum: 1, maximum: 100 },
       },
       required: ['translation', 'q'],
     },
     handler: async (args: { translation: string; q: string; book?: string; testament?: string; canon?: string; limit?: number }) => {
-      const idx = getMeili().index(`verses_${args.translation}`);
+      const idx = getQueryClient().index(`verses_${args.translation}`);
       // Validated + escaped to prevent Meilisearch filter injection.
       const filter = buildMeiliFilter({ book: args.book, testament: args.testament, canon: args.canon });
       const queryText = args.translation === 'ar' ? normalizeArabic(args.q) : args.q;

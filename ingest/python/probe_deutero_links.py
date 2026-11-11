@@ -5,8 +5,8 @@ from __future__ import annotations
 import sys
 import pymupdf  # type: ignore
 
-PDF_PATH = sys.argv[1] if len(sys.argv) > 1 else \
-    "/Users/youssef/personal/coptic-church-assets/source.pdf"
+from source_pdf import configured_pdf
+PDF_PATH = configured_pdf()
 
 doc = pymupdf.open(PDF_PATH)
 

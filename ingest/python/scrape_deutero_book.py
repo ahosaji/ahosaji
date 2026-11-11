@@ -12,6 +12,8 @@ Output (stdout):
 """
 from __future__ import annotations
 import argparse
+from source_pdf import add_pdf_argument, pdf_from_args
+from completeness import book_manifest, emit_manifest, completeness_exit_code, open_pdf_or_report
 import json
 import re
 import sys
@@ -188,19 +190,30 @@ def extract_chapter(doc: pymupdf.Document, usfm: str, chapter: int,
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--pdf", required=True)
+    add_pdf_argument(ap)
     ap.add_argument("--usfm", required=True)
     ap.add_argument("--max-chapters", type=int, required=True,
                     help="exact chapter count for this book (prevents phantom chapters from extra nav links)")
     ap.add_argument("--max-verses-per-chapter", type=int, default=200,
                     help="upper bound for verse markers per chapter")
+    ap.add_argument('--allow-partial', action='store_true', help='Permit incomplete extraction with an explicit manifest')
     args = ap.parse_args()
+    args.pdf = pdf_from_args(args, ap)
 
-    doc = pymupdf.open(args.pdf)
-    starts = chapter_starts_for_book(doc, args.usfm)
+    doc = open_pdf_or_report(pymupdf.open, args.pdf, {args.usfm: args.max_chapters}, allow_partial=args.allow_partial, output_json=True)
+    try:
+        starts = chapter_starts_for_book(doc, args.usfm)
+    except Exception as error:
+        manifest = book_manifest(args.usfm, {}, args.max_chapters, [{'chapter': None, 'error': str(error)}])
+        emit_manifest(manifest)
+        json.dump({'usfm': args.usfm, 'source': 'deutero', 'chapters': {}, '_completeness': manifest}, sys.stdout)
+        raise SystemExit(completeness_exit_code(manifest, args.allow_partial))
     if not starts:
         print(f"ERROR: could not find {args.usfm} in TOC", file=sys.stderr)
-        sys.exit(2)
+        manifest = book_manifest(args.usfm, {}, args.max_chapters, [{'chapter': None, 'error': 'book not found in TOC'}])
+        emit_manifest(manifest)
+        json.dump({'usfm': args.usfm, 'source': 'deutero', 'chapters': {}, '_completeness': manifest}, sys.stdout)
+        raise SystemExit(completeness_exit_code(manifest, args.allow_partial))
 
     # Each chapter spans from its start page to the next chapter's start - 1.
     # For the last chapter, give a generous buffer (book is usually < 10 pages
@@ -209,6 +222,7 @@ def main() -> None:
     starts = starts[: args.max_chapters]
 
     chapters: dict[str, dict] = {}
+    failures: list[dict] = []
     for i, start_page in enumerate(starts):
         chapter = i + 1
         if i + 1 < len(starts):
@@ -224,18 +238,24 @@ def main() -> None:
                                   end_page, args.max_verses_per_chapter)
             if not ch["verses"]:
                 print(f"  warn: {args.usfm} ch {chapter} extracted 0 verses (pages {start_page}..{end_page})", file=sys.stderr)
+                failures.append({'chapter': chapter, 'error': 'extracted zero verses'})
                 continue
             chapters[str(chapter)] = ch
             print(f"  {args.usfm} ch {chapter}: {len(ch['verses'])} verses (pages {start_page}..{end_page})", file=sys.stderr)
         except Exception as err:
             print(f"  FAIL {args.usfm} ch {chapter}: {err}", file=sys.stderr)
+            failures.append({"chapter": chapter, "error": str(err)})
 
     output = {
         "usfm": args.usfm,
         "source": "deutero",
         "chapters": chapters,
     }
+    manifest = book_manifest(args.usfm, chapters, args.max_chapters, failures)
+    output['_completeness'] = manifest
+    emit_manifest(manifest)
     json.dump(output, sys.stdout, ensure_ascii=False, indent=2)
+    raise SystemExit(completeness_exit_code(manifest, args.allow_partial))
 
 
 if __name__ == "__main__":

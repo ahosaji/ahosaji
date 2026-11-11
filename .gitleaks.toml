@@ -1,0 +1,10 @@
+title = "Ahosaji secret detection"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "ahosaji-api-key"
+description = "Ahosaji high-entropy bearer API key"
+regex = '''\bahk_[A-Za-z0-9_-]{43}\b'''
+keywords = ["ahk_"]

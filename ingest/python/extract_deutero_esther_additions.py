@@ -20,7 +20,8 @@ from pathlib import Path
 
 import pymupdf  # type: ignore
 
-PDF_PATH = "/Users/youssef/personal/coptic-church-assets/source.pdf"
+from source_pdf import extraction_options
+from completeness import write_book_snapshot, open_pdf_or_report
 OUT_DIR = Path(__file__).parent.parent / "data" / "snapshots" / "en"
 
 # Each Addition: (chapter_number, label, host_est_verse, page_range, prefix_digits)
@@ -136,20 +137,15 @@ def extract_addition(doc: pymupdf.Document, add: dict) -> dict:
 
 
 def main() -> None:
-    doc = pymupdf.open(PDF_PATH)
-    chapters = {}
-    print("Extracting English Esther additions A–F (ESG)...")
-    for add in ADDITIONS:
-        ch = extract_addition(doc, add)
-        chapters[str(add["ch"])] = ch
-        print(f"  ch {add['ch']} (Addition {add['label'][0]}): {len(ch['verses'])} verses")
-
-    out = {"usfm": "ESG", "source": "deutero", "chapters": chapters}
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = OUT_DIR / "ESG.json"
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    total = sum(len(c["verses"]) for c in chapters.values())
-    print(f"\n  ✓ ESG: 6 chapters / {total} verses → {out_path.relative_to(Path.cwd())}")
+    args = extraction_options()
+    doc = open_pdf_or_report(pymupdf.open, args.pdf, {'ESG': 6}, allow_partial=args.allow_partial)
+    chapters = {}; failures = []
+    for addition in ADDITIONS:
+        try:
+            chapters[str(addition['ch'])] = extract_addition(doc, addition)
+        except Exception as error:
+            failures.append({'chapter': addition['ch'], 'error': str(error)})
+    raise SystemExit(write_book_snapshot(OUT_DIR / 'ESG.json', 'ESG', chapters, 6, allow_partial=args.allow_partial, failures=failures))
 
 
 if __name__ == "__main__":

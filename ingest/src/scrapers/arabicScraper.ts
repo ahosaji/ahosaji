@@ -1,6 +1,7 @@
 import { load } from 'cheerio';
 import type { Cheerio, CheerioAPI } from 'cheerio';
 import { env } from '../env.js';
+import { sourceEndpoint } from '../lib/config.js';
 import type { Chapter, Heading, Verse, Token, Footnote } from '../types/canonical.js';
 
 // pnpm/cheerio domhandler version conflict workaround.
@@ -14,7 +15,10 @@ export interface ArabicSourceOpts {
 }
 
 export async function scrapeArabicSourceChapter(opts: ArabicSourceOpts): Promise<Chapter> {
-  const url = `${env.arabicScraperBaseUrl}/Bibles/BibleSearch/showChapter.php?book=${opts.bookId}&chapter=${opts.chapter}`;
+  const endpoint = sourceEndpoint(env.arabicScraperBaseUrl, 'Bibles/BibleSearch/showChapter.php');
+  endpoint.searchParams.set('book', String(opts.bookId));
+  endpoint.searchParams.set('chapter', String(opts.chapter));
+  const url = endpoint.href;
   console.log(`  → fetching ${url}`);
 
   const ua = env.arabicScraperUserAgent || 'Mozilla/5.0';

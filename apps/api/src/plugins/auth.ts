@@ -24,7 +24,7 @@ const PUBLIC_PATTERNS: RegExp[] = [
   /^\/v1\/translations\/?$/,
   /^\/v1\/translations\/[^/]+\/?$/,
   /^\/v1\/translations\/[^/]+\/books\/?$/,
-  /^\/v1\/mcp\/?$/,   // MCP transport handles its own per-method auth (discovery public, content gated)
+  /^\/v1\/mcp\/?$/,   // Optional consumer resolved here; MCP gates content methods.
   /^\/docs(\/.*)?$/,  // OpenAPI / Scalar reference: public docs
 ];
 
@@ -34,12 +34,16 @@ function isPublic(url: string): boolean {
   return PUBLIC_PATTERNS.some(p => p.test(path));
 }
 
-const authPlugin: FastifyPluginAsync = async (app) => {
+const authPlugin: FastifyPluginAsync<{ authenticate?: typeof validateKey }> = async (app, options) => {
+  const authenticate = options.authenticate ?? validateKey;
   app.addHook('preHandler', async (req: FastifyRequest, reply) => {
-    if (isPublic(req.url)) return;
+    const path = req.url.split('?')[0] ?? req.url;
+    const optional = /^\/v1\/mcp\/?$/.test(path);
+    if (isPublic(req.url) && !optional) return;
 
     const header = req.headers['authorization'];
     if (!header || typeof header !== 'string' || !header.startsWith('Bearer ')) {
+      if (optional && !header) return;
       return reply.code(401).send({
         type: 'about:blank',
         title: 'Unauthorized',
@@ -48,7 +52,7 @@ const authPlugin: FastifyPluginAsync = async (app) => {
       });
     }
     const key = header.slice('Bearer '.length).trim();
-    const consumer = await validateKey(key);
+    const consumer = await authenticate(key);
     if (!consumer) {
       return reply.code(401).send({
         type: 'about:blank',
