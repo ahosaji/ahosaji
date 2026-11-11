@@ -1,0 +1,27 @@
+# Only the API release inputs may enter the build context.
+**
+!Dockerfile.api
+!package.json
+!pnpm-lock.yaml
+!pnpm-workspace.yaml
+!apps/
+!apps/api/
+!apps/api/package.json
+!apps/api/src/
+!apps/api/src/**
+!migrations/
+!migrations/*.sql
+!docs/
+!docs/api/
+!docs/api/**
+!ingest/
+!ingest/data/
+!ingest/data/shared/
+!ingest/data/shared/versification/
+!ingest/data/shared/versification/*.json
+**/.env
+**/.env.*
+**/*.env
+**/*.key
+**/*.pem
+**/__pycache__

@@ -10,8 +10,20 @@ Install the pinned Node 22.23.4 and pnpm 9.12.0. Run the frozen install,
 typechecks, tests, Python tests, corpus validation and production audit from
 [README.md](./README.md). Ship root `migrations/` and `docs/api/` with the release.
 Keep local `.env`, browser artifacts, review reports and credentials out of the
-release artifact. The repository does not currently provide an API Dockerfile;
-use an explicitly configured process manager/container build for your platform.
+release artifact. `Dockerfile.api` provides the official, digest-pinned Node
+runtime, a frozen API dependency install, an unprivileged serving user and a
+database health check. Build from the repository root:
+
+```sh
+docker build --file Dockerfile.api --tag ahosaji-api:release .
+```
+
+For Coolify, select the Dockerfile build pack, repository root as the base
+directory and `/Dockerfile.api` as the Dockerfile location. Configure secrets
+as runtime-only variables. The image contains API source, dependencies,
+migrations, public API documentation and the existing reference mapping JSONs;
+it does not copy environment files or the source book/chapter corpus. A directly
+supervised host process remains supported.
 
 ## 2. Separate credentials
 
