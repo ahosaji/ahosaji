@@ -13,11 +13,11 @@
     "test": "node --import tsx --test test/*.test.ts ops-test/*.test.ts"
   },
   "dependencies": {
-    "@fastify/cors": "^11.4.1",
+    "@fastify/cors": "^11.4.3",
     "@fastify/helmet": "^13.2.0",
     "@fastify/rate-limit": "^10.3.0",
-    "@fastify/sensible": "^6.0.7",
-    "@fastify/static": "^10.1.10",
+    "@fastify/sensible": "^6.0.8",
+    "@fastify/static": "^10.1.12",
     "@graphql-tools/schema": "^10.1.5",
     "@modelcontextprotocol/sdk": "^1.32.2",
     "ajv": "^8.20.0",
@@ -25,7 +25,7 @@
     "fastify-plugin": "^5.1.0",
     "graphql": "^16.15.0",
     "graphql-yoga": "^5.24.6",
-    "meilisearch": "^0.45.0",
+    "meilisearch": "^0.63.0",
     "pg": "^8.23.1",
     "zod": "^4.6.6"
   },
